@@ -1054,7 +1054,7 @@
 - [chxuan/vimplus](https://github.com/chxuan/vimplus) - :rocket:An automatic configuration program for vim
 - [vn-ki/coc-clap](https://github.com/vn-ki/coc-clap) - clap :heart: coc.nvim
 - [scrooloose/vim-slumlord](https://github.com/scrooloose/vim-slumlord) - Inline previews for Plantuml sequence diagrams. OMG!
-- [leafOfTree/vim-vue-plugin](https://github.com/leafOfTree/vim-vue-plugin) - Vim syntax and indent plugin for vue files
+- [leafOfTree/vim-vue-plugin](https://github.com/leafOfTree/vim-vue-plugin) - Vim syntax and indent plugin for .vue files
 - [chuling/ci_dark](https://github.com/chuling/ci_dark) - 
 - [kristijanhusak/vim-packager](https://github.com/kristijanhusak/vim-packager) - Vim plugin manager that utilizes "jobs" and "pack" features.
 - [dhruvasagar/vim-table-mode](https://github.com/dhruvasagar/vim-table-mode) - VIM Table Mode for instant table creation.
