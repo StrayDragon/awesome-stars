@@ -55,6 +55,7 @@
 
 ## C 
 
+- [basil00/Divert](https://github.com/basil00/Divert) - WinDivert: Windows Packet Divert
 - [jagt/clumsy](https://github.com/jagt/clumsy) - clumsy makes your network condition on Windows significantly worse, but in a controlled and interactive manner.
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
@@ -549,6 +550,9 @@
 
 ## Python 
 
+- [ffalcinelli/pydivert](https://github.com/ffalcinelli/pydivert) - A Python binding for WinDivert driver
+- [touilleMan/godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 🐍🐍🐍
+- [SCons/scons](https://github.com/SCons/scons) - SCons - a software construction tool
 - [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
@@ -826,6 +830,7 @@
 
 ## Rust 
 
+- [godot-rust/godot-rust](https://github.com/godot-rust/godot-rust) - Rust bindings for GDNative
 - [atanunq/viu](https://github.com/atanunq/viu) - Simple terminal image viewer written in Rust.
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [salvo-rs/salvo](https://github.com/salvo-rs/salvo) - Salvo is a simple Rust web server framework
