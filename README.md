@@ -205,6 +205,7 @@
 
 ## Go 
 
+- [x1ah/gena](https://github.com/x1ah/gena) - 导航网站生成器(Navigation website generator)
 - [ssoor/implgen](https://github.com/ssoor/implgen) - implgen
 - [voidint/g](https://github.com/voidint/g) - Golang Version Manager
 - [gogo/protobuf](https://github.com/gogo/protobuf) - Protocol Buffers for Go with Gadgets
