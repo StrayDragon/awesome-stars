@@ -208,7 +208,7 @@
 - [x1ah/gena](https://github.com/x1ah/gena) - 导航网站生成器(Navigation website generator)
 - [ssoor/implgen](https://github.com/ssoor/implgen) - implgen
 - [voidint/g](https://github.com/voidint/g) - Golang Version Manager
-- [gogo/protobuf](https://github.com/gogo/protobuf) - Protocol Buffers for Go with Gadgets
+- [gogo/protobuf](https://github.com/gogo/protobuf) - [Looking for new ownership] Protocol Buffers for Go with Gadgets
 - [muhammadmuzzammil1998/jsonc](https://github.com/muhammadmuzzammil1998/jsonc) - JSON with comments for Go!
 - [gogf/gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
 - [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
@@ -552,6 +552,7 @@
 
 ## Python 
 
+- [abersheeran/cool](https://github.com/abersheeran/cool) - Make Python code cooler. Less is more.
 - [ffalcinelli/pydivert](https://github.com/ffalcinelli/pydivert) - A Python binding for WinDivert driver
 - [touilleMan/godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 🐍🐍🐍
 - [SCons/scons](https://github.com/SCons/scons) - SCons - a software construction tool
@@ -831,6 +832,7 @@
 
 ## Rust 
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - The best open source remote desktop software
 - [autopilot-rs/autopy](https://github.com/autopilot-rs/autopy) - A simple, cross-platform GUI automation module for Python and Rust.
 - [godot-rust/godot-rust](https://github.com/godot-rust/godot-rust) - Rust bindings for GDNative
 - [atanunq/viu](https://github.com/atanunq/viu) - Simple terminal image viewer written in Rust.
