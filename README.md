@@ -348,6 +348,7 @@
 
 ## JavaScript 
 
+- [google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action) - automated releases based on conventional commits
 - [gucong3000/mirror-config-china](https://github.com/gucong3000/mirror-config-china) - Mirrors in China about node.js
 - [NickCarneiro/curlconverter](https://github.com/NickCarneiro/curlconverter) - convert curl commands to Python, JavaScript, PHP, R, Go, Rust, Dart, JSON, Ansible, Elixir
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
@@ -927,6 +928,8 @@
 
 ## Shell 
 
+- [elastic/elastic-github-actions](https://github.com/elastic/elastic-github-actions) - This action spins up an Elasticsearch instance that can be accessed and used in your subsequent steps.
+- [pypa/gh-action-pypi-publish](https://github.com/pypa/gh-action-pypi-publish) - GitHub Action, for publishing distribution files to PyPI
 - [chinanf-boy/ripgrep-zh](https://github.com/chinanf-boy/ripgrep-zh) - 中文翻译:&lt;BurntSushi/ripgrep&gt; 一个面向行的搜索工具 :heart: 校对 ✅
 - [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 230 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
