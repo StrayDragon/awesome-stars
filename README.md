@@ -1068,7 +1068,7 @@
 - [vn-ki/coc-clap](https://github.com/vn-ki/coc-clap) - clap :heart: coc.nvim
 - [scrooloose/vim-slumlord](https://github.com/scrooloose/vim-slumlord) - Inline previews for Plantuml sequence diagrams. OMG!
 - [leafOfTree/vim-vue-plugin](https://github.com/leafOfTree/vim-vue-plugin) - Vim syntax and indent plugin for .vue files
-- [chuling/ci_dark](https://github.com/chuling/ci_dark) - 
+- [yunlingz/ci_dark](https://github.com/yunlingz/ci_dark) - 
 - [kristijanhusak/vim-packager](https://github.com/kristijanhusak/vim-packager) - Vim plugin manager that utilizes "jobs" and "pack" features.
 - [dhruvasagar/vim-table-mode](https://github.com/dhruvasagar/vim-table-mode) - VIM Table Mode for instant table creation.
 - [AndrewRadev/sideways.vim](https://github.com/AndrewRadev/sideways.vim) - A Vim plugin to move function arguments (and other delimited-by-something items) left and right.
