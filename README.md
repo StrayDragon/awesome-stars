@@ -364,7 +364,7 @@
 - [yuroyoro/goast-viewer](https://github.com/yuroyoro/goast-viewer) - Golang AST visualizer
 - [checkly/headless-recorder](https://github.com/checkly/headless-recorder) - 🎥 Headless recorder is a Chrome extension that records your browser interactions and generates a Puppeteer or Playwright script.
 - [facebook/planout](https://github.com/facebook/planout) - PlanOut is a library and interpreter for designing online experiments.
-- [tinytacoteam/zazu](https://github.com/tinytacoteam/zazu) - :rocket: A fully extensible and open source launcher for hackers, creators and dabblers.
+- [bayleeadamoss/zazu](https://github.com/bayleeadamoss/zazu) - :rocket: A fully extensible and open source launcher for hackers, creators and dabblers.
 - [richardanaya/tour_of_rust](https://github.com/richardanaya/tour_of_rust) - A tour of rust's language features
 - [sxei/vscode-plugin-demo](https://github.com/sxei/vscode-plugin-demo) - VSCode插件开发全攻略配套demo
 - [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
