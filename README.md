@@ -205,6 +205,7 @@
 
 ## Go 
 
+- [eko/gocache](https://github.com/eko/gocache) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
 - [x1ah/gena](https://github.com/x1ah/gena) - 导航网站生成器(Start page generator)
 - [ssoor/implgen](https://github.com/ssoor/implgen) - implgen
 - [voidint/g](https://github.com/voidint/g) - Golang Version Manager
@@ -428,7 +429,7 @@
 ## Lua 
 
 - [gennaro-tedesco/nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup) - dynamically show content of vim registers
-- [siduck76/neovim-dots](https://github.com/siduck76/neovim-dots) - beautiful neovim setup configured in lua
+- [siduck76/chad-nvim](https://github.com/siduck76/chad-nvim) - beautiful neovim setup configured in lua
 - [nvim-treesitter/nvim-treesitter-refactor](https://github.com/nvim-treesitter/nvim-treesitter-refactor) - Refactor module for nvim-treesitter
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [jbyuki/instant.nvim](https://github.com/jbyuki/instant.nvim) - collaborative editing in Neovim using built-in capabilities
@@ -838,6 +839,7 @@
 
 ## Rust 
 
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - The best open source remote desktop client software
 - [autopilot-rs/autopy](https://github.com/autopilot-rs/autopy) - A simple, cross-platform GUI automation module for Python and Rust.
 - [godot-rust/godot-rust](https://github.com/godot-rust/godot-rust) - Rust bindings for GDNative
@@ -933,6 +935,7 @@
 
 ## Shell 
 
+- [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [elastic/elastic-github-actions](https://github.com/elastic/elastic-github-actions) - This action spins up an Elasticsearch instance that can be accessed and used in your subsequent steps.
 - [pypa/gh-action-pypi-publish](https://github.com/pypa/gh-action-pypi-publish) - GitHub Action, for publishing distribution files to PyPI
 - [chinanf-boy/ripgrep-zh](https://github.com/chinanf-boy/ripgrep-zh) - 中文翻译:&lt;BurntSushi/ripgrep&gt; 一个面向行的搜索工具 :heart: 校对 ✅
