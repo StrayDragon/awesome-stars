@@ -441,7 +441,7 @@
 ## Lua 
 
 - [gennaro-tedesco/nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup) - dynamically show content of vim registers
-- [siduck76/chad-nvim](https://github.com/siduck76/chad-nvim) - beautiful neovim setup configured in lua
+- [siduck76/neovim-dotfiles](https://github.com/siduck76/neovim-dotfiles) - beautiful neovim setup configured in lua
 - [nvim-treesitter/nvim-treesitter-refactor](https://github.com/nvim-treesitter/nvim-treesitter-refactor) - Refactor module for nvim-treesitter
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [jbyuki/instant.nvim](https://github.com/jbyuki/instant.nvim) - collaborative editing in Neovim using built-in capabilities
