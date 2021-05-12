@@ -307,7 +307,7 @@
 - [motemen/gore](https://github.com/motemen/gore) - Yet another Go REPL that works nicely. Featured with line editing, code completion, and more.
 - [ChimeraCoder/gojson](https://github.com/ChimeraCoder/gojson) - Automatically generate Go (golang) struct definitions from example JSON
 - [go-python/gpython](https://github.com/go-python/gpython) - gpython is a python interpreter written in go "batteries not included"
-- [devopsfaith/krakend](https://github.com/devopsfaith/krakend) - Ultra performant API Gateway with middlewares
+- [luraproject/lura](https://github.com/luraproject/lura) - Ultra performant API Gateway with middlewares
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
@@ -481,6 +481,7 @@
 
 ## Others 
 
+- [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery) - Refactor Python using AI. ⭐  this repo and Sourcery Starbot will send you a PR
 - [MrAlex94/Waterfox](https://github.com/MrAlex94/Waterfox) - The official Waterfox 💧 source code repository
 - [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 客户端。
@@ -568,6 +569,7 @@
 
 ## Python 
 
+- [iswbm/magic-python](https://github.com/iswbm/magic-python) - Python 黑魔法手册
 - [asottile/yesqa](https://github.com/asottile/yesqa) - Automatically remove unnecessary `# noqa` comments
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [spyoungtech/ahk](https://github.com/spyoungtech/ahk) - Python wrapper for AutoHotkey. Harness the automation power of AutoHotkey with the beauty of Python.
@@ -951,6 +953,7 @@
 
 ## Shell 
 
+- [srggrs/assign-one-project-github-action](https://github.com/srggrs/assign-one-project-github-action) - Automatically add an issue or pull request to specific GitHub Project(s) when you create and/or label them.
 - [actions-x/commit](https://github.com/actions-x/commit) - 
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [elastic/elastic-github-actions](https://github.com/elastic/elastic-github-actions) - This action spins up an Elasticsearch instance that can be accessed and used in your subsequent steps.
