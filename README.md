@@ -483,6 +483,7 @@
 
 ## Others 
 
+- [bobo-xiaoming/zufang](https://github.com/bobo-xiaoming/zufang) - 租房黑名单
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery) - Refactor Python using AI. ⭐  this repo and Sourcery Starbot will send you a PR
 - [MrAlex94/Waterfox](https://github.com/MrAlex94/Waterfox) - The official Waterfox 💧 source code repository
