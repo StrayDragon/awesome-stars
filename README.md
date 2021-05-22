@@ -211,6 +211,7 @@
 
 ## Go 
 
+- [wcharczuk/go-chart](https://github.com/wcharczuk/go-chart) - go chart is a basic charting library in native golang.
 - [xiachufang/actions-feishu](https://github.com/xiachufang/actions-feishu) - GitHub Actions for Feishu
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [golobby/container](https://github.com/golobby/container) - A lightweight yet powerful IoC container for Go projects
@@ -362,6 +363,7 @@
 
 ## JavaScript 
 
+- [cadl/setup-sbt-credentials](https://github.com/cadl/setup-sbt-credentials) - 
 - [papple23g/ahkcompiler](https://github.com/papple23g/ahkcompiler) - AutoHotKey 語法產生器(線上網站)
 - [christian-korneck/delete-run-artifacts-action](https://github.com/christian-korneck/delete-run-artifacts-action) - github action to delete artifacts at the end of a workflow run
 - [webfactory/ssh-agent](https://github.com/webfactory/ssh-agent) - GitHub Action to setup `ssh-agent` with a private key
@@ -1052,7 +1054,7 @@
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 - [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
 - [yunabe/tslab](https://github.com/yunabe/tslab) - Interactive JavaScript and TypeScript programming with Jupyter
-- [Eliot00/elliot00.com](https://github.com/Eliot00/elliot00.com) - 基于Django3.x&React的个人博客系统
+- [Eliot00/elliot00.com](https://github.com/Eliot00/elliot00.com) - 基于React/NextJS的个人博客系统
 - [iamcco/coc-post](https://github.com/iamcco/coc-post) - post extension for coc.nvim
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [vuejs/vue-class-component](https://github.com/vuejs/vue-class-component) - ES / TypeScript decorator for class-style Vue components.
@@ -1175,7 +1177,7 @@
 - [thinca/vim-quickrun](https://github.com/thinca/vim-quickrun) - Run commands quickly.
 - [godlygeek/tabular](https://github.com/godlygeek/tabular) - Vim script for text filtering and alignment
 - [vim-syntastic/syntastic](https://github.com/vim-syntastic/syntastic) - Syntax checking hacks for vim
-- [dyng/ctrlsf.vim](https://github.com/dyng/ctrlsf.vim) - An ack.vim alternative mimics Ctrl-Shift-F on Sublime Text 2
+- [dyng/ctrlsf.vim](https://github.com/dyng/ctrlsf.vim) - A file searching plugin mimics Ctrl-Shift-F on Sublime Text 2
 - [raphamorim/lucario](https://github.com/raphamorim/lucario) - The best flat theme for Vim, Atom, Sublime Text, Jetbrains Editors, Terminal.app, iTerm, Xcode and XTerm
 - [cocopon/iceberg.vim](https://github.com/cocopon/iceberg.vim) - :antarctica: Bluish color scheme for Vim and Neovim
 - [jacoborus/tender.vim](https://github.com/jacoborus/tender.vim) - A 24bit colorscheme for Vim, Airline and Lightline
