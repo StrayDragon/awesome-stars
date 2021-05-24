@@ -214,7 +214,7 @@
 - [wcharczuk/go-chart](https://github.com/wcharczuk/go-chart) - go chart is a basic charting library in native golang.
 - [xiachufang/actions-feishu](https://github.com/xiachufang/actions-feishu) - GitHub Actions for Feishu
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
-- [golobby/container](https://github.com/golobby/container) - A lightweight yet powerful IoC container for Go projects
+- [golobby/container](https://github.com/golobby/container) - A lightweight yet powerful IoC dependency injection container for Go projects
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [joomcode/errorx](https://github.com/joomcode/errorx) - A comprehensive error handling library for Go
 - [eko/gocache](https://github.com/eko/gocache) - ☔️ A complete Go cache library that brings you multiple ways of managing your caches
