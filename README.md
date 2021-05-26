@@ -98,6 +98,7 @@
 
 ## C++ 
 
+- [lanyizi/RA3Bar-RA3Launcher](https://github.com/lanyizi/RA3Bar-RA3Launcher) - Reimplementation of RA3.exe (Red Alert 3 game launcher)
 - [mhammond/pywin32](https://github.com/mhammond/pywin32) - Python for Windows (pywin32) Extensions
 - [WallBreaker2/op](https://github.com/WallBreaker2/op) - op插件(类似大漠插件)，Windows消息模拟,gdi,dx,opengl截图，找图,找字(OCR),其他实用算法
 - [Lexikos/AutoHotkey_L](https://github.com/Lexikos/AutoHotkey_L) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
