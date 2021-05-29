@@ -866,7 +866,7 @@
 
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - The best open source remote desktop client software
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open source remote desktop client software
 - [autopilot-rs/autopy](https://github.com/autopilot-rs/autopy) - A simple, cross-platform GUI automation module for Python and Rust.
 - [godot-rust/godot-rust](https://github.com/godot-rust/godot-rust) - Rust bindings for GDNative
 - [atanunq/viu](https://github.com/atanunq/viu) - Simple terminal image viewer written in Rust.
