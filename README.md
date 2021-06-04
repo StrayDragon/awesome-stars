@@ -449,6 +449,7 @@
 
 ## Lua 
 
+- [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [mizlan/iswap.nvim](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.
 - [gennaro-tedesco/nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup) - dynamically show content of vim registers
 - [siduck76/NvChad](https://github.com/siduck76/NvChad) - beautiful neovim setup configured in lua
