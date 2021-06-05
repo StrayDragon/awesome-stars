@@ -367,6 +367,7 @@
 
 ## JavaScript 
 
+- [clarkyu2016/sql-beautify](https://github.com/clarkyu2016/sql-beautify) - VS Code extension that beautifies SQL(HQL).
 - [cadl/setup-sbt-credentials](https://github.com/cadl/setup-sbt-credentials) - 
 - [papple23g/ahkcompiler](https://github.com/papple23g/ahkcompiler) - AutoHotKey 語法產生器(線上網站)
 - [christian-korneck/delete-run-artifacts-action](https://github.com/christian-korneck/delete-run-artifacts-action) - github action to delete artifacts at the end of a workflow run
@@ -967,6 +968,7 @@
 
 ## Shell 
 
+- [snok/install-poetry](https://github.com/snok/install-poetry) - Github action for installing and configuring Poetry
 - [srggrs/assign-one-project-github-action](https://github.com/srggrs/assign-one-project-github-action) - Automatically add an issue or pull request to specific GitHub Project(s) when you create and/or label them.
 - [actions-x/commit](https://github.com/actions-x/commit) - 
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
