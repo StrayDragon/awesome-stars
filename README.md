@@ -580,6 +580,7 @@
 
 ## Python 
 
+- [y1ndan/genshinhelper](https://github.com/y1ndan/genshinhelper) - Automatically get Genshin Impact daily check-in rewards from miHoYo bbs and HoYoLAB Community. 米游社原神每日签到 | 微博超话签到 | 原神超话监测和领码
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is developer-friendly, open-source product analytics.
 - [LmeSzinc/AzurLaneAutoScript](https://github.com/LmeSzinc/AzurLaneAutoScript) - 碧蓝航线脚本 (带GUI) Azur Lane bot with GUI https://discord.gg/AQN6GeJ
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
@@ -1112,7 +1113,7 @@
 - [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
 - [skywind3000/vim-rt-format](https://github.com/skywind3000/vim-rt-format) - :sunglasses: Prettify Current Line on Enter !!
 - [denstiny/nvim-nanny](https://github.com/denstiny/nvim-nanny) - 
-- [StrayDragon/Mine0Vim](https://github.com/StrayDragon/Mine0Vim) - :star: My personal experimental NeoVim/IdeaVim/VSCodeVim configs, NOT tested on Vim now!
+- [StrayDragon/Mine0Vim](https://github.com/StrayDragon/Mine0Vim) - :star: My experimental NeoVim/IdeaVim/VSCodeVim configs, NOT tested on Vim now!
 - [matze/vim-move](https://github.com/matze/vim-move) - Plugin to move lines and selections up and down
 - [rbong/vim-crystalline](https://github.com/rbong/vim-crystalline) - Functions for taking the monotony out of building your own fancy statusline in Vim
 - [jbranchaud/til](https://github.com/jbranchaud/til) - :memo: Today I Learned
