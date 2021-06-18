@@ -559,7 +559,7 @@
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [xitu/gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
-- [greyli/helloflask](https://github.com/greyli/helloflask) - Hello, Flask!
+- [greyli/helloflask](https://github.com/greyli/helloflask) - Flask Web 开发实战
 - [lynnboy/CppCoreGuidelines-zh-CN](https://github.com/lynnboy/CppCoreGuidelines-zh-CN) - Translation of C++ Core Guidelines [https://github.com/isocpp/CppCoreGuidelines] into Simplified Chinese.
 - [yang7229693/flutter-study](https://github.com/yang7229693/flutter-study) - Flutter Study
 - [littleNiq/ACM](https://github.com/littleNiq/ACM) - 自己两年来做题总结的模板
@@ -882,7 +882,7 @@
 
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open source remote desktop client software
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Yet another remote desktop software
 - [autopilot-rs/autopy](https://github.com/autopilot-rs/autopy) - A simple, cross-platform GUI automation module for Python and Rust.
 - [godot-rust/godot-rust](https://github.com/godot-rust/godot-rust) - Rust bindings for GDNative
 - [atanunq/viu](https://github.com/atanunq/viu) - Simple terminal image viewer written in Rust.
