@@ -102,7 +102,7 @@
 - [canonical/multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
 - [lanyizi/RA3Bar-RA3Launcher](https://github.com/lanyizi/RA3Bar-RA3Launcher) - Reimplementation of RA3.exe (Red Alert 3 game launcher)
 - [mhammond/pywin32](https://github.com/mhammond/pywin32) - Python for Windows (pywin32) Extensions
-- [WallBreaker2/op](https://github.com/WallBreaker2/op) - op插件(类似大漠插件)，Windows消息模拟,gdi,dx,opengl截图，找图,找字(OCR),其他实用算法
+- [WallBreaker2/op](https://github.com/WallBreaker2/op) - Windows消息模拟,gdi,dx,opengl截图，找图,找字(OCR)等功能
 - [Lexikos/AutoHotkey_L](https://github.com/Lexikos/AutoHotkey_L) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
 - [facebook/fbthrift](https://github.com/facebook/fbthrift) - Facebook's branch of Apache Thrift, including a new C++ server.
 - [sogou/workflow](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Engine
@@ -213,6 +213,8 @@
 
 ## Go 
 
+- [xiachufang/krakend-ipfilter](https://github.com/xiachufang/krakend-ipfilter) - IP filter middleware for KrakenD framework
+- [googleapis/gapic-showcase](https://github.com/googleapis/gapic-showcase) - An API that demonstrates Generated API Client (GAPIC) features and common API patterns used by Google.
 - [XiaoMi/soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
 - [zladovan/gorched](https://github.com/zladovan/gorched) - Gorched is terminal based game written in Go inspired by "The Mother of all games" Scorched Earth
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
@@ -727,7 +729,6 @@
 - [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
 - [dimaqq/awaitwhat](https://github.com/dimaqq/awaitwhat) - Await, What?
 - [schematics/schematics](https://github.com/schematics/schematics) - Python Data Structures for Humans™.
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [wshuyi/demo-evernote-pyvis-streamlit](https://github.com/wshuyi/demo-evernote-pyvis-streamlit) - 
 - [networkx/networkx](https://github.com/networkx/networkx) - Network Analysis in Python
 - [flask-admin/flask-admin](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask
@@ -965,7 +966,7 @@
 - [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
 - [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage.
 - [rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) - A Rust compiler front-end for IDEs
-- [watchexec/cargo-watch](https://github.com/watchexec/cargo-watch) - 🔭🚢 Watches over your Cargo project's source.
+- [watchexec/cargo-watch](https://github.com/watchexec/cargo-watch) - Watches over your Cargo project's source.
 - [rustcc/writing-an-os-in-rust](https://github.com/rustcc/writing-an-os-in-rust) - 《使用Rust编写操作系统》
 - [strottos/vim-padre](https://github.com/strottos/vim-padre) - Debugger plugin for VIM
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
@@ -1048,6 +1049,7 @@
 
 ## TypeScript 
 
+- [8398a7/action-slack](https://github.com/8398a7/action-slack) - Provides the function of slack notification to GitHub Actions.
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - Gitpod automates the provisioning of ready-to-code development environments.
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - Signal — Private Messenger for Windows, Mac, and Linux
 - [actions-rs/clippy-check](https://github.com/actions-rs/clippy-check) - 📎 GitHub Action for PR annotations with clippy warnings
@@ -1062,7 +1064,7 @@
 - [actions/github-script](https://github.com/actions/github-script) - Write workflows scripting the GitHub API in JavaScript
 - [technote-space/get-diff-action](https://github.com/technote-space/get-diff-action) - GitHub Actions to get git diff
 - [trilom/file-changes-action](https://github.com/trilom/file-changes-action) - This action can be added, and you will get outputs of all of the files that have changed in your repository for you to use.
-- [vim-denops/denops.vim](https://github.com/vim-denops/denops.vim) - 🐜  An ecosystem of Vim/Neovim which allows developers to write plugins in Deno
+- [vim-denops/denops.vim](https://github.com/vim-denops/denops.vim) - 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Node.js library to automate Chromium, Firefox and WebKit with a single API
 - [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
@@ -1094,6 +1096,7 @@
 - [yunabe/tslab](https://github.com/yunabe/tslab) - Interactive JavaScript and TypeScript programming with Jupyter
 - [Eliot00/elliot00.com](https://github.com/Eliot00/elliot00.com) - 基于React/NextJS的个人博客系统
 - [iamcco/coc-post](https://github.com/iamcco/coc-post) - post extension for coc.nvim
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [vuejs/vue-class-component](https://github.com/vuejs/vue-class-component) - ES / TypeScript decorator for class-style Vue components.
 - [fannheyward/coc-ci](https://github.com/fannheyward/coc-ci) - 支持中文分词的 w/b 移动
