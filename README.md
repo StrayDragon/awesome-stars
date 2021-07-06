@@ -502,6 +502,8 @@
 
 ## Others 
 
+- [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
+- [guoshijiang/cryptography](https://github.com/guoshijiang/cryptography) - 人人都能看懂的密码学
 - [GPUOpen-Effects/FidelityFX](https://github.com/GPUOpen-Effects/FidelityFX) - A set of AMD provided GPU effects with provided source and sample implementations
 - [phodal/awesome-modernization](https://github.com/phodal/awesome-modernization) - awesome legacy system modernization tools. 大型系统分析和改造工具集。
 - [bobo-xiaoming/zufang](https://github.com/bobo-xiaoming/zufang) - 租房黑名单
