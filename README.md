@@ -213,6 +213,7 @@
 
 ## Go 
 
+- [smallnest/gofsm](https://github.com/smallnest/gofsm) - a featured FSM that can export state images
 - [xiachufang/krakend-ipfilter](https://github.com/xiachufang/krakend-ipfilter) - IP filter middleware for KrakenD framework
 - [googleapis/gapic-showcase](https://github.com/googleapis/gapic-showcase) - An API that demonstrates Generated API Client (GAPIC) features and common API patterns used by Google.
 - [XiaoMi/soar](https://github.com/XiaoMi/soar) - SQL Optimizer And Rewriter
@@ -269,7 +270,7 @@
 - [davecgh/go-spew](https://github.com/davecgh/go-spew) - Implements a deep pretty printer for Go data structures to aid in debugging
 - [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
 - [golang-design/Go-Questions](https://github.com/golang-design/Go-Questions) - 📖 从问题切入，串连  Go 语言相关的所有知识，融会贯通。 https://golang.design/go-questions
-- [inherd/coca](https://github.com/inherd/coca) - Coca is a toolbox which is design for legacy system refactoring and analysis, includes call graph, concept analysis, api tree, design patterns suggest. Coca 是一个用于系统重构、系统迁移和系统分析的瑞士军刀。它可以分析代码中的测试坏味道、模块化分析、行数统计、分析调用与依赖、Git 分析以及自动化重构等。
+- [inherd/coca](https://github.com/inherd/coca) - Coca is a toolbox which is design for legacy system refactoring and analysis, includes call graph, concept analysis, api tree, design patterns suggest. Coca 是一个用于系统重构、系统迁移和系统分析的工具箱。它可以分析代码中的测试坏味道、模块化分析、行数统计、分析调用与依赖、Git 分析以及自动化重构等。
 - [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go
 - [revel/revel](https://github.com/revel/revel) - A high productivity, full-stack web framework for the Go language.
 - [jfeliu007/goplantuml](https://github.com/jfeliu007/goplantuml) - PlantUML Class Diagram Generator for golang projects
@@ -597,6 +598,7 @@
 
 ## Python 
 
+- [woxiqingxian/jd_seckill](https://github.com/woxiqingxian/jd_seckill) - 优化后京东抢购脚本，让自己和黄牛站在同一起跑线上。
 - [lilydjwg/fcitx.vim](https://github.com/lilydjwg/fcitx.vim) - keep and restore fcitx state when leaving/re-entering insert mode
 - [myint/autoflake](https://github.com/myint/autoflake) - Removes unused imports and unused variables as reported by pyflakes
 - [dropbox/mypy-protobuf](https://github.com/dropbox/mypy-protobuf) - open source tools to generate mypy stubs from protobufs
