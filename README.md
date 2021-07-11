@@ -249,7 +249,7 @@
 - [faceair/jio](https://github.com/faceair/jio) - jio is a json schema validator similar to joi
 - [clipperhouse/gen](https://github.com/clipperhouse/gen) - Type-driven code generation for Go
 - [MarcGrol/golangAnnotations](https://github.com/MarcGrol/golangAnnotations) - Go package that provides annotations for golang to speedup web development
-- [asim/go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for distributed systems development
+- [asim/go-micro](https://github.com/asim/go-micro) - Go Micro is a standalone framework for distributed systems development
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - A Go framework for microservices.
 - [yunabe/lgo](https://github.com/yunabe/lgo) - Interactive Go programming with Jupyter
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go
@@ -902,7 +902,7 @@
 
 ## Rust 
 
-- [rustviz/rustviz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing
+- [rustviz/rustviz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing for Rust
 - [EmbarkStudios/tryhard](https://github.com/EmbarkStudios/tryhard) - 💫 Easily retry futures 🦀
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
