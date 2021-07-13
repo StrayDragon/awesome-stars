@@ -214,6 +214,9 @@
 
 ## Go 
 
+- [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
+- [cloudwego/kitex](https://github.com/cloudwego/kitex) - 
+- [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
 - [smallnest/gofsm](https://github.com/smallnest/gofsm) - a featured FSM that can export state images
 - [xiachufang/krakend-ipfilter](https://github.com/xiachufang/krakend-ipfilter) - IP filter middleware for KrakenD framework
 - [googleapis/gapic-showcase](https://github.com/googleapis/gapic-showcase) - An API that demonstrates Generated API Client (GAPIC) features and common API patterns used by Google.
@@ -375,6 +378,7 @@
 
 ## JavaScript 
 
+- [wearerequired/lint-action](https://github.com/wearerequired/lint-action) - ✨ GitHub Action for detecting and auto-fixing lint errors
 - [Pana/nrm](https://github.com/Pana/nrm) - NPM registry manager, fast switch between different registries: npm, cnpm, nj, taobao
 - [clouDr-f2e/rubick](https://github.com/clouDr-f2e/rubick) - 📦  媲美utools的开源工具箱，自由集成丰富插件，utools生态插件微改动即可无差异化使用。
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
@@ -898,6 +902,7 @@
 
 ## Ruby 
 
+- [beeftornado/homebrew-rmtree](https://github.com/beeftornado/homebrew-rmtree) - Remove a formula and its unused dependencies
 - [luceat-lux-vestra/search-browser-tabs-for-alfred](https://github.com/luceat-lux-vestra/search-browser-tabs-for-alfred) - An Alfred workflow for search and activate the tab.
 - [freeCodeCamp/devdocs](https://github.com/freeCodeCamp/devdocs) - API Documentation Browser
 - [greatghoul/remote-working](https://github.com/greatghoul/remote-working) - 收集整理远程工作相关的资料
@@ -1058,6 +1063,9 @@
 
 ## TypeScript 
 
+- [marocchino/sticky-pull-request-comment](https://github.com/marocchino/sticky-pull-request-comment) - create comment on pull request, if exists update that comment.
+- [octokit/plugin-throttling.js](https://github.com/octokit/plugin-throttling.js) - Octokit plugin for GitHub’s recommended request throttling
+- [golangci/golangci-lint-action](https://github.com/golangci/golangci-lint-action) - Official GitHub action for golangci-lint from it's authors
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 - [actions/starter-workflows](https://github.com/actions/starter-workflows) - Accelerating new GitHub Actions workflows
 - [theajack/cnchar](https://github.com/theajack/cnchar) - 功能全面的汉字工具库 (拼音 笔画 笔顺 偏旁 成语等) (Chinese character util)
