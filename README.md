@@ -216,6 +216,7 @@
 
 ## Go 
 
+- [dolthub/go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.
 - [graphql-go/graphql](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go / Golang
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
@@ -382,6 +383,7 @@
 
 ## JavaScript 
 
+- [graphql/dataloader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching.
 - [wearerequired/lint-action](https://github.com/wearerequired/lint-action) - ✨ GitHub Action for detecting and auto-fixing lint errors
 - [Pana/nrm](https://github.com/Pana/nrm) - NPM registry manager, fast switch between different registries: npm, cnpm, nj, taobao
 - [clouDr-f2e/rubick](https://github.com/clouDr-f2e/rubick) - 📦  媲美utools的开源工具箱，自由集成丰富插件，utools生态插件微改动即可无差异化使用。
