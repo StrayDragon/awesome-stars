@@ -61,6 +61,7 @@
 
 ## C 
 
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [baulk/baulk](https://github.com/baulk/baulk) - baulk - Minimal Package Manager for Windows
 - [basil00/Divert](https://github.com/basil00/Divert) - WinDivert: Windows Packet Divert
 - [jagt/clumsy](https://github.com/jagt/clumsy) - clumsy makes your network condition on Windows significantly worse, but in a controlled and interactive manner.
@@ -216,6 +217,7 @@
 
 ## Go 
 
+- [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [dolthub/go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.
 - [graphql-go/graphql](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go / Golang
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
@@ -628,7 +630,7 @@
 - [microsoft/ptgnn](https://github.com/microsoft/ptgnn) - A PyTorch Graph Neural Network Library
 - [asottile/reorder_python_imports](https://github.com/asottile/reorder_python_imports) - Rewrites source to reorder python imports
 - [y1ndan/genshinhelper](https://github.com/y1ndan/genshinhelper) - Automatically get Genshin Impact daily check-in rewards from miHoYo bbs and HoYoLAB Community. 米游社原神每日签到 | 微博超话签到 | 原神超话监测和领码
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is developer-friendly, open-source product analytics.
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics that you can self host.
 - [LmeSzinc/AzurLaneAutoScript](https://github.com/LmeSzinc/AzurLaneAutoScript) - 碧蓝航线脚本 (带GUI) Azur Lane bot with GUI https://discord.gg/AQN6GeJ
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [iswbm/magic-python](https://github.com/iswbm/magic-python) - Python 黑魔法手册
@@ -973,7 +975,7 @@
 - [kingfree/cheats.rs](https://github.com/kingfree/cheats.rs) - Rust 语言备忘清单（简体中文）
 - [SergioBenitez/Rocket](https://github.com/SergioBenitez/Rocket) - A web framework for Rust.
 - [google/evcxr](https://github.com/google/evcxr) - 
-- [tokio-rs/mini-redis](https://github.com/tokio-rs/mini-redis) - Incomplete Redis client and server implementation using Tokio
+- [tokio-rs/mini-redis](https://github.com/tokio-rs/mini-redis) - Incomplete Redis client and server implementation using Tokio - for learning purposes only
 - [Manishearth/rust-gc](https://github.com/Manishearth/rust-gc) - Simple tracing (mark and sweep) garbage collector for Rust
 - [gfreezy/seeker](https://github.com/gfreezy/seeker) - 通过使用 tun 来实现透明代理。实现了类似 surge 增强模式与网关模式。
 - [gfreezy/hippo](https://github.com/gfreezy/hippo) - JVM implementation in rust
