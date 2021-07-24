@@ -468,6 +468,7 @@
 
 ## Kotlin 
 
+- [JetBrains/Exposed](https://github.com/JetBrains/Exposed) - Kotlin SQL Framework
 - [mamoe/mirai](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库
 - [JetBrains/ideavim](https://github.com/JetBrains/ideavim) - Vim emulation plugin for IDEs based on the IntelliJ Platform
 - [AlexPl292/IdeaVim-EasyMotion](https://github.com/AlexPl292/IdeaVim-EasyMotion) - EasyMotion emulation plugin for IdeaVim
