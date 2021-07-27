@@ -1168,6 +1168,7 @@
 - [neoclide/coc-python](https://github.com/neoclide/coc-python) - Python extension for coc.nvim, fork of vscode-python
 - [neoclide/coc-lists](https://github.com/neoclide/coc-lists) - Common lists for coc.nvim
 - [neoclide/coc-rls](https://github.com/neoclide/coc-rls) - Rust language server support for coc.nvim
+- [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [cdr/code-server](https://github.com/cdr/code-server) - VS Code in the browser
 - [shalldie/vscode-background](https://github.com/shalldie/vscode-background) - A vscode extension to make it lovely. vscode background 背景扩展插件。
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
@@ -1287,7 +1288,6 @@
 - [ShahinSorkh/darcula](https://github.com/ShahinSorkh/darcula) - A Vim color scheme reproduction of the official JetBrains IDE Darcula theme
 - [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim
 - [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant generic finder and dispatcher for Vim and NeoVim
-- [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [doums/darcula](https://github.com/doums/darcula) - A Vim color scheme reproduction of the official JetBrains IDE Darcula theme
 - [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim
