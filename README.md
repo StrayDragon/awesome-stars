@@ -347,6 +347,7 @@
 
 ## HTML 
 
+- [AirtestProject/Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps
 - [shrhdk/text-to-svg](https://github.com/shrhdk/text-to-svg) - Convert text to SVG path without native dependence.
 - [fofolee/uTools-Manuals](https://github.com/fofolee/uTools-Manuals) - uTools插件，内置了十多个实用的离线中文手册，包括：Linux、PHP、Python、JS等,以及提供了搜索devdocs、dash/zeal上的文档的功能
 - [gfreezy/mailhook](https://github.com/gfreezy/mailhook) - 自动将邮件转发到飞书
@@ -666,7 +667,7 @@
 - [ilevkivskyi/com2ann](https://github.com/ilevkivskyi/com2ann) - Tool for translation type comments to type annotations in Python
 - [xiaopc/qdii-value](https://github.com/xiaopc/qdii-value) - 估算 QDII 基金的净值
 - [bndr/pycycle](https://github.com/bndr/pycycle) - Tool for pinpointing circular imports in Python. Find cyclic imports in any project
-- [wang0618/PyWebIO](https://github.com/wang0618/PyWebIO) - Write interactive web app in script way.
+- [pywebio/PyWebIO](https://github.com/pywebio/PyWebIO) - Write interactive web app in script way.
 - [Julian/jsonschema](https://github.com/Julian/jsonschema) - An(other) implementation of JSON Schema for Python
 - [mtth/azkaban](https://github.com/mtth/azkaban) - Lightweight Azkaban client
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
@@ -726,7 +727,7 @@
 - [ReactiveX/RxPY](https://github.com/ReactiveX/RxPY) - Reactive Extensions for Python, https://rxpy.rtfd.io
 - [python-rope/ropevim](https://github.com/python-rope/ropevim) - vim mode that uses rope library to provide features like python refactorings and code-assists
 - [google/pasta](https://github.com/google/pasta) - Library to refactor python code through AST manipulation.
-- [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real time throughput, eta and very cool animations!
+- [rsalmei/alive-progress](https://github.com/rsalmei/alive-progress) - A new kind of Progress Bar, with real time throughput, ETA and very cool animations!
 - [bndr/pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward.
 - [schenkd/nginx-ui](https://github.com/schenkd/nginx-ui) - Nginx UI allows you to access and modify the nginx configurations files without cli.
 - [jceb/vmux](https://github.com/jceb/vmux) - vim/neovim session handler within tmux
@@ -988,7 +989,7 @@
 - [greshake/i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
-- [Kethku/neovide](https://github.com/Kethku/neovide) - No Nonsense Neovim Client in Rust
+- [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [Kilerd/rubble](https://github.com/Kilerd/rubble) - a lightweight blog engine written in Rust.
 - [Kilerd/staple](https://github.com/Kilerd/staple) - powerful static site generator
 - [actix/actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
