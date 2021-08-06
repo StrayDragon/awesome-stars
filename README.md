@@ -394,7 +394,7 @@
 - [graphql/dataloader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching.
 - [wearerequired/lint-action](https://github.com/wearerequired/lint-action) - ✨ GitHub Action for detecting and auto-fixing lint errors
 - [Pana/nrm](https://github.com/Pana/nrm) - NPM registry manager, fast switch between different registries: npm, cnpm, nj, taobao
-- [clouDr-f2e/rubick](https://github.com/clouDr-f2e/rubick) - 🔧  媲美utools的开源工具箱，自由集成丰富插件。
+- [clouDr-f2e/rubick](https://github.com/clouDr-f2e/rubick) - 🔧  基于 electron 的开源工具箱，自由集成丰富插件。
 - [microsoft/Web-Dev-For-Beginners](https://github.com/microsoft/Web-Dev-For-Beginners) - 24 Lessons, 12 Weeks, Get Started as a Web Developer
 - [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
 - [kornysietsma/polyglot-code-explorer](https://github.com/kornysietsma/polyglot-code-explorer) - Multi-language source code metrics visualization
@@ -482,6 +482,7 @@
 
 ## Lua 
 
+- [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim
 - [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - Golang Neovim plugin, based on nvim-lsp, treesitter and Dap
 - [ray-x/aurora](https://github.com/ray-x/aurora) - 24-bit dark theme for (Neo)vim. Optimized for treesitter, LSP.
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
