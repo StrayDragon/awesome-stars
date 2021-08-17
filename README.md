@@ -1303,7 +1303,7 @@
 - [cpiger/NeoDebug](https://github.com/cpiger/NeoDebug) - NeoDebug - Vim plugin for interface to gdb from Vim
 - [ShahinSorkh/darcula](https://github.com/ShahinSorkh/darcula) - A Vim color scheme reproduction of the official JetBrains IDE Darcula theme
 - [itchyny/lightline.vim](https://github.com/itchyny/lightline.vim) - A light and configurable statusline/tabline plugin for Vim
-- [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant generic finder and dispatcher for Vim and NeoVim
+- [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker for Vim and NeoVim
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 - [doums/darcula](https://github.com/doums/darcula) - A Vim color scheme reproduction of the official JetBrains IDE Darcula theme
 - [morhetz/gruvbox](https://github.com/morhetz/gruvbox) - Retro groove color scheme for Vim
