@@ -35,7 +35,6 @@
   - [PowerShell](#powershell)
   - [Python](#python)
   - [Rich Text Format](#rich-text-format)
-  - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
   - [SCSS](#scss)
@@ -96,6 +95,7 @@
 
 ## C# # 
 
+- [SteamTools-Team/SteamTools](https://github.com/SteamTools-Team/SteamTools) - 🛠「Steam++」是一个包含多种Steam工具功能的工具箱。
 - [2dust/v2rayN](https://github.com/2dust/v2rayN) - 
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [cookgreen/Yuris-Revenge](https://github.com/cookgreen/Yuris-Revenge) - A Red Alert 2 Yuri's Revenge mod for OpenRA Engine
@@ -200,7 +200,6 @@
 - [tekartik/sembast.dart](https://github.com/tekartik/sembast.dart) - Simple io database
 - [best-flutter/flutter_swiper](https://github.com/best-flutter/flutter_swiper) - The best swiper for flutter , with multiple layouts, infinite loop. Compatible with Android & iOS.
 - [ninghao/ninghao_flutter](https://github.com/ninghao/ninghao_flutter) - 宁皓网 《Flutter 移动应用》开发课程源代码
-- [flutter/flutter_web](https://github.com/flutter/flutter_web) - Bring your Flutter code to web browsers
 - [felangel/bloc](https://github.com/felangel/bloc) - A predictable state management library that helps implement the BLoC design pattern
 - [ReactiveX/rxdart](https://github.com/ReactiveX/rxdart) - The Reactive Extensions for Dart
 - [ditclear/mvvm_flutter](https://github.com/ditclear/mvvm_flutter) - Build MVVM App for Android and IOS with Flutter
@@ -221,6 +220,7 @@
 
 ## Go 
 
+- [sachaos/viddy](https://github.com/sachaos/viddy) - 👀  Modern watch command. Time machine and pager etc.
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [dolthub/go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.
 - [graphql-go/graphql](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go / Golang
@@ -924,10 +924,6 @@
 
 - [phodal/github](https://github.com/phodal/github) - GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. Explore the users' behavior. Find some thing interest.
 
-## Roff 
-
-- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
-
 ## Ruby 
 
 - [beeftornado/homebrew-rmtree](https://github.com/beeftornado/homebrew-rmtree) - Remove a formula and its unused dependencies
@@ -1069,6 +1065,7 @@
 - [pyenv/pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv) - a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)
 - [pyenv/pyenv-virtualenvwrapper](https://github.com/pyenv/pyenv-virtualenvwrapper) - an alternative approach to manage virtualenvs from pyenv.
 - [pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer) - This tool is used to install `pyenv` and friends.
+- [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [kaelzhang/shell-safe-rm](https://github.com/kaelzhang/shell-safe-rm) - 😎 Safe-rm: A drop-in and much safer replacement of bash rm with nearly full functionalities and options of the rm command! Safe-rm will act exactly the same as the original rm command.
 - [trapd00r/LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 1800+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, OSX, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
