@@ -265,7 +265,7 @@
 - [faceair/jio](https://github.com/faceair/jio) - jio is a json schema validator similar to joi
 - [clipperhouse/gen](https://github.com/clipperhouse/gen) - Type-driven code generation for Go
 - [MarcGrol/golangAnnotations](https://github.com/MarcGrol/golangAnnotations) - Go package that provides annotations for golang to speedup web development
-- [asim/go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for distributed systems development
+- [asim/go-micro](https://github.com/asim/go-micro) - A Go framework for distributed systems development
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - A Go framework for microservices.
 - [yunabe/lgo](https://github.com/yunabe/lgo) - Interactive Go programming with Jupyter
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go
@@ -732,7 +732,7 @@
 - [danifus/pyzipper](https://github.com/danifus/pyzipper) - Python zipfile extensions
 - [theacodes/nox](https://github.com/theacodes/nox) - Flexible test automation for Python
 - [google/latexify_py](https://github.com/google/latexify_py) - Generates LaTeX math description from Python functions.
-- [python/typing](https://github.com/python/typing) - Work related to PEP 484: typing.py and typing_extensions.py (both released via PyPI) and issue tracker for type system bugs/features.
+- [python/typing](https://github.com/python/typing) - Python static typing home. Contains the source for typing_extensions and the documentation. Also hosts a user help forum.
 - [danielgtaylor/python-betterproto](https://github.com/danielgtaylor/python-betterproto) - Clean, modern, Python 3.6+ code generator & library for Protobuf 3 and async gRPC
 - [cansarigol/pdbr](https://github.com/cansarigol/pdbr) - pdb + Rich library
 - [lmacken/pyrasite](https://github.com/lmacken/pyrasite) - Inject code into running Python processes
