@@ -490,7 +490,7 @@
 ## Lua 
 
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim
-- [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - Golang Neovim plugin, based on nvim-lsp, treesitter and Dap
+- [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - Go Neovim plugin, based on nvim-lsp, treesitter and Dap
 - [ray-x/aurora](https://github.com/ray-x/aurora) - 24-bit dark theme for (Neo)vim. Optimized for treesitter, LSP.
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [mizlan/iswap.nvim](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.
