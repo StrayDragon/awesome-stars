@@ -629,7 +629,7 @@
 
 ## Python 
 
-- [babysor/Realtime-Voice-Clone-Chinese](https://github.com/babysor/Realtime-Voice-Clone-Chinese) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
+- [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [larksuite/feishu](https://github.com/larksuite/feishu) - [ 🚧 WIP ] feishu: Python SDK for Lark / Feishu
 - [bilibili/LastOrder-Dota2](https://github.com/bilibili/LastOrder-Dota2) - Dota2 AI bot
 - [cutecharts/cutecharts.py](https://github.com/cutecharts/cutecharts.py) - 📉 Hand drawing style charts library for Python
