@@ -232,7 +232,7 @@
 - [graphql-go/graphql](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go / Golang
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub API
-- [cloudwego/kitex](https://github.com/cloudwego/kitex) - 
+- [cloudwego/kitex](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Golang RPC framework that helps developers build microservices.
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
 - [smallnest/gofsm](https://github.com/smallnest/gofsm) - a featured FSM that can export state images
 - [xiachufang/krakend-ipfilter](https://github.com/xiachufang/krakend-ipfilter) - IP filter middleware for KrakenD framework
