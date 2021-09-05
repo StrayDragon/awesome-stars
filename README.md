@@ -46,6 +46,7 @@
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [V](#v)
+  - [VBScript](#vbscript)
   - [Vim Snippet](#vim-snippet)
   - [Vim script](#vim-script)
   - [VimL](#viml)
@@ -100,6 +101,7 @@
 
 ## C# # 
 
+- [hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator) - 御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具
 - [SteamTools-Team/SteamTools](https://github.com/SteamTools-Team/SteamTools) - 🛠「Steam++」是一个包含多种Steam工具功能的工具箱。
 - [2dust/v2rayN](https://github.com/2dust/v2rayN) - 
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
@@ -357,6 +359,7 @@
 
 ## HTML 
 
+- [phodal/toolbox](https://github.com/phodal/toolbox) - Phodal's Toolbox
 - [AirtestProject/Airtest](https://github.com/AirtestProject/Airtest) - UI Automation Framework for Games and Apps
 - [rustviz/rustviz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing for Rust
 - [shrhdk/text-to-svg](https://github.com/shrhdk/text-to-svg) - Convert text to SVG path without native dependence.
@@ -1202,6 +1205,10 @@
 ## V 
 
 - [axetroy/kpv](https://github.com/axetroy/kpv) - Kill the process listening on the specified port, written in V。根据端口号关闭进程，它小巧，轻量
+
+## VBScript 
+
+- [pyenv-win/pyenv-win](https://github.com/pyenv-win/pyenv-win) - pyenv for Windows. pyenv is a simple python version management tool. It lets you easily switch between multiple versions of Python. It's simple, unobtrusive, and follows the UNIX tradition of single-purpose tools that do one thing well.
 
 ## Vim Snippet 
 
