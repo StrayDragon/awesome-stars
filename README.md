@@ -15,6 +15,7 @@
   - [CSS](#css)
   - [Clojure](#clojure)
   - [CoffeeScript](#coffeescript)
+  - [Cython](#cython)
   - [Dart](#dart)
   - [Emacs Lisp](#emacs-lisp)
   - [Go](#go)
@@ -181,6 +182,10 @@
 ## CoffeeScript 
 
 - [codecombat/codecombat](https://github.com/codecombat/codecombat) - Game for learning how to code.
+
+## Cython 
+
+- [pyutils/line_profiler](https://github.com/pyutils/line_profiler) - Line-by-line profiling for Python
 
 ## Dart 
 
@@ -699,7 +704,6 @@
 - [microsoft/playwright-python](https://github.com/microsoft/playwright-python) - Python version of the Playwright testing and automation library.
 - [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast O(1) runtime type-checking in pure Python.
 - [koxudaxi/fastapi-code-generator](https://github.com/koxudaxi/fastapi-code-generator) - This code generator creates FastAPI app from an openapi file.
-- [pyutils/line_profiler](https://github.com/pyutils/line_profiler) - Line-by-line profiling for Python
 - [adamian98/pulse](https://github.com/adamian98/pulse) - PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
 - [beurtschipper/Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
 - [ucloud/ufile-sdk-python](https://github.com/ucloud/ufile-sdk-python) - This is an UFile(OSS) SDK for Python from UCloud
