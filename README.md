@@ -412,6 +412,7 @@
 ## JavaScript 
 
 - [MoonBegonia/ninja](https://github.com/MoonBegonia/ninja) - 
+- [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [graphql/dataloader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching.
 - [wearerequired/lint-action](https://github.com/wearerequired/lint-action) - ✨ GitHub Action for detecting and auto-fixing lint errors
 - [Pana/nrm](https://github.com/Pana/nrm) - NPM registry manager, fast switch between different registries: npm, cnpm, nj, taobao
@@ -644,7 +645,6 @@
 
 ## Python 
 
-- [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [larksuite/feishu](https://github.com/larksuite/feishu) - [ 🚧 WIP ] feishu: Python SDK for Lark / Feishu
 - [bilibili/LastOrder-Dota2](https://github.com/bilibili/LastOrder-Dota2) - Dota2 AI bot
 - [cutecharts/cutecharts.py](https://github.com/cutecharts/cutecharts.py) - 📉 Hand drawing style charts library for Python
