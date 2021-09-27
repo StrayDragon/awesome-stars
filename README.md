@@ -1113,6 +1113,7 @@
 
 ## TypeScript 
 
+- [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.
 - [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - :octocat: GitHub Action for GoReleaser
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [justjavac/jest-feishu-reporter](https://github.com/justjavac/jest-feishu-reporter) - 将 Jest 的测试错误发送到飞书
