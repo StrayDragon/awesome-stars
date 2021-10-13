@@ -648,6 +648,7 @@
 
 ## Python 
 
+- [greyli/apiflask](https://github.com/greyli/apiflask) - A lightweight Python web API framework.
 - [hgfkeep/rust-jupyter](https://github.com/hgfkeep/rust-jupyter) - A containerized version of the Evcxr, an evaluation context/REPL for Rust as a Jupyter kernel.
 - [kerlomz/captcha_trainer](https://github.com/kerlomz/captcha_trainer) - [验证码识别-训练] This project is based on CNN/ResNet/DenseNet+GRU/LSTM+CTC/CrossEntropy to realize verification code identification. This project is only for training the model.
 - [larryhastings/co_annotations](https://github.com/larryhastings/co_annotations) - 
@@ -1348,7 +1349,7 @@
 - [takac/vim-hardtime](https://github.com/takac/vim-hardtime) - Plugin to help you stop repeating the basic movement keys
 - [junegunn/limelight.vim](https://github.com/junegunn/limelight.vim) - :flashlight: All the world's indeed a stage and we are merely players
 - [aperezdc/vim-template](https://github.com/aperezdc/vim-template) - Simple templates plugin for Vim
-- [tpope/vim-surround](https://github.com/tpope/vim-surround) - surround.vim: quoting/parenthesizing made simple
+- [tpope/vim-surround](https://github.com/tpope/vim-surround) - surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease
 - [junegunn/vim-easy-align](https://github.com/junegunn/vim-easy-align) - :sunflower: A Vim alignment plugin
 - [wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn) - Vim 从入门到精通
 - [LucHermitte/vim-refactor](https://github.com/LucHermitte/vim-refactor) - Generic Refactoring Plugin for Vim
