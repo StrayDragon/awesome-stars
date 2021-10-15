@@ -106,7 +106,7 @@
 - [SteamTools-Team/SteamTools](https://github.com/SteamTools-Team/SteamTools) - 🛠「Steam++」是一个包含多种Steam工具功能的工具箱。
 - [2dust/v2rayN](https://github.com/2dust/v2rayN) - 
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
-- [cookgreen/Yuris-Revenge](https://github.com/cookgreen/Yuris-Revenge) - A Red Alert 2 Yuri's Revenge mod for OpenRA Engine
+- [cookgreen/OpenYR](https://github.com/cookgreen/OpenYR) - A Red Alert 2 Yuri's Revenge mod for OpenRA Engine
 - [microsoft/python-language-server](https://github.com/microsoft/python-language-server) - Microsoft Language Server for Python
 - [JasonStein/Notepads](https://github.com/JasonStein/Notepads) - A modern, lightweight text editor with a minimalist design.
 - [OpenRA/ra2](https://github.com/OpenRA/ra2) - A Red Alert 2 mod for the OpenRA game engine
@@ -971,7 +971,7 @@
 - [autopilot-rs/autopy](https://github.com/autopilot-rs/autopy) - A simple, cross-platform GUI automation module for Python and Rust.
 - [godot-rust/godot-rust](https://github.com/godot-rust/godot-rust) - Rust bindings for GDNative
 - [atanunq/viu](https://github.com/atanunq/viu) - Simple terminal image viewer written in Rust.
-- [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for the Windows SDK
+- [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Windows SDK for Rust
 - [salvo-rs/salvo](https://github.com/salvo-rs/salvo) - Salvo is a simple Rust web server framework
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [stepancheg/rust-protobuf](https://github.com/stepancheg/rust-protobuf) - Rust implementation of Google protocol buffers
