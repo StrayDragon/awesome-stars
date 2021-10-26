@@ -646,7 +646,7 @@
 
 ## PowerShell 
 
-- [lukesampson/scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows.
+- [ScoopInstaller/scoop](https://github.com/ScoopInstaller/scoop) - A command-line installer for Windows.
 
 ## Python 
 
