@@ -195,7 +195,7 @@
 - [Schwusch/widget_arrows](https://github.com/Schwusch/widget_arrows) - Draw arrows between widgets in Flutter
 - [mxflutter/mxflutter](https://github.com/mxflutter/mxflutter) - 基于JavaScript 的Flutter框架 mxflutter
 - [asjqkkkk/flutter-blog](https://github.com/asjqkkkk/flutter-blog) - 💻使用flutter完成的个人web博客.
-- [simolus3/moor](https://github.com/simolus3/moor) - Moor is an easy to use, reactive, typesafe persistence library for Dart & Flutter
+- [simolus3/moor](https://github.com/simolus3/moor) - Drift is an easy to use, reactive, typesafe persistence library for Dart & Flutter.
 - [ionicfirebaseapp/flutter-app](https://github.com/ionicfirebaseapp/flutter-app) - Full Feature Todos Flutter Mobile app with fireStore integration.
 - [rrousselGit/provider](https://github.com/rrousselGit/provider) - InheritedWidgets, but simple
 - [mobxjs/mobx.dart](https://github.com/mobxjs/mobx.dart) - MobX for the Dart language. Hassle-free, reactive state-management for your Dart and Flutter apps.
@@ -646,10 +646,11 @@
 
 ## PowerShell 
 
-- [ScoopInstaller/scoop](https://github.com/ScoopInstaller/scoop) - A command-line installer for Windows.
+- [ScoopInstaller/Scoop](https://github.com/ScoopInstaller/Scoop) - A command-line installer for Windows.
 
 ## Python 
 
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）
 - [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) - Blind Watermark （图片盲水印，提取水印无须原图！）
 - [greyli/apiflask](https://github.com/greyli/apiflask) - A lightweight Python web API framework.
 - [hgfkeep/rust-jupyter](https://github.com/hgfkeep/rust-jupyter) - A containerized version of the Evcxr, an evaluation context/REPL for Rust as a Jupyter kernel.
