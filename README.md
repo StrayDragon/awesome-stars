@@ -233,6 +233,7 @@
 
 ## Go 
 
+- [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [ztrue/tracerr](https://github.com/ztrue/tracerr) - Golang errors with stack trace and source fragments.
 - [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
@@ -281,7 +282,7 @@
 - [clipperhouse/gen](https://github.com/clipperhouse/gen) - Type-driven code generation for Go
 - [MarcGrol/golangAnnotations](https://github.com/MarcGrol/golangAnnotations) - Go package that provides annotations for golang to speedup web development
 - [asim/go-micro](https://github.com/asim/go-micro) - A Go framework for distributed systems development
-- [go-kratos/kratos](https://github.com/go-kratos/kratos) - A Go framework for microservices.
+- [go-kratos/kratos](https://github.com/go-kratos/kratos) - A modular-designed and easy-to-use microservices framework in Go.
 - [yunabe/lgo](https://github.com/yunabe/lgo) - Interactive Go programming with Jupyter
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go
 - [afex/hystrix-go](https://github.com/afex/hystrix-go) - Netflix's Hystrix latency and fault tolerance library, for Go
@@ -414,6 +415,7 @@
 
 ## JavaScript 
 
+- [wormtql/genshin_artifact](https://github.com/wormtql/genshin_artifact) - 莫娜占卜铺 | 原神 | 圣遗物搭配 | 圣遗物潜力。多方向圣遗物自动搭配，多方向圣遗物潜力与评分, Genshin Impact artifacts assessment, artifacts auto combination, artifacts statistics, artifacts potential, and more.
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
 - [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
 - [MoonBegonia/ninja](https://github.com/MoonBegonia/ninja) - 
@@ -676,7 +678,6 @@
 - [microsoft/ptgnn](https://github.com/microsoft/ptgnn) - A PyTorch Graph Neural Network Library
 - [asottile/reorder_python_imports](https://github.com/asottile/reorder_python_imports) - Rewrites source to reorder python imports
 - [y1ndan/genshinhelper](https://github.com/y1ndan/genshinhelper) - Automatically get Genshin Impact daily check-in rewards from miHoYo bbs and HoYoLAB Community. 米游社原神每日签到 | 微博超话签到 | 原神超话监测和领码
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics that you can self host.
 - [LmeSzinc/AzurLaneAutoScript](https://github.com/LmeSzinc/AzurLaneAutoScript) - 碧蓝航线脚本 (带GUI) Azur Lane bot with GUI https://discord.gg/AQN6GeJ
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [iswbm/magic-python](https://github.com/iswbm/magic-python) - Python 黑魔法手册
@@ -701,7 +702,7 @@
 - [MarcoGorelli/absolufy-imports](https://github.com/MarcoGorelli/absolufy-imports) - Automatically convert between relative and absolute imports
 - [Xpra-org/xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
 - [shidenggui/easyquotation](https://github.com/shidenggui/easyquotation) - 实时获取新浪 / 腾讯 的免费股票行情 / 集思路的分级基金行情
-- [bauerji/flask_pydantic](https://github.com/bauerji/flask_pydantic) - flask extension for integration with the awesome pydantic package
+- [bauerji/flask-pydantic](https://github.com/bauerji/flask-pydantic) - flask extension for integration with the awesome pydantic package
 - [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
 - [asottile/dead](https://github.com/asottile/dead) - dead simple python dead code detection
 - [asottile/add-trailing-comma](https://github.com/asottile/add-trailing-comma) - A tool (and pre-commit hook) to automatically add trailing commas to calls and literals.
@@ -720,7 +721,7 @@
 - [adamian98/pulse](https://github.com/adamian98/pulse) - PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
 - [beurtschipper/Depix](https://github.com/beurtschipper/Depix) - Recovers passwords from pixelized screenshots
 - [ucloud/ufile-sdk-python](https://github.com/ucloud/ufile-sdk-python) - This is an UFile(OSS) SDK for Python from UCloud
-- [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目
+- [521xueweihan/HelloGitHub](https://github.com/521xueweihan/HelloGitHub) - :octocat: 分享 GitHub 上有趣、入门级的开源项目。Share interesting, entry-level open source projects on GitHub.
 - [IgniparousTempest/puffadder](https://github.com/IgniparousTempest/puffadder) - A boiler plate reducing library for Python, inspired by Project Lombok for Java.
 - [dashingsoft/pyarmor](https://github.com/dashingsoft/pyarmor) - A tool used to obfuscate python scripts, bind obfuscated scripts to fixed machine or expire obfuscated scripts.
 - [ZhiyuanLck/vim-float-terminal](https://github.com/ZhiyuanLck/vim-float-terminal) - Simple vim terminal in popup window with a termline.
@@ -961,6 +962,7 @@
 
 ## Rust 
 
+- [wormtql/yas](https://github.com/wormtql/yas) - Genshin Impact artifacts scanner
 - [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) - 🦀 How to minimize Rust binary size 📦
 - [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust
 - [HUST-OS/tornado-os](https://github.com/HUST-OS/tornado-os) - 异步内核就像风一样快！
@@ -1142,6 +1144,7 @@
 - [8398a7/action-slack](https://github.com/8398a7/action-slack) - Provides the function of slack notification to GitHub Actions.
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - Signal — Private Messenger for Windows, Mac, and Linux
 - [actions-rs/clippy-check](https://github.com/actions-rs/clippy-check) - 📎 GitHub Action for PR annotations with clippy warnings
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics that you can self host.
 - [peter-evans/repository-dispatch](https://github.com/peter-evans/repository-dispatch) - A GitHub action to create a repository dispatch event
 - [whatwewant/action-robot-feishu](https://github.com/whatwewant/action-robot-feishu) - feishu robot github action
 - [act10ns/slack](https://github.com/act10ns/slack) - Slack messages for GitHub Action workflows, jobs and steps
