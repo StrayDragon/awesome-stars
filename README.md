@@ -253,7 +253,7 @@
 - [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 - [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures). Containers (Sets, Lists, Stacks, Maps, Trees), Sets (HashSet, TreeSet, LinkedHashSet), Lists (ArrayList, SinglyLinkedList, DoublyLinkedList), Stacks (LinkedListStack, ArrayStack), Maps (HashMap, TreeMap, HashBidiMap, TreeBidiMap, LinkedHashMap), Trees (RedBlackTree, AVLTree, BTree, BinaryHeap), Comparators, Iterators, Enumerables, Sort, JSON
 - [pyroscope-io/pyroscope](https://github.com/pyroscope-io/pyroscope) - Continuous Profiling Platform!  Debug performance issues down to a single line of code
-- [wcharczuk/go-chart](https://github.com/wcharczuk/go-chart) - go chart is a basic charting library in native golang.
+- [wcharczuk/go-chart](https://github.com/wcharczuk/go-chart) - go chart is a basic charting library in go.
 - [xiachufang/actions-feishu](https://github.com/xiachufang/actions-feishu) - GitHub Actions for Feishu
 - [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
 - [golobby/container](https://github.com/golobby/container) - A lightweight yet powerful IoC dependency injection container for Go projects
