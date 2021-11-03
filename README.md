@@ -418,6 +418,7 @@
 ## JavaScript 
 
 - [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) - A GitHub action to create or update an issue or pull request comment
+- [wormtql/genshin_artifact](https://github.com/wormtql/genshin_artifact) - 莫娜占卜铺 | 原神 | 圣遗物搭配 | 圣遗物潜力。多方向圣遗物自动搭配，多方向圣遗物潜力与评分, Genshin Impact artifacts assessment, artifacts auto combination, artifacts statistics, artifacts potential, and more.
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
 - [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
 - [MoonBegonia/ninja](https://github.com/MoonBegonia/ninja) - 
@@ -856,7 +857,6 @@
 - [coleifer/huey](https://github.com/coleifer/huey) - a little task queue for python
 - [agronholm/apscheduler](https://github.com/agronholm/apscheduler) - Task scheduling library for Python
 - [cool-RR/PySnooper](https://github.com/cool-RR/PySnooper) - Never use print for debugging again
-- [wakatime/vim-wakatime](https://github.com/wakatime/vim-wakatime) - Vim plugin for automatic time tracking and metrics generated from your programming activity.
 - [wakatime/legacy-python-cli](https://github.com/wakatime/legacy-python-cli) - Command line interface used by all WakaTime text editor plugins.
 - [bchretien/vim-profiler](https://github.com/bchretien/vim-profiler) - :bar_chart: Utility script to profile (n)vim (e.g. startup times of plugins)
 - [StrayDragon/tweedle](https://github.com/StrayDragon/tweedle) - :zap: A bundle of useful script : help you to finish the daily repetitive boring operations, automatic project configs generation, etc
@@ -897,7 +897,7 @@
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Sentry is cross-platform application monitoring, with a focus on error reporting.
 - [facebook/PathPicker](https://github.com/facebook/PathPicker) - PathPicker accepts a wide range of input -- output from git commands, grep results, searches -- pretty much anything. After parsing the input, PathPicker presents you with a nice UI to select which files you're interested in. After that you can open them in your favorite editor or execute arbitrary commands.
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - :computer: tmux session manager. built on libtmux
-- [httpie/httpie](https://github.com/httpie/httpie) - 🥧 As easy as /aitch-tee-tee-pie/. Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
+- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [timofurrer/try](https://github.com/timofurrer/try) - Dead simple CLI tool to try Python packages - It's never been easier! :package:
 - [urwid/urwid](https://github.com/urwid/urwid) - Console user interface library for Python (official repo)
 - [psf/requests](https://github.com/psf/requests) - A simple, yet elegant, HTTP library.
@@ -1300,6 +1300,7 @@
 - [farmergreg/vim-lastplace](https://github.com/farmergreg/vim-lastplace) - Intelligently reopen files at your last edit position in Vim.
 - [antoinemadec/coc-fzf](https://github.com/antoinemadec/coc-fzf) - fzf :heart: coc.nvim
 - [tpope/vim-markdown](https://github.com/tpope/vim-markdown) - Vim Markdown runtime files
+- [wakatime/vim-wakatime](https://github.com/wakatime/vim-wakatime) - Vim plugin for automatic time tracking and metrics generated from your programming activity.
 - [vim-jp/vital.vim](https://github.com/vim-jp/vital.vim) - A comprehensive Vim utility functions for Vim plugins
 - [thinca/vim-themis](https://github.com/thinca/vim-themis) - A testing framework for Vim script.
 - [lambdalisue/gina.vim](https://github.com/lambdalisue/gina.vim) - 👣  Asynchronously control git repositories in Neovim/Vim 8
@@ -1384,7 +1385,6 @@
 
 ## Vue 
 
-- [wormtql/genshin_artifact](https://github.com/wormtql/genshin_artifact) - 莫娜占卜铺 | 原神 | 圣遗物搭配 | 圣遗物潜力。多方向圣遗物自动搭配，多方向圣遗物潜力与评分, Genshin Impact artifacts assessment, artifacts auto combination, artifacts statistics, artifacts potential, and more.
 - [x2rr/funds](https://github.com/x2rr/funds) - 自选基金助手是一款Chrome扩展，用来快速获取关注基金的实时数据，查看自选基金的实时估值情况
 - [lvxianchao/the-fucking-github](https://github.com/lvxianchao/the-fucking-github) - A Chrome extension for Github. View starred repositories, organizing stars, searching stars and searching repositories online for Github。
 - [woolson/microsoft-todo-mac](https://github.com/woolson/microsoft-todo-mac) - 🐜 Microsoft-ToDo macOS App. 微软Todo mac客户端.
