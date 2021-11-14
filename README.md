@@ -991,7 +991,7 @@
 - [godot-rust/godot-rust](https://github.com/godot-rust/godot-rust) - Rust bindings for GDNative
 - [atanunq/viu](https://github.com/atanunq/viu) - Simple terminal image viewer written in Rust.
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
-- [salvo-rs/salvo](https://github.com/salvo-rs/salvo) - Salvo is a simple Rust web server framework
+- [salvo-rs/salvo](https://github.com/salvo-rs/salvo) - Salvo is a powerful and simplest web server framework in Rust world
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [stepancheg/rust-protobuf](https://github.com/stepancheg/rust-protobuf) - Rust implementation of Google protocol buffers
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
