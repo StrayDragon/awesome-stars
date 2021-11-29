@@ -1103,7 +1103,7 @@
 - [rust-lang-nursery/rust-cookbook](https://github.com/rust-lang-nursery/rust-cookbook) - https://rust-lang-nursery.github.io/rust-cookbook
 - [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
 - [tmux-plugins/tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
-- [laktak/extrakto](https://github.com/laktak/extrakto) - tmux - quickly select, copy/insert/complete text without a mouse
+- [laktak/extrakto](https://github.com/laktak/extrakto) - extrakto for tmux - quickly select, copy/insert/complete text without a mouse
 - [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
 - [moovweb/gvm](https://github.com/moovweb/gvm) - Go Version Manager
 - [glepnir/dotfiles](https://github.com/glepnir/dotfiles) - my personal dotfiles mac
