@@ -98,7 +98,6 @@
 - [linw7/Skill-Tree](https://github.com/linw7/Skill-Tree) - 🐼 准备秋招，欢迎来树上取果实
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [miloyip/json-tutorial](https://github.com/miloyip/json-tutorial) - 从零开始的 JSON 库教程
-- [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
 
 ## C# # 
 
@@ -178,7 +177,7 @@
 
 ## Clojure 
 
-- [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://handbook.athensresearch.org/
+- [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://athensresearch.github.io/docs/
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 
 ## CoffeeScript 
@@ -390,6 +389,7 @@
 - [wsdjeg/vim-plugin-dev-guide](https://github.com/wsdjeg/vim-plugin-dev-guide) - Vim 插件开发指南
 - [encode/starlette-example](https://github.com/encode/starlette-example) - An example Starlette application
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
+- [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
 - [zhenyangze/uafred](https://github.com/zhenyangze/uafred) - alfred on ubuntu(use electron)
 
 ## Haskell 
@@ -621,7 +621,7 @@
 - [davideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
 - [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison) - A comparison of some web frameworks and libs written in Rust
 - [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
-- [tagnja/resources-of-learning](https://github.com/tagnja/resources-of-learning) - Documentations, books, courses, git repositories, and so on. To be a great developer.
+- [tagnja/resources-of-learning](https://github.com/tagnja/resources-of-learning) - Documentations, books, courses, git repositories, and so on. Keep learning. To be a great developer.
 - [izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS
 - [humiaozuzu/awesome-flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins
 - [jgraph/drawio-libs](https://github.com/jgraph/drawio-libs) - Libraries for draw.io
