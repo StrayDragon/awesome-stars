@@ -656,6 +656,7 @@
 
 ## Python 
 
+- [wyfo/apischema](https://github.com/wyfo/apischema) - JSON (de)serialization, GraphQL and JSON schema generation using Python typing.
 - [laixintao/tokei-pie](https://github.com/laixintao/tokei-pie) - Render tokei's output to interactive sunburst chart.
 - [OneBST/GGanalysis](https://github.com/OneBST/GGanalysis) - 原神抽卡概率分析工具包 - Genshin Impact Gacha Analysis Tool Kit
 - [slackapi/python-slack-sdk](https://github.com/slackapi/python-slack-sdk) - Slack Developer Kit for Python
