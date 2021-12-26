@@ -103,7 +103,7 @@
 ## C# # 
 
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
-- [Azure99/GenshinPlayerQuery](https://github.com/Azure99/GenshinPlayerQuery) - Query genshin impact palyer info by uid. 根据原神游戏内uid查询玩家详情(基础数据、角色详情&命座&装备、深境螺旋战绩&阵容等)
+- [Azure99/GenshinPlayerQuery](https://github.com/Azure99/GenshinPlayerQuery) - 根据原神游戏内uid查询玩家详情(基础数据、角色详情&命座&装备、深境螺旋战绩&阵容等)
 - [hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator) - 御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具
 - [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Steam++」是一个开源跨平台的多功能Steam工具箱。
 - [2dust/v2rayN](https://github.com/2dust/v2rayN) - 
