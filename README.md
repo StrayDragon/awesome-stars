@@ -527,6 +527,7 @@
 - [gennaro-tedesco/nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup) - dynamically show content of vim registers
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast.
 - [nvim-treesitter/nvim-treesitter-refactor](https://github.com/nvim-treesitter/nvim-treesitter-refactor) - Refactor module for nvim-treesitter
+- [denstiny/nvim-nanny](https://github.com/denstiny/nvim-nanny) - 
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [jbyuki/instant.nvim](https://github.com/jbyuki/instant.nvim) - collaborative editing in Neovim using built-in capabilities
 - [akinsho/bufferline.nvim](https://github.com/akinsho/bufferline.nvim) - A snazzy bufferline for Neovim
@@ -1276,7 +1277,6 @@
 - [antoinemadec/FixCursorHold.nvim](https://github.com/antoinemadec/FixCursorHold.nvim) - Fix CursorHold Performance.
 - [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
 - [skywind3000/vim-rt-format](https://github.com/skywind3000/vim-rt-format) - :sunglasses: Prettify Current Line on Enter !!
-- [denstiny/nvim-nanny](https://github.com/denstiny/nvim-nanny) - 
 - [StrayDragon/Mine0Vim](https://github.com/StrayDragon/Mine0Vim) - :star: My experimental NeoVim/IdeaVim/VSCodeVim configs, NOT tested on Vim now!
 - [matze/vim-move](https://github.com/matze/vim-move) - Plugin to move lines and selections up and down
 - [rbong/vim-crystalline](https://github.com/rbong/vim-crystalline) - Functions for taking the monotony out of building your own fancy statusline in Vim
