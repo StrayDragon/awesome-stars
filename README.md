@@ -315,7 +315,7 @@
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [twitchtv/retool](https://github.com/twitchtv/retool) - Vendoring for executables written in Go
 - [twitchtv/twirp](https://github.com/twitchtv/twirp) - A simple RPC framework with protobuf service definitions
-- [go-kiss/sniper](https://github.com/go-kiss/sniper) - 轻量级 go 业务框架。
+- [go-kiss/sniper](https://github.com/go-kiss/sniper) - 轻量级 go 业务框架
 - [uber-go/dig](https://github.com/uber-go/dig) - A reflection based dependency injection toolkit for Go.
 - [cli/cli](https://github.com/cli/cli) - GitHub’s official command line tool
 - [ryboe/q](https://github.com/ryboe/q) - Quick and dirty debugging output for tired Go programmers
