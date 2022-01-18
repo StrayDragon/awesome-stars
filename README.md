@@ -575,7 +575,7 @@
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [guoshijiang/cryptography](https://github.com/guoshijiang/cryptography) - 人人都能看懂的密码学
 - [GPUOpen-Effects/FidelityFX](https://github.com/GPUOpen-Effects/FidelityFX) - A set of AMD provided GPU effects with provided source and sample implementations
-- [phodal/awesome-modernization](https://github.com/phodal/awesome-modernization) - awesome legacy system modernization tools. 大型系统分析和改造工具集。
+- [modernizing/awesome-modernization](https://github.com/modernizing/awesome-modernization) - awesome legacy system modernization tools. 大型系统分析和改造工具集。
 - [bobo-xiaoming/zufang](https://github.com/bobo-xiaoming/zufang) - 租房黑名单
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery) - Refactor Python using AI. ⭐  this repo and Sourcery Starbot will send you a PR
@@ -659,6 +659,8 @@
 
 ## Python 
 
+- [pappasam/jedi-language-server](https://github.com/pappasam/jedi-language-server) - A Python language server exclusively for Jedi. If Jedi supports it well, this language server should too.
+- [python-lsp/python-lsp-server](https://github.com/python-lsp/python-lsp-server) - Fork of the python-language-server project, maintained by the Spyder IDE team and the community
 - [MrMino/dockernel](https://github.com/MrMino/dockernel) - Dockerized Jupyter kernels.
 - [RedisJSON/redisjson-py](https://github.com/RedisJSON/redisjson-py) - An extension to redis-py for using Redis' ReJSON module
 - [wyfo/apischema](https://github.com/wyfo/apischema) - JSON (de)serialization, GraphQL and JSON schema generation using Python typing.
@@ -1152,6 +1154,7 @@
 
 ## TypeScript 
 
+- [jupyter-lsp/jupyterlab-lsp](https://github.com/jupyter-lsp/jupyterlab-lsp) - Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename) using Language Server Protocol
 - [botpress/botpress](https://github.com/botpress/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
 - [nick-invision/retry](https://github.com/nick-invision/retry) - Retries a GitHub Action step on failure or timeout
 - [styfle/cancel-workflow-action](https://github.com/styfle/cancel-workflow-action) - ⏹️ GitHub Action to cancel previous running workflows on push
