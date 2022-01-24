@@ -981,6 +981,7 @@
 
 ## Rust 
 
+- [tyrchen/geektime-rust](https://github.com/tyrchen/geektime-rust) - 我的极客时间 Rust 课程的代码仓库，随课程更新
 - [websockets-rs/rust-websocket](https://github.com/websockets-rs/rust-websocket) - A WebSocket (RFC6455) library written in Rust
 - [RedisJSON/RedisJSON](https://github.com/RedisJSON/RedisJSON) - RedisJSON - a JSON data type for Redis
 - [lizhuohua/rust-mir-checker](https://github.com/lizhuohua/rust-mir-checker) - 
