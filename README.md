@@ -407,7 +407,7 @@
 - [redisson/redisson](https://github.com/redisson/redisson) - Redisson - Redis Java client with features of In-Memory Data Grid. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, MyBatis, RPC, local cache ...
 - [lukas-krecan/ShedLock](https://github.com/lukas-krecan/ShedLock) - Distributed lock for your scheduled tasks
 - [alturkovic/distributed-lock](https://github.com/alturkovic/distributed-lock) - Distributed locking with Spring
-- [apache/shardingsphere](https://github.com/apache/shardingsphere) - Building a Standard Layer & Ecosystem Above Heterogeneous Databases
+- [apache/shardingsphere](https://github.com/apache/shardingsphere) - Ecosystem to transform any database into a distributed database system, and enhance it with sharding, elastic scaling, encryption features & more
 - [zhisheng17/flink-learning](https://github.com/zhisheng17/flink-learning) - flink learning blog. http://www.54tianzhisheng.cn/  含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。欢迎大家支持我的专栏《大数据实时计算引擎 Flink 实战与性能优化》
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
 - [azkaban/azkaban](https://github.com/azkaban/azkaban) - Azkaban workflow manager.
@@ -684,7 +684,7 @@
 - [robotframework/robotframework](https://github.com/robotframework/robotframework) - Generic automation framework for acceptance testing and RPA
 - [woxiqingxian/jd_seckill](https://github.com/woxiqingxian/jd_seckill) - 优化后京东抢购脚本，让自己和黄牛站在同一起跑线上。
 - [myint/autoflake](https://github.com/myint/autoflake) - Removes unused imports and unused variables as reported by pyflakes
-- [dropbox/mypy-protobuf](https://github.com/dropbox/mypy-protobuf) - open source tools to generate mypy stubs from protobufs
+- [nipunn1313/mypy-protobuf](https://github.com/nipunn1313/mypy-protobuf) - open source tools to generate mypy stubs from protobufs
 - [jiffyclub/snakeviz](https://github.com/jiffyclub/snakeviz) - An in-browser Python profile viewer
 - [seatgeek/tornado-async-transformer](https://github.com/seatgeek/tornado-async-transformer) - libcst transformer that replaces tornado's legacy @gen.coroutine syntax with python3.5+ native async/await
 - [nickliqian/darknet_captcha](https://github.com/nickliqian/darknet_captcha) - 基于darknet实现目标检测，提供识别点选验证码的实例和训练自己数据的API
