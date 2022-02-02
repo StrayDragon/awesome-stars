@@ -349,7 +349,7 @@
 - [alex-leonhardt/go-decorator-pattern](https://github.com/alex-leonhardt/go-decorator-pattern) - golang and decorators / decorator patterns
 - [go-training/training](https://github.com/go-training/training) - Learning Golang one day
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON and XML processor
 - [axetroy/gmock](https://github.com/axetroy/gmock) - 简约而不简单的 APIs mocker
 - [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Golang
 - [gopherdata/gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract.
