@@ -75,7 +75,6 @@
 - [baulk/baulk](https://github.com/baulk/baulk) - baulk - Minimal Package Manager for Windows
 - [basil00/Divert](https://github.com/basil00/Divert) - WinDivert: Windows Packet Divert
 - [jagt/clumsy](https://github.com/jagt/clumsy) - clumsy makes your network condition on Windows significantly worse, but in a controlled and interactive manner.
-- [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [spacemeowx2/switch-lan-play](https://github.com/spacemeowx2/switch-lan-play) - Make you and your friends play games like in a LAN.
 - [tree-sitter/py-tree-sitter](https://github.com/tree-sitter/py-tree-sitter) - Python bindings to the Tree-sitter parsing library
@@ -269,6 +268,7 @@
 - [voidint/g](https://github.com/voidint/g) - Golang Version Manager
 - [gogo/protobuf](https://github.com/gogo/protobuf) - [Looking for new ownership] Protocol Buffers for Go with Gadgets
 - [muhammadmuzzammil1998/jsonc](https://github.com/muhammadmuzzammil1998/jsonc) - JSON with comments for Go!
+- [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
 - [gogf/gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
 - [buger/goreplay](https://github.com/buger/goreplay) - GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.
 - [swaggo/swag](https://github.com/swaggo/swag) - Automatically generate RESTful API documentation with Swagger 2.0 for Go.
