@@ -178,6 +178,7 @@
 
 ## Clojure 
 
+- [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
 - [athensresearch/athens](https://github.com/athensresearch/athens) - Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://athensresearch.github.io/docs/
 - [tonsky/FiraCode](https://github.com/tonsky/FiraCode) - Free monospaced font with programming ligatures
 
@@ -527,7 +528,7 @@
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [mizlan/iswap.nvim](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.
 - [gennaro-tedesco/nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup) - dynamically show content of vim registers
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast startuptime ~ 0.05 secs
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast startuptime ~ 0.06 secs
 - [nvim-treesitter/nvim-treesitter-refactor](https://github.com/nvim-treesitter/nvim-treesitter-refactor) - Refactor module for nvim-treesitter
 - [denstiny/nvim-nanny](https://github.com/denstiny/nvim-nanny) - 
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
@@ -703,7 +704,7 @@
 - [microsoft/ptgnn](https://github.com/microsoft/ptgnn) - A PyTorch Graph Neural Network Library
 - [asottile/reorder_python_imports](https://github.com/asottile/reorder_python_imports) - Rewrites source to reorder python imports
 - [y1ndan/genshinhelper](https://github.com/y1ndan/genshinhelper) - Automatically get Genshin Impact daily check-in rewards from miHoYo bbs and HoYoLAB Community. 米游社原神每日签到 | 微博超话签到 | 原神超话监测和领码
-- [LmeSzinc/AzurLaneAutoScript](https://github.com/LmeSzinc/AzurLaneAutoScript) - 碧蓝航线脚本 (带GUI) Azur Lane bot with GUI https://discord.gg/AQN6GeJ
+- [LmeSzinc/AzurLaneAutoScript](https://github.com/LmeSzinc/AzurLaneAutoScript) - 碧蓝航线脚本 Azur Lane automation bot (CN/EN/JP/TW) | 无缝委托科研，全自动大世界，马上使用马上接管全部游戏玩法，计划作战模式？感觉不如Alas......好用
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [iswbm/magic-python](https://github.com/iswbm/magic-python) - Python 黑魔法手册
 - [asottile/yesqa](https://github.com/asottile/yesqa) - Automatically remove unnecessary `# noqa` comments
