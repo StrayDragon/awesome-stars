@@ -238,6 +238,7 @@
 
 ## Go 
 
+- [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [mohuishou/protoc-gen-go-gin](https://github.com/mohuishou/protoc-gen-go-gin) - 从 protobuf 文件中生成使用 gin 的 http rpc 服务 (protobuf to gin code)
 - [chyroc/lark](https://github.com/chyroc/lark) - Feishu/Lark Open API Go SDK, Support ALL Open API and Event Callback.
@@ -426,6 +427,7 @@
 
 ## JavaScript 
 
+- [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
 - [akashgoswami/vue-reactflow](https://github.com/akashgoswami/vue-reactflow) - An experiment to render a React component inside a Vue.js application.
 - [googleapis/gapic-generator-typescript](https://github.com/googleapis/gapic-generator-typescript) - Generate Typescript API client libraries from Protocol Buffers.
 - [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) - A GitHub action to create or update an issue or pull request comment
