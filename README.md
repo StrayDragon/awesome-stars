@@ -628,7 +628,6 @@
 - [ffffffff0x/Dork-Admin](https://github.com/ffffffff0x/Dork-Admin) - 盘点近年来的数据泄露、供应链污染事件
 - [carlosperate/awesome-pyproject](https://github.com/carlosperate/awesome-pyproject) - An Awesome List of projects using the pyproject.toml Python configuration file.
 - [kenwoodjw/python_interview_question](https://github.com/kenwoodjw/python_interview_question) - 关于python的面试题
-- [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison) - A comparison of some web frameworks and libs written in Rust
 - [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
 - [tagnja/resources-of-learning](https://github.com/tagnja/resources-of-learning) - Documentations, books, courses, git repositories, and so on. Keep learning. To be a great developer.
 - [izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS
@@ -1086,6 +1085,7 @@
 - [actix/examples](https://github.com/actix/examples) - Community showcase and examples of Actix ecosystem usage.
 - [rust-analyzer/rust-analyzer](https://github.com/rust-analyzer/rust-analyzer) - A Rust compiler front-end for IDEs
 - [watchexec/cargo-watch](https://github.com/watchexec/cargo-watch) - Watches over your Cargo project's source.
+- [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison) - A comparison of some web frameworks and libs written in Rust
 - [rustcc/writing-an-os-in-rust](https://github.com/rustcc/writing-an-os-in-rust) - 《使用Rust编写操作系统》
 - [strottos/vim-padre](https://github.com/strottos/vim-padre) - Debugger plugin for VIM
 - [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker for Vim and NeoVim
