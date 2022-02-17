@@ -529,7 +529,7 @@
 - [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - Modern Go development plugin for Neovim, based on nvim-lsp, treesitter and Dap.
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [mizlan/iswap.nvim](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.
-- [gennaro-tedesco/nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup) - dynamically show content of vim registers
+- [gennaro-tedesco/nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup) - 👀 dynamically show content of vim registers
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli as functional as an IDE while being very beautiful, blazing fast startuptime ~ 0.06 secs
 - [nvim-treesitter/nvim-treesitter-refactor](https://github.com/nvim-treesitter/nvim-treesitter-refactor) - Refactor module for nvim-treesitter
 - [denstiny/nvim-nanny](https://github.com/denstiny/nvim-nanny) - 
@@ -680,7 +680,7 @@
 - [cyclone-robotics/feishu-python-sdk](https://github.com/cyclone-robotics/feishu-python-sdk) - 一个用于和飞书开放平台交互的python库
 - [chaquo/chaquopy](https://github.com/chaquo/chaquopy) - The Python SDK for Android
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
-- [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) - Blind/Invisible Watermark （图片盲水印，提取水印无须原图！）
+- [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) - Blind&Invisible Watermark （图片盲水印，提取水印无须原图！）
 - [greyli/apiflask](https://github.com/greyli/apiflask) - A lightweight Python web API framework.
 - [hgfkeep/rust-jupyter](https://github.com/hgfkeep/rust-jupyter) - A containerized version of the Evcxr, an evaluation context/REPL for Rust as a Jupyter kernel.
 - [kerlomz/captcha_trainer](https://github.com/kerlomz/captcha_trainer) - [验证码识别-训练] This project is based on CNN/ResNet/DenseNet+GRU/LSTM+CTC/CrossEntropy to realize verification code identification. This project is only for training the model.
@@ -1173,7 +1173,7 @@
 - [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams
 - [jupyter-lsp/jupyterlab-lsp](https://github.com/jupyter-lsp/jupyterlab-lsp) - Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename) using Language Server Protocol
 - [botpress/botpress](https://github.com/botpress/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
-- [nick-invision/retry](https://github.com/nick-invision/retry) - Retries a GitHub Action step on failure or timeout
+- [nick-fields/retry](https://github.com/nick-fields/retry) - Retries a GitHub Action step on failure or timeout
 - [styfle/cancel-workflow-action](https://github.com/styfle/cancel-workflow-action) - ⏹️ GitHub Action to cancel previous running workflows on push
 - [weirongxu/coc-markdown-preview-enhanced](https://github.com/weirongxu/coc-markdown-preview-enhanced) - Markdown Preview Enhanced for coc.nvim
 - [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.
