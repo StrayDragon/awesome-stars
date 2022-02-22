@@ -427,6 +427,7 @@
 
 ## JavaScript 
 
+- [rust-lang-cn/rust-by-example-cn](https://github.com/rust-lang-cn/rust-by-example-cn) - Rust By Example 中文版(包含在线代码编辑器)
 - [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
 - [akashgoswami/vue-reactflow](https://github.com/akashgoswami/vue-reactflow) - An experiment to render a React component inside a Vue.js application.
 - [googleapis/gapic-generator-typescript](https://github.com/googleapis/gapic-generator-typescript) - Generate Typescript API client libraries from Protocol Buffers.
@@ -665,6 +666,7 @@
 
 ## Python 
 
+- [DaleyChao/N95-watcher](https://github.com/DaleyChao/N95-watcher) - 🤖️监控口罩存货，包含京东、天猫、苏宁等商城，也可监控消毒液、护目镜等物资的放货信息，并推送到微信提醒。目前有🏷️天猫淘宝秒杀自动下单、🏷️京东秒杀自动下单功能。可用于普通商品秒杀。抗击疫情！中国加油🇨🇳！
 - [kerlomz/captcha_platform](https://github.com/kerlomz/captcha_platform) - [验证码识别-部署] This project is based on CNN+BLSTM+CTC to realize verificationtion. This projeccode identificat is only for deployment models.
 - [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
 - [jaredks/rumps](https://github.com/jaredks/rumps) - Ridiculously Uncomplicated macOS Python Statusbar apps
@@ -1178,7 +1180,7 @@
 - [styfle/cancel-workflow-action](https://github.com/styfle/cancel-workflow-action) - ⏹️ GitHub Action to cancel previous running workflows on push
 - [weirongxu/coc-markdown-preview-enhanced](https://github.com/weirongxu/coc-markdown-preview-enhanced) - Markdown Preview Enhanced for coc.nvim
 - [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.
-- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - :octocat: GitHub Action for GoReleaser
+- [goreleaser/goreleaser-action](https://github.com/goreleaser/goreleaser-action) - GitHub Action for GoReleaser
 - [graphql/graphiql](https://github.com/graphql/graphiql) - GraphiQL & the GraphQL LSP Reference Ecosystem for building browser & IDE tools.
 - [justjavac/jest-feishu-reporter](https://github.com/justjavac/jest-feishu-reporter) - 将 Jest 的测试错误发送到飞书
 - [phodal/ledge](https://github.com/phodal/ledge) - Ledge —— DevOps knowledge learning platform. DevOps、研发效能知识和工具平台，是我们基于在 ThoughtWorks 进行的一系列 DevOps 实践、敏捷实践、软件开发与测试、精益实践提炼出来的知识体系。它包含了各种最佳实践、操作手册、原则与模式、度量、工具，用于帮助您的企业在数字化时代更好地前进，还有 DevOps 转型。
