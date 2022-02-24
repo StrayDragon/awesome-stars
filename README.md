@@ -105,7 +105,7 @@
 - [Azure99/GenshinPlayerQuery](https://github.com/Azure99/GenshinPlayerQuery) - 根据原神uid查询玩家信息(基础数据、角色&装备、深境螺旋战绩等)
 - [hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator) - 御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具
 - [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Steam++」是一个开源跨平台的多功能Steam工具箱。
-- [2dust/v2rayN](https://github.com/2dust/v2rayN) - 
+- [2dust/v2rayN](https://github.com/2dust/v2rayN) - https://1.2345345.xyz/ads.html
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [cookgreen/Yuris-Revenge](https://github.com/cookgreen/Yuris-Revenge) - A Red Alert 2 Yuri's Revenge mod for OpenRA Engine
 - [microsoft/python-language-server](https://github.com/microsoft/python-language-server) - Microsoft Language Server for Python
