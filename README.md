@@ -105,7 +105,7 @@
 - [Azure99/GenshinPlayerQuery](https://github.com/Azure99/GenshinPlayerQuery) - 根据原神uid查询玩家信息(基础数据、角色&装备、深境螺旋战绩等)
 - [hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator) - 御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具
 - [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Steam++」是一个开源跨平台的多功能Steam工具箱。
-- [2dust/v2rayN](https://github.com/2dust/v2rayN) - https://1.2345345.xyz/ads.html
+- [2dust/v2rayN](https://github.com/2dust/v2rayN) - A V2Ray client for Windows, support Xray core and v2fly core
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [cookgreen/Yuris-Revenge](https://github.com/cookgreen/Yuris-Revenge) - A Red Alert 2 Yuri's Revenge mod for OpenRA Engine
 - [microsoft/python-language-server](https://github.com/microsoft/python-language-server) - Microsoft Language Server for Python
@@ -114,6 +114,7 @@
 
 ## C++ 
 
+- [sysown/proxysql](https://github.com/sysown/proxysql) - High-performance MySQL proxy with a GPL license.
 - [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [LANDrop/LANDrop](https://github.com/LANDrop/LANDrop) - Drop any files to any devices on your LAN.
