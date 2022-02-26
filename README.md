@@ -418,7 +418,7 @@
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
 - [azkaban/azkaban](https://github.com/azkaban/azkaban) - Azkaban workflow manager.
 - [springdoc/springdoc-openapi](https://github.com/springdoc/springdoc-openapi) - Library for OpenAPI 3 with spring-boot
-- [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，互不干扰，高效学习。
+- [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分离设置「软件 / 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 - [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 该项目已成功集成 actuator(监控)、admin(可视化监控)、logback(日志)、aopLog(通过AOP记录web请求日志)、统一异常处理(json级别和页面级别)、freemarker(模板引擎)、thymeleaf(模板引擎)、Beetl(模板引擎)、Enjoy(模板引擎)、JdbcTemplate(通用JDBC操作数据库)、JPA(强大的ORM框架)、mybatis(强大的ORM框架)、通用Mapper(快速操作Mybatis)、PageHelper(通用的Mybatis分页插件)、mybatis-plus(快速操作Mybatis)、BeetlSQL(强大的ORM框架)、upload(本地文件上传和七牛云文件上传)、redis(缓存)、ehcache(缓存)、email(发送各种类型邮件)、task(基础定时任务)、quartz(动态管理定时任务)、xxl-job(分布式定时任务)、swagger(API接口管理测试)、security(基于RBAC的动态权限认证)、SpringSession(Session共享)、Zookeeper(结合AOP实现分布式锁)、RabbitMQ(消息队列)、Kafka(消息队列)、websocket(服务端推送监控服务器运行信息)、socket.io(聊天室)、ureport2(中国式报表)、打包成war文件、集成 ElasticSearch(基本操作和高级查询)、Async(异步任务)、集成Dubbo(采用官方的starter)、MongoDB(文档数据库)、neo4j(图数据库)、docker(容器化)、JPA多数据源、Mybatis多数据源、代码生成器、GrayLog(日志收集)、JustAuth(第三方登录)、LDAP(增删改查)、动态添加/切换数据源、单机限流(AOP + Guava RateLimiter)、分布式限流(AOP + Redis + Lua)、ElasticSearch 7.x(使用官方 Rest High Level Client)、HTTPS、Flyway(数据库初始化)、UReport2(中国式复杂报表)。
 - [stathissideris/ditaa](https://github.com/stathissideris/ditaa) - ditaa is a small command-line utility that can convert diagrams drawn using ascii art ('drawings' that contain characters that resemble lines like | / - ), into proper bitmap graphics.
 - [phodal/migration](https://github.com/phodal/migration) - 《系统重构与迁移指南》手把手教你分析、评估现有系统、制定重构策略、探索可行重构方案、搭建测试防护网、进行系统架构重构、服务架构重构、模块重构、代码重构、数据库重构、重构后的架构守护
@@ -668,6 +668,7 @@
 
 ## Python 
 
+- [louisyoungx/JD-SHOPPER](https://github.com/louisyoungx/JD-SHOPPER) - 京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)
 - [DaleyChao/N95-watcher](https://github.com/DaleyChao/N95-watcher) - 🤖️监控口罩存货，包含京东、天猫、苏宁等商城，也可监控消毒液、护目镜等物资的放货信息，并推送到微信提醒。目前有🏷️天猫淘宝秒杀自动下单、🏷️京东秒杀自动下单功能。可用于普通商品秒杀。抗击疫情！中国加油🇨🇳！
 - [kerlomz/captcha_platform](https://github.com/kerlomz/captcha_platform) - [验证码识别-部署] This project is based on CNN+BLSTM+CTC to realize verificationtion. This projeccode identificat is only for deployment models.
 - [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
@@ -995,6 +996,8 @@
 
 ## Rust 
 
+- [vulkano-rs/vulkano](https://github.com/vulkano-rs/vulkano) - Safe and rich Rust wrapper around the Vulkan API
+- [seppo0010/rsedis](https://github.com/seppo0010/rsedis) - Redis re-implemented in Rust.
 - [h4llow3En/mac-notification-sys](https://github.com/h4llow3En/mac-notification-sys) - ✉️ A simple wrapper to deliver or schedule macOS Notifications in Rust
 - [hoodie/notify-rust](https://github.com/hoodie/notify-rust) - ☝️send desktop notifications from you rust app.
 - [vityafx/serde-aux](https://github.com/vityafx/serde-aux) - Auxiliary serde library
