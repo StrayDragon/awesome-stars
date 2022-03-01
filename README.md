@@ -101,6 +101,7 @@
 
 ## C# # 
 
+- [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
 - [Azure99/GenshinPlayerQuery](https://github.com/Azure99/GenshinPlayerQuery) - 根据原神uid查询玩家信息(基础数据、角色&装备、深境螺旋战绩等)
 - [hanmin0822/MisakaTranslator](https://github.com/hanmin0822/MisakaTranslator) - 御坂翻译器—Galgame/文字游戏/漫画多语种实时机翻工具
@@ -668,6 +669,7 @@
 
 ## Python 
 
+- [CharlesPikachu/DecryptLogin](https://github.com/CharlesPikachu/DecryptLogin) - DecryptLogin: APIs for loginning some websites by using requests.
 - [louisyoungx/JD-SHOPPER](https://github.com/louisyoungx/JD-SHOPPER) - 京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)
 - [DaleyChao/N95-watcher](https://github.com/DaleyChao/N95-watcher) - 🤖️监控口罩存货，包含京东、天猫、苏宁等商城，也可监控消毒液、护目镜等物资的放货信息，并推送到微信提醒。目前有🏷️天猫淘宝秒杀自动下单、🏷️京东秒杀自动下单功能。可用于普通商品秒杀。抗击疫情！中国加油🇨🇳！
 - [kerlomz/captcha_platform](https://github.com/kerlomz/captcha_platform) - [验证码识别-部署] This project is based on CNN+BLSTM+CTC to realize verificationtion. This projeccode identificat is only for deployment models.
@@ -996,6 +998,8 @@
 
 ## Rust 
 
+- [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
+- [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [vulkano-rs/vulkano](https://github.com/vulkano-rs/vulkano) - Safe and rich Rust wrapper around the Vulkan API
 - [seppo0010/rsedis](https://github.com/seppo0010/rsedis) - Redis re-implemented in Rust.
 - [h4llow3En/mac-notification-sys](https://github.com/h4llow3En/mac-notification-sys) - ✉️ A simple wrapper to deliver or schedule macOS Notifications in Rust
@@ -1122,6 +1126,8 @@
 
 ## Shell 
 
+- [tarjoilija/zgen](https://github.com/tarjoilija/zgen) - A lightweight and simple plugin manager for ZSH
+- [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [distributhor/workflow-webhook](https://github.com/distributhor/workflow-webhook) - A Github workflow action to call a webhook with payload data from the event. Support for JSON or URL encoded endpoints.
 - [snok/install-poetry](https://github.com/snok/install-poetry) - Github action for installing and configuring Poetry
 - [srggrs/assign-one-project-github-action](https://github.com/srggrs/assign-one-project-github-action) - Automatically add an issue or pull request to specific GitHub Project(s) when you create and/or label them.
