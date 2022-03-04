@@ -292,7 +292,7 @@
 - [faceair/jio](https://github.com/faceair/jio) - jio is a json schema validator similar to joi
 - [clipperhouse/gen](https://github.com/clipperhouse/gen) - Type-driven code generation for Go
 - [MarcGrol/golangAnnotations](https://github.com/MarcGrol/golangAnnotations) - Go package that provides annotations for golang to speedup web development
-- [asim/go-micro](https://github.com/asim/go-micro) - A distributed systems framework
+- [asim/go-micro](https://github.com/asim/go-micro) - A Go microservices framework
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
 - [yunabe/lgo](https://github.com/yunabe/lgo) - Interactive Go programming with Jupyter
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go
