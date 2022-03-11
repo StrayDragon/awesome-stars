@@ -429,7 +429,7 @@
 
 ## JavaScript 
 
-- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese).
+- [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Chinese only).
 - [ffmpegwasm/ffmpeg.wasm](https://github.com/ffmpegwasm/ffmpeg.wasm) - FFmpeg for browser and node, powered by WebAssembly
 - [rust-lang-cn/rust-by-example-cn](https://github.com/rust-lang-cn/rust-by-example-cn) - Rust By Example 中文版(包含在线代码编辑器)
 - [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
@@ -602,7 +602,7 @@
 - [taowen/modularization-examples](https://github.com/taowen/modularization-examples) - 代码防腐实用技术
 - [eendroroy/alacritty-theme](https://github.com/eendroroy/alacritty-theme) - Collection of Alacritty color schemes
 - [microsoft/api-guidelines](https://github.com/microsoft/api-guidelines) - Microsoft REST API Guidelines
-- [kelthuzadx/EffectiveModernCppChinese](https://github.com/kelthuzadx/EffectiveModernCppChinese) - 《Effective Modern C++》翻译 - 已完成
+- [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese) - 《Effective Modern C++》翻译 - 已完成
 - [mcxiaoke/RxDocs](https://github.com/mcxiaoke/RxDocs) - Rx和RxJava文档中文翻译项目
 - [foambubble/foam-vscode](https://github.com/foambubble/foam-vscode) - Foam VSCode Extension ᵃˡᵖʰᵃ
 - [microsoft/pylance-release](https://github.com/microsoft/pylance-release) - Documentation and issues for Pylance
@@ -688,7 +688,7 @@
 - [cyclone-robotics/feishu-python-sdk](https://github.com/cyclone-robotics/feishu-python-sdk) - 一个用于和飞书开放平台交互的python库
 - [chaquo/chaquopy](https://github.com/chaquo/chaquopy) - The Python SDK for Android
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)
-- [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) - Blind&Invisible Watermark （图片盲水印，提取水印无须原图！）
+- [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) - Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！
 - [greyli/apiflask](https://github.com/greyli/apiflask) - A lightweight Python web API framework.
 - [hgfkeep/rust-jupyter](https://github.com/hgfkeep/rust-jupyter) - A containerized version of the Evcxr, an evaluation context/REPL for Rust as a Jupyter kernel.
 - [kerlomz/captcha_trainer](https://github.com/kerlomz/captcha_trainer) - [验证码识别-训练] This project is based on CNN/ResNet/DenseNet+GRU/LSTM+CTC/CrossEntropy to realize verification code identification. This project is only for training the model.
@@ -833,7 +833,6 @@
 - [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
 - [dimaqq/awaitwhat](https://github.com/dimaqq/awaitwhat) - Await, What?
 - [schematics/schematics](https://github.com/schematics/schematics) - Python Data Structures for Humans™.
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [wshuyi/demo-evernote-pyvis-streamlit](https://github.com/wshuyi/demo-evernote-pyvis-streamlit) - 
 - [networkx/networkx](https://github.com/networkx/networkx) - Network Analysis in Python
 - [flask-admin/flask-admin](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask
@@ -966,6 +965,7 @@
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [imWildCat/scylla](https://github.com/imWildCat/scylla) - Intelligent proxy pool for Humans™ (Maintainer needed)
+- [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [Hthing/yzw](https://github.com/Hthing/yzw) - scrapy爬取研招网专业信息
 - [pyfreyr/learning-pytest](https://github.com/pyfreyr/learning-pytest) - Tuturial of pytest
 - [Wooden-Robot/click-docs-zh_CN](https://github.com/Wooden-Robot/click-docs-zh_CN) - Click 中文文档
@@ -1254,6 +1254,7 @@
 - [yunabe/tslab](https://github.com/yunabe/tslab) - Interactive JavaScript and TypeScript programming with Jupyter
 - [Eliot00/elliot00.com](https://github.com/Eliot00/elliot00.com) - 基于React/NextJS的个人博客系统
 - [iamcco/coc-post](https://github.com/iamcco/coc-post) - post extension for coc.nvim
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [vuejs/vue-class-component](https://github.com/vuejs/vue-class-component) - ES / TypeScript decorator for class-style Vue components.
 - [fannheyward/coc-ci](https://github.com/fannheyward/coc-ci) - 支持中文分词的 w/b 移动
@@ -1292,7 +1293,6 @@
 - [shalldie/vscode-background](https://github.com/shalldie/vscode-background) - A vscode extension to make it lovely. vscode background 背景扩展插件。
 - [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a developer in 2022
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
 - [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 
 ## V 
