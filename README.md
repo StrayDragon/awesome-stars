@@ -115,6 +115,7 @@
 
 ## C++ 
 
+- [lightspark/lightspark](https://github.com/lightspark/lightspark) - An open source flash player implementation
 - [sysown/proxysql](https://github.com/sysown/proxysql) - High-performance MySQL proxy with a GPL license.
 - [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
@@ -999,6 +1000,8 @@
 
 ## Rust 
 
+- [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Safe and portable GPU abstraction in Rust, implementing WebGPU API.
+- [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.
 - [apertus-open-source-cinema/narui](https://github.com/apertus-open-source-cinema/narui) - A react-inspired UI library for building multimedia desktop apps with rust and vulkan.
 - [rust-lang/docs.rs](https://github.com/rust-lang/docs.rs) - crates.io documentation generator
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
