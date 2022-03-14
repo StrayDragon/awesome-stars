@@ -436,7 +436,6 @@
 - [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
 - [akashgoswami/vue-reactflow](https://github.com/akashgoswami/vue-reactflow) - An experiment to render a React component inside a Vue.js application.
 - [googleapis/gapic-generator-typescript](https://github.com/googleapis/gapic-generator-typescript) - Generate Typescript API client libraries from Protocol Buffers.
-- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) - A GitHub action to create or update an issue or pull request comment
 - [wormtql/genshin_artifact](https://github.com/wormtql/genshin_artifact) - 莫娜占卜铺 | 原神 | 圣遗物搭配 | 圣遗物潜力。多方向圣遗物自动搭配，多方向圣遗物潜力与评分, Genshin Impact artifacts assessment, artifacts auto combination, artifacts statistics, artifacts potential, and more.
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - A cross-platform GUI for youtube-dl made in Electron and node.js
@@ -716,13 +715,13 @@
 - [microsoft/ptgnn](https://github.com/microsoft/ptgnn) - A PyTorch Graph Neural Network Library
 - [asottile/reorder_python_imports](https://github.com/asottile/reorder_python_imports) - Rewrites source to reorder python imports
 - [y1ndan/genshinhelper](https://github.com/y1ndan/genshinhelper) - Automatically get Genshin Impact daily check-in rewards from miHoYo bbs and HoYoLAB Community. 米游社原神每日签到 | 微博超话签到 | 原神超话监测和领码
-- [LmeSzinc/AzurLaneAutoScript](https://github.com/LmeSzinc/AzurLaneAutoScript) - 碧蓝航线脚本 Azur Lane automation bot (CN/EN/JP/TW) | 无缝委托科研，全自动大世界，马上使用马上接管全部游戏玩法，计划作战模式？感觉不如Alas......好用
+- [LmeSzinc/AzurLaneAutoScript](https://github.com/LmeSzinc/AzurLaneAutoScript) - 碧蓝航线脚本 Azur Lane automation bot (CN/EN/JP/TW) | 无缝委托科研，全自动大世界
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [iswbm/magic-python](https://github.com/iswbm/magic-python) - Python 黑魔法手册
 - [asottile/yesqa](https://github.com/asottile/yesqa) - Automatically remove unnecessary `# noqa` comments
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [spyoungtech/ahk](https://github.com/spyoungtech/ahk) - Python wrapper for AutoHotkey. Harness the automation power of AutoHotkey with the beauty of Python.
-- [jerry-git/pytest-split](https://github.com/jerry-git/pytest-split) - 
+- [jerry-git/pytest-split](https://github.com/jerry-git/pytest-split) - Pytest plugin which splits the test suite to equally sized "sub suites" based on test execution time.
 - [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 - [ml-tooling/opyrator](https://github.com/ml-tooling/opyrator) - 🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.
 - [abersheeran/cool](https://github.com/abersheeran/cool) - Make Python code cooler. Less is more.
@@ -1001,6 +1000,7 @@
 
 ## Rust 
 
+- [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Safe and portable GPU abstraction in Rust, implementing WebGPU API.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a toolkit to efficiently develop fluid graphical user interfaces for any display: embedded devices and desktop applications. We support multiple programming languages, such as Rust, C++ or JavaScript.
 - [apertus-open-source-cinema/narui](https://github.com/apertus-open-source-cinema/narui) - A react-inspired UI library for building multimedia desktop apps with rust and vulkan.
@@ -1022,6 +1022,7 @@
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
+- [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [me1ting/trpl-zh-cn-pdf](https://github.com/me1ting/trpl-zh-cn-pdf) - trpl-zh-cn的mdBook风格的pdf，带全书签
 - [xd009642/tarpaulin](https://github.com/xd009642/tarpaulin) - A code coverage tool for Rust projects
 - [wormtql/yas](https://github.com/wormtql/yas) - Superfast Genshin Impact artifacts scanner
