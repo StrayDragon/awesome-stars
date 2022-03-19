@@ -670,7 +670,7 @@
 ## Python 
 
 - [CharlesPikachu/DecryptLogin](https://github.com/CharlesPikachu/DecryptLogin) - DecryptLogin: APIs for loginning some websites by using requests.
-- [louisyoungx/JD-SHOPPER](https://github.com/louisyoungx/JD-SHOPPER) - 京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)
+- [louisyoungx/jd-shopper](https://github.com/louisyoungx/jd-shopper) - 京东自动下单 (自动登录,指定时间预约商品,商品补货监控,自动加购物车,自动下单)
 - [DaleyChao/N95-watcher](https://github.com/DaleyChao/N95-watcher) - 🤖️监控口罩存货，包含京东、天猫、苏宁等商城，也可监控消毒液、护目镜等物资的放货信息，并推送到微信提醒。目前有🏷️天猫淘宝秒杀自动下单、🏷️京东秒杀自动下单功能。可用于普通商品秒杀。抗击疫情！中国加油🇨🇳！
 - [kerlomz/captcha_platform](https://github.com/kerlomz/captcha_platform) - [验证码识别-部署] This project is based on CNN+BLSTM+CTC to realize verificationtion. This projeccode identificat is only for deployment models.
 - [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
