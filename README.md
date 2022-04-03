@@ -973,13 +973,12 @@
 - [Wooden-Robot/click-docs-zh_CN](https://github.com/Wooden-Robot/click-docs-zh_CN) - Click 中文文档
 - [debuggerx01/JSONFormat4Flutter](https://github.com/debuggerx01/JSONFormat4Flutter) - 受zzz40500/GsonFormat启发，将JSONObject格式的String解析成dart语言的实体类
 - [Kxrr/nutstore-cli](https://github.com/Kxrr/nutstore-cli) - A command-line interface for NutStore.
-- [pallets/flask-sqlalchemy](https://github.com/pallets/flask-sqlalchemy) - Adds SQLAlchemy support to Flask
+- [pallets-eco/flask-sqlalchemy](https://github.com/pallets-eco/flask-sqlalchemy) - Adds SQLAlchemy support to Flask
 - [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines) - The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [fxsjy/jieba](https://github.com/fxsjy/jieba) - 结巴中文分词
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - A Fast, Extensible Progress Bar for Python and CLI
 - [louisun/iSearch](https://github.com/louisun/iSearch) - 有道词典 命令行查询 柯林斯词典 单词管理 本地保存
-- [CNILeo/Leo_CET-Query](https://github.com/CNILeo/Leo_CET-Query) - 2018年12月四六级准考证找回（穷举法）
 - [swaroopch/byte-of-python](https://github.com/swaroopch/byte-of-python) - Beginners book on Python - start here if you don't know programming
 - [ztjryg4/QueryMoreWords](https://github.com/ztjryg4/QueryMoreWords) - 从 txt 文件按行读取单词并查询释义
 - [hystrixis/ZhengFangSchoolSystemSpider](https://github.com/hystrixis/ZhengFangSchoolSystemSpider) - 一个用Python实现的正方教务管理系统爬虫，可以查询个人信息，学生成绩，专业课表
