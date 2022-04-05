@@ -844,7 +844,7 @@
 - [facebookincubator/pystemd](https://github.com/facebookincubator/pystemd) - A thin Cython-based wrapper on top of libsystemd, focused on exposing the dbus API via sd-bus in an automated and easy to consume way.
 - [linkedin/shiv](https://github.com/linkedin/shiv) - shiv is a command line utility for building fully self contained Python zipapps as outlined in PEP 441, but with all their dependencies included.
 - [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
-- [ahmedaljazzar/django-mako](https://github.com/ahmedaljazzar/django-mako) - The first simple, elegant Django Mako library
+- [iamjazzar/django-mako](https://github.com/iamjazzar/django-mako) - The first simple, elegant Django Mako library
 - [iki/unidecode](https://github.com/iki/unidecode) - Unicode transliteration in Python (clone of Tomaž Šolc repository at zemanta.com)
 - [un33k/python-slugify](https://github.com/un33k/python-slugify) - Returns unicode slugs
 - [sqlalchemy/alembic](https://github.com/sqlalchemy/alembic) - A database migrations tool for SQLAlchemy.
