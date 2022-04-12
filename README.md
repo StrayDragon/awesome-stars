@@ -400,6 +400,7 @@
 - [wsdjeg/vim-plugin-dev-guide](https://github.com/wsdjeg/vim-plugin-dev-guide) - Vim 插件开发指南
 - [davideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
 - [encode/starlette-example](https://github.com/encode/starlette-example) - An example Starlette application
+- [tagnja/resources-of-learning](https://github.com/tagnja/resources-of-learning) - Documentations, books, courses, git repositories, and so on. Keep learning. To be a great developer.
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
 - [zhenyangze/uafred](https://github.com/zhenyangze/uafred) - alfred on ubuntu(use electron)
@@ -639,7 +640,6 @@
 - [carlosperate/awesome-pyproject](https://github.com/carlosperate/awesome-pyproject) - An Awesome List of projects using the pyproject.toml Python configuration file.
 - [kenwoodjw/python_interview_question](https://github.com/kenwoodjw/python_interview_question) - 关于python的面试题
 - [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
-- [tagnja/resources-of-learning](https://github.com/tagnja/resources-of-learning) - Documentations, books, courses, git repositories, and so on. Keep learning. To be a great developer.
 - [izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS
 - [humiaozuzu/awesome-flask](https://github.com/humiaozuzu/awesome-flask) - A curated list of awesome Flask resources and plugins
 - [jgraph/drawio-libs](https://github.com/jgraph/drawio-libs) - Libraries for draw.io
