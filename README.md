@@ -411,6 +411,7 @@
 
 ## Java 
 
+- [jindrapetrik/jpexs-decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - JPEXS Free Flash Decompiler
 - [BowlerHatLLC/vscode-as3mxml](https://github.com/BowlerHatLLC/vscode-as3mxml) - ActionScript & MXML language extension for Visual Studio Code. Develop apps for Adobe AIR, Adobe Flash Player, or Apache Royale.
 - [Haleydu/Cimoc](https://github.com/Haleydu/Cimoc) - 漫画阅读器
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
@@ -722,7 +723,7 @@
 - [microsoft/ptgnn](https://github.com/microsoft/ptgnn) - A PyTorch Graph Neural Network Library
 - [asottile/reorder_python_imports](https://github.com/asottile/reorder_python_imports) - Rewrites source to reorder python imports
 - [y1ndan/genshinhelper](https://github.com/y1ndan/genshinhelper) - Automatically get Genshin Impact daily check-in rewards from miHoYo bbs and HoYoLAB Community. 米游社原神每日签到 | 微博超话签到 | 原神超话监测和领码
-- [LmeSzinc/AzurLaneAutoScript](https://github.com/LmeSzinc/AzurLaneAutoScript) - 碧蓝航线脚本 Azur Lane automation bot (CN/EN/JP/TW) | 无缝委托科研，全自动大世界
+- [LmeSzinc/AzurLaneAutoScript](https://github.com/LmeSzinc/AzurLaneAutoScript) - 碧蓝航线脚本 Azur Lane bot (CN/EN/JP/TW) | 无缝委托科研，全自动大世界
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [iswbm/magic-python](https://github.com/iswbm/magic-python) - Python 黑魔法手册
 - [asottile/yesqa](https://github.com/asottile/yesqa) - Automatically remove unnecessary `# noqa` comments
