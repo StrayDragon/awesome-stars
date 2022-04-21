@@ -115,6 +115,8 @@
 
 ## C++ 
 
+- [vkbsb/godot_sam](https://github.com/vkbsb/godot_sam) - GoDot Engine module for loading SAM (Super Animation Format)
+- [funexpected/godot-flash-module](https://github.com/funexpected/godot-flash-module) - 
 - [lightspark/lightspark](https://github.com/lightspark/lightspark) - An open source flash player implementation
 - [sysown/proxysql](https://github.com/sysown/proxysql) - High-performance MySQL proxy with a GPL license.
 - [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker
@@ -522,6 +524,7 @@
 
 ## Kotlin 
 
+- [Petterpx/StateX](https://github.com/Petterpx/StateX) - Android状态页处理工具，支持View与JetPack Compose。Android status page processing tool, support traditional view and  JetPack Compose.
 - [jakubriegel/kotlin-shell](https://github.com/jakubriegel/kotlin-shell) - Tool for performing shell-like programing in Kotlin
 - [JetBrains/Exposed](https://github.com/JetBrains/Exposed) - Kotlin SQL Framework
 - [mamoe/mirai](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库
@@ -1205,6 +1208,7 @@
 
 ## TypeScript 
 
+- [funexpected/flash-tools](https://github.com/funexpected/flash-tools) - Export flash project to Godot
 - [EndBug/add-and-commit](https://github.com/EndBug/add-and-commit) - Automatically commit changes made in your workflow run directly to your repo
 - [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams
 - [jupyter-lsp/jupyterlab-lsp](https://github.com/jupyter-lsp/jupyterlab-lsp) - Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename) using Language Server Protocol
