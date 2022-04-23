@@ -18,6 +18,8 @@
   - [Cython](#cython)
   - [Dart](#dart)
   - [Emacs Lisp](#emacs-lisp)
+  - [GAP](#gap)
+  - [GDScript](#gdscript)
   - [Go](#go)
   - [HTML](#html)
   - [Haskell](#haskell)
@@ -239,6 +241,15 @@
 ## Emacs Lisp 
 
 - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
+
+## GAP 
+
+- [imjp94/gd-plug](https://github.com/imjp94/gd-plug) - Minimal plugin manager for Godot
+
+## GDScript 
+
+- [lihop/godot-xterm](https://github.com/lihop/godot-xterm) - Terminal emulator for the Godot game engine.
+- [RKiemGames/godot-terminal-addons](https://github.com/RKiemGames/godot-terminal-addons) - A terminal for Godot Engine
 
 ## Go 
 
@@ -1209,6 +1220,7 @@
 
 ## TypeScript 
 
+- [godotengine/godot-vscode-plugin](https://github.com/godotengine/godot-vscode-plugin) - Godot development tools for VSCode
 - [funexpected/flash-tools](https://github.com/funexpected/flash-tools) - Export flash project to Godot
 - [EndBug/add-and-commit](https://github.com/EndBug/add-and-commit) - Automatically commit changes made in your workflow run directly to your repo
 - [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building interactive node-based UIs, editors, flow charts and diagrams
