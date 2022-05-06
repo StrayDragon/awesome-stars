@@ -599,6 +599,7 @@
 
 ## Others 
 
+- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  可能是让你受益匪浅的英语进阶指南。
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [toutiaoio/A-Guide-To-Stockpiling](https://github.com/toutiaoio/A-Guide-To-Stockpiling) - 非常时期囤货手册
 - [godotengine/awesome-godot](https://github.com/godotengine/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot
@@ -693,6 +694,7 @@
 
 ## Python 
 
+- [Goldziher/pydantic-factories](https://github.com/Goldziher/pydantic-factories) - Pydantic based mock data generation
 - [Scony/godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of GDScript tools - parser, linter and formatter
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
@@ -1231,6 +1233,7 @@
 
 ## TypeScript 
 
+- [evald24/vscode-extensions-profiles](https://github.com/evald24/vscode-extensions-profiles) - Lets you create profiles to include the selected extensions in the desired project.
 - [microsoft/vscode-github-triage-actions](https://github.com/microsoft/vscode-github-triage-actions) - Github Actions for helping VS Code manage our issues
 - [godotengine/godot-vscode-plugin](https://github.com/godotengine/godot-vscode-plugin) - Godot development tools for VSCode
 - [funexpected/flash-tools](https://github.com/funexpected/flash-tools) - Export flash project to Godot
