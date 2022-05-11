@@ -530,7 +530,6 @@
 
 ## Jupyter Notebook 
 
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
 - [ypwhs/captcha_break](https://github.com/ypwhs/captcha_break) - 验证码识别
 - [zlotus/notes-linear-algebra](https://github.com/zlotus/notes-linear-algebra) - 线性代数笔记
 - [qwfy/doc-browser](https://github.com/qwfy/doc-browser) - A documentation browser with support for DevDocs, Dash and Hoogle, written in Haskell and QML
@@ -550,7 +549,7 @@
 
 ## Lua 
 
-- [b0o/incline.nvim](https://github.com/b0o/incline.nvim) - 🎈 Floating statuslines for Neovim
+- [b0o/incline.nvim](https://github.com/b0o/incline.nvim) - 🎈 Floating winbar statuslines for Neovim
 - [kevinhwang91/nvim-bqf](https://github.com/kevinhwang91/nvim-bqf) - Better quickfix window in Neovim, polish old quickfix window.
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim
 - [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - Modern Go plugin for Neovim, based on gopls, treesitter, Dap and variety of go tools.
@@ -723,6 +722,7 @@
 - [slackapi/python-slack-sdk](https://github.com/slackapi/python-slack-sdk) - Slack Developer Kit for Python
 - [cyclone-robotics/feishu-python-sdk](https://github.com/cyclone-robotics/feishu-python-sdk) - 一个用于和飞书开放平台交互的python库
 - [chaquo/chaquopy](https://github.com/chaquo/chaquopy) - The Python SDK for Android
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
 - [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) - Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！
 - [apiflask/apiflask](https://github.com/apiflask/apiflask) - A lightweight Python web API framework.
 - [hgfkeep/rust-jupyter](https://github.com/hgfkeep/rust-jupyter) - A containerized version of the Evcxr, an evaluation context/REPL for Rust as a Jupyter kernel.
@@ -1035,6 +1035,7 @@
 
 ## Rust 
 
+- [model-checking/kani](https://github.com/model-checking/kani) - Kani Rust Verifier
 - [gfreezy/rui](https://github.com/gfreezy/rui) - Gui framework inspired by druid and flutter
 - [dprint/jsonc-parser](https://github.com/dprint/jsonc-parser) - JSONC parser for Rust
 - [pyroscope-io/pyroscope-rs](https://github.com/pyroscope-io/pyroscope-rs) - Pyroscope Profiler for Rust. Profile your Rust applications.
