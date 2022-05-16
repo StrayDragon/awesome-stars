@@ -116,6 +116,7 @@
 
 ## C++ 
 
+- [goostengine/goost](https://github.com/goostengine/goost) - A general-purpose, extensible and customizable C++ extension for Godot Engine.
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 - [vkbsb/godot_sam](https://github.com/vkbsb/godot_sam) - GoDot Engine module for loading SAM (Super Animation Format)
 - [funexpected/godot-flash-module](https://github.com/funexpected/godot-flash-module) - 
@@ -550,6 +551,8 @@
 
 ## Lua 
 
+- [KURANADO2/hammerspoon-kuranado](https://github.com/KURANADO2/hammerspoon-kuranado) - Hammerspoon config（Support custom shortcut keys, emoji search, application shortcut switching, real-time network speed, key echo, etc.）
+- [LintaoAmons/VimEverywhere](https://github.com/LintaoAmons/VimEverywhere) - Learn one vim, Use everywhere.
 - [b0o/incline.nvim](https://github.com/b0o/incline.nvim) - 🎈 Floating winbar statuslines for Neovim
 - [kevinhwang91/nvim-bqf](https://github.com/kevinhwang91/nvim-bqf) - Better quickfix window in Neovim, polish old quickfix window.
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim
@@ -1179,6 +1182,7 @@
 
 ## Shell 
 
+- [msys2/MINGW-packages](https://github.com/msys2/MINGW-packages) - Package scripts for MinGW-w64 targets to build under MSYS2.
 - [2moe/tmoe](https://github.com/2moe/tmoe) - TMOE, More Optional Environments.
 - [tarjoilija/zgen](https://github.com/tarjoilija/zgen) - A lightweight and simple plugin manager for ZSH
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
