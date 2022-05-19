@@ -873,6 +873,7 @@
 - [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
 - [dimaqq/awaitwhat](https://github.com/dimaqq/awaitwhat) - Await, What?
 - [schematics/schematics](https://github.com/schematics/schematics) - Python Data Structures for Humans™.
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [wshuyi/demo-evernote-pyvis-streamlit](https://github.com/wshuyi/demo-evernote-pyvis-streamlit) - 
 - [networkx/networkx](https://github.com/networkx/networkx) - Network Analysis in Python
 - [WestHealth/pyvis](https://github.com/WestHealth/pyvis) - Python package for creating and visualizing interactive network graphs.
@@ -1323,7 +1324,6 @@
 - [yunabe/tslab](https://github.com/yunabe/tslab) - Interactive JavaScript and TypeScript programming with Jupyter
 - [Eliot00/elliot00.com](https://github.com/Eliot00/elliot00.com) - 基于React/NextJS的个人博客系统
 - [iamcco/coc-post](https://github.com/iamcco/coc-post) - post extension for coc.nvim
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [vuejs/vue-class-component](https://github.com/vuejs/vue-class-component) - ES / TypeScript decorator for class-style Vue components.
 - [fannheyward/coc-ci](https://github.com/fannheyward/coc-ci) - 支持中文分词的 w/b 移动
