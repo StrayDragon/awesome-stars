@@ -1076,7 +1076,6 @@
 - [me1ting/trpl-zh-cn-pdf](https://github.com/me1ting/trpl-zh-cn-pdf) - trpl-zh-cn的mdBook风格的pdf，带全书签
 - [xd009642/tarpaulin](https://github.com/xd009642/tarpaulin) - A code coverage tool for Rust projects
 - [wormtql/yas](https://github.com/wormtql/yas) - Superfast Genshin Impact artifacts scanner
-- [wormtql/genshin_artifact](https://github.com/wormtql/genshin_artifact) - 莫娜占卜铺 | 原神 | 圣遗物搭配 | 圣遗物潜力。多方向圣遗物自动搭配，多方向圣遗物潜力与评分, Genshin Impact artifacts assessment, artifacts auto combination, artifacts statistics, artifacts potential, and more.
 - [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) - 🦀 How to minimize Rust binary size 📦
 - [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust
 - [HUST-OS/tornado-os](https://github.com/HUST-OS/tornado-os) - 异步内核就像风一样快！
@@ -1516,6 +1515,7 @@
 ## Vue 
 
 - [WeBankPartners/we-cmdb](https://github.com/WeBankPartners/we-cmdb) - CMDB from WeBank
+- [wormtql/genshin_artifact](https://github.com/wormtql/genshin_artifact) - 莫娜占卜铺 | 原神 | 圣遗物搭配 | 圣遗物潜力。多方向圣遗物自动搭配，多方向圣遗物潜力与评分, Genshin Impact artifacts assessment, artifacts auto combination, artifacts statistics, artifacts potential, and more.
 - [x2rr/funds](https://github.com/x2rr/funds) - 自选基金助手是一款Chrome扩展，用来快速获取关注基金的实时数据，查看自选基金的实时估值情况
 - [lvxianchao/the-fucking-github](https://github.com/lvxianchao/the-fucking-github) - A Chrome extension for Github. View starred repositories, organizing stars, searching stars and searching repositories online for Github。
 - [Hoogkamer/vue-org-chart](https://github.com/Hoogkamer/vue-org-chart) - Manage and publish your interactive organization chart (orgchart), 100% free and no install required: just copy a folder to any location
