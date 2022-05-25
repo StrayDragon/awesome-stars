@@ -201,7 +201,7 @@
 
 - [syncfusion/flutter-widgets](https://github.com/syncfusion/flutter-widgets) - Syncfusion Flutter widgets libraries include high quality UI widgets and file-format packages to help you create rich, high-quality applications for iOS, Android, and web from a single code base.
 - [entronad/graphic](https://github.com/entronad/graphic) - A grammar of data visualization and Flutter charting library.
-- [flame-engine/flame](https://github.com/flame-engine/flame) - A minimalist Flutter game engine
+- [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine
 - [vitusortner/floor](https://github.com/vitusortner/floor) - The typesafe, reactive, and lightweight SQLite abstraction for your Flutter applications
 - [dartclub/ical](https://github.com/dartclub/ical) - iCal library for Dart and Flutter
 - [Schwusch/widget_arrows](https://github.com/Schwusch/widget_arrows) - Draw arrows between widgets in Flutter
