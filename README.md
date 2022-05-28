@@ -555,7 +555,7 @@
 - [b0o/incline.nvim](https://github.com/b0o/incline.nvim) - 🎈 Floating winbar statuslines for Neovim
 - [kevinhwang91/nvim-bqf](https://github.com/kevinhwang91/nvim-bqf) - Better quickfix window in Neovim, polish old quickfix window.
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim
-- [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - Modern Go plugin for Neovim, based on gopls, treesitter, Dap and a variety of go tools.
+- [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - Modern Go plugin for Neovim, based on gopls, treesitter AST, Dap and a variety of go tools.
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [mizlan/iswap.nvim](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.
 - [gennaro-tedesco/nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup) - 👀 dynamically show content of vim registers
