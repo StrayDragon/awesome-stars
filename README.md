@@ -64,6 +64,7 @@
 
 ## AutoIt 
 
+- [Bioruebe/UniExtract2](https://github.com/Bioruebe/UniExtract2) - Universal Extractor 2 is a tool to extract files from any type of archive or installer.
 - [rcmaehl/WhyNotWin11](https://github.com/rcmaehl/WhyNotWin11) - Detection Script to help identify why your PC is not Windows 11 Release Ready
 
 ## C 
