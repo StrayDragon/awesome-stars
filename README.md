@@ -701,6 +701,7 @@
 
 ## Python 
 
+- [lincolnloop/python-qrcode](https://github.com/lincolnloop/python-qrcode) - Python QR Code image generator
 - [vnpy/vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [Goldziher/pydantic-factories](https://github.com/Goldziher/pydantic-factories) - Pydantic based mock data generation
