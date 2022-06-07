@@ -116,6 +116,7 @@
 
 ## C++ 
 
+- [2shady4u/godot-sqlite](https://github.com/2shady4u/godot-sqlite) - GDNative wrapper for SQLite (Godot 3.2+)
 - [goostengine/goost](https://github.com/goostengine/goost) - A general-purpose, extensible and customizable C++ extension for Godot Engine.
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
 - [vkbsb/godot_sam](https://github.com/vkbsb/godot_sam) - GoDot Engine module for loading SAM (Super Animation Format)
@@ -249,6 +250,7 @@
 
 ## GDScript 
 
+- [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - A free & open-source 2D sprite editor, made with the Godot Engine! Available on Windows, Linux, macOS and the Web!
 - [godotengine/godot-demo-projects](https://github.com/godotengine/godot-demo-projects) - Demonstration and Template Projects
 - [calviken/open-external-editor](https://github.com/calviken/open-external-editor) - An editor plugin for Godot Engine.
 - [MitchMakesThings/Spell-Splosion](https://github.com/MitchMakesThings/Spell-Splosion) - A Godot Engine project to replicate the terrain destruction from Worms
