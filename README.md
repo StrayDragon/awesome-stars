@@ -20,6 +20,7 @@
 - [Emacs Lisp](#emacs-lisp)
 - [GAP](#gap)
 - [GDScript](#gdscript)
+- [GLSL](#glsl)
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -261,8 +262,14 @@
 - [lihop/godot-xterm](https://github.com/lihop/godot-xterm) - Terminal emulator for the Godot game engine.
 - [RKiemGames/godot-terminal-addons](https://github.com/RKiemGames/godot-terminal-addons) - A terminal for Godot Engine
 
+## GLSL 
+
+- [GDQuest/godot-shaders](https://github.com/GDQuest/godot-shaders) - A large library of free and open-source shaders for the Godot game engine. Here, you'll get 2D and 3D shaders with playable demos.
+
 ## Go 
 
+- [go-python/gopy](https://github.com/go-python/gopy) - gopy generates a CPython extension module from a go package.
+- [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
 - [xiachufang/actions-feishu](https://github.com/xiachufang/actions-feishu) - GitHub Actions for Feishu
 - [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
 - [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
@@ -607,6 +614,7 @@
 
 ## Others 
 
+- [DeSireFire/animeTrackerList](https://github.com/DeSireFire/animeTrackerList) - 动漫磁性链接加速方案（animeTrackerList）
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
 - [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  可能是让你受益匪浅的英语进阶指南。
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
