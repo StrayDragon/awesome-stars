@@ -268,6 +268,7 @@
 
 ## Go 
 
+- [go-xorm/xorm](https://github.com/go-xorm/xorm) - Simple and Powerful ORM for Go, support mysql,postgres,tidb,sqlite3,mssql,oracle, Moved to https://gitea.com/xorm/xorm
 - [go-python/gopy](https://github.com/go-python/gopy) - gopy generates a CPython extension module from a go package.
 - [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
 - [xiachufang/actions-feishu](https://github.com/xiachufang/actions-feishu) - GitHub Actions for Feishu
@@ -712,6 +713,7 @@
 
 ## Python 
 
+- [opendilab/DI-star](https://github.com/opendilab/DI-star) - OpenDILab Decision AI in StarCraftII
 - [chyroc/pylark](https://github.com/chyroc/pylark) - Feishu/Lark Open API Python SDK, Support ALL Open API and Event Callback.
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [lincolnloop/python-qrcode](https://github.com/lincolnloop/python-qrcode) - Python QR Code image generator
