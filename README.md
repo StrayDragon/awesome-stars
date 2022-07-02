@@ -70,6 +70,7 @@
 
 ## C 
 
+- [phyphox/phyphox-android](https://github.com/phyphox/phyphox-android) - Physical Phone Experiments
 - [sandboxie-plus/Sandboxie](https://github.com/sandboxie-plus/Sandboxie) - Sandboxie - Open Source
 - [sandboxie/sandboxie](https://github.com/sandboxie/sandboxie) - The Sandboxie application
 - [matrixcascade/PainterEngine](https://github.com/matrixcascade/PainterEngine) - PainterEngine is a application/game engine with software renderer,PainterEngine can be transplanted to any platform that supports C
@@ -714,6 +715,7 @@
 
 ## Python 
 
+- [chxj1992/captcha_cracker](https://github.com/chxj1992/captcha_cracker) - 卷积神经网络实现的验证码识别
 - [opendilab/DI-star](https://github.com/opendilab/DI-star) - OpenDILab Decision AI in StarCraftII
 - [chyroc/pylark](https://github.com/chyroc/pylark) - Feishu/Lark Open API Python SDK, Support ALL Open API and Event Callback.
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
