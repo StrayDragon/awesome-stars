@@ -180,6 +180,7 @@
 
 ## CSS 
 
+- [deeplearning-ai/machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn) - Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著
 - [marginnoteapp/MarkDown](https://github.com/marginnoteapp/MarkDown) - 
 - [rime/home](https://github.com/rime/home) - Rime::Home is home to Rime users and developers
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -716,6 +717,7 @@
 
 ## Python 
 
+- [0b01001001/spectree](https://github.com/0b01001001/spectree) - API spec validator and  OpenAPI document generator for Python web frameworks.
 - [chxj1992/captcha_cracker](https://github.com/chxj1992/captcha_cracker) - 卷积神经网络实现的验证码识别
 - [opendilab/DI-star](https://github.com/opendilab/DI-star) - OpenDILab Decision AI in StarCraftII
 - [chyroc/pylark](https://github.com/chyroc/pylark) - Feishu/Lark Open API Python SDK, Support ALL Open API and Event Callback.
