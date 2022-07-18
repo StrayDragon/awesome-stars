@@ -1365,7 +1365,7 @@
 - [dansomething/coc-java-debug](https://github.com/dansomething/coc-java-debug) - An extension for coc.nvim to enable Java debugging via jdt.ls
 - [jupyterlab/debugger](https://github.com/jupyterlab/debugger) - A visual debugger for Jupyter notebooks, consoles, and source files
 - [zhfjyq/vscode-plugin-drawio](https://github.com/zhfjyq/vscode-plugin-drawio) - vscode plugin for drawio
-- [voldikss/coc-translator](https://github.com/voldikss/coc-translator) - 🌸 Translation extension for coc.nvim
+- [voldikss/coc-extensions](https://github.com/voldikss/coc-extensions) - 🌸 Collections of coc.nvim extensions maintained by @voldikss
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [node-gh/gh](https://github.com/node-gh/gh) - (DEPRECATED) GitHub CLI made with NodeJS
 - [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
