@@ -717,6 +717,7 @@
 
 ## Python 
 
+- [tomchristie/mkautodoc](https://github.com/tomchristie/mkautodoc) - Auto documentation for MkDocs 📘
 - [0b01001001/spectree](https://github.com/0b01001001/spectree) - API spec validator and  OpenAPI document generator for Python web frameworks.
 - [chxj1992/captcha_cracker](https://github.com/chxj1992/captcha_cracker) - 卷积神经网络实现的验证码识别
 - [opendilab/DI-star](https://github.com/opendilab/DI-star) - OpenDILab Decision AI in StarCraftII
