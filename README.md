@@ -258,7 +258,6 @@
 
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - A free & open-source 2D sprite editor, made with the Godot Engine! Available on Windows, Linux, macOS and the Web!
 - [godotengine/godot-demo-projects](https://github.com/godotengine/godot-demo-projects) - Demonstration and Template Projects
-- [calviken/open-external-editor](https://github.com/calviken/open-external-editor) - An editor plugin for Godot Engine.
 - [MitchMakesThings/Spell-Splosion](https://github.com/MitchMakesThings/Spell-Splosion) - A Godot Engine project to replicate the terrain destruction from Worms
 - [MikeSchulze/gdUnit3](https://github.com/MikeSchulze/gdUnit3) - A Godot Unit Test Framework. Support for gdScript and c# unit testing
 - [didier-v/GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - A notification center for Godot Engine
