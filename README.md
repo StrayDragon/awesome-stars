@@ -759,7 +759,7 @@
 - [OneBST/GGanalysis](https://github.com/OneBST/GGanalysis) - 原神抽卡概率分析工具包 - Genshin Impact Gacha Analysis Tool Kit
 - [slackapi/python-slack-sdk](https://github.com/slackapi/python-slack-sdk) - Slack Developer Kit for Python
 - [cyclone-robotics/feishu-python-sdk](https://github.com/cyclone-robotics/feishu-python-sdk) - 一个用于和飞书开放平台交互的python库
-- [chaquo/chaquopy](https://github.com/chaquo/chaquopy) - The Python SDK for Android
+- [chaquo/chaquopy](https://github.com/chaquo/chaquopy) - Chaquopy: the Python SDK for Android
 - [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
 - [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) - Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！
 - [apiflask/apiflask](https://github.com/apiflask/apiflask) - A lightweight Python web API framework.
