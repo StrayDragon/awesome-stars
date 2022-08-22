@@ -1331,7 +1331,7 @@
 - [whatwewant/action-robot-feishu](https://github.com/whatwewant/action-robot-feishu) - feishu robot github action
 - [act10ns/slack](https://github.com/act10ns/slack) - Slack messages for GitHub Action workflows, jobs and steps
 - [technote-space/workflow-conclusion-action](https://github.com/technote-space/workflow-conclusion-action) - GitHub action to get workflow conclusion.
-- [peaceiris/actions-label-commenter](https://github.com/peaceiris/actions-label-commenter) - Label Commenter Action: Label triggered GitHub Action for posting a template comment, and automatically open/close/lock/unlock issues or pull-requests.
+- [peaceiris/actions-label-commenter](https://github.com/peaceiris/actions-label-commenter) - Label Commenter Action: Label triggered GitHub Action for posting a template comment, and automatically open/close/lock/unlock issues, pull-requests, and discussions.
 - [haythem/public-ip](https://github.com/haythem/public-ip) - Queries GitHub actions runner's public IP address
 - [actions/download-artifact](https://github.com/actions/download-artifact) - 
 - [actions/upload-artifact](https://github.com/actions/upload-artifact) - 
