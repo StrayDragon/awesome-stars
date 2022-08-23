@@ -313,7 +313,7 @@
 - [x1ah/gena](https://github.com/x1ah/gena) - 导航网站生成器(Start page generator)
 - [ssoor/implgen](https://github.com/ssoor/implgen) - implgen
 - [voidint/g](https://github.com/voidint/g) - Golang Version Manager
-- [gogo/protobuf](https://github.com/gogo/protobuf) - [Looking for new ownership] Protocol Buffers for Go with Gadgets
+- [gogo/protobuf](https://github.com/gogo/protobuf) - [Deprecated] Protocol Buffers for Go with Gadgets
 - [muhammadmuzzammil1998/jsonc](https://github.com/muhammadmuzzammil1998/jsonc) - JSON with comments for Go!
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar
 - [gogf/gf](https://github.com/gogf/gf) - GoFrame is a modular, powerful, high-performance and enterprise-class application development framework of Golang.
