@@ -257,6 +257,7 @@
 
 ## GDScript 
 
+- [GDQuest/godot-demos-2022](https://github.com/GDQuest/godot-demos-2022) - Free and open-source Godot demos for learning, with guides and tutorials: 2022 edition.
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - A free & open-source 2D sprite editor, made with the Godot Engine! Available on Windows, Linux, macOS and the Web!
 - [godotengine/godot-demo-projects](https://github.com/godotengine/godot-demo-projects) - Demonstration and Template Projects
 - [MitchMakesThings/Spell-Splosion](https://github.com/MitchMakesThings/Spell-Splosion) - A Godot Engine project to replicate the terrain destruction from Worms
@@ -470,7 +471,6 @@
 
 ## JavaScript 
 
-- [Snezhig/obsidian-front-matter-title](https://github.com/Snezhig/obsidian-front-matter-title) - Plugin for Obsidian.md
 - [juestchaos/Obsidian-Plug-and-Play](https://github.com/juestchaos/Obsidian-Plug-and-Play) - 一个简单的Obsidian 即开即用库，希望他能节省你调试的时间，更多关注笔记和知识本身
 - [odrick/free-tex-packer](https://github.com/odrick/free-tex-packer) - Free texture packer
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🍰 Everything is RSSible
@@ -1226,6 +1226,7 @@
 
 ## Shell 
 
+- [cknadler/vim-anywhere](https://github.com/cknadler/vim-anywhere) - Use Vim everywhere you've always wanted to
 - [Magisk-Modules-Repo/movecert](https://github.com/Magisk-Modules-Repo/movecert) - movecert
 - [NVISOsecurity/MagiskTrustUserCerts](https://github.com/NVISOsecurity/MagiskTrustUserCerts) - A Magisk module that automatically adds user certificates to the system root CA store
 - [msys2/MINGW-packages](https://github.com/msys2/MINGW-packages) - Package scripts for MinGW-w64 targets to build under MSYS2.
@@ -1291,6 +1292,7 @@
 
 ## TypeScript 
 
+- [Snezhig/obsidian-front-matter-title](https://github.com/Snezhig/obsidian-front-matter-title) - Plugin for Obsidian.md
 - [xiachufang/vue3-ts-util](https://github.com/xiachufang/vue3-ts-util) - 
 - [Darakah/obsidian-comments-plugin](https://github.com/Darakah/obsidian-comments-plugin) - Simple plugin to add inline comment tooltips as well as a side panel which lists the comments on the current active leaf.
 - [denolehov/obsidian-git](https://github.com/denolehov/obsidian-git) - Backup your Obsidian.md vault with git
