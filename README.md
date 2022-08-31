@@ -104,6 +104,7 @@
 
 ## C# # 
 
+- [MustaphaTR/Romanovs-Vengeance](https://github.com/MustaphaTR/Romanovs-Vengeance) - Romanov's Vengeance is an OpenRA mod based on Red Alert 2.
 - [Richasy/LoopbackManager.Desktop](https://github.com/Richasy/LoopbackManager.Desktop) - 适用于 Windows 11 的本地网络回环管理器
 - [github/gh-valet](https://github.com/github/gh-valet) - Valet helps facilitate the migration of Azure DevOps, CircleCI, GitLab CI, Jenkins, and Travis CI pipelines to GitHub Actions.
 - [Flow-Launcher/Flow.Launcher](https://github.com/Flow-Launcher/Flow.Launcher) - :mag: Quick file search & app launcher for Windows with community-made plugins
@@ -724,6 +725,8 @@
 
 ## Python 
 
+- [seddonym/import-linter](https://github.com/seddonym/import-linter) - Import Linter allows you to define and enforce rules for the internal and external imports within your Python project.
+- [ambition-echo/earth_wallpaper](https://github.com/ambition-echo/earth_wallpaper) - 🌏[Get real-time earth photos as wallpapers][Use 24h wallpaper on Linux][Get Random wallpaper from Bing]
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A SQL linter and auto-formatter for Humans
 - [fire-keeper/BlindWatermark](https://github.com/fire-keeper/BlindWatermark) - 使用盲水印保护创作者的知识产权using invisible watermark to protect creator's intellectual property
 - [requests/toolbelt](https://github.com/requests/toolbelt) - A toolbelt of useful classes and functions to be used with python-requests
