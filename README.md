@@ -729,6 +729,8 @@
 
 ## Python 
 
+- [PyO3/setuptools-rust](https://github.com/PyO3/setuptools-rust) - Setuptools plugin for Rust support
+- [kiorky/croniter](https://github.com/kiorky/croniter) - 
 - [seddonym/import-linter](https://github.com/seddonym/import-linter) - Import Linter allows you to define and enforce rules for the internal and external imports within your Python project.
 - [ambition-echo/earth_wallpaper](https://github.com/ambition-echo/earth_wallpaper) - 🌏[Get real-time earth photos as wallpapers][Use 24h wallpaper on Linux][Get Random wallpaper from Bing]
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A SQL linter and auto-formatter for Humans
