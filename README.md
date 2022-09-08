@@ -1085,6 +1085,7 @@
 
 ## Rust 
 
+- [google/argh](https://github.com/google/argh) - Rust derive-based argument parsing optimized for code size
 - [StrayDragon/cro3n](https://github.com/StrayDragon/cro3n) - Cron expression utils python package
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
@@ -1303,6 +1304,7 @@
 
 ## TypeScript 
 
+- [JacobLinCool/LeetCode-Stats-Card](https://github.com/JacobLinCool/LeetCode-Stats-Card) - Show your dynamically generated LeetCode stats on your GitHub profile or your website!
 - [Snezhig/obsidian-front-matter-title](https://github.com/Snezhig/obsidian-front-matter-title) - Plugin for Obsidian.md
 - [xiachufang/vue3-ts-util](https://github.com/xiachufang/vue3-ts-util) - 
 - [Darakah/obsidian-comments-plugin](https://github.com/Darakah/obsidian-comments-plugin) - Simple plugin to add inline comment tooltips as well as a side panel which lists the comments on the current active leaf.
