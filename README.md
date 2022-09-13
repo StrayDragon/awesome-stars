@@ -587,7 +587,7 @@
 - [ray-x/aurora](https://github.com/ray-x/aurora) - 24-bit dark theme for (Neo)vim. Optimized for treesitter, LSP.
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [mizlan/iswap.nvim](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.
-- [gennaro-tedesco/nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup) - 👀 dynamically show content of vim registers
+- [gennaro-tedesco/nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup) - 👀 dynamically interact with vim registers
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - An attempt to make neovim cli functional like an IDE while being very beautiful, blazing fast startuptime ~ 14ms to 67ms
 - [nvim-treesitter/nvim-treesitter-refactor](https://github.com/nvim-treesitter/nvim-treesitter-refactor) - Refactor module for nvim-treesitter
 - [denstiny/nvim-nanny](https://github.com/denstiny/nvim-nanny) - 
@@ -1308,6 +1308,7 @@
 
 ## TypeScript 
 
+- [a-wing/japanese-50-sounds](https://github.com/a-wing/japanese-50-sounds) - 这回一定会熟练掌握日语五十音
 - [JacobLinCool/LeetCode-Stats-Card](https://github.com/JacobLinCool/LeetCode-Stats-Card) - Show your dynamically generated LeetCode stats on your GitHub profile or your website!
 - [Snezhig/obsidian-front-matter-title](https://github.com/Snezhig/obsidian-front-matter-title) - Plugin for Obsidian.md
 - [xiachufang/vue3-ts-util](https://github.com/xiachufang/vue3-ts-util) - 
