@@ -217,7 +217,7 @@
 - [dartclub/ical](https://github.com/dartclub/ical) - iCal library for Dart and Flutter
 - [Schwusch/widget_arrows](https://github.com/Schwusch/widget_arrows) - Draw arrows between widgets in Flutter
 - [mxflutter/mxflutter](https://github.com/mxflutter/mxflutter) - 基于JavaScript 的Flutter框架 mxflutter
-- [asjqkkkk/flutter-blog](https://github.com/asjqkkkk/flutter-blog) - 💻使用flutter完成的个人web博客.
+- [asjqkkkk/flutter-blog](https://github.com/asjqkkkk/flutter-blog) - 💻web blog build by flutter!
 - [simolus3/drift](https://github.com/simolus3/drift) - Drift is an easy to use, reactive, typesafe persistence library for Dart & Flutter.
 - [ionicfirebaseapp/flutter-app](https://github.com/ionicfirebaseapp/flutter-app) - Full Feature Todos Flutter Mobile app with fireStore integration.
 - [rrousselGit/provider](https://github.com/rrousselGit/provider) - InheritedWidgets, but simple
@@ -340,7 +340,7 @@
 - [faceair/jio](https://github.com/faceair/jio) - jio is a json schema validator similar to joi
 - [clipperhouse/gen](https://github.com/clipperhouse/gen) - Type-driven code generation for Go
 - [MarcGrol/golangAnnotations](https://github.com/MarcGrol/golangAnnotations) - Go package that provides annotations for golang to speedup web development
-- [asim/go-micro](https://github.com/asim/go-micro) - A Go microservices framework
+- [go-micro/go-micro](https://github.com/go-micro/go-micro) - A Go microservices framework
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
 - [yunabe/lgo](https://github.com/yunabe/lgo) - Interactive Go programming with Jupyter
 - [ent/ent](https://github.com/ent/ent) - An entity framework for Go
