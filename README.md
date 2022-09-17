@@ -1087,6 +1087,7 @@
 
 ## Rust 
 
+- [informationsea/xlsxwriter-rs](https://github.com/informationsea/xlsxwriter-rs) - Excel file writer for Rust
 - [haimgel/ddc-macos-rs](https://github.com/haimgel/ddc-macos-rs) - DDC/CI implementation on MacOS
 - [arcnmx/ddc-rs](https://github.com/arcnmx/ddc-rs) - DDC/CI for Rust
 - [google/argh](https://github.com/google/argh) - Rust derive-based argument parsing optimized for code size
