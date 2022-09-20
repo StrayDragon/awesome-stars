@@ -733,6 +733,7 @@
 
 ## Python 
 
+- [python-jsonschema/hypothesis-jsonschema](https://github.com/python-jsonschema/hypothesis-jsonschema) - Tools to generate test data from JSON schemata with Hypothesis
 - [PyO3/setuptools-rust](https://github.com/PyO3/setuptools-rust) - Setuptools plugin for Rust support
 - [kiorky/croniter](https://github.com/kiorky/croniter) - 
 - [seddonym/import-linter](https://github.com/seddonym/import-linter) - Import Linter allows you to define and enforce rules for the internal and external imports within your Python project.
