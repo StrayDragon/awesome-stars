@@ -749,7 +749,7 @@
 
 ## Python 
 
-- [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model
+- [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [pydantic/pydantic-core](https://github.com/pydantic/pydantic-core) - Core validation logic for pydantic written in rust
 - [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker) - Turn repositories into Jupyter-enabled Docker images
 - [yanyongyu/githubkit](https://github.com/yanyongyu/githubkit) - The modern, all-batteries-included GitHub SDK for Python, including rest api, graphql, webhooks, like octokit!
@@ -1110,6 +1110,7 @@
 
 ## Rust 
 
+- [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [async-rs/async-std](https://github.com/async-rs/async-std) - Async version of the Rust standard library
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 - [mvlabat/bevy_egui](https://github.com/mvlabat/bevy_egui) - 🇺🇦 Please support the Ukrainian army: https://www.comebackalive.in.ua/donate
@@ -1417,7 +1418,7 @@
 - [corvofeng/Vsnips](https://github.com/corvofeng/Vsnips) - Ultisnips for vscode
 - [sparrow-js/sparrow](https://github.com/sparrow-js/sparrow) - 🎉场景化低代码（LowCode）搭建工作台，实时输出源代码
 - [fannheyward/coc-rust-analyzer](https://github.com/fannheyward/coc-rust-analyzer) - rust-analyzer extension for coc.nvim
-- [brick-design/brick-design](https://github.com/brick-design/brick-design) - 全场景流式布局，可视化拖拽、随意嵌套组合、实时渲染、实时辅助线展示，实时组件间距展示、实时拖拽排序、状态域管理，可视化属性配置、可视化样式配置、多设备适配展示，支持逻辑渲染、模板字符变量、表达式、自定义方法、自定义状态
+- [brick-design/brick-design](https://github.com/brick-design/brick-design) - 支持流式布局与自由布局拖拽编排，可视化拖拽、随意嵌套组合、实时渲染、实时辅助线展示，实时组件间距展示、实时拖拽排序、状态域管理，可视化属性配置、可视化样式配置、多设备适配展示，支持逻辑渲染、模板字符变量、表达式、自定义方法、自定义状态
 - [material-shell/material-shell](https://github.com/material-shell/material-shell) - A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate window
 - [doodlewind/jshistory-cn](https://github.com/doodlewind/jshistory-cn) - 🇨🇳 《JavaScript 二十年》中文版
 - [microsoft/vscode-references-view](https://github.com/microsoft/vscode-references-view) - Show reference search results as tree
@@ -1451,7 +1452,7 @@
 - [zhfjyq/vscode-plugin-drawio](https://github.com/zhfjyq/vscode-plugin-drawio) - vscode plugin for drawio
 - [voldikss/coc-extensions](https://github.com/voldikss/coc-extensions) - 🌸 Collections of coc.nvim extensions maintained by @voldikss
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
-- [node-gh/gh](https://github.com/node-gh/gh) - (DEPRECATED) GitHub CLI made with NodeJS
+- [node-gh/gh](https://github.com/node-gh/gh) - (DEPRECATED) GitHub CLI made with NodeJS. Use the official https://cli.github.com/ instead.
 - [hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer) - An extension for VS Code that visualizes data during debugging.
 - [fannheyward/coc-marketplace](https://github.com/fannheyward/coc-marketplace) - coc.nvim extensions marketplace
 - [neoclide/coc-highlight](https://github.com/neoclide/coc-highlight) - Document highlight and document colors LSP support for coc.nvim
