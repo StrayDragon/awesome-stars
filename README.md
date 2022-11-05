@@ -282,6 +282,7 @@
 
 ## Go 
 
+- [monkeyWie/gopeed](https://github.com/monkeyWie/gopeed) - High speed downloader that supports all platforms.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [devops-kung-fu/hookz](https://github.com/devops-kung-fu/hookz) - Manages client side git hooks resulting in the ability to create git action pipelines.
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
