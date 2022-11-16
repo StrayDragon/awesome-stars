@@ -316,7 +316,7 @@
 - [graphql-go/graphql](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go / Golang
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
-- [cloudwego/kitex](https://github.com/cloudwego/kitex) - A high-performance and strong-extensibility Go RPC framework that helps developers build microservices.
+- [cloudwego/kitex](https://github.com/cloudwego/kitex) - Go RPC framework with high-performance and strong-extensibility for building micro-services.
 - [rhysd/actionlint](https://github.com/rhysd/actionlint) - :octocat: Static checker for GitHub Actions workflow files
 - [smallnest/gofsm](https://github.com/smallnest/gofsm) - a featured FSM that can export state images
 - [xiachufang/krakend-ipfilter](https://github.com/xiachufang/krakend-ipfilter) - IP filter middleware for KrakenD framework
@@ -820,6 +820,7 @@
 - [cutecharts/cutecharts.py](https://github.com/cutecharts/cutecharts.py) - 📉 Hand drawing style charts library for Python
 - [robotframework/robotframework](https://github.com/robotframework/robotframework) - Generic automation framework for acceptance testing and RPA
 - [woxiqingxian/jd_seckill](https://github.com/woxiqingxian/jd_seckill) - 优化后京东抢购脚本，让自己和黄牛站在同一起跑线上。
+- [lilydjwg/fcitx.vim](https://github.com/lilydjwg/fcitx.vim) - keep and restore fcitx state when leaving/re-entering insert mode
 - [PyCQA/autoflake](https://github.com/PyCQA/autoflake) - Removes unused imports and unused variables as reported by pyflakes
 - [nipunn1313/mypy-protobuf](https://github.com/nipunn1313/mypy-protobuf) - open source tools to generate mypy stubs from protobufs
 - [jiffyclub/snakeviz](https://github.com/jiffyclub/snakeviz) - An in-browser Python profile viewer
@@ -1117,6 +1118,8 @@
 
 ## Rust 
 
+- [oxidecomputer/third-party-api-clients](https://github.com/oxidecomputer/third-party-api-clients) - A place for keeping all our generated third party API clients.
+- [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [async-rs/async-std](https://github.com/async-rs/async-std) - Async version of the Rust standard library
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
@@ -1504,7 +1507,6 @@
 ## Vim Script 
 
 - [bilibili/vim-vide](https://github.com/bilibili/vim-vide) - Lightest vimrc, while strong enough. 最轻的vim配置，却足够强！
-- [lilydjwg/fcitx.vim](https://github.com/lilydjwg/fcitx.vim) - keep and restore fcitx state when leaving/re-entering insert mode
 - [mg979/vim-xtabline](https://github.com/mg979/vim-xtabline) - Tabline customization with buffer filtering
 - [antoinemadec/FixCursorHold.nvim](https://github.com/antoinemadec/FixCursorHold.nvim) - Fix CursorHold Performance.
 - [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
