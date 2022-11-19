@@ -1119,6 +1119,7 @@
 
 ## Rust 
 
+- [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [plotters-rs/plotters](https://github.com/plotters-rs/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
 - [oxidecomputer/third-party-api-clients](https://github.com/oxidecomputer/third-party-api-clients) - A place for keeping all our generated third party API clients.
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
