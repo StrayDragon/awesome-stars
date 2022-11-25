@@ -183,7 +183,6 @@
 - [MariaDB/server](https://github.com/MariaDB/server) - MariaDB server is a community developed fork of MySQL server. Started by core members of the original MySQL team, MariaDB actively works with outside developers to deliver the most featureful, stable,
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
 - [microsoft/GSL](https://github.com/microsoft/GSL) - Guidelines Support Library
-- [FeihongKing/DesktopFileCreator](https://github.com/FeihongKing/DesktopFileCreator) - 桌面文件创建工具
 - [justforlxz/deepin-topbar](https://github.com/justforlxz/deepin-topbar) - Provide the function of the top bar, beautiful, easy to use.
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 - [minetest/minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game engine with easy modding and game creation
