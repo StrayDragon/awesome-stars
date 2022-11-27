@@ -221,6 +221,7 @@
 - [miguelpruivo/flutter_file_picker](https://github.com/miguelpruivo/flutter_file_picker) - File picker plugin for Flutter, compatible with mobile (iOS & Android), Web, Desktop (Mac, Linux, Windows) platforms with Flutter Go support.
 - [syncfusion/flutter-widgets](https://github.com/syncfusion/flutter-widgets) - Syncfusion Flutter widgets libraries include high quality UI widgets and file-format packages to help you create rich, high-quality applications for iOS, Android, and web from a single code base.
 - [entronad/graphic](https://github.com/entronad/graphic) - A grammar of data visualization and Flutter charting library.
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
 - [pinchbv/floor](https://github.com/pinchbv/floor) - The typesafe, reactive, and lightweight SQLite abstraction for your Flutter applications
 - [dartclub/ical](https://github.com/dartclub/ical) - iCal library for Dart and Flutter
@@ -1182,7 +1183,6 @@
 - [RedisJSON/RedisJSON](https://github.com/RedisJSON/RedisJSON) - RedisJSON - a JSON data type for Redis
 - [lizhuohua/rust-mir-checker](https://github.com/lizhuohua/rust-mir-checker) - 
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [me1ting/trpl-zh-cn-pdf](https://github.com/me1ting/trpl-zh-cn-pdf) - trpl-zh-cn的mdBook风格的pdf，带全书签
