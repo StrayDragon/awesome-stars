@@ -1203,7 +1203,7 @@
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative. Display and control your PC and Android devices from anywhere at anytime.
 - [autopilot-rs/autopy](https://github.com/autopilot-rs/autopy) - A simple, cross-platform GUI automation module for Python and Rust.
-- [godot-rust/gdnative](https://github.com/godot-rust/gdnative) - Rust bindings for GDNative
+- [godot-rust/gdnative](https://github.com/godot-rust/gdnative) - Rust bindings for Godot 3
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [microsoft/windows-rs](https://github.com/microsoft/windows-rs) - Rust for Windows
 - [salvo-rs/salvo](https://github.com/salvo-rs/salvo) - Salvo is a powerful and simplest web server framework in Rust world
