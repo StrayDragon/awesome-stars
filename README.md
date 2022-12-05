@@ -1601,7 +1601,7 @@
 - [terryma/vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) - True Sublime Text style multiple selections for Vim
 - [jayli/vim-easydebugger](https://github.com/jayli/vim-easydebugger) - A VIM multi-language debugger plugin
 - [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) - A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
-- [brglng/vim-im-select](https://github.com/brglng/vim-im-select) - Improve Vim/Neovim experience with input methods.
+- [zhaosheng-pan/vim-im-select](https://github.com/zhaosheng-pan/vim-im-select) - Improve Vim/Neovim experience with input methods.
 - [exvim/main](https://github.com/exvim/main) - This is the main repository for exVim!
 - [brammool/vim9](https://github.com/brammool/vim9) - An experimental fork of Vim, exploring ways to make Vim script faster and better.
 - [mhinz/vim-crates](https://github.com/mhinz/vim-crates) - Handle Cargo dependencies like a Rustavimean.
