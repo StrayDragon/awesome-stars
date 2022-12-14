@@ -219,6 +219,7 @@
 
 ## Dart 
 
+- [monkeyWie/gopeed](https://github.com/monkeyWie/gopeed) - High speed downloader that supports all platforms.
 - [ryanheise/just_audio](https://github.com/ryanheise/just_audio) - Audio Player
 - [miguelpruivo/flutter_file_picker](https://github.com/miguelpruivo/flutter_file_picker) - File picker plugin for Flutter, compatible with mobile (iOS & Android), Web, Desktop (Mac, Linux, Windows) platforms with Flutter Go support.
 - [syncfusion/flutter-widgets](https://github.com/syncfusion/flutter-widgets) - Syncfusion Flutter widgets libraries include high quality UI widgets and file-format packages to help you create rich, high-quality applications for iOS, Android, and web from a single code base.
@@ -290,7 +291,6 @@
 ## Go 
 
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
-- [monkeyWie/gopeed](https://github.com/monkeyWie/gopeed) - High speed downloader that supports all platforms.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [devops-kung-fu/hookz](https://github.com/devops-kung-fu/hookz) - Manages client side git hooks resulting in the ability to create git action pipelines.
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
@@ -1143,7 +1143,7 @@
 - [jakobhellermann/bevy_editor_pls](https://github.com/jakobhellermann/bevy_editor_pls) - In-App editor tools for bevy applications
 - [jakobhellermann/bevy-inspector-egui](https://github.com/jakobhellermann/bevy-inspector-egui) - Inspector plugin for the bevy game engine
 - [rust-boom/rust-boom](https://github.com/rust-boom/rust-boom) - rust awesome（资源）. 💥
-- [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect) - AutoCorrect is a linter and formatter to help you to improve copywriting, correct spaces, words, punctuations between CJK (Chinese, Japanese, Korean).
+- [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect) - A linter and formatter to help you to improve copywriting, correct spaces, words, punctuations between CJK (Chinese, Japanese, Korean).
 - [tokio-rs/prost](https://github.com/tokio-rs/prost) - PROST! a Protocol Buffers implementation for the Rust Language
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js
