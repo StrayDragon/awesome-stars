@@ -762,6 +762,7 @@
 
 ## Python 
 
+- [eigenein/protobuf](https://github.com/eigenein/protobuf) - Python implementation of Protocol Buffers with dataclass-based schemaʼs
 - [AirtestProject/Poco](https://github.com/AirtestProject/Poco) - A cross-engine test automation framework based on UI inspection
 - [qintianchen/GAutomatorAndroid](https://github.com/qintianchen/GAutomatorAndroid) - A python module for game automation on android platform
 - [rmorshea/spectate](https://github.com/rmorshea/spectate) - Observe the evolution of mutable data types like lists, dicts, and sets.
