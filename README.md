@@ -665,6 +665,8 @@
 
 ## Others 
 
+- [imadr/Unity-game-hacking](https://github.com/imadr/Unity-game-hacking) - A guide for hacking unity games
+- [bevyengine/bevy-assets](https://github.com/bevyengine/bevy-assets) - A collection of Bevy assets, plugins, learning resources, and apps made by the community
 - [piglei/one-python-craftsman](https://github.com/piglei/one-python-craftsman) - 来自一位 Pythonista 的编程经验分享，内容涵盖编码技巧、最佳实践与思维模式等方面。
 - [DeSireFire/animeTrackerList](https://github.com/DeSireFire/animeTrackerList) - 动漫磁性链接加速方案（animeTrackerList）
 - [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars) - 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.
@@ -762,6 +764,7 @@
 
 ## Python 
 
+- [Instagram/Fixit](https://github.com/Instagram/Fixit) - Fixit is a Python Lint Framework based on LibCST. It comes with useful default lint rules for coding convention, performance and security issues. It makes custom lint rule easy to build, test and conf
 - [eigenein/protobuf](https://github.com/eigenein/protobuf) - Python implementation of Protocol Buffers with dataclass-based schemaʼs
 - [AirtestProject/Poco](https://github.com/AirtestProject/Poco) - A cross-engine test automation framework based on UI inspection
 - [qintianchen/GAutomatorAndroid](https://github.com/qintianchen/GAutomatorAndroid) - A python module for game automation on android platform
@@ -1128,7 +1131,6 @@
 
 ## Rust 
 
-- [charliermarsh/ruff](https://github.com/charliermarsh/ruff) - An extremely fast Python linter, written in Rust.
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [plotters-rs/plotters](https://github.com/plotters-rs/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
 - [oxidecomputer/third-party-api-clients](https://github.com/oxidecomputer/third-party-api-clients) - A place for keeping all our generated third party API clients.
