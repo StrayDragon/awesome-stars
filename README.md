@@ -1131,6 +1131,9 @@
 
 ## Rust 
 
+- [Stranger6667/jsonschema-rs](https://github.com/Stranger6667/jsonschema-rs) - JSON Schema validation library
+- [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
+- [rust-lang/rustfix](https://github.com/rust-lang/rustfix) - Automatically apply the suggestions made by rustc
 - [iced-rs/iced](https://github.com/iced-rs/iced) - A cross-platform GUI library for Rust, inspired by Elm
 - [plotters-rs/plotters](https://github.com/plotters-rs/plotters) - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
 - [oxidecomputer/third-party-api-clients](https://github.com/oxidecomputer/third-party-api-clients) - A place for keeping all our generated third party API clients.
