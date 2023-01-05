@@ -1133,6 +1133,8 @@
 
 ## Rust 
 
+- [zitsen/xlsx2csv.rs](https://github.com/zitsen/xlsx2csv.rs) - Excel (eg. .xlsx/.xls) to CSV/TSV Format Converter in Rust
+- [godot-rust/gdextension](https://github.com/godot-rust/gdextension) - Rust bindings for Godot 4
 - [chyh1990/yaml-rust](https://github.com/chyh1990/yaml-rust) - A pure rust YAML implementation.
 - [Stranger6667/jsonschema-rs](https://github.com/Stranger6667/jsonschema-rs) - JSON Schema validation library
 - [lotabout/skim](https://github.com/lotabout/skim) - Fuzzy Finder in rust!
