@@ -207,7 +207,6 @@
 - [deeplearning-ai/machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn) - Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著
 - [marginnoteapp/MarkDown](https://github.com/marginnoteapp/MarkDown) - This project will not be updated. Try to use Milkdown.
 - [rime/home](https://github.com/rime/home) - Rime::Home is home to Rime users and developers
-- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [PegasusWang/python-web-guide](https://github.com/PegasusWang/python-web-guide) - python/golang -web入坑指南
 - [Kilerd/resource.rs](https://github.com/Kilerd/resource.rs) - 
 
@@ -1184,7 +1183,7 @@
 - [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect) - A linter and formatter to help you to improve copywriting, correct spaces, words, punctuations between CJK (Chinese, Japanese, Korean).
 - [tokio-rs/prost](https://github.com/tokio-rs/prost) - PROST! a Protocol Buffers implementation for the Rust Language
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-streaming DataFrame library in Rust | Python | Node.js
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
 - [informationsea/xlsxwriter-rs](https://github.com/informationsea/xlsxwriter-rs) - Excel file writer for Rust
 - [haimgel/ddc-macos-rs](https://github.com/haimgel/ddc-macos-rs) - DDC/CI implementation on MacOS
 - [arcnmx/ddc-rs](https://github.com/arcnmx/ddc-rs) - DDC/CI for Rust
@@ -1378,6 +1377,7 @@
 - [pyenv/pyenv-virtualenvwrapper](https://github.com/pyenv/pyenv-virtualenvwrapper) - an alternative approach to manage virtualenvs from pyenv.
 - [pyenv/pyenv-installer](https://github.com/pyenv/pyenv-installer) - This tool is used to install `pyenv` and friends.
 - [kaelzhang/shell-safe-rm](https://github.com/kaelzhang/shell-safe-rm) - 😎 Safe-rm: A drop-in and much safer replacement of bash rm with nearly full functionalities and options of the rm command! Safe-rm will act exactly the same as the original rm command.
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [trapd00r/LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,100+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [hashhar/dash-contrib-docset-feeds](https://github.com/hashhar/dash-contrib-docset-feeds) - A collection of Dash's user contributed docset feed for using with Zeal
