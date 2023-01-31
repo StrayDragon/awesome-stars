@@ -325,7 +325,7 @@
 - [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [mohuishou/protoc-gen-go-gin](https://github.com/mohuishou/protoc-gen-go-gin) - 从 protobuf 文件中生成使用 gin 的 http rpc 服务 (protobuf to gin code)
-- [chyroc/lark](https://github.com/chyroc/lark) - Feishu/Lark Open API Go SDK, Support ALL Open API and Event Callback.
+- [chyroc/lark](https://github.com/chyroc/lark) - Feishu(飞书)/Lark Open API Go SDK, Support ALL Open API and Event Callback.
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [ztrue/tracerr](https://github.com/ztrue/tracerr) - Golang errors with stack trace and source fragments.
 - [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
@@ -626,6 +626,7 @@
 
 ## Lua 
 
+- [nathom/filetype.nvim](https://github.com/nathom/filetype.nvim) - A faster version of filetype.vim
 - [KURANADO2/hammerspoon-kuranado](https://github.com/KURANADO2/hammerspoon-kuranado) - Hammerspoon config（Support custom shortcut keys, emoji search, application shortcut switching, real-time network speed, key echo, etc.）
 - [LintaoAmons/VimEverywhere](https://github.com/LintaoAmons/VimEverywhere) - Learn one vim, Use everywhere.
 - [b0o/incline.nvim](https://github.com/b0o/incline.nvim) - 🎈 Floating statuslines for Neovim
@@ -786,6 +787,8 @@
 
 ## Python 
 
+- [shapely/shapely](https://github.com/shapely/shapely) - Manipulation and analysis of geometric objects
+- [moses-palmer/pynput](https://github.com/moses-palmer/pynput) - Sends virtual input commands
 - [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
 - [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 - [heartexlabs/labelImg](https://github.com/heartexlabs/labelImg) - LabelImg is now part of the Label Studio community. The popular image annotation tool created by Tzutalin is no longer actively being developed, but you can check out Label Studio, the open source dat
@@ -1160,6 +1163,7 @@
 
 ## Rust 
 
+- [keke1008/hookmap](https://github.com/keke1008/hookmap) - Registers hotkeys and simulates keyboard and mouse input.
 - [obv-mikhail/InputBot](https://github.com/obv-mikhail/InputBot) - A Rust library for creating global hotkeys, and emulating inputs.
 - [fiberplane/autometrics-rs](https://github.com/fiberplane/autometrics-rs) - Easily add metrics to your system -- and actually understand them using automatically customized Prometheus queries
 - [tafia/quick-protobuf](https://github.com/tafia/quick-protobuf) - A rust implementation of protobuf parser
