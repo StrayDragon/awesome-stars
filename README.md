@@ -304,6 +304,7 @@
 
 ## Go 
 
+- [go-lark/lark](https://github.com/go-lark/lark) - An easy-to-use SDK for Feishu and Lark Open Platform (Messaging API only)
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
@@ -633,7 +634,7 @@
 - [kevinhwang91/nvim-bqf](https://github.com/kevinhwang91/nvim-bqf) - Better quickfix window in Neovim, polish old quickfix window.
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim
 - [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - Modern Go plugin for Neovim, based on gopls, treesitter AST, Dap and a variety of go tools.
-- [ray-x/aurora](https://github.com/ray-x/aurora) - 24-bit dark theme for (Neo)vim. Optimized for treesitter, LSP.
+- [ray-x/aurora](https://github.com/ray-x/aurora) - A vivid dark theme for (Neo)Vim. Optimized for treesitter, LSP.
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [mizlan/iswap.nvim](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.
 - [gennaro-tedesco/nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup) - 👀 dynamically interact with vim registers
@@ -787,6 +788,7 @@
 
 ## Python 
 
+- [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto) - Windows GUI Automation with Python (based on text properties)
 - [shapely/shapely](https://github.com/shapely/shapely) - Manipulation and analysis of geometric objects
 - [moses-palmer/pynput](https://github.com/moses-palmer/pynput) - Sends virtual input commands
 - [heartexlabs/label-studio](https://github.com/heartexlabs/label-studio) - Label Studio is a multi-type data labeling and annotation tool with standardized output format
@@ -1163,6 +1165,7 @@
 
 ## Rust 
 
+- [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [keke1008/hookmap](https://github.com/keke1008/hookmap) - Registers hotkeys and simulates keyboard and mouse input.
 - [obv-mikhail/InputBot](https://github.com/obv-mikhail/InputBot) - A Rust library for creating global hotkeys, and emulating inputs.
 - [fiberplane/autometrics-rs](https://github.com/fiberplane/autometrics-rs) - Easily add metrics to your system -- and actually understand them using automatically customized Prometheus queries
@@ -1190,7 +1193,7 @@
 - [jakobhellermann/bevy_editor_pls](https://github.com/jakobhellermann/bevy_editor_pls) - In-App editor tools for bevy applications
 - [jakobhellermann/bevy-inspector-egui](https://github.com/jakobhellermann/bevy-inspector-egui) - Inspector plugin for the bevy game engine
 - [rust-boom/rust-boom](https://github.com/rust-boom/rust-boom) - rust awesome（资源）. 💥
-- [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect) - A linter and formatter to help you to improve copywriting, correct spaces, words, punctuations between CJK (Chinese, Japanese, Korean).
+- [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect) - A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean).
 - [tokio-rs/prost](https://github.com/tokio-rs/prost) - PROST! a Protocol Buffers implementation for the Rust Language
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js
