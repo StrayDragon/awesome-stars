@@ -789,6 +789,8 @@
 
 ## Python 
 
+- [PyCQA/flake8](https://github.com/PyCQA/flake8) - flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.
+- [piglei/the-python-craftsman-book](https://github.com/piglei/the-python-craftsman-book) - Source code of the examples in the book "The Python Craftsman: Best Practices and Techniques by Example"
 - [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto) - Windows GUI Automation with Python (based on text properties)
 - [shapely/shapely](https://github.com/shapely/shapely) - Manipulation and analysis of geometric objects
 - [moses-palmer/pynput](https://github.com/moses-palmer/pynput) - Sends virtual input commands
@@ -870,7 +872,6 @@
 - [lilydjwg/fcitx.vim](https://github.com/lilydjwg/fcitx.vim) - keep and restore fcitx state when leaving/re-entering insert mode
 - [PyCQA/autoflake](https://github.com/PyCQA/autoflake) - Removes unused imports and unused variables as reported by pyflakes
 - [nipunn1313/mypy-protobuf](https://github.com/nipunn1313/mypy-protobuf) - open source tools to generate mypy stubs from protobufs
-- [jiffyclub/snakeviz](https://github.com/jiffyclub/snakeviz) - An in-browser Python profile viewer
 - [seatgeek/tornado-async-transformer](https://github.com/seatgeek/tornado-async-transformer) - libcst transformer that replaces tornado's legacy @gen.coroutine syntax with python3.5+ native async/await
 - [nickliqian/darknet_captcha](https://github.com/nickliqian/darknet_captcha) - 基于darknet实现目标检测，提供识别点选验证码的实例和训练自己数据的API
 - [nickliqian/cnn_captcha](https://github.com/nickliqian/cnn_captcha) - use cnn recognize captcha by tensorflow. 本项目针对字符型图片验证码，使用tensorflow实现卷积神经网络，进行验证码识别。
@@ -1230,7 +1231,7 @@
 - [vulkano-rs/vulkano](https://github.com/vulkano-rs/vulkano) - Safe and rich Rust wrapper around the Vulkan API
 - [seppo0010/rsedis](https://github.com/seppo0010/rsedis) - Redis re-implemented in Rust.
 - [h4llow3En/mac-notification-sys](https://github.com/h4llow3En/mac-notification-sys) - ✉️ A simple wrapper to deliver or schedule macOS Notifications in Rust
-- [hoodie/notify-rust](https://github.com/hoodie/notify-rust) - ☝️send desktop notifications from you rust app.
+- [hoodie/notify-rust](https://github.com/hoodie/notify-rust) - ☝️send desktop notifications from your Rust app.
 - [vityafx/serde-aux](https://github.com/vityafx/serde-aux) - An auxiliary serde library providing helpful functions for serialisation and deserialisation for containers, struct fields and others.
 - [danielhenrymantilla/fstrings-rs](https://github.com/danielhenrymantilla/fstrings-rs) - Python3 fstrings in Rust
 - [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
@@ -1420,6 +1421,7 @@
 
 ## TypeScript 
 
+- [jlfwong/speedscope](https://github.com/jlfwong/speedscope) - 🔬 A fast, interactive web-based viewer for performance profiles.
 - [arduino/setup-protoc](https://github.com/arduino/setup-protoc) - GitHub Action to setup the protoc compiler for protocol buffers
 - [moonrailgun/codeck](https://github.com/moonrailgun/codeck) - 基于JS的可视化蓝图编程引擎
 - [genshin-kit/genshin-kit-node](https://github.com/genshin-kit/genshin-kit-node) - 原神玩家信息查询封装库 / An API wrapper for fetching player data of Genshin Impact from any servers.
