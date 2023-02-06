@@ -153,7 +153,7 @@
 - [funexpected/godot-flash-module](https://github.com/funexpected/godot-flash-module) - 
 - [lightspark/lightspark](https://github.com/lightspark/lightspark) - An open source flash player implementation
 - [sysown/proxysql](https://github.com/sysown/proxysql) - High-performance MySQL proxy with a GPL license.
-- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
+- [rui314/mold](https://github.com/rui314/mold) - Mold: A Modern Linker 🦠
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [LANDrop/LANDrop](https://github.com/LANDrop/LANDrop) - Drop any files to any devices on your LAN.
 - [paolo-projects/auto-unlocker](https://github.com/paolo-projects/auto-unlocker) - Unlocker for VMWare macOS
@@ -287,6 +287,7 @@
 
 ## GDScript 
 
+- [ramaureirac/godot-tactical-rpg](https://github.com/ramaureirac/godot-tactical-rpg) - A tactical role-playing game demo for the Godot Engine
 - [GDQuest/godot-visual-effects](https://github.com/GDQuest/godot-visual-effects) - Open-source visual effects designed in Godot, from our VFX Secrets course.
 - [GDQuest/godot-demos-2022](https://github.com/GDQuest/godot-demos-2022) - Free and open-source Godot demos for learning, with guides and tutorials: 2022 edition.
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - A free & open-source 2D sprite editor, made with the Godot Engine! Available on Windows, Linux, macOS and the Web!
