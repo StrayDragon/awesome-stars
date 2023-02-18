@@ -795,6 +795,7 @@
 
 ## Python 
 
+- [OlivierShi/BingChatGPT-API](https://github.com/OlivierShi/BingChatGPT-API) - 
 - [RobertCraigie/pyright-python](https://github.com/RobertCraigie/pyright-python) - Python command line wrapper for pyright, a static type checker
 - [john-hen/Flake8-pyproject](https://github.com/john-hen/Flake8-pyproject) - Flake8 plug-in loading the configuration from pyproject.toml
 - [arc53/DocsGPT](https://github.com/arc53/DocsGPT) - GPT-powered chat for documentation search & assistance.
@@ -1051,7 +1052,7 @@
 - [encode/databases](https://github.com/encode/databases) - Async database support for Python. 🗄
 - [numirias/semshi](https://github.com/numirias/semshi) - 🌈 Semantic Highlighting for Python in Neovim
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
-- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data parsing and validation using Python type hints
+- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [astanin/python-tabulate](https://github.com/astanin/python-tabulate) - Pretty-print tabular data in Python, a library and a command-line utility. Repository migrated from bitbucket.org/astanin/python-tabulate.
 - [click-contrib/click-option-group](https://github.com/click-contrib/click-option-group) - Option groups missing in Click
