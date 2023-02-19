@@ -308,6 +308,7 @@
 
 ## Go 
 
+- [bytemate/larkgpt](https://github.com/bytemate/larkgpt) - Lark chatgpt bot
 - [Leizhenpeng/feishu-chatGpt](https://github.com/Leizhenpeng/feishu-chatGpt) - Feishu ChatGpt 在飞书上与ChatGPT随时对话~
 - [go-lark/lark](https://github.com/go-lark/lark) - An easy-to-use SDK for Feishu and Lark Open Platform (Messaging API only)
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
@@ -1432,6 +1433,7 @@
 
 ## TypeScript 
 
+- [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api) - Node.js client for the unofficial ChatGPT API. 🔥
 - [jlfwong/speedscope](https://github.com/jlfwong/speedscope) - 🔬 A fast, interactive web-based viewer for performance profiles.
 - [arduino/setup-protoc](https://github.com/arduino/setup-protoc) - GitHub Action to setup the protoc compiler for protocol buffers
 - [moonrailgun/codeck](https://github.com/moonrailgun/codeck) - 基于JS的可视化蓝图编程引擎
