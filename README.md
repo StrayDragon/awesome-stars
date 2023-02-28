@@ -800,6 +800,7 @@
 
 ## Python 
 
+- [litl/backoff](https://github.com/litl/backoff) - Python library providing function decorators for configurable backoff and retry
 - [OlivierShi/BingChatGPT-API](https://github.com/OlivierShi/BingChatGPT-API) - 
 - [RobertCraigie/pyright-python](https://github.com/RobertCraigie/pyright-python) - Python command line wrapper for pyright, a static type checker
 - [john-hen/Flake8-pyproject](https://github.com/john-hen/Flake8-pyproject) - Flake8 plug-in loading the configuration from pyproject.toml
