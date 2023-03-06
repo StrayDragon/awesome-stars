@@ -311,7 +311,7 @@
 ## Go 
 
 - [bytemate/larkgpt](https://github.com/bytemate/larkgpt) - Lark chatgpt bot
-- [Leizhenpeng/feishu-chatGpt](https://github.com/Leizhenpeng/feishu-chatGpt) - Feishu ChatGpt 在飞书上与ChatGPT随时对话~
+- [Leizhenpeng/feishu-chatGpt](https://github.com/Leizhenpeng/feishu-chatGpt) - 🎒飞书上与ChatGPT随时对话~ 支持多话题交流、语音对话、角色扮演、文本搜图、对话导出等
 - [go-lark/lark](https://github.com/go-lark/lark) - An easy-to-use SDK for Feishu and Lark Open Platform (Messaging API only)
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
@@ -617,7 +617,7 @@
 ## Jupyter Notebook 
 
 - [Kanaries/pygwalker](https://github.com/Kanaries/pygwalker) - PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis
-- [phodal/ai-research](https://github.com/phodal/ai-research) - 【🔞🔞🔞 内含不适合未成年人阅读的图片】基于我擅长的编程、绘画、写作展开的 AI 探索和总结：StableDiffusion 是一种强大的图像生成模型，能够通过对一张图片进行演化来生成新的图片。ChatGPT 是一个基于 Transformer 的语言生成模型，它能够自动为输入的主题生成合适的文章。而 Github Copilot 是一个智能编程助手，能够加速日常编程活动。
+- [prompt-engineering/understand-prompt](https://github.com/prompt-engineering/understand-prompt) - 【🔞🔞🔞 内含不适合未成年人阅读的图片】基于我擅长的编程、绘画、写作展开的 AI 探索和总结：StableDiffusion 是一种强大的图像生成模型，能够通过对一张图片进行演化来生成新的图片。ChatGPT 是一个基于 Transformer 的语言生成模型，它能够自动为输入的主题生成合适的文章。而 Github Copilot 是一个智能编程助手，能够加速日常编程活动。
 - [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) - Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
 - [ypwhs/captcha_break](https://github.com/ypwhs/captcha_break) - 验证码识别
 - [zlotus/notes-linear-algebra](https://github.com/zlotus/notes-linear-algebra) - 线性代数笔记
@@ -929,7 +929,7 @@
 - [Xpra-org/xpra](https://github.com/Xpra-org/xpra) - Persistent remote applications for X11; screen sharing for X11, MacOS and MSWindows.
 - [shidenggui/easyquotation](https://github.com/shidenggui/easyquotation) - 实时获取新浪 / 腾讯 的免费股票行情 / 集思路的分级基金行情
 - [bauerji/flask-pydantic](https://github.com/bauerji/flask-pydantic) - flask extension for integration with the awesome pydantic package
-- [locustio/locust](https://github.com/locustio/locust) - Scalable load testing tool written in Python
+- [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨
 - [asottile/dead](https://github.com/asottile/dead) - dead simple python dead code detection
 - [asottile/add-trailing-comma](https://github.com/asottile/add-trailing-comma) - A tool (and pre-commit hook) to automatically add trailing commas to calls and literals.
 - [asottile/pyupgrade](https://github.com/asottile/pyupgrade) - A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.
@@ -1210,6 +1210,7 @@
 - [poem-web/poem](https://github.com/poem-web/poem) - A full-featured and easy-to-use web framework with the Rust programming language.
 - [async-rs/async-std](https://github.com/async-rs/async-std) - Async version of the Rust standard library
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+- [an-anime-team/an-anime-game-launcher](https://github.com/an-anime-team/an-anime-game-launcher) - An Anime Game launcher for Linux with automatic patching and telemetry disabling. Our discord server: https://discord.gg/ck37X6UWBp
 - [mvlabat/bevy_egui](https://github.com/mvlabat/bevy_egui) - 🇺🇦 Please support the Ukrainian army: https://www.comebackalive.in.ua/donate
 - [jhasse/ears](https://github.com/jhasse/ears) - Easy Api in Rust to play Sounds
 - [HollowMan6/mdbook-pdf](https://github.com/HollowMan6/mdbook-pdf) - A backend for mdBook written in Rust for generating PDF based on headless chrome and Chrome DevTools Protocol.(用 Rust 编写的 mdBook 后端，基于headless chrome和Chrome开发工具协议生成PDF)
@@ -1457,7 +1458,6 @@
 - [zanllp/check-circle-json](https://github.com/zanllp/check-circle-json) - 
 - [SteamDeckHomebrew/decky-loader](https://github.com/SteamDeckHomebrew/decky-loader) - A plugin loader for the Steam Deck.
 - [fkirc/skip-duplicate-actions](https://github.com/fkirc/skip-duplicate-actions) - Save time and cost when using GitHub Actions
-- [an-anime-team/an-anime-game-launcher](https://github.com/an-anime-team/an-anime-game-launcher) - An Anime Game launcher for Linux with automatic patching fixing detection of Linux/Wine and telemetry disabling  Our discord server: https://discord.gg/ck37X6UWBp
 - [xcodebuild/CodeTerminal](https://github.com/xcodebuild/CodeTerminal) - Cross platform standalone terminal app extract from Visual Studio Code.
 - [AykutSarac/jsoncrack.com](https://github.com/AykutSarac/jsoncrack.com) - 🔮 Seamlessly visualize your JSON data instantly into graphs; paste, import or fetch!
 - [a-wing/japanese-50-sounds](https://github.com/a-wing/japanese-50-sounds) - 这回一定会熟练掌握日语五十音
@@ -1730,7 +1730,7 @@
 
 ## Vue 
 
-- [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和 Vue3 搭建的同时支持 openAI Key 和 网页 accessToken 的 ChatGPT 演示网页
+- [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 - [foamzou/melody](https://github.com/foamzou/melody) - 我的音乐精灵
 - [WeBankPartners/we-cmdb](https://github.com/WeBankPartners/we-cmdb) - CMDB from WeBank
 - [x2rr/funds](https://github.com/x2rr/funds) - 自选基金助手是一款Chrome扩展，用来快速获取关注基金的实时数据，查看自选基金的实时估值情况
