@@ -311,7 +311,7 @@
 ## Go 
 
 - [bytemate/larkgpt](https://github.com/bytemate/larkgpt) - Lark chatgpt bot
-- [Leizhenpeng/feishu-chatGpt](https://github.com/Leizhenpeng/feishu-chatGpt) - 🎒飞书上与ChatGPT随时对话~ 支持多话题交流、语音对话、角色扮演、文本搜图、对话导出等
+- [Leizhenpeng/feishu-chatgpt](https://github.com/Leizhenpeng/feishu-chatgpt) - 🎒飞书  ×（GPT-3.5 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、文档导出 🚀
 - [go-lark/lark](https://github.com/go-lark/lark) - An easy-to-use SDK for Feishu and Lark Open Platform (Messaging API only)
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
@@ -1153,7 +1153,7 @@
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - A curated list of awesome Python frameworks, libraries, software and resources
 - [imWildCat/scylla](https://github.com/imWildCat/scylla) - Intelligent proxy pool for Humans™
-- [microsoft/pyright](https://github.com/microsoft/pyright) - Static type checker for Python
+- [microsoft/pyright](https://github.com/microsoft/pyright) - Static Type Checker for Python
 - [Hthing/yzw](https://github.com/Hthing/yzw) - scrapy爬取研招网专业信息
 - [pyfreyr/learning-pytest](https://github.com/pyfreyr/learning-pytest) - Tuturial of pytest
 - [Wooden-Robot/click-docs-zh_CN](https://github.com/Wooden-Robot/click-docs-zh_CN) - Click 中文文档
