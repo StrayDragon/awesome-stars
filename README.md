@@ -688,7 +688,6 @@
 ## OCaml 
 
 - [returntocorp/semgrep](https://github.com/returntocorp/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
-- [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 
 ## Objective-C 
 
@@ -1069,6 +1068,7 @@
 - [click-contrib/click-option-group](https://github.com/click-contrib/click-option-group) - Option groups missing in Click
 - [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [jazzband/prettytable](https://github.com/jazzband/prettytable) - Display tabular data in a visually appealing ASCII table format
+- [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 - [glamp/bashplotlib](https://github.com/glamp/bashplotlib) - plotting in the terminal
 - [python-attrs/attrs](https://github.com/python-attrs/attrs) - Python Classes Without Boilerplate
 - [coleifer/peewee](https://github.com/coleifer/peewee) - a small, expressive orm -- supports postgresql, mysql and sqlite
@@ -1276,7 +1276,7 @@
 - [HUST-OS/tornado-os](https://github.com/HUST-OS/tornado-os) - 异步内核就像风一样快！
 - [bevyengine/bevy](https://github.com/bevyengine/bevy) - A refreshingly simple data-driven game engine built in Rust
 - [dtolnay/rust-quiz](https://github.com/dtolnay/rust-quiz) - Medium to hard Rust questions with explanations
-- [termapps/enquirer](https://github.com/termapps/enquirer) - Command Line Utility for Stylish Interactive Prompts
+- [termapps/enquirer](https://github.com/termapps/enquirer) - Command line utility for stylish interactive prompts
 - [XAMPPRocky/octocrab](https://github.com/XAMPPRocky/octocrab) - A modern, extensible GitHub API Client for Rust.
 - [zesterer/ariadne](https://github.com/zesterer/ariadne) - A fancy diagnostics & error reporting crate
 - [EmbarkStudios/tryhard](https://github.com/EmbarkStudios/tryhard) - 💫 Easily retry futures 🦀
