@@ -802,6 +802,7 @@
 
 ## Python 
 
+- [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt) - play chatgpt with xiaomi ai speaker
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - Make bilingual epub books Using AI translate
 - [charliermarsh/ruff-lsp](https://github.com/charliermarsh/ruff-lsp) - A Language Server Protocol implementation for Ruff.
