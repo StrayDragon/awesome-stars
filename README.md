@@ -814,7 +814,7 @@
 
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - The release repo for "Vicuna: An Open Chatbot Impressing GPT-4"
 - [WangRongsheng/ChatGenTitle](https://github.com/WangRongsheng/ChatGenTitle) - 🌟 ChatGenTitle：使用百万arXiv论文信息在LLaMA模型上进行微调的论文题目生成模型
-- [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - 中文LLaMA&Alpaca大语言模型+本地部署 (Chinese LLaMA & Alpaca LLMs)
+- [ymcui/Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca) - 中文LLaMA&Alpaca大语言模型+本地CPU部署 (Chinese LLaMA & Alpaca LLMs)
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [THUDM/GLM-130B](https://github.com/THUDM/GLM-130B) - GLM-130B: An Open Bilingual Pre-Trained Model (ICLR 2023)
 - [openai/chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin) - The ChatGPT Retrieval Plugin lets you easily search and find personal or work documents by asking questions in everyday language.
@@ -1781,7 +1781,7 @@
 
 ## Vue 
 
-- [zanllp/stable-diffusion-webui-baidu-netdisk](https://github.com/zanllp/stable-diffusion-webui-baidu-netdisk) - 无翻页浏览所有图片的stable-diffusion-webui插件，类VS Code布局。   Plugin for stable-diffusion-webui that allows browsing all images without pagination, with a layout similar to VS Code.
+- [zanllp/sd-webui-infinite-image-browsing](https://github.com/zanllp/sd-webui-infinite-image-browsing) - 无翻页浏览所有图片的stable-diffusion-webui插件，类VS Code布局。   Plugin for stable-diffusion-webui that allows browsing all images without pagination, with a layout similar to VS Code.
 - [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 - [foamzou/melody](https://github.com/foamzou/melody) - 我的音乐精灵
 - [WeBankPartners/we-cmdb](https://github.com/WeBankPartners/we-cmdb) - CMDB from WeBank
