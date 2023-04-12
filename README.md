@@ -316,6 +316,7 @@
 
 ## Go 
 
+- [janpfeifer/gonb](https://github.com/janpfeifer/gonb) - GoNB, a Go Notebook Kernel for Jupyter
 - [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 - [cosmos72/gomacro](https://github.com/cosmos72/gomacro) - Interactive Go interpreter and debugger with REPL, Eval, generics and Lisp-like macros
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
@@ -543,6 +544,7 @@
 
 ## JavaScript 
 
+- [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [nodejs/undici](https://github.com/nodejs/undici) - An HTTP/1.1 client, written from scratch for Node.js
 - [troyeguo/koodo-reader](https://github.com/troyeguo/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux and Web
 - [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
@@ -674,7 +676,7 @@
 - [nvim-treesitter/playground](https://github.com/nvim-treesitter/playground) - Treesitter playground integrated into Neovim
 - [nvim-treesitter/completion-treesitter](https://github.com/nvim-treesitter/completion-treesitter) - Treesitter source for completion-nvim and more
 - [nvim-lua/completion-nvim](https://github.com/nvim-lua/completion-nvim) - A async completion framework aims to provide completion to neovim's built in LSP written in Lua
-- [glepnir/dashboard-nvim](https://github.com/glepnir/dashboard-nvim) - vim dashboard
+- [nvimdev/dashboard-nvim](https://github.com/nvimdev/dashboard-nvim) - vim dashboard
 - [norcalli/nvim-colorizer.lua](https://github.com/norcalli/nvim-colorizer.lua) - The fastest Neovim colorizer.
 - [nvim-treesitter/highlight.lua](https://github.com/nvim-treesitter/highlight.lua) - a neovim syntax highlighter using treesitter
 - [conweller/findr.vim](https://github.com/conweller/findr.vim) - An incremental narrowing engine for (neo)vim inspired by emacs helm/ivy/ido
@@ -1222,6 +1224,7 @@
 
 ## Rust 
 
+- [datafuselabs/askbend](https://github.com/datafuselabs/askbend) - AskBend: SQL-based Knowledge Base Search and Completion using Databend
 - [I-Info/BingLite](https://github.com/I-Info/BingLite) - A lightweight new Bing (AI chat) desktop application based on Tauri.
 - [reem/rust-ordered-float](https://github.com/reem/rust-ordered-float) - 
 - [causal-agent/scraper](https://github.com/causal-agent/scraper) - HTML parsing and querying with CSS selectors
@@ -1492,6 +1495,7 @@
 
 ## TypeScript 
 
+- [BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) - A CLI that converts natural language to shell commands.
 - [jupyterlab/jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - A generative AI extension for JupyterLab
 - [guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles) - Have a conversation with files ｜与你的文件对话
 - [justjavac/openai-proxy](https://github.com/justjavac/openai-proxy) - OpenAI/ChatGPT 免翻墙代理
@@ -1681,7 +1685,7 @@
 - [SidOfc/mkdx](https://github.com/SidOfc/mkdx) - A vim plugin that adds some nice extra's for working with markdown documents
 - [itchyny/calendar.vim](https://github.com/itchyny/calendar.vim) - A calendar application for Vim
 - [metakirby5/codi.vim](https://github.com/metakirby5/codi.vim) - :notebook_with_decorative_cover: The interactive scratchpad for hackers.
-- [glepnir/oceanic-material](https://github.com/glepnir/oceanic-material) - Oceanic Material Colorscheme on Vim/NeoVim
+- [nvimdev/oceanic-material](https://github.com/nvimdev/oceanic-material) - Oceanic Material Colorscheme on Vim/NeoVim
 - [RRethy/vim-hexokinase](https://github.com/RRethy/vim-hexokinase) - hexokinase.vim - (Neo)Vim plugin for asynchronously displaying the colours in the file (#rrggbb, #rgb, rgb(a)? functions, hsl(a)? functions, web colours, custom patterns)
 - [bootleq/vim-cycle](https://github.com/bootleq/vim-cycle) - Cycle text within predefined candidates.
 - [tyru/caw.vim](https://github.com/tyru/caw.vim) - Vim comment plugin: supported operator/non-operator mappings, repeatable by dot-command, 300+ filetypes
@@ -1717,7 +1721,7 @@
 - [skywind3000/vim](https://github.com/skywind3000/vim) - Personal Vim Profile
 - [tweekmonster/braceless.vim](https://github.com/tweekmonster/braceless.vim) - :snake: Text objects, folding, and more for Python and other indented languages.
 - [Shougo/dein.vim](https://github.com/Shougo/dein.vim) - :zap: Dark powered Vim/Neovim plugin manager
-- [glepnir/spaceline.vim](https://github.com/glepnir/spaceline.vim) - vim statusline like spacemacs
+- [nvimdev/spaceline.vim](https://github.com/nvimdev/spaceline.vim) - vim statusline like spacemacs
 - [imxiejie/ThinkVim](https://github.com/imxiejie/ThinkVim) - Vim configuration in the 21st century
 - [voldikss/vim-floaterm](https://github.com/voldikss/vim-floaterm) - :computer: Terminal manager for (neo)vim
 - [skywind3000/vim-quickui](https://github.com/skywind3000/vim-quickui) - The missing UI extensions for Vim 8.2 (and NeoVim 0.4) !! :sunglasses:
