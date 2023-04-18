@@ -1060,7 +1060,7 @@
 - [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
 - [dimaqq/awaitwhat](https://github.com/dimaqq/awaitwhat) - Await, What?
 - [schematics/schematics](https://github.com/schematics/schematics) - Python Data Structures for Humans™.
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — The fastest way to build data apps in Python
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [wshuyi/demo-evernote-pyvis-streamlit](https://github.com/wshuyi/demo-evernote-pyvis-streamlit) - 
 - [networkx/networkx](https://github.com/networkx/networkx) - Network Analysis in Python
 - [flask-admin/flask-admin](https://github.com/flask-admin/flask-admin) - Simple and extensible administrative interface framework for Flask
@@ -1229,6 +1229,7 @@
 
 ## Rust 
 
+- [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [datafuselabs/askbend](https://github.com/datafuselabs/askbend) - AskBend: SQL-based Knowledge Base Search and Completion using Databend
 - [reem/rust-ordered-float](https://github.com/reem/rust-ordered-float) - 
 - [causal-agent/scraper](https://github.com/causal-agent/scraper) - HTML parsing and querying with CSS selectors
