@@ -495,7 +495,7 @@
 - [shrhdk/text-to-svg](https://github.com/shrhdk/text-to-svg) - Convert text to SVG path without native dependence.
 - [fofolee/uTools-Manuals](https://github.com/fofolee/uTools-Manuals) - uTools插件，内置了十多个实用的离线中文手册，包括：Linux、PHP、Python、JS等,以及提供了搜索devdocs、dash/zeal上的文档的功能
 - [gfreezy/mailhook](https://github.com/gfreezy/mailhook) - 自动将邮件转发到飞书
-- [golang101/golang101](https://github.com/golang101/golang101) - Go语言101 : 一本侧重于Go语言语法和语义的编程解释和指导书
+- [golang101/golang101](https://github.com/golang101/golang101) - Go语言101 : 一个与时俱进的Go编程知识库
 - [asatarin/testing-distributed-systems](https://github.com/asatarin/testing-distributed-systems) - Curated list of resources on testing distributed systems
 - [go-training/training](https://github.com/go-training/training) - Learning Golang one day
 - [WestHealth/pyvis](https://github.com/WestHealth/pyvis) - Python package for creating and visualizing interactive network graphs.
@@ -818,6 +818,7 @@
 
 ## Python 
 
+- [thomas-yanxin/LangChain-ChatGLM-Webui](https://github.com/thomas-yanxin/LangChain-ChatGLM-Webui) - 基于LangChain和ChatGLM-6B的针对本地知识库的自动问答
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [cadl/chatdbt](https://github.com/cadl/chatdbt) - 
 - [jupyterlab/jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - A generative AI extension for JupyterLab
