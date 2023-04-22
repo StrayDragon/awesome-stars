@@ -241,6 +241,7 @@
 
 ## Dart 
 
+- [bravekingzhang/flutter_chat_box](https://github.com/bravekingzhang/flutter_chat_box) - Flutter开发的和ChatGPT聊天的App，全平台支持
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - High speed downloader that supports all platforms.
 - [ryanheise/just_audio](https://github.com/ryanheise/just_audio) - Audio Player
 - [miguelpruivo/flutter_file_picker](https://github.com/miguelpruivo/flutter_file_picker) - File picker plugin for Flutter, compatible with mobile (iOS & Android), Web, Desktop (Mac, Linux, Windows) platforms with Flutter Go support.
@@ -276,7 +277,7 @@
 - [MarcinusX/flutter_ui_challenge_filter_menu](https://github.com/MarcinusX/flutter_ui_challenge_filter_menu) - My first Flutter UI challenge.
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [letsar/flutter_slidable](https://github.com/letsar/flutter_slidable) - A Flutter implementation of slidable list item with directional slide actions.
-- [cfug/dio](https://github.com/cfug/dio) - A powerful HTTP package for Dart/Flutter, which supports Global settings, Interceptors, FormData, Aborting and canceling a request, Files uploading and downloading, Requests timeout, Custom adapters, 
+- [cfug/dio](https://github.com/cfug/dio) - A powerful HTTP client for Dart and Flutter, which supports global settings, Interceptors, FormData, aborting and canceling a request, files uploading and downloading, requests timeout, custom adapter
 - [OpenFlutter/Flutter-Notebook](https://github.com/OpenFlutter/Flutter-Notebook) - FlutterDemo合集，今天你fu了吗
 - [huextrat/Taskist](https://github.com/huextrat/Taskist) - Flutter ToDo App with Firebase
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
