@@ -483,7 +483,7 @@
 
 ## HLSL 
 
-- [Blinue/Magpie](https://github.com/Blinue/Magpie) - 将任何窗口放大至全屏
+- [Blinue/Magpie](https://github.com/Blinue/Magpie) - An all-purpose window scaling tool.
 
 ## HTML 
 
@@ -522,7 +522,7 @@
 
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [qintianchen/GAutomatorView](https://github.com/qintianchen/GAutomatorView) - GAutomatorView的个人开发版本
-- [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is the modern data workflow orchestration platform with powerful user interface, dedicated to solving complex task dependencies in the data pipeline and providing various types
+- [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
 - [jindrapetrik/jpexs-decompiler](https://github.com/jindrapetrik/jpexs-decompiler) - JPEXS Free Flash Decompiler
 - [BowlerHatLLC/vscode-as3mxml](https://github.com/BowlerHatLLC/vscode-as3mxml) - ActionScript & MXML language extension for Visual Studio Code. Develop apps for Adobe AIR, Adobe Flash Player, or Apache Royale.
 - [Haleydu/Cimoc](https://github.com/Haleydu/Cimoc) - 漫画阅读器
@@ -819,6 +819,7 @@
 
 ## Python 
 
+- [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - GPTCache is a library for creating semantic cache to store responses from LLM queries.
 - [ninehills/chatglm-openai-api](https://github.com/ninehills/chatglm-openai-api) - Provide OpenAI style API for  ChatGLM-6B and Chinese Embeddings Model
 - [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
 - [thomas-yanxin/LangChain-ChatGLM-Webui](https://github.com/thomas-yanxin/LangChain-ChatGLM-Webui) - 基于LangChain和ChatGLM-6B等系列LLM的针对本地知识库的自动问答
@@ -837,7 +838,7 @@
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-- [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B：开源双语对话语言模型  | An Open Bilingual Dialogue Language Model
+- [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
 - [jerryjliu/llama_index](https://github.com/jerryjliu/llama_index) - LlamaIndex (GPT Index) is a project that provides a central interface to connect your LLM's with external data.
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai) - 基于向量数据库与GPT3.5的通用本地知识库方案(A universal local knowledge base solution based on vector database and GPT3.5)
@@ -1233,6 +1234,8 @@
 
 ## Rust 
 
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - an experimental alternative to poetry/pip/pipenv/pyenv/venv/virtualenv/pdm/hatch/…
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
 - [datafuselabs/askbend](https://github.com/datafuselabs/askbend) - AskBend: SQL-based Knowledge Base Search and Completion using Databend
