@@ -321,6 +321,7 @@
 - [ConnectAI-E/Feishu-OpenAI-Stream-Chatbot](https://github.com/ConnectAI-E/Feishu-OpenAI-Stream-Chatbot) - 🥖可以流式输出文本的飞书openai机器人
 - [samber/mo](https://github.com/samber/mo) - 🦄  Monads and popular FP abstractions, powered by Go 1.18+ Generics (Option, Result, Either...)
 - [janpfeifer/gonb](https://github.com/janpfeifer/gonb) - GoNB, a Go Notebook Kernel for Jupyter
+- [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 - [cosmos72/gomacro](https://github.com/cosmos72/gomacro) - Interactive Go interpreter and debugger with REPL, Eval, generics and Lisp-like macros
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
@@ -661,7 +662,6 @@
 ## Lua 
 
 - [nvim-zh/colorful-winsep.nvim](https://github.com/nvim-zh/colorful-winsep.nvim) - Make your nvim window separators colorful
-- [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 - [nathom/filetype.nvim](https://github.com/nathom/filetype.nvim) - A faster version of filetype.vim
 - [KURANADO2/hammerspoon-kuranado](https://github.com/KURANADO2/hammerspoon-kuranado) - Hammerspoon config（Support custom shortcut keys, emoji search, application shortcut switching, real-time network speed, key echo, etc.）
 - [LintaoAmons/VimEverywhere](https://github.com/LintaoAmons/VimEverywhere) - Learn one vim, Use everywhere.
