@@ -120,6 +120,7 @@
 
 ## C# # 
 
+- [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [eibol/ffmpeg_batch](https://github.com/eibol/ffmpeg_batch) - FFmpeg Batch AV Converter
 - [Mzying2001/CefFlashBrowser](https://github.com/Mzying2001/CefFlashBrowser) - Flash浏览器 / Flash Browser
 - [Perfare/AssetStudio](https://github.com/Perfare/AssetStudio) - AssetStudio is a tool for exploring, extracting and exporting assets and assetbundles.
@@ -826,6 +827,7 @@
 
 ## Python 
 
+- [larksuite/oapi-sdk-python](https://github.com/larksuite/oapi-sdk-python) - Larksuite development interface SDK
 - [pynecone-io/pynecone](https://github.com/pynecone-io/pynecone) - 🕸 Web apps in pure Python 🐍
 - [gventuri/pandas-ai](https://github.com/gventuri/pandas-ai) - Pandas AI is a Python library that integrates generative artificial intelligence capabilities into Pandas, making dataframes conversational
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - GPTCache is a library for creating semantic cache to store responses from LLM queries.
@@ -970,7 +972,6 @@
 - [ffalcinelli/pydivert](https://github.com/ffalcinelli/pydivert) - A Python binding for WinDivert driver
 - [touilleMan/godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 🐍🐍🐍
 - [SCons/scons](https://github.com/SCons/scons) - SCons - a software construction tool
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
 - [Python-World/python-mini-projects](https://github.com/Python-World/python-mini-projects) - A collection of simple python mini projects to enhance your python skills
 - [HypothesisWorks/hypothesis](https://github.com/HypothesisWorks/hypothesis) - Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
 - [Knio/dominate](https://github.com/Knio/dominate) - Dominate is a Python library for creating and manipulating HTML documents using an elegant DOM API.  It allows you to write HTML pages in pure Python very concisely, which eliminate the need to learn 
@@ -1055,7 +1056,7 @@
 - [rsalmei/clearly](https://github.com/rsalmei/clearly) - Clearly see and debug your celery cluster in real time!
 - [django/asgiref](https://github.com/django/asgiref) - ASGI specification and utilities
 - [fluiddyn/transonic](https://github.com/fluiddyn/transonic) - :rocket: Make your Python code fly at transonic speeds!
-- [quora/pyanalyze](https://github.com/quora/pyanalyze) - A static analysis tool for Python
+- [quora/pyanalyze](https://github.com/quora/pyanalyze) - A Python type checker
 - [brainix/pottery](https://github.com/brainix/pottery) - Redis for humans. 🌎🌍🌏
 - [ambv/retype](https://github.com/ambv/retype) - Re-apply type annotations from .pyi stubs to your codebase.
 - [CoatiSoftware/SourcetrailPythonIndexer](https://github.com/CoatiSoftware/SourcetrailPythonIndexer) - Python Indexer for Sourcetrail based on jedi, parso and SourcetrailDB
@@ -1450,6 +1451,8 @@
 
 ## Shell 
 
+- [gshang2017/docker](https://github.com/gshang2017/docker) - Synology nas docker
+- [jlesage/docker-baseimage-gui](https://github.com/jlesage/docker-baseimage-gui) - A minimal docker baseimage to ease creation of X graphical application containers
 - [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck) - Emulator configurator for Steam Deck
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [cisagov/ansible-role-vnc-server](https://github.com/cisagov/ansible-role-vnc-server) - An Ansible role for installing a VNC server
