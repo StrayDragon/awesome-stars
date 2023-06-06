@@ -322,17 +322,17 @@
 
 - [lighttiger2505/sqls](https://github.com/lighttiger2505/sqls) - SQL language server written in Go.
 - [agi-cn/llmplugin](https://github.com/agi-cn/llmplugin) - plugin for LLM
-- [ConnectAI-E/Feishu-EX-ChatGPT](https://github.com/ConnectAI-E/Feishu-EX-ChatGPT) - 📺 Feishu-EX-ChatGPT 并通过注册机制来激活飞书机器人的插件生态，现已支持联网，生图，公式计算
+- [ConnectAI-E/Feishu-EX-ChatGPT](https://github.com/ConnectAI-E/Feishu-EX-ChatGPT) - 🎒 Feishu-EX-ChatGPT 并通过注册机制来激活飞书机器人的插件生态，现已支持联网，生图，公式计算
 - [golang/mobile](https://github.com/golang/mobile) - [mirror] Go on Mobile
 - [bytedance/mockey](https://github.com/bytedance/mockey) - a simple and easy-to-use golang mock library
-- [ConnectAI-E/Feishu-OpenAI-Stream-Chatbot](https://github.com/ConnectAI-E/Feishu-OpenAI-Stream-Chatbot) - 🥖可以流式输出文本的飞书openai机器人
+- [ConnectAI-E/Feishu-OpenAI-Stream-Chatbot](https://github.com/ConnectAI-E/Feishu-OpenAI-Stream-Chatbot) - 🎒 可以流式输出文本的飞书openai机器人
 - [samber/mo](https://github.com/samber/mo) - 🦄  Monads and popular FP abstractions, powered by Go 1.18+ Generics (Option, Result, Either...)
 - [janpfeifer/gonb](https://github.com/janpfeifer/gonb) - GoNB, a Go Notebook Kernel for Jupyter
 - [cosmos72/gomacro](https://github.com/cosmos72/gomacro) - Interactive Go interpreter and debugger with REPL, Eval, generics and Lisp-like macros
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 - [bytemate/larkgpt](https://github.com/bytemate/larkgpt) - Lark chatgpt bot
-- [ConnectAI-E/Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI) - 🎒飞书  ×（GPT-4 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
+- [ConnectAI-E/Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI) - 🎒 飞书  ×（GPT-4 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 - [go-lark/lark](https://github.com/go-lark/lark) - An easy-to-use SDK for Feishu and Lark Open Platform (Messaging API only)
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd
@@ -691,7 +691,7 @@
 - [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - A feature-rich Go development plugin, leveraging gopls, treesitter AST, Dap, and various Go tools to enhance the development experience.
 - [ray-x/aurora](https://github.com/ray-x/aurora) - A vivid dark theme for (Neo)Vim. Optimized for treesitter, LSP.
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
-- [mizlan/iswap.nvim](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and more. Powered by tree-sitter.
+- [mizlan/iswap.nvim](https://github.com/mizlan/iswap.nvim) - Interactively select and swap function arguments, list elements, and much more. Powered by tree-sitter.
 - [gennaro-tedesco/nvim-peekup](https://github.com/gennaro-tedesco/nvim-peekup) - 👀 dynamically interact with vim registers
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [nvim-treesitter/nvim-treesitter-refactor](https://github.com/nvim-treesitter/nvim-treesitter-refactor) - Refactor module for nvim-treesitter
@@ -847,6 +847,7 @@
 
 ## Python 
 
+- [andy-landy/traceback_with_variables](https://github.com/andy-landy/traceback_with_variables) - Adds variables to python traceback. Simple, lightweight, controllable. Debug reasons of exceptions by logging or pretty printing colorful variable contexts for each frame in a stacktrace, showing ever
 - [WankkoRee/eaio](https://github.com/WankkoRee/eaio) - 一个通过将磁盘上所有 Electron 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 pnpm 一样。
 - [Significant-Gravitas/Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
 - [clue-ai/ChatYuan](https://github.com/clue-ai/ChatYuan) - ChatYuan: Large Language Model for Dialogue in Chinese and English
@@ -1272,6 +1273,7 @@
 
 ## Rust 
 
+- [LeagueRaINi/Aida64-Keys](https://github.com/LeagueRaINi/Aida64-Keys) - 
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
 - [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
@@ -1298,7 +1300,7 @@
 - [obv-mikhail/InputBot](https://github.com/obv-mikhail/InputBot) - A Rust library for creating global hotkeys, and emulating inputs.
 - [autometrics-dev/autometrics-rs](https://github.com/autometrics-dev/autometrics-rs) - Easily add metrics to your code that actually help you spot and debug issues in production. Built on Prometheus and OpenTelemetry.
 - [tafia/quick-protobuf](https://github.com/tafia/quick-protobuf) - A rust implementation of protobuf parser
-- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A fast and polyglot tool for code searching, linting, rewriting at large scale. Written in Rust
+- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A fast and polyglot tool for code structrual search, lint and rewriting at large scale. Written in Rust
 - [neoeinstein/protoc-gen-prost](https://github.com/neoeinstein/protoc-gen-prost) - 
 - [zitsen/xlsx2csv.rs](https://github.com/zitsen/xlsx2csv.rs) - Excel (eg. .xlsx/.xls) to CSV/TSV Format Converter in Rust
 - [godot-rust/gdext](https://github.com/godot-rust/gdext) - Rust bindings for Godot 4
