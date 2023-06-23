@@ -679,7 +679,7 @@
 
 ## Kotlin 
 
-- [fcitx5-android/fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) - An attempt to run fcitx5 on Android
+- [fcitx5-android/fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) - Fcitx5 input method framework and engines ported to Android
 - [Petterpx/StateX](https://github.com/Petterpx/StateX) - Android状态页处理工具，支持View与JetPack Compose。Android status page processing tool, support traditional view and  JetPack Compose.
 - [jakubriegel/kotlin-shell](https://github.com/jakubriegel/kotlin-shell) - Tool for performing shell-like programing in Kotlin
 - [JetBrains/Exposed](https://github.com/JetBrains/Exposed) - Kotlin SQL Framework
@@ -1310,7 +1310,6 @@
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
-- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [I-Info/BingLite](https://github.com/I-Info/BingLite) - A lightweight new Bing (AI chat) desktop application based on Tauri.
 - [reem/rust-ordered-float](https://github.com/reem/rust-ordered-float) - 
 - [causal-agent/scraper](https://github.com/causal-agent/scraper) - HTML parsing and querying with CSS selectors
@@ -1605,6 +1604,7 @@
 - [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English, 中文, 日本語, and 한국어. 让生产力加倍的 ChatGPT 快捷指令，按照领域和功能分区，可对提示词进行标签筛选、关键词搜索和一键复制。
 - [zanllp/sd-webui-baidu-netdisk](https://github.com/zanllp/sd-webui-baidu-netdisk) - sd-webui百度云支持，由sd-webui-infinite-image-browsing单独拆分
 - [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) - A CLI that converts natural language to shell commands.
 - [datafuselabs/askbend](https://github.com/datafuselabs/askbend) - AskBend: SQL-based Knowledge Base Search and Completion using Databend
 - [guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles) - Document Chatbot — multiple files. Powered by GPT / Embedding.
@@ -1650,7 +1650,7 @@
 - [EndBug/add-and-commit](https://github.com/EndBug/add-and-commit) - :octocat: Automatically commit changes made in your workflow run directly to your repo
 - [wbkd/react-flow](https://github.com/wbkd/react-flow) - Highly customizable library for building an interactive node-based UI, workflow editor, flow chart or static diagram
 - [jupyter-lsp/jupyterlab-lsp](https://github.com/jupyter-lsp/jupyterlab-lsp) - Coding assistance for JupyterLab (code navigation + hover suggestions + linters + autocompletion + rename) using Language Server Protocol
-- [botpress/botpress](https://github.com/botpress/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
+- [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 - [nick-fields/retry](https://github.com/nick-fields/retry) - Retries a GitHub Action step on failure or timeout
 - [peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment) - A GitHub action to create or update an issue or pull request comment
 - [styfle/cancel-workflow-action](https://github.com/styfle/cancel-workflow-action) - ⏹️ GitHub Action to cancel previous running workflows on push
