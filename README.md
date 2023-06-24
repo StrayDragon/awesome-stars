@@ -80,6 +80,7 @@
 
 ## C 
 
+- [webserver-llc/angie](https://github.com/webserver-llc/angie) - Angie - drop-in replacement for Nginx
 - [kdave/btrfs-progs](https://github.com/kdave/btrfs-progs) - Development of userspace BTRFS tools
 - [swaywm/sway](https://github.com/swaywm/sway) - i3-compatible Wayland compositor
 - [yanfeizhang/coder-kung-fu](https://github.com/yanfeizhang/coder-kung-fu) - 开发内功修炼
@@ -120,6 +121,7 @@
 
 ## C# # 
 
+- [xisuo67/XHS-Spider](https://github.com/xisuo67/XHS-Spider) - 小红书数据采集、网站图片、视频资源批量下载工具，颜值超高的数据采集工具（批量下载，视频提取，图片，去水印等）
 - [FancyWM/fancywm](https://github.com/FancyWM/fancywm) - FancyWM - a dynamic tiling window manager for Windows 10/11
 - [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx) - Experimental Nintendo Switch Emulator written in C#
 - [eibol/ffmpeg_batch](https://github.com/eibol/ffmpeg_batch) - FFmpeg Batch AV Converter
@@ -329,6 +331,7 @@
 
 ## Go 
 
+- [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel 🚀
 - [lighttiger2505/sqls](https://github.com/lighttiger2505/sqls) - SQL language server written in Go.
 - [agi-cn/llmplugin](https://github.com/agi-cn/llmplugin) - plugin for LLM
 - [ConnectAI-E/Feishu-EX-ChatGPT](https://github.com/ConnectAI-E/Feishu-EX-ChatGPT) - 🎒 Feishu-EX-ChatGPT 并通过注册机制来激活飞书机器人的插件生态，现已支持联网，生图，公式计算
@@ -760,6 +763,7 @@
 
 ## Others 
 
+- [phodal/aigc](https://github.com/phodal/aigc) - 《构筑大语言模型应用》一本关于 AIGC 的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。
 - [fec123/WenTieJun](https://github.com/fec123/WenTieJun) - 温铁军教授的访谈，节目，演讲汇总。
 - [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总 :100:
 - [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
