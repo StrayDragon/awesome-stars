@@ -763,7 +763,7 @@
 
 ## Others 
 
-- [phodal/aigc](https://github.com/phodal/aigc) - 《构筑大语言模型应用》一本关于 AIGC 的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。
+- [phodal/aigc](https://github.com/phodal/aigc) - 《构筑大语言模型应用：真实世界应用案例》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。
 - [fec123/WenTieJun](https://github.com/fec123/WenTieJun) - 温铁军教授的访谈，节目，演讲汇总。
 - [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总 :100:
 - [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
@@ -1591,6 +1591,7 @@
 
 ## TypeScript 
 
+- [chaitin/safeline](https://github.com/chaitin/safeline) - 长亭科技自研，基于业界领先的语义引擎检测技术，打造的简洁、易用的免费 WAF
 - [daniel-sc/bash-shell-to-bat-converter](https://github.com/daniel-sc/bash-shell-to-bat-converter) - Converter for bash shell scripts to windows batch files.
 - [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
 - [typescript-exercises/typescript-exercises](https://github.com/typescript-exercises/typescript-exercises) - A set of interactive TypeScript exercises
