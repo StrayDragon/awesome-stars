@@ -223,6 +223,7 @@
 
 ## CSS 
 
+- [purton-tech/rust-on-nails](https://github.com/purton-tech/rust-on-nails) - Full stack web architecture for Rust
 - [PKM-er/Obsidian-Plug-and-Play](https://github.com/PKM-er/Obsidian-Plug-and-Play) - 一个简单的Obsidian 即开即用库，希望它能节省你调试的时间，更多关注笔记和知识本身。A simple Obsidian plug and play vault.Hopefully it will save you time debugging and pay more attention to the notes and knowledge itself.
 - [deeplearning-ai/machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn) - Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著
 - [marginnoteapp/MarkDown](https://github.com/marginnoteapp/MarkDown) - This project will not be updated. Try to use Milkdown.
@@ -332,13 +333,14 @@
 
 ## Go 
 
+- [sentriz/cliphist](https://github.com/sentriz/cliphist) - wayland clipboard manager
 - [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports V2Ray, Xray, SS, SSR, Trojan and Pingtunnel 🚀
 - [lighttiger2505/sqls](https://github.com/lighttiger2505/sqls) - SQL language server written in Go.
 - [agi-cn/llmplugin](https://github.com/agi-cn/llmplugin) - plugin for LLM
 - [ConnectAI-E/Feishu-EX-ChatGPT](https://github.com/ConnectAI-E/Feishu-EX-ChatGPT) - 🎒 Feishu-EX-ChatGPT 并通过注册机制来激活飞书机器人的插件生态，现已支持联网，生图，公式计算
 - [golang/mobile](https://github.com/golang/mobile) - [mirror] Go on Mobile
 - [bytedance/mockey](https://github.com/bytedance/mockey) - a simple and easy-to-use golang mock library
-- [ConnectAI-E/Feishu-OpenAI-Stream-Chatbot](https://github.com/ConnectAI-E/Feishu-OpenAI-Stream-Chatbot) - 🎒 可以流式输出文本的飞书openai机器人
+- [ConnectAI-E/Feishu-OpenAI-Stream-Chatbot](https://github.com/ConnectAI-E/Feishu-OpenAI-Stream-Chatbot) - 🎒 可以流式输出文本的飞书openai机器人 Feishu-OpenAI robot that can stream chat
 - [samber/mo](https://github.com/samber/mo) - 🦄  Monads and popular FP abstractions, powered by Go 1.18+ Generics (Option, Result, Either...)
 - [janpfeifer/gonb](https://github.com/janpfeifer/gonb) - GoNB, a Go Notebook Kernel for Jupyter
 - [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
@@ -765,11 +767,11 @@
 
 ## Others 
 
+- [jobindjohn/obsidian-publish-mkdocs](https://github.com/jobindjohn/obsidian-publish-mkdocs) - A Template to Publish Obsidian/Foam Notes on Github Pages (uses MkDocs)
 - [fec123/WenTieJun](https://github.com/fec123/WenTieJun) - 温铁军教授的访谈，节目，演讲汇总。
 - [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总 :100:
 - [kyrolabs/awesome-langchain](https://github.com/kyrolabs/awesome-langchain) - 😎 Awesome list of tools and projects with the awesome LangChain framework
 - [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
-- [RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) - The official GitHub page for the survey paper "A Survey of Large Language Models".
 - [n1ckoates/steamdeck-emulation](https://github.com/n1ckoates/steamdeck-emulation) - 🎮 Guide to play emulated games on Steam Deck
 - [imadr/Unity-game-hacking](https://github.com/imadr/Unity-game-hacking) - A guide for hacking unity games
 - [bevyengine/bevy-assets](https://github.com/bevyengine/bevy-assets) - A collection of Bevy assets, plugins, learning resources, and apps made by the community
@@ -899,6 +901,7 @@
 - [ninehills/chatglm-openai-api](https://github.com/ninehills/chatglm-openai-api) - Provide OpenAI style API for  ChatGLM-6B and Chinese Embeddings Model
 - [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - MiniGPT-4: Enhancing Vision-language Understanding with Advanced Large Language Models
 - [thomas-yanxin/LangChain-ChatGLM-Webui](https://github.com/thomas-yanxin/LangChain-ChatGLM-Webui) - 基于LangChain和ChatGLM-6B等系列LLM的针对本地知识库的自动问答
+- [RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) - The official GitHub page for the survey paper "A Survey of Large Language Models".
 - [cadl/chatdbt](https://github.com/cadl/chatdbt) - 
 - [jupyterlab/jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - A generative AI extension for JupyterLab
 - [lm-sys/FastChat](https://github.com/lm-sys/FastChat) - An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and FastChat-T5.
@@ -1307,6 +1310,7 @@
 
 ## Rust 
 
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - React-like GUI library for desktop, web, mobile, TUI, and more.
 - [console-rs/console](https://github.com/console-rs/console) - A rust console and terminal abstraction
 - [phodal/aigc](https://github.com/phodal/aigc) - 《构筑大语言模型应用：应用开发与架构设计》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。
 - [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely.
@@ -1520,7 +1524,8 @@
 
 ## Shell 
 
-- [binpash/try](https://github.com/binpash/try) - "Do, or do not. There is no try."  We're setting out to change that: `try cmd` and commit---or not.
+- [gissf1/zram-hibernate](https://github.com/gissf1/zram-hibernate) - Allows dynamic swap changes to activate disk-based storage as swap for hibernation support when a system typically uses only zram swap during normal operation.
+- [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 - [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。
 - [amishmm/pacman-systemd-inhibit](https://github.com/amishmm/pacman-systemd-inhibit) - Inhibit system shutdown, reboot etc. when pacman is upgrading the system
 - [cxOrz/dotfiles-hyprland](https://github.com/cxOrz/dotfiles-hyprland) - Hyprland on ArchLinux customization, waybar & lofi & kitty & swaylock
