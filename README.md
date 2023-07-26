@@ -783,6 +783,7 @@
 
 ## Others 
 
+- [ConnectAI-E/Awesome-BaseScript](https://github.com/ConnectAI-E/Awesome-BaseScript) - 🍻 飞书多维表格扩展脚本项目汇总 A curated list of awesome lark-base script resources, demo, libraries, tools and more.
 - [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 精益副业：程序员如何优雅地做副业
 - [rustlang-cn/Rustt](https://github.com/rustlang-cn/Rustt) - 🥇RustCn 翻译计划，代号 Rustt。这里有国内最优质、最实时的 Rust 技术文章、学习资料和新闻资讯，欢迎大家 🌟 订阅。
 - [PKU-YuanGroup/ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw) - 中文法律大模型
@@ -895,6 +896,8 @@
 
 ## Python 
 
+- [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)
+- [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2) - CodeGeeX2: A More Powerful Multilingual Code Generation Model
 - [FrancescElies/image-to-scan](https://github.com/FrancescElies/image-to-scan) - command line tool that transforms a photo of a document to a scanned document
 - [facebookincubator/cinder](https://github.com/facebookincubator/cinder) - Cinder is Meta's internal performance-oriented production version of CPython.
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
@@ -916,7 +919,7 @@
 - [clue-ai/ChatYuan](https://github.com/clue-ai/ChatYuan) - ChatYuan: Large Language Model for Dialogue in Chinese and English
 - [THUDM/VisualGLM-6B](https://github.com/THUDM/VisualGLM-6B) - Chinese and English multimodal conversational language model | 多模态中英双语对话语言模型
 - [csunny/DB-GPT](https://github.com/csunny/DB-GPT) - Revolutionizing Database Interactions with Private LLM Technology
-- [imClumsyPanda/langchain-ChatGLM](https://github.com/imClumsyPanda/langchain-ChatGLM) - langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识库的 ChatGLM 问答
+- [chatchat-space/langchain-ChatGLM](https://github.com/chatchat-space/langchain-ChatGLM) - langchain-ChatGLM, local knowledge based ChatGLM with langchain ｜ 基于本地知识库的 ChatGLM 问答
 - [rashevskyv/dbi](https://github.com/rashevskyv/dbi) - Author is duckbill
 - [IDEA-CCNL/Fengshenbang-LM](https://github.com/IDEA-CCNL/Fengshenbang-LM) - Fengshenbang-LM(封神榜大模型)是IDEA研究院认知计算与自然语言研究中心主导的大模型开源体系，成为中文AIGC和认知智能的基础设施。
 - [zixiiu/Digital_Life_Server](https://github.com/zixiiu/Digital_Life_Server) - Yet another voice assistant, but alive.
@@ -1337,6 +1340,7 @@
 
 ## Rust 
 
+- [Horus645/swww](https://github.com/Horus645/swww) - A Solution to your Wayland Wallpaper Woes
 - [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
 - [yuankunzhang/charming](https://github.com/yuankunzhang/charming) - A visualization library for Rust
 - [WuBingzheng/build-lua-in-rust](https://github.com/WuBingzheng/build-lua-in-rust) - 《用Rust实现Lua解释器》 / _Build a Lua Interpreter in Rust_
