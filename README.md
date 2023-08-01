@@ -85,6 +85,7 @@
 
 ## C 
 
+- [alibaba/tengine](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features
 - [openresty/echo-nginx-module](https://github.com/openresty/echo-nginx-module) - An Nginx module for bringing the power of "echo", "sleep", "time" and more to Nginx's config file
 - [chobits/ngx_http_proxy_connect_module](https://github.com/chobits/ngx_http_proxy_connect_module) - A forward proxy module for CONNECT request handling
 - [openresty/headers-more-nginx-module](https://github.com/openresty/headers-more-nginx-module) - Set, add, and clear arbitrary output headers in NGINX http servers
@@ -601,6 +602,7 @@
 
 ## JavaScript 
 
+- [utags/utags](https://github.com/utags/utags) - 🏷️ Allow users to add custom tags to links.
 - [zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [wxsms/bilibili-video2mp3](https://github.com/wxsms/bilibili-video2mp3) - A tool to download all videos and convert to mp3 inside a video set of bilibili.
@@ -795,6 +797,8 @@
 
 ## Others 
 
+- [520hacker/awesome-ai](https://github.com/520hacker/awesome-ai) - 对开源AI转发套壳应用生态进行研究，收集开源AI转发套壳应用，并进行对比。 ChatGPT,OPENAI.AZURE,BAIDU,XUNFEI
+- [theLSA/emergency-response-checklist](https://github.com/theLSA/emergency-response-checklist) - 应急响应指南 / emergency response checklist
 - [rfyiamcool/notes](https://github.com/rfyiamcool/notes) - 🔥 技术笔记 ( 高性能/分布式/kubernetes/golang/kv引擎等 )
 - [ConnectAI-E/Awesome-BaseScript](https://github.com/ConnectAI-E/Awesome-BaseScript) - 🍻 飞书多维表格扩展脚本项目汇总 A curated list of awesome lark-base script resources, demo, libraries, tools and more.
 - [easychen/lean-side-bussiness](https://github.com/easychen/lean-side-bussiness) - 精益副业：程序员如何优雅地做副业
