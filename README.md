@@ -177,7 +177,7 @@
 - [mhammond/pywin32](https://github.com/mhammond/pywin32) - Python for Windows (pywin32) Extensions
 - [leanflutter/screen_capturer](https://github.com/leanflutter/screen_capturer) - This plugin allows Flutter desktop apps to capture screenshots.
 - [daipeihust/im-select](https://github.com/daipeihust/im-select) - 📟 Switch your input method through terminal
-- [Tencent/puerts](https://github.com/Tencent/puerts) - PUER(普洱) Typescript. Let's write your game with TypeScript in UE or Unity.
+- [Tencent/puerts](https://github.com/Tencent/puerts) - PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.
 - [rapidsai/cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [2shady4u/godot-sqlite](https://github.com/2shady4u/godot-sqlite) - GDNative wrapper for SQLite (Godot 3.2+)
@@ -265,6 +265,7 @@
 
 ## Dart 
 
+- [flet-dev/serious-python](https://github.com/flet-dev/serious-python) - Python runtime for Flutter apps
 - [epam-cross-platform-lab/swagger-dart-code-generator](https://github.com/epam-cross-platform-lab/swagger-dart-code-generator) - Swagger/OpenAPI code generator based on Chopper and JsonAnnotation for Flutter
 - [rekabhq/fantom](https://github.com/rekabhq/fantom) - OpenAPI generator for Dart & Flutter
 - [gibahjoe/openapi-generator-dart](https://github.com/gibahjoe/openapi-generator-dart) - Openapi Generator for Dart/Flutter
@@ -918,6 +919,7 @@
 
 ## Python 
 
+- [plbrault/youre-the-os](https://github.com/plbrault/youre-the-os) - A game where you are a computer's OS and you have to manage processes, memory and I/O events.
 - [OTFCG/Awesome-Game-Analysis](https://github.com/OTFCG/Awesome-Game-Analysis) - a comprehensive collection of video game tech analysis resources
 - [newfyu/Braindoor](https://github.com/newfyu/Braindoor) - Braindoor can easily use local files to build ChatGPT's external knowledge base.
 - [CatAnd-Dog/chatgptplugin](https://github.com/CatAnd-Dog/chatgptplugin) - chatgpt插件集合。目前拥有联网，绘图功能。适配主流站点。gpt插件，插件功能集合
@@ -1367,6 +1369,7 @@
 
 ## Rust 
 
+- [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [photino/zino](https://github.com/photino/zino) - Next-generation framework for composable applications in Rust.
 - [ZihanType/nade](https://github.com/ZihanType/nade) - Adding named and default arguments to Rust functions -- 为 Rust 函数添加命名参数和默认参数
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 interactive call graph generator that supports various programming languages
@@ -1387,7 +1390,7 @@
 - [apache/incubator-opendal](https://github.com/apache/incubator-opendal) - Apache OpenDAL: access data freely.
 - [LeagueRaINi/Aida64-Keys](https://github.com/LeagueRaINi/Aida64-Keys) - 
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
-- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
+- [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
 - [zkat/big-brain](https://github.com/zkat/big-brain) - Utility AI library for the Bevy game engine
 - [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
