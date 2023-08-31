@@ -267,6 +267,7 @@
 
 ## Dart 
 
+- [mylxsw/aidea](https://github.com/mylxsw/aidea) - AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
 - [flet-dev/serious-python](https://github.com/flet-dev/serious-python) - Python runtime for Flutter apps
 - [epam-cross-platform-lab/swagger-dart-code-generator](https://github.com/epam-cross-platform-lab/swagger-dart-code-generator) - Swagger/OpenAPI code generator based on Chopper and JsonAnnotation for Flutter
 - [rekabhq/fantom](https://github.com/rekabhq/fantom) - OpenAPI generator for Dart & Flutter
@@ -603,6 +604,8 @@
 
 ## JavaScript 
 
+- [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A minimalist bilingual translation Extension & Greasemonkey Script  (一个简约的双语网页翻译扩展 & 油猴脚本。)
+- [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google or Yandex
 - [utags/utags](https://github.com/utags/utags) - 🏷️ Allow users to add custom tags to links.
 - [zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
@@ -1376,6 +1379,7 @@
 
 ## Rust 
 
+- [NiklasEi/bevy_game_template](https://github.com/NiklasEi/bevy_game_template) - Template for a Bevy game including CI/CD for web, Windows, Linux, macOS, iOS and Android
 - [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere.
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [photino/zino](https://github.com/photino/zino) - Next-generation framework for composable applications in Rust.
