@@ -351,6 +351,7 @@
 
 ## Go 
 
+- [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
 - [IBM/fp-go](https://github.com/IBM/fp-go) - functional programming library for golang
 - [cch123/elasticsql](https://github.com/cch123/elasticsql) - convert sql to elasticsearch DSL in golang(go)
 - [lifei6671/interview-go](https://github.com/lifei6671/interview-go) - golang面试题集合
