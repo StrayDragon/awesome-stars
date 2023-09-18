@@ -727,6 +727,7 @@
 - [qwfy/doc-browser](https://github.com/qwfy/doc-browser) - A documentation browser with support for DevDocs, Dash and Hoogle, written in Haskell and QML
 - [XD-DENG/Spark-practice](https://github.com/XD-DENG/Spark-practice) - Apache Spark (PySpark) Practice on Real Data
 - [aaren/notedown](https://github.com/aaren/notedown) - Markdown &lt;=&gt; IPython Notebook
+- [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) - wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
 - [coells/100days](https://github.com/coells/100days) - 100 days of algorithms
 
 ## Kotlin 
@@ -1256,7 +1257,6 @@
 - [click-contrib/click-plugins](https://github.com/click-contrib/click-plugins) - Register CLI commands via setuptools entry-points.
 - [click-contrib/click-help-colors](https://github.com/click-contrib/click-help-colors) - Colorization of help messages in Click :art:
 - [jab/bidict](https://github.com/jab/bidict) - The bidirectional mapping library for Python.
-- [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) - wtfpython的中文翻译/施工结束/ 能力有限，欢迎帮我改进翻译
 - [jedie/poetry-publish](https://github.com/jedie/poetry-publish) - Helper to build and upload a project that used poetry to PyPi, with prechecks
 - [GijsTimmers/cursor](https://github.com/GijsTimmers/cursor) - A small Python package to hide or show the terminal cursor.
 - [magmax/python-inquirer](https://github.com/magmax/python-inquirer) - A collection of common interactive command line user interfaces, based on Inquirer.js (https://github.com/SBoudrias/Inquirer.js/)
