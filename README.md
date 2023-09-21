@@ -354,6 +354,7 @@
 
 ## Go 
 
+- [golang-module/carbon](https://github.com/golang-module/carbon) - A simple, semantic and developer-friendly golang package for datetime
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
 - [nwg-piotr/nwg-dock-hyprland](https://github.com/nwg-piotr/nwg-dock-hyprland) - GTK3-based dock for Hyprland
 - [alist-org/alist](https://github.com/alist-org/alist) - 🗂️A file list/WebDAV program that supports multiple storages, powered by Gin and Solidjs. / 一个支持多存储的文件列表/WebDAV程序，使用 Gin 和 Solidjs。
@@ -385,6 +386,7 @@
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [devops-kung-fu/hookz](https://github.com/devops-kung-fu/hookz) - Manages client side git hooks resulting in the ability to create git action pipelines.
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
 - [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to cloud, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our do
@@ -781,7 +783,6 @@
 ## MDX 
 
 - [facebookresearch/playtorch](https://github.com/facebookresearch/playtorch) - PlayTorch is a framework for rapidly creating mobile AI experiences.
-- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [Eliot00/elliot00.com](https://github.com/Eliot00/elliot00.com) - 基于React/NextJS的个人博客系统
 
@@ -820,6 +821,7 @@
 
 ## Others 
 
+- [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources.
 - [leandromoreira/linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [afshinea/stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning) - VIP cheatsheets for Stanford's CS 229 Machine Learning
