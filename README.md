@@ -548,7 +548,6 @@
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
 - [HEIGE-PCloud/DoIt](https://github.com/HEIGE-PCloud/DoIt) - A clean, elegant and advanced blog theme for Hugo.
 - [ConnectAI-E/Awesome-BaseScript](https://github.com/ConnectAI-E/Awesome-BaseScript) - 🍻 飞书多维表格扩展脚本项目汇总 A curated list of awesome lark-base script resources, demo, libraries, tools and more.
-- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [FarseaSH/hugo-theme-moments](https://github.com/FarseaSH/hugo-theme-moments) - 
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
@@ -616,6 +615,7 @@
 
 ## JavaScript 
 
+- [traceless/alist-encrypt](https://github.com/traceless/alist-encrypt) - 这个项目主要是对 alist 的服务进行代理，提供 webdav 的加解密功能。支持 alist 网页在线播放加密的视频，查看加密的图片等功能，同时在 webdav 下的操作透明，自动实现文件资源的加解密。
 - [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A minimalist bilingual translation Extension & Greasemonkey Script  (一个简约的双语网页翻译扩展 & 油猴脚本。)
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google or Yandex
 - [utags/utags](https://github.com/utags/utags) - 🏷️ Allow users to add custom tags to links.
@@ -960,6 +960,7 @@
 - [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2) - CodeGeeX2: A More Powerful Multilingual Code Generation Model
 - [FrancescElies/image-to-scan](https://github.com/FrancescElies/image-to-scan) - command line tool that transforms a photo of a document to a scanned document
 - [facebookincubator/cinder](https://github.com/facebookincubator/cinder) - Cinder is Meta's internal performance-oriented production version of CPython.
+- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [xfangfang/Macast](https://github.com/xfangfang/Macast) - Macast is a cross-platform application which using mpv as DLNA Media Renderer.
 - [pydantic/bump-pydantic](https://github.com/pydantic/bump-pydantic) - Convert Pydantic from V1 to V2 ♻
 - [devidw/obsidian-to-hugo](https://github.com/devidw/obsidian-to-hugo) - Process Obsidian notes to publish them with Hugo. Supports transformation of Obsidian wiki links into Hugo shortcodes for internal linking.
