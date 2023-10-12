@@ -831,6 +831,7 @@
 
 ## Others 
 
+- [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
 - [comwrg/package-manager-proxy-settings](https://github.com/comwrg/package-manager-proxy-settings) - 记录各个包管理器代理设置坑点。
 - [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources.
 - [leandromoreira/linux-network-performance-parameters](https://github.com/leandromoreira/linux-network-performance-parameters) - Learn where some of the network sysctl variables fit into the Linux/Kernel network flow. Translations: 🇷🇺
@@ -935,6 +936,7 @@
 
 ## PHP 
 
+- [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) - Nextcloud AIO stands for Nextcloud All-in-One and provides easy deployment and maintenance with most features included in this one Nextcloud instance.
 - [zyx0814/dzzoffice](https://github.com/zyx0814/dzzoffice) - dzzoffice
 - [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
 - [san-kumar/howdoi](https://github.com/san-kumar/howdoi) - Get quick answers to common linux related questions, right inside your terminal by typing "howdoi [your question]".
@@ -955,6 +957,7 @@
 
 ## Python 
 
+- [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
 - [ansible/ansible-jupyter-kernel](https://github.com/ansible/ansible-jupyter-kernel) - Jupyter Notebook Kernel for running Ansible Tasks and Playbooks
 - [AntonFriberg/dagster-project-example](https://github.com/AntonFriberg/dagster-project-example) - An example of a Dagster project with a possible folder structure to organize the assets, jobs, repositories, schedules, and ops. Also has examples of unit-tests and docker deployment with a Postgresql
@@ -1020,7 +1023,7 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
-- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (GPT Index) is a data framework for your LLM applications
+- [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex (formerly GPT Index) is a data framework for your LLM applications
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai) - 基于向量数据库与GPT3.5的通用本地知识库方案(A universal local knowledge base solution based on vector database and GPT3.5)
 - [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt) - Play ChatGPT and other LLM with Xiaomi AI Speaker
@@ -1491,7 +1494,7 @@
 - [smallnest/concurrency-programming-via-rust](https://github.com/smallnest/concurrency-programming-via-rust) - 
 - [jakobhellermann/bevy_editor_pls](https://github.com/jakobhellermann/bevy_editor_pls) - In-App editor tools for bevy applications
 - [jakobhellermann/bevy-inspector-egui](https://github.com/jakobhellermann/bevy-inspector-egui) - Inspector plugin for the bevy game engine
-- [rust-boom/rust-boom](https://github.com/rust-boom/rust-boom) - rust awesome（资源）. 💥
+- [rust-boom/rust-boom](https://github.com/rust-boom/rust-boom) - Awesome rust（Rust 资源 | 学习 | 书）. 💥
 - [tokio-rs/prost](https://github.com/tokio-rs/prost) - PROST! a Protocol Buffers implementation for the Rust Language
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends
