@@ -94,7 +94,7 @@
 - [luben/zstd-jni](https://github.com/luben/zstd-jni) - JNI binding for Zstd
 - [google/ngx_brotli](https://github.com/google/ngx_brotli) - NGINX module for Brotli compression
 - [tokers/zstd-nginx-module](https://github.com/tokers/zstd-nginx-module) - Nginx modules for the Zstandard compression
-- [cunarist/rust-in-flutter](https://github.com/cunarist/rust-in-flutter) - Rust as your Flutter backend, Flutter as your Rust frontend
+- [cunarist/rinf](https://github.com/cunarist/rinf) - Rust as your Flutter backend, Flutter as your Rust frontend
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [webserver-llc/angie](https://github.com/webserver-llc/angie) - Angie - drop-in replacement for Nginx
 - [kdave/btrfs-progs](https://github.com/kdave/btrfs-progs) - Development of userspace BTRFS tools
@@ -959,6 +959,7 @@
 
 ## Python 
 
+- [nolze/msoffcrypto-tool](https://github.com/nolze/msoffcrypto-tool) - Python tool and library for decrypting MS Office files with passwords or other keys
 - [jtesta/ssh-audit](https://github.com/jtesta/ssh-audit) - SSH server & client security auditing (banner, key exchange, encryption, mac, compression, compatibility, security, etc)
 - [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform.
 - [prometheus-pve/prometheus-pve-exporter](https://github.com/prometheus-pve/prometheus-pve-exporter) - Exposes information gathered from Proxmox VE cluster for use by the Prometheus monitoring system
@@ -1466,7 +1467,7 @@
 - [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust.
 - [1Password/typeshare](https://github.com/1Password/typeshare) - Typeshare is the ultimate tool for synchronizing your type definitions between Rust and other languages for seamless FFI.
 - [retrage/gpt-macro](https://github.com/retrage/gpt-macro) - ChatGPT powered Rust proc macro that generates code at compile-time.
-- [farm-fe/farm](https://github.com/farm-fe/farm) - Super fast web build tool written in Rust - 基于 Rust 的极速 web 构建引擎
+- [farm-fe/farm](https://github.com/farm-fe/farm) - Extremely fast Vite-compatible web build tool written in Rust
 - [cloudwego/volo](https://github.com/cloudwego/volo) - Rust RPC framework with high-performance and strong-extensibility for building micro-services.
 - [lencx/ChatGPT](https://github.com/lencx/ChatGPT) - 🔮 ChatGPT Desktop Application (Mac, Windows and Linux)
 - [keke1008/hookmap](https://github.com/keke1008/hookmap) - Registers hotkeys and simulates keyboard and mouse input.
