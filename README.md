@@ -342,7 +342,7 @@
 - [gdquest-demos/godot-demos-2022](https://github.com/gdquest-demos/godot-demos-2022) - Free and open-source Godot demos for learning, with guides and tutorials: 2022 edition.
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - A free & open-source 2D sprite editor, made with the Godot Engine! Available on Windows, Linux, macOS and the Web!
 - [godotengine/godot-demo-projects](https://github.com/godotengine/godot-demo-projects) - Demonstration and Template Projects
-- [MitchMakesThings/Spell-Splosion](https://github.com/MitchMakesThings/Spell-Splosion) - A Godot Engine project to replicate the terrain destruction from Worms
+- [MitchMakesThings/Spell-Splosion](https://github.com/MitchMakesThings/Spell-Splosion) - A Godot Engine 3 project to replicate the terrain destruction from Worms
 - [MikeSchulze/gdUnit3](https://github.com/MikeSchulze/gdUnit3) - A Godot Unit Test Framework. Support for gdScript and c# unit testing
 - [didier-v/GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - A notification center for Godot Engine
 - [tavurth/godot-radial-menu](https://github.com/tavurth/godot-radial-menu) - A radial menu for Godot, supports Mobile & Desktop
@@ -623,6 +623,7 @@
 
 ## JavaScript 
 
+- [EvanNotFound/hexo-theme-redefine](https://github.com/EvanNotFound/hexo-theme-redefine) - Simplicity in Speed, Purity in Design: Redefine Your Hexo Journey.
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [yucai100/obsidian-proxy-github](https://github.com/yucai100/obsidian-proxy-github) - modified from juqkai
 - [key-networks/ztncui](https://github.com/key-networks/ztncui) - ZeroTier network controller UI
