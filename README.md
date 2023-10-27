@@ -1146,6 +1146,7 @@
 - [typilus/typilus](https://github.com/typilus/typilus) - Code for "Typilus: Neural Type Hints" PLDI 2020
 - [microsoft/ptgnn](https://github.com/microsoft/ptgnn) - A PyTorch Graph Neural Network Library
 - [asottile/reorder-python-imports](https://github.com/asottile/reorder-python-imports) - Rewrites source to reorder python imports
+- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
 - [LmeSzinc/AzurLaneAutoScript](https://github.com/LmeSzinc/AzurLaneAutoScript) - Azur Lane bot (CN/EN/JP/TW) 碧蓝航线脚本 | 无缝委托科研，全自动大世界
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [iswbm/magic-python](https://github.com/iswbm/magic-python) - Python 黑魔法手册
@@ -1511,7 +1512,7 @@
 - [rust-boom/rust-boom](https://github.com/rust-boom/rust-boom) - Awesome rust（Rust 资源 | 学习 | 书）. 💥
 - [tokio-rs/prost](https://github.com/tokio-rs/prost) - PROST! a Protocol Buffers implementation for the Rust Language
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
-- [pola-rs/polars](https://github.com/pola-rs/polars) - Fast multi-threaded, hybrid-out-of-core query engine focussing on DataFrame front-ends
+- [pola-rs/polars](https://github.com/pola-rs/polars) - Dataframes powered by a multithreaded, vectorized query engine, written in Rust
 - [informationsea/xlsxwriter-rs](https://github.com/informationsea/xlsxwriter-rs) - Excel file writer for Rust
 - [haimgel/ddc-macos-rs](https://github.com/haimgel/ddc-macos-rs) - DDC/CI implementation on MacOS
 - [arcnmx/ddc-rs](https://github.com/arcnmx/ddc-rs) - DDC/CI for Rust
@@ -1844,7 +1845,6 @@
 - [kornysietsma/polyglot-code-explorer](https://github.com/kornysietsma/polyglot-code-explorer) - Multi-language source code metrics visualization
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
 - [actions-rs/clippy-check](https://github.com/actions-rs/clippy-check) - 📎 GitHub Action for PR annotations with clippy warnings
-- [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
 - [peter-evans/repository-dispatch](https://github.com/peter-evans/repository-dispatch) - A GitHub action to create a repository dispatch event
 - [whatwewant/action-robot-feishu](https://github.com/whatwewant/action-robot-feishu) - feishu robot github action
 - [act10ns/slack](https://github.com/act10ns/slack) - Slack messages for GitHub Action workflows, jobs and steps
