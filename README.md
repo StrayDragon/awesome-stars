@@ -1633,7 +1633,6 @@
 - [evcxr/evcxr](https://github.com/evcxr/evcxr) - 
 - [tokio-rs/mini-redis](https://github.com/tokio-rs/mini-redis) - Incomplete Redis client and server implementation using Tokio - for learning purposes only
 - [Manishearth/rust-gc](https://github.com/Manishearth/rust-gc) - Simple tracing (mark and sweep) garbage collector for Rust
-- [gfreezy/seeker](https://github.com/gfreezy/seeker) - 通过使用 tun 来实现透明代理。实现了类似 surge 增强模式与网关模式。
 - [gfreezy/hippo](https://github.com/gfreezy/hippo) - JVM implementation in rust
 - [DHTMLX/excel2json](https://github.com/DHTMLX/excel2json) - Convert excel file to json data
 - [tikv/tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
