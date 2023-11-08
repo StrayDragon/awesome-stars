@@ -88,6 +88,7 @@
 
 ## C 
 
+- [WojciechMula/pyahocorasick](https://github.com/WojciechMula/pyahocorasick) - Python module (C extension and plain python) implementing Aho-Corasick algorithm
 - [FlyGoat/RyzenAdj](https://github.com/FlyGoat/RyzenAdj) - Adjust power management settings for Ryzen APUs
 - [pymumu/smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT。
 - [alibaba/tengine](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features
@@ -629,6 +630,7 @@
 
 ## JavaScript 
 
+- [ddupont808/GPT-4V-Act](https://github.com/ddupont808/GPT-4V-Act) - AI agent using GPT-4V(ision) capable of using a mouse/keyboard to interact with web UI
 - [EvanNotFound/hexo-theme-redefine](https://github.com/EvanNotFound/hexo-theme-redefine) - Simplicity in Speed, Purity in Design: Redefine Your Hexo Journey.
 - [NginxProxyManager/nginx-proxy-manager](https://github.com/NginxProxyManager/nginx-proxy-manager) - Docker container for managing Nginx proxy hosts with a simple, powerful interface
 - [yucai100/obsidian-proxy-github](https://github.com/yucai100/obsidian-proxy-github) - modified from juqkai
@@ -971,6 +973,7 @@
 
 ## Python 
 
+- [01-ai/Yi](https://github.com/01-ai/Yi) - A series of large language models trained from scratch by developers @01-ai
 - [laike9m/Python-Type-Challenges](https://github.com/laike9m/Python-Type-Challenges) - Learn Python typing (type hints) by completing online challenges!
 - [g1879/DrissionPage](https://github.com/g1879/DrissionPage) - 基于python的网页自动化工具。既能控制浏览器，也能收发数据包。可兼顾浏览器自动化的便利性和requests的高效率。功能强大，内置无数人性化设计和便捷功能。语法简洁而优雅，代码量少。
 - [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR图片转文字识别软件，完全离线。截屏/批量导入图片，支持多国语言、合并段落、竖排文字。可排除水印区域，提取干净的文本。基于 PaddleOCR 。
@@ -1445,6 +1448,7 @@
 
 ## Rust 
 
+- [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [itehax/rust-scraping](https://github.com/itehax/rust-scraping) - 
 - [dndx/phantun](https://github.com/dndx/phantun) - Transforms UDP stream into (fake) TCP streams that can go through Layer 3 & Layer 4 (NAPT) firewalls/NATs.
@@ -1483,7 +1487,6 @@
 - [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - An Experimental Package Management Solution for Python
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🇵🇸
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
-- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [datafuselabs/askbend](https://github.com/datafuselabs/askbend) - AskBend: SQL-based Knowledge Base Search and Completion using Databend
 - [I-Info/BingLite](https://github.com/I-Info/BingLite) - A lightweight new Bing (AI chat) desktop application based on Tauri.
 - [reem/rust-ordered-float](https://github.com/reem/rust-ordered-float) - 
@@ -1778,7 +1781,7 @@
 - [gradle/gradle-build-action](https://github.com/gradle/gradle-build-action) - Execute your Gradle build and trigger dependency submission
 - [actions/setup-java](https://github.com/actions/setup-java) - Set up your GitHub Actions workflow with a specific version of Java
 - [shogo82148/actions-setup-mysql](https://github.com/shogo82148/actions-setup-mysql) - 
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - An Opensource alternative to OpenAI GPTs 🧠 Your Second Brain supercharged by Generative AI 🧠  Your personal assistant on your files & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs t
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠  Alternative to OpenAI GPTs & Your personal assistant to chat with your files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, Vertex
 - [daniel-sc/bash-shell-to-bat-converter](https://github.com/daniel-sc/bash-shell-to-bat-converter) - Converter for bash shell scripts to windows batch files.
 - [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
 - [typescript-exercises/typescript-exercises](https://github.com/typescript-exercises/typescript-exercises) - A set of interactive TypeScript exercises
@@ -1795,6 +1798,7 @@
 - [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut) - 🚀💪Maximize your efficiency and productivity, support for English,中文,Español,العربية. 让生产力加倍的AI快捷指令。更有效地定制、保存和分享自己的提示词。在提示词分享社区中，轻松找到适用于不同场景的指令。
 - [zanllp/sd-webui-baidu-netdisk](https://github.com/zanllp/sd-webui-baidu-netdisk) - sd-webui百度云支持，由sd-webui-infinite-image-browsing单独拆分
 - [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
+- [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
 - [BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) - A CLI that converts natural language to shell commands.
 - [guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles) - Document Chatbot — multiple files. Powered by GPT / Embedding.
 - [justjavac/openai-proxy](https://github.com/justjavac/openai-proxy) - OpenAI/ChatGPT 免翻墙代理
