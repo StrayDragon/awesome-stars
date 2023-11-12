@@ -1783,7 +1783,7 @@
 - [gradle/gradle-build-action](https://github.com/gradle/gradle-build-action) - Execute your Gradle build and trigger dependency submission
 - [actions/setup-java](https://github.com/actions/setup-java) - Set up your GitHub Actions workflow with a specific version of Java
 - [shogo82148/actions-setup-mysql](https://github.com/shogo82148/actions-setup-mysql) - 
-- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your Second Brain supercharged by Generative AI 🧠  Alternative to OpenAI GPTs & Your personal assistant to chat with your files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, Vertex
+- [StanGirard/quivr](https://github.com/StanGirard/quivr) - 🧠 Your supercharged Second Brain 🧠 Your personal productivity assistant to chat with your files (PDF, CSV)  & apps using GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, LLMs that you can share with u
 - [daniel-sc/bash-shell-to-bat-converter](https://github.com/daniel-sc/bash-shell-to-bat-converter) - Converter for bash shell scripts to windows batch files.
 - [context-labs/autodoc](https://github.com/context-labs/autodoc) - Experimental toolkit for auto-generating codebase documentation using LLMs
 - [typescript-exercises/typescript-exercises](https://github.com/typescript-exercises/typescript-exercises) - A set of interactive TypeScript exercises
