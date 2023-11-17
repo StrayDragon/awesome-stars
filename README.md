@@ -403,7 +403,7 @@
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 - [bytemate/larkgpt](https://github.com/bytemate/larkgpt) - Lark chatgpt bot
-- [ConnectAI-E/Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI) - 🎒 飞书  ×（GPT-4 + DALL·E + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
+- [ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai) - 🎒 飞书  ×（GPT-4 + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 - [go-lark/lark](https://github.com/go-lark/lark) - An easy-to-use SDK for Feishu and Lark Open Platform (Instant Messaging API only)
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines
@@ -853,6 +853,7 @@
 
 ## Others 
 
+- [padeoe/hf-mirror-site](https://github.com/padeoe/hf-mirror-site) - a huggingface mirror site.
 - [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
 - [comwrg/package-manager-proxy-settings](https://github.com/comwrg/package-manager-proxy-settings) - 记录各个包管理器代理设置坑点。
 - [NightsWatchGames/awesome-rust-gamedev](https://github.com/NightsWatchGames/awesome-rust-gamedev) - A collection about rust gamedev resources.
