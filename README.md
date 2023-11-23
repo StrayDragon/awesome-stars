@@ -88,6 +88,7 @@
 
 ## C 
 
+- [virtio-win/kvm-guest-drivers-windows](https://github.com/virtio-win/kvm-guest-drivers-windows) - Windows paravirtualized drivers for QEMU\KVM
 - [ggerganov/ggml](https://github.com/ggerganov/ggml) - Tensor library for machine learning
 - [WojciechMula/pyahocorasick](https://github.com/WojciechMula/pyahocorasick) - Python module (C extension and plain python) implementing Aho-Corasick algorithm
 - [FlyGoat/RyzenAdj](https://github.com/FlyGoat/RyzenAdj) - Adjust power management settings for Ryzen APUs
@@ -99,7 +100,6 @@
 - [luben/zstd-jni](https://github.com/luben/zstd-jni) - JNI binding for Zstd
 - [google/ngx_brotli](https://github.com/google/ngx_brotli) - NGINX module for Brotli compression
 - [tokers/zstd-nginx-module](https://github.com/tokers/zstd-nginx-module) - Nginx modules for the Zstandard compression
-- [cunarist/rinf](https://github.com/cunarist/rinf) - Rust for native business logic, Flutter for flexible and beautiful GUI
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [webserver-llc/angie](https://github.com/webserver-llc/angie) - Angie - drop-in replacement for Nginx
 - [kdave/btrfs-progs](https://github.com/kdave/btrfs-progs) - Development of userspace BTRFS tools
@@ -172,6 +172,7 @@
 
 ## C++ 
 
+- [virtio-win/virtio-win-guest-tools-installer](https://github.com/virtio-win/virtio-win-guest-tools-installer) - 
 - [epoupon/lms](https://github.com/epoupon/lms) - Lightweight Music Server. Access your self-hosted music using a web interface.
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
@@ -276,6 +277,7 @@
 
 - [mylxsw/aidea](https://github.com/mylxsw/aidea) - AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
 - [flet-dev/serious-python](https://github.com/flet-dev/serious-python) - Python runtime for Flutter apps
+- [cunarist/rinf](https://github.com/cunarist/rinf) - Rust for native business logic, Flutter for flexible and beautiful GUI
 - [epam-cross-platform-lab/swagger-dart-code-generator](https://github.com/epam-cross-platform-lab/swagger-dart-code-generator) - Swagger/OpenAPI code generator based on Chopper and JsonAnnotation for Flutter
 - [rekabhq/fantom](https://github.com/rekabhq/fantom) - OpenAPI generator for Dart & Flutter
 - [gibahjoe/openapi-generator-dart](https://github.com/gibahjoe/openapi-generator-dart) - Openapi Generator for Dart/Flutter
@@ -343,7 +345,7 @@
 - [derkork/godot-statecharts](https://github.com/derkork/godot-statecharts) - A state charts extension for Godot 4
 - [Zylann/voxelgame](https://github.com/Zylann/voxelgame) - Voxel world prototype made with Godot Engine
 - [coppolaemilio/dialogic](https://github.com/coppolaemilio/dialogic) - 💬 Create dialogs, characters and scenes to display conversations in your Godot games.
-- [QodotPlugin/Qodot](https://github.com/QodotPlugin/Qodot) - Quake .map support for Godot 4.x. Requires Godot's .NET build for importing.
+- [QodotPlugin/Qodot](https://github.com/QodotPlugin/Qodot) - Quake .map support for Godot 4.2
 - [gdquest-demos/godot-4-new-features](https://github.com/gdquest-demos/godot-4-new-features) - Free and open-source Godot 4 demo scenes to see the new features in action
 - [ramaureirac/godot-tactical-rpg](https://github.com/ramaureirac/godot-tactical-rpg) - A tactical role-playing game demo for the Godot Engine
 - [gdquest-demos/godot-visual-effects](https://github.com/gdquest-demos/godot-visual-effects) - Open-source visual effects designed in Godot, from our VFX Secrets course.
@@ -371,7 +373,6 @@
 - [lainio/err2](https://github.com/lainio/err2) - Automatic and modern error handling package for Go
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
-- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [golang-module/carbon](https://github.com/golang-module/carbon) - A simple, semantic and developer-friendly golang package for datetime
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
 - [nwg-piotr/nwg-dock-hyprland](https://github.com/nwg-piotr/nwg-dock-hyprland) - GTK3-based dock for Hyprland
@@ -562,6 +563,7 @@
 
 ## HTML 
 
+- [sudoskys/StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook) - How do we integrate AI generation tools into actual work? | 关于 Ai 绘画的Wiki | Wiki about Ai painting | Prompts Engineering| 指南 Guide | Seeking Maintainer&Translator🙌
 - [sqlsec/PVE](https://github.com/sqlsec/PVE) - 国光的 PVE 生产力环境搭建教程
 - [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
 - [HEIGE-PCloud/DoIt](https://github.com/HEIGE-PCloud/DoIt) - A clean, elegant and advanced blog theme for Hugo.
@@ -851,6 +853,7 @@
 
 ## Others 
 
+- [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
 - [padeoe/hf-mirror-site](https://github.com/padeoe/hf-mirror-site) - a huggingface mirror site.
 - [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
 - [comwrg/package-manager-proxy-settings](https://github.com/comwrg/package-manager-proxy-settings) - 记录各个包管理器代理设置坑点。
@@ -979,6 +982,7 @@
 
 ## Python 
 
+- [virtio-win/virtio-win-pkg-scripts](https://github.com/virtio-win/virtio-win-pkg-scripts) - Scripts for packaging virtio-win drivers
 - [ymcui/Chinese-LLaMA-Alpaca-2](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2) - 中文LLaMA-2 & Alpaca-2大模型二期项目 + 16K超长上下文模型 (Chinese LLaMA-2 & Alpaca-2 LLMs, including 16K long context models)
 - [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular stable diffusion GUI with a graph/nodes interface.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
@@ -1786,6 +1790,8 @@
 
 ## TypeScript 
 
+- [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
+- [lxfater/inpaint-web](https://github.com/lxfater/inpaint-web) - A free and open-source inpainting tool powered by webgpu and wasm on the browser.
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [Quorafind/Obsidian-Collapse-Node](https://github.com/Quorafind/Obsidian-Collapse-Node) - A node collapsing plugin for Canvas in Obsidian.
@@ -1794,6 +1800,7 @@
 - [whyour/qinglong](https://github.com/whyour/qinglong) - 支持 Python3、JavaScript、Shell、Typescript 的定时任务管理平台（Timed task management platform supporting Python3, JavaScript, Shell, Typescript）
 - [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based QA system built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization!
+- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [gradle/gradle-build-action](https://github.com/gradle/gradle-build-action) - Execute your Gradle build and trigger dependency submission
 - [actions/setup-java](https://github.com/actions/setup-java) - Set up your GitHub Actions workflow with a specific version of Java
 - [shogo82148/actions-setup-mysql](https://github.com/shogo82148/actions-setup-mysql) - 
