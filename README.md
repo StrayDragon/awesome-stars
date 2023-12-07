@@ -749,6 +749,7 @@
 
 ## Jupyter Notebook 
 
+- [microsoft/autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ
 - [lyhue1991/eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days) - Pytorch🍊🍉   is delicious, just eat it! 😋😋
 - [ryan4yin/knowledge](https://github.com/ryan4yin/knowledge) - (Chinese Only)Everything I know: DevOps & CloudNative, Linux, Embedded, Homelab, Music, Blockchain, AI, etc...
 - [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) - Data-Centric FinGPT.  Open-source for open finance!  Revolutionize 🔥    We release the trained model on HuggingFace.
@@ -861,6 +862,7 @@
 
 ## Others 
 
+- [formulahendry/awesome-gpt](https://github.com/formulahendry/awesome-gpt) - A curated list of awesome projects and resources related to GPT, ChatGPT, OpenAI, LLM, and more.
 - [devv-ai/devv](https://github.com/devv-ai/devv) - An AI-powered search engine for developers.
 - [hylarucoder/comfyui-workflow](https://github.com/hylarucoder/comfyui-workflow) - 
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
@@ -994,6 +996,8 @@
 
 ## Python 
 
+- [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
+- [laixintao/mactop](https://github.com/laixintao/mactop) - 
 - [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告
 - [Degree-21/dirScan](https://github.com/Degree-21/dirScan) - 网站目录、后台扫描 基于御剑字典
 - [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP) - 👑 Easy-to-use and powerful NLP and LLM library with 🤗 Awesome model zoo, supporting wide-range of NLP tasks from research to industrial applications, including 🗂Text Classification,  🔍 Neural Search, 
@@ -1028,7 +1032,7 @@
 - [OTFCG/Awesome-Game-Analysis](https://github.com/OTFCG/Awesome-Game-Analysis) - a comprehensive collection of video game tech analysis resources
 - [newfyu/Braindoor](https://github.com/newfyu/Braindoor) - Braindoor can easily use local files to build ChatGPT's external knowledge base.
 - [CatAnd-Dog/chatgptplugin](https://github.com/CatAnd-Dog/chatgptplugin) - chatgpt插件集合。目前拥有联网，绘图功能。适配主流站点。gpt插件，插件功能集合
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Home Page: https://pyscript.net  Examples: https://pyscript.net/examples
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
 - [shroominic/codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - 👾 Open source implementation of the ChatGPT Code Interpreter
 - [vxgmichel/aiostream](https://github.com/vxgmichel/aiostream) - Generator-based operators for asynchronous iteration
@@ -1063,7 +1067,7 @@
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
 - [ninehills/chatglm-openai-api](https://github.com/ninehills/chatglm-openai-api) - Provide OpenAI style API for  ChatGLM-6B and Chinese Embeddings Model
 - [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)
-- [thomas-yanxin/LangChain-ChatGLM-Webui](https://github.com/thomas-yanxin/LangChain-ChatGLM-Webui) - 基于LangChain和ChatGLM-6B等系列LLM的针对本地知识库的自动问答
+- [X-D-Lab/LangChain-ChatGLM-Webui](https://github.com/X-D-Lab/LangChain-ChatGLM-Webui) - 基于LangChain和ChatGLM-6B等系列LLM的针对本地知识库的自动问答
 - [RUCAIBox/LLMSurvey](https://github.com/RUCAIBox/LLMSurvey) - The official GitHub page for the survey paper "A Survey of Large Language Models".
 - [cadl/chatdbt](https://github.com/cadl/chatdbt) - 
 - [jupyterlab/jupyter-ai](https://github.com/jupyterlab/jupyter-ai) - A generative AI extension for JupyterLab
@@ -1691,7 +1695,7 @@
 - [flosse/rust-web-framework-comparison](https://github.com/flosse/rust-web-framework-comparison) - A comparison of some web frameworks and libs written in Rust
 - [rustcc/writing-an-os-in-rust](https://github.com/rustcc/writing-an-os-in-rust) - 《使用Rust编写操作系统》
 - [strottos/vim-padre](https://github.com/strottos/vim-padre) - Debugger plugin for VIM
-- [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker and more, for both Vim and NeoVim
+- [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker, tree-sitter highlighting, and more, for both Vim and NeoVim
 - [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [benfred/py-spy](https://github.com/benfred/py-spy) - Sampling profiler for Python programs
 - [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
