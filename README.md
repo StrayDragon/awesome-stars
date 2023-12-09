@@ -653,7 +653,7 @@
 - [sunner/ChatALL](https://github.com/sunner/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [Jieiku/abridge](https://github.com/Jieiku/abridge) - Fast & Lightweight Zola Theme
 - [wxsms/bilibili-video2mp3](https://github.com/wxsms/bilibili-video2mp3) - A tool to download all videos and convert to mp3 inside a video set of bilibili.
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool.
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Fastest workflow engine (5x vs Airflow). Open-source alternative to Airplane and Retool.
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
@@ -714,7 +714,6 @@
 - [n-riesco/ijavascript](https://github.com/n-riesco/ijavascript) - IJavascript is a javascript kernel for the Jupyter notebook
 - [fluture-js/Fluture](https://github.com/fluture-js/Fluture) - :butterfly: Fantasy Land compliant (monadic) alternative to Promises
 - [wshuyi/mindmap2slide](https://github.com/wshuyi/mindmap2slide) - convert Mindnode Mindmap (textbundle format) to reveal.js slides
-- [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [PyCon/2015-slides](https://github.com/PyCon/2015-slides) - Slides and talk assets from PyCon 2015
 - [SortableJS/Vue.Draggable](https://github.com/SortableJS/Vue.Draggable) - Vue drag-and-drop component based on Sortable.js
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
@@ -975,7 +974,7 @@
 
 ## PHP 
 
-- [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) - Nextcloud AIO stands for Nextcloud All-in-One and provides easy deployment and maintenance with most features included in this one Nextcloud instance.
+- [nextcloud/all-in-one](https://github.com/nextcloud/all-in-one) - The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.
 - [zyx0814/dzzoffice](https://github.com/zyx0814/dzzoffice) - dzzoffice
 - [the-benchmarker/web-frameworks](https://github.com/the-benchmarker/web-frameworks) - Which is the fastest web framework?
 - [san-kumar/howdoi](https://github.com/san-kumar/howdoi) - Get quick answers to common linux related questions, right inside your terminal by typing "howdoi [your question]".
@@ -996,6 +995,8 @@
 
 ## Python 
 
+- [brentyi/tyro](https://github.com/brentyi/tyro) - Zero-effort CLI interfaces & config objects, from types!
+- [frostming/unearth](https://github.com/frostming/unearth) - A utility to fetch and download python packages
 - [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate) - Easily migrate your codebase from one framework or language to another.
 - [laixintao/mactop](https://github.com/laixintao/mactop) - 
 - [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告
@@ -1724,6 +1725,7 @@
 
 ## Shell 
 
+- [chaifeng/docker-mysql-mycli](https://github.com/chaifeng/docker-mysql-mycli) - Running mycli inside docker
 - [spiritLHLS/docker](https://github.com/spiritLHLS/docker) - 通过Docker批量或单独开设NAT服务器(Bulk or individual NAT server provisioning via Docker)
 - [shidahuilang/pve](https://github.com/shidahuilang/pve) - PVE开启直通+CPU硬盘温度显示,风扇转速+一些自用的小脚本
 - [spiritLHLS/pve](https://github.com/spiritLHLS/pve) - PVE相关的各种一键脚本(Various one-click scripts related to PVE)(一键安装PVE)(One-click installation of PVE)(一键开设KVM或LXC虚拟化的NAT服务器-自带内外网端口转发)(含ARM和X86_64)
@@ -1812,6 +1814,8 @@
 
 ## TypeScript 
 
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.io
+- [MichaelYuhe/ai-group-tabs](https://github.com/MichaelYuhe/ai-group-tabs) - 
 - [jaywcjlove/google](https://github.com/jaywcjlove/google) - This is the Google Mirror Index.
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [lxfater/inpaint-web](https://github.com/lxfater/inpaint-web) - A free and open-source inpainting tool powered by webgpu and wasm on the browser.
@@ -1950,6 +1954,7 @@
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 - [yunabe/tslab](https://github.com/yunabe/tslab) - Interactive JavaScript and TypeScript programming with Jupyter
 - [iamcco/coc-post](https://github.com/iamcco/coc-post) - post extension for coc.nvim
+- [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 - [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 - [vuejs/vue-class-component](https://github.com/vuejs/vue-class-component) - ES / TypeScript decorator for class-style Vue components.
 - [fannheyward/coc-ci](https://github.com/fannheyward/coc-ci) - 支持中文分词的 w/b 移动
