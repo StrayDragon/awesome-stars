@@ -1141,7 +1141,7 @@
 - [vnpy/vnpy](https://github.com/vnpy/vnpy) - 基于Python的开源量化交易平台开发框架
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [litestar-org/polyfactory](https://github.com/litestar-org/polyfactory) - Simple and powerful factories for mock data generation
-- [Scony/godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of GDScript tools - parser, linter and formatter
+- [Scony/godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of GDScript tools - parser, linter, formatter, and more
 - [bloomberg/memray](https://github.com/bloomberg/memray) - The endgame Python memory profiler
 - [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
 - [dropbox/PyHive](https://github.com/dropbox/PyHive) - Python interface to Hive and Presto. 🐝
