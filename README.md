@@ -371,6 +371,7 @@
 
 ## Go 
 
+- [tair-opensource/RedisShake](https://github.com/tair-opensource/RedisShake) - RedisShake is a Redis data processing and migration tool.
 - [nginx-proxy/docker-gen](https://github.com/nginx-proxy/docker-gen) - Generate files from docker container meta-data
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, u
 - [rnetx/cdns](https://github.com/rnetx/cdns) - 
@@ -598,7 +599,7 @@
 - [wsdjeg/vim-plugin-dev-guide](https://github.com/wsdjeg/vim-plugin-dev-guide) - Vim 插件开发指南
 - [davideuler/architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构，微信/淘宝/微博/腾讯/阿里/美团点评/百度/Google/Facebook/Amazon/eBay的架构，欢迎PR补充
 - [encode/starlette-example](https://github.com/encode/starlette-example) - An example Starlette application
-- [tagnja/resources-of-learning](https://github.com/tagnja/resources-of-learning) - Documentations, books, courses, git repositories, and so on. Keep learning. To be a great developer.
+- [taogen-docs/resources-of-learning](https://github.com/taogen-docs/resources-of-learning) - Documentations, books, courses, git repositories, and so on. Keep learning. To be a great developer.
 - [google/styleguide](https://github.com/google/styleguide) - Style guides for Google-originated open-source projects
 - [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
 - [zhenyangze/uafred](https://github.com/zhenyangze/uafred) - alfred on ubuntu(use electron)
@@ -999,6 +1000,8 @@
 
 ## Python 
 
+- [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
+- [ninehills/llm-inference-benchmark](https://github.com/ninehills/llm-inference-benchmark) - LLM Inference benchmark
 - [thebjorn/pydeps](https://github.com/thebjorn/pydeps) - Python Module Dependency graphs
 - [brentyi/tyro](https://github.com/brentyi/tyro) - Zero-effort CLI interfaces & config objects, from types!
 - [frostming/unearth](https://github.com/frostming/unearth) - A utility to fetch and download python packages
@@ -1490,6 +1493,7 @@
 
 ## Rust 
 
+- [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) - Nydus - the Dragonfly image service, providing fast, secure and easy access to container images.
 - [zdz/ServerStatus-Rust](https://github.com/zdz/ServerStatus-Rust) - ✨ Rust 版 ServerStatus 探针、威力加强版
 - [Noeda/rllama](https://github.com/Noeda/rllama) - Rust+OpenCL+AVX2 implementation of LLaMA inference code
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
@@ -1799,6 +1803,7 @@
 
 ## Swift 
 
+- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
 - [rxhanson/Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows on macOS with keyboard shortcuts and snap areas
@@ -1821,7 +1826,7 @@
 
 - [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your priv
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.io
-- [MichaelYuhe/ai-group-tabs](https://github.com/MichaelYuhe/ai-group-tabs) - A Chrome extension helps you group your tabs with AI.
+- [MichaelYuhe/ai-group-tabs](https://github.com/MichaelYuhe/ai-group-tabs) - Organize and group your Chrome tabs with AI
 - [jaywcjlove/google](https://github.com/jaywcjlove/google) - This is the Google Mirror Index.
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
 - [lxfater/inpaint-web](https://github.com/lxfater/inpaint-web) - A free and open-source inpainting tool powered by webgpu and wasm on the browser.
@@ -1856,7 +1861,7 @@
 - [BuilderIO/ai-shell](https://github.com/BuilderIO/ai-shell) - A CLI that converts natural language to shell commands.
 - [guangzhengli/ChatFiles](https://github.com/guangzhengli/ChatFiles) - Document Chatbot — multiple files. Powered by GPT / Embedding.
 - [justjavac/openai-proxy](https://github.com/justjavac/openai-proxy) - OpenAI/ChatGPT 免翻墙代理
-- [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
+- [ChatGPTNextWebTeam/ChatGPT-Next-Web](https://github.com/ChatGPTNextWebTeam/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 - [esm7/obsidian-vimrc-support](https://github.com/esm7/obsidian-vimrc-support) - A plugin for the Obsidian.md note-taking software
 - [Helixform/CodeCursor](https://github.com/Helixform/CodeCursor) - An extension for using Cursor in Visual Studio Code.
 - [prompt-engineering/click-prompt](https://github.com/prompt-engineering/click-prompt) - ClickPrompt - Streamline your prompt design, with ClickPrompt, you can easily view, share, and run these prompts with just one click.  ClickPrompt 用于一键轻松查看、分享和执行您的 Prompt。
