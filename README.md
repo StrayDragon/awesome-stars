@@ -401,7 +401,7 @@
 - [alexballas/go2tv](https://github.com/alexballas/go2tv) - Cast media files to UPnP/DLNA Media Renderers and Smart TVs.
 - [sentriz/cliphist](https://github.com/sentriz/cliphist) - wayland clipboard manager with support for multimedia
 - [v2rayA/v2rayA](https://github.com/v2rayA/v2rayA) - A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀
-- [lighttiger2505/sqls](https://github.com/lighttiger2505/sqls) - SQL language server written in Go.
+- [sqls-server/sqls](https://github.com/sqls-server/sqls) - SQL language server written in Go.
 - [agi-cn/llmplugin](https://github.com/agi-cn/llmplugin) - plugin for LLM
 - [ConnectAI-E/Feishu-EX-ChatGPT](https://github.com/ConnectAI-E/Feishu-EX-ChatGPT) - 🎒 Feishu-EX-ChatGPT 并通过注册机制来激活飞书机器人的插件生态，现已支持联网，生图，公式计算
 - [golang/mobile](https://github.com/golang/mobile) - [mirror] Go on Mobile
@@ -1518,7 +1518,7 @@
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
 - [photino/zino](https://github.com/photino/zino) - Next-generation framework for composable applications in Rust.
 - [ZihanType/nade](https://github.com/ZihanType/nade) - Adding named and default arguments to Rust functions -- 为 Rust 函数添加命名参数和默认参数
-- [chanhx/crabviz](https://github.com/chanhx/crabviz) - A tool to generate interactive call graphs for multiple languages
+- [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A tool to generate interactive call graphs for multiple languages
 - [gengteng/axum-valid](https://github.com/gengteng/axum-valid) - axum-valid is a library that provides data validation extractors for the Axum web framework. It integrates validator, garde and validify, three popular validation crates in the Rust ecosystem, to offe
 - [FyroxEngine/Fyrox](https://github.com/FyroxEngine/Fyrox) - 3D and 2D game engine written in Rust
 - [Horus645/swww](https://github.com/Horus645/swww) - A Solution to your Wayland Wallpaper Woes
@@ -1840,7 +1840,7 @@
 - [MichaelYuhe/ai-group-tabs](https://github.com/MichaelYuhe/ai-group-tabs) - Organize and group your Chrome tabs with AI
 - [jaywcjlove/google](https://github.com/jaywcjlove/google) - This is the Google Mirror Index.
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
-- [lxfater/inpaint-web](https://github.com/lxfater/inpaint-web) - A free and open-source inpainting tool powered by webgpu and wasm on the browser.
+- [lxfater/inpaint-web](https://github.com/lxfater/inpaint-web) - A free and open-source inpainting & image-upscaling tool powered by webgpu and wasm on the browser。|   基于 Webgpu 技术和 wasm 技术的免费开源 inpainting & image-upscaling 工具, 纯浏览器端实现。
 - [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise) - Drag & drop UI to build your customized LLM flow
 - [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui) - Draw a mockup and generate html for it
 - [Quorafind/Obsidian-Collapse-Node](https://github.com/Quorafind/Obsidian-Collapse-Node) - A node collapsing plugin for Canvas in Obsidian.
