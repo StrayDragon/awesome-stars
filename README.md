@@ -104,6 +104,7 @@
 - [luben/zstd-jni](https://github.com/luben/zstd-jni) - JNI binding for Zstd
 - [google/ngx_brotli](https://github.com/google/ngx_brotli) - NGINX module for Brotli compression
 - [tokers/zstd-nginx-module](https://github.com/tokers/zstd-nginx-module) - Nginx modules for the Zstandard compression
+- [cunarist/rinf](https://github.com/cunarist/rinf) - Rust for native business logic, Flutter for flexible and beautiful GUI
 - [mpv-player/mpv](https://github.com/mpv-player/mpv) - 🎥 Command line video player
 - [webserver-llc/angie](https://github.com/webserver-llc/angie) - Angie - drop-in replacement for Nginx
 - [kdave/btrfs-progs](https://github.com/kdave/btrfs-progs) - Development of userspace BTRFS tools
@@ -283,7 +284,6 @@
 
 - [mylxsw/aidea](https://github.com/mylxsw/aidea) - AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
 - [flet-dev/serious-python](https://github.com/flet-dev/serious-python) - Python runtime for Flutter apps
-- [cunarist/rinf](https://github.com/cunarist/rinf) - Rust for native business logic, Flutter for flexible and beautiful GUI
 - [epam-cross-platform-lab/swagger-dart-code-generator](https://github.com/epam-cross-platform-lab/swagger-dart-code-generator) - Swagger/OpenAPI code generator based on Chopper and JsonAnnotation for Flutter
 - [rekabhq/fantom](https://github.com/rekabhq/fantom) - OpenAPI generator for Dart & Flutter
 - [gibahjoe/openapi-generator-dart](https://github.com/gibahjoe/openapi-generator-dart) - Openapi Generator for Dart/Flutter
@@ -1030,7 +1030,7 @@
 - [01-ai/Yi](https://github.com/01-ai/Yi) - A series of large language models trained from scratch by developers @01-ai
 - [laike9m/Python-Type-Challenges](https://github.com/laike9m/Python-Type-Challenges) - Master Python typing (type hints) with interactive online exercises!
 - [g1879/DrissionPage](https://github.com/g1879/DrissionPage) - 基于python的网页自动化工具。既能控制浏览器，也能收发数据包。可兼顾浏览器自动化的便利性和requests的高效率。功能强大，内置无数人性化设计和便捷功能。语法简洁而优雅，代码量少。
-- [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.  将视频从一种语言翻译为另一种语言，并添加配音
+- [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，并添加配音
 - [THUDM/ChatGLM3](https://github.com/THUDM/ChatGLM3) - ChatGLM3 series: Open Bilingual Chat LLMs | 开源双语对话语言模型
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [laixintao/flameshow](https://github.com/laixintao/flameshow) - A terminal Flamegraph viewer.
