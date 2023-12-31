@@ -1520,7 +1520,7 @@
 - [NiklasEi/bevy_game_template](https://github.com/NiklasEi/bevy_game_template) - Template for a Bevy game including CI/CD for web, Windows, Linux, macOS, iOS and Android
 - [gluesql/gluesql](https://github.com/gluesql/gluesql) - GlueSQL is quite sticky. It attaches to anywhere.
 - [huggingface/candle](https://github.com/huggingface/candle) - Minimalist ML framework for Rust
-- [photino/zino](https://github.com/photino/zino) - Next-generation framework for composable applications in Rust.
+- [zino-rs/zino](https://github.com/zino-rs/zino) - Next-generation framework for composable applications in Rust.
 - [ZihanType/nade](https://github.com/ZihanType/nade) - Adding named and default arguments to Rust functions -- 为 Rust 函数添加命名参数和默认参数
 - [chanhx/crabviz](https://github.com/chanhx/crabviz) - 🦀 A tool to generate interactive call graphs for multiple languages
 - [gengteng/axum-valid](https://github.com/gengteng/axum-valid) - axum-valid is a library that provides data validation extractors for the Axum web framework. It integrates validator, garde and validify, three popular validation crates in the Rust ecosystem, to offe
