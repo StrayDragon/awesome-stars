@@ -180,6 +180,7 @@
 
 - [QwenLM/qwen.cpp](https://github.com/QwenLM/qwen.cpp) - C++ implementation of Qwen-LM
 - [virtio-win/virtio-win-guest-tools-installer](https://github.com/virtio-win/virtio-win-guest-tools-installer) - 
+- [Vahera/godot-orchestrator](https://github.com/Vahera/godot-orchestrator) - Godot Engine (4.2+) Visual Scripting with Orchestrator.
 - [epoupon/lms](https://github.com/epoupon/lms) - Lightweight Music Server. Access your self-hosted music using a web interface.
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
@@ -352,10 +353,9 @@
 
 ## GDScript 
 
-- [Vahera/godot-orchestrator](https://github.com/Vahera/godot-orchestrator) - Godot Engine (4.x) Visual Scripting with Orchestrator.
 - [derkork/godot-statecharts](https://github.com/derkork/godot-statecharts) - A state charts extension for Godot 4
 - [Zylann/voxelgame](https://github.com/Zylann/voxelgame) - Voxel world prototype made with Godot Engine
-- [coppolaemilio/dialogic](https://github.com/coppolaemilio/dialogic) - 💬 Create dialogs, characters and scenes to display conversations in your Godot games.
+- [dialogic-godot/dialogic](https://github.com/dialogic-godot/dialogic) - 💬 Create dialogs, characters and scenes to display conversations in your Godot games.
 - [QodotPlugin/Qodot](https://github.com/QodotPlugin/Qodot) - Quake .map support for Godot 4.2
 - [gdquest-demos/godot-4-new-features](https://github.com/gdquest-demos/godot-4-new-features) - Free and open-source Godot 4 demo scenes to see the new features in action
 - [ramaureirac/godot-tactical-rpg](https://github.com/ramaureirac/godot-tactical-rpg) - A tactical role-playing game demo for the Godot Engine
@@ -377,6 +377,7 @@
 
 ## Go 
 
+- [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [tair-opensource/RedisShake](https://github.com/tair-opensource/RedisShake) - RedisShake is a Redis data processing and migration tool.
 - [nginx-proxy/docker-gen](https://github.com/nginx-proxy/docker-gen) - Generate files from docker container meta-data
