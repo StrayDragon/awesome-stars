@@ -1022,7 +1022,7 @@
 - [pgjones/hypercorn](https://github.com/pgjones/hypercorn) - Hypercorn is an ASGI and WSGI Server based on Hyper libraries and inspired by Gunicorn.
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - Dev tool that writes scalable apps from scratch while the developer oversees the implementation
 - [Fadi002/de4py](https://github.com/Fadi002/de4py) - toolkit for python reverse engineering
-- [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) - 为ChatGPT/GLM提供实用化交互界面，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm2等本地模型。兼容文心一言, moss, llama2, rwkv, claude2, 通义千问, 书生, 讯飞星火等。
+- [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM等基座大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等
 - [avgupta456/github-trends](https://github.com/avgupta456/github-trends) - 🚀 Level up your GitHub profile readme with customizable cards including LOC statistics!
 - [ninehills/llm-inference-benchmark](https://github.com/ninehills/llm-inference-benchmark) - LLM Inference benchmark
 - [thebjorn/pydeps](https://github.com/thebjorn/pydeps) - Python Module Dependency graphs
