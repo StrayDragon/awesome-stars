@@ -1514,7 +1514,7 @@
 
 ## Rust 
 
-- [felixmaker/ddtank-rs](https://github.com/felixmaker/ddtank-rs) - An easy-to-use ddtank login tool, which supports Linux, Windows and MacOS
+- [felixmaker/ddtank-rs](https://github.com/felixmaker/ddtank-rs) - Cross-platform ddtank login tool
 - [torokati44/ruffle-android](https://github.com/torokati44/ruffle-android) - An Android application for ruffle.rs
 - [not-fl3/macroquad](https://github.com/not-fl3/macroquad) - Cross-platform game engine in Rust.
 - [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) - Nydus - the Dragonfly image service, providing fast, secure and easy access to container images.
