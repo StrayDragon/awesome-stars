@@ -181,6 +181,7 @@
 
 ## C++ 
 
+- [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 第三方跨平台B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上
 - [QwenLM/qwen.cpp](https://github.com/QwenLM/qwen.cpp) - C++ implementation of Qwen-LM
 - [virtio-win/virtio-win-guest-tools-installer](https://github.com/virtio-win/virtio-win-guest-tools-installer) - 
 - [Vahera/godot-orchestrator](https://github.com/Vahera/godot-orchestrator) - Godot Engine (4.2+) Visual Scripting with Orchestrator.
@@ -1523,6 +1524,7 @@
 
 ## Rust 
 
+- [snylonue/b2m](https://github.com/snylonue/b2m) - play bilibili video with mpv
 - [felixmaker/ddtank-rs](https://github.com/felixmaker/ddtank-rs) - Cross-platform ddtank login tool
 - [torokati44/ruffle-android](https://github.com/torokati44/ruffle-android) - An Android application for ruffle.rs
 - [not-fl3/macroquad](https://github.com/not-fl3/macroquad) - Cross-platform game engine in Rust.
