@@ -85,6 +85,8 @@
 
 ## C 
 
+- [v1cont/yad](https://github.com/v1cont/yad) - Yet Another Dialog
+- [mbt/alltray](https://github.com/mbt/alltray) - AllTray is an application which docks other application software into the system tray (“notification area”) of a desktop environment such as GNOME, KDE, or XFCE. It aims to be independent of both desk
 - [rofl0r/proxychains-ng](https://github.com/rofl0r/proxychains-ng) - proxychains ng (new generation) - a preloader which hooks calls to sockets in dynamically linked programs and redirects it through one or more socks/http proxies. continuation of the unmaintained prox
 - [shunf4/proxychains-windows](https://github.com/shunf4/proxychains-windows) - Windows and Cygwin port of proxychains, based on MinHook and DLL Injection
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
