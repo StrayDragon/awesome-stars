@@ -254,7 +254,7 @@
 - [microsoft/GSL](https://github.com/microsoft/GSL) - Guidelines Support Library
 - [justforlxz/deepin-topbar](https://github.com/justforlxz/deepin-topbar) - Provide the function of the top bar, beautiful, easy to use.
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
-- [minetest/minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game engine with easy modding and game creation
+- [minetest/minetest](https://github.com/minetest/minetest) - Minetest is an open source voxel game-creation platform with easy modding and game creation
 
 ## CMake 
 
@@ -1158,7 +1158,7 @@
 - [qintianchen/GAutomatorAndroid](https://github.com/qintianchen/GAutomatorAndroid) - A python module for game automation on android platform
 - [rmorshea/spectate](https://github.com/rmorshea/spectate) - Observe the evolution of mutable data types like lists, dicts, and sets.
 - [mli/autocut](https://github.com/mli/autocut) - 用文本编辑器剪视频
-- [Sanster/lama-cleaner](https://github.com/Sanster/lama-cleaner) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
+- [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 - [pydantic/pydantic-core](https://github.com/pydantic/pydantic-core) - Core validation logic for pydantic written in rust
 - [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker) - Turn repositories into Jupyter-enabled Docker images
 - [yanyongyu/githubkit](https://github.com/yanyongyu/githubkit) - The modern, all-batteries-included GitHub SDK for Python, including rest api, graphql, webhooks, like octokit!
@@ -1976,6 +1976,7 @@
 - [technote-space/get-diff-action](https://github.com/technote-space/get-diff-action) - GitHub Actions to get git diff
 - [trilom/file-changes-action](https://github.com/trilom/file-changes-action) - This action can be added, and you will get outputs of all of the files that have changed in your repository for you to use.
 - [google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action) - automated releases based on conventional commits
+- [vim-denops/denops.vim](https://github.com/vim-denops/denops.vim) - 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno
 - [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [curlconverter/curlconverter](https://github.com/curlconverter/curlconverter) - Transpile curl commands into Python, JavaScript and 27 other languages
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -2073,7 +2074,6 @@
 - [antoinemadec/FixCursorHold.nvim](https://github.com/antoinemadec/FixCursorHold.nvim) - Fix CursorHold Performance.
 - [preservim/nerdcommenter](https://github.com/preservim/nerdcommenter) - Vim plugin for intensely nerdy commenting powers
 - [skywind3000/vim-rt-format](https://github.com/skywind3000/vim-rt-format) - :sunglasses: Prettify Current Line on Enter !!
-- [vim-denops/denops.vim](https://github.com/vim-denops/denops.vim) - 🐜  An ecosystem of Vim/Neovim which allows developers to write cross-platform plugins in Deno
 - [StrayDragon/Mine0Vim](https://github.com/StrayDragon/Mine0Vim) - :star: My experimental NeoVim/IdeaVim/VSCodeVim configs, NOT tested on Vim now!
 - [matze/vim-move](https://github.com/matze/vim-move) - Plugin to move lines and selections up and down
 - [rbong/vim-crystalline](https://github.com/rbong/vim-crystalline) - Build your own fancy statusline/tabline in Vim/Neovim
