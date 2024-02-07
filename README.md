@@ -357,6 +357,7 @@
 
 ## GDScript 
 
+- [SoloByte/godot-polygon2d-fracture](https://github.com/SoloByte/godot-polygon2d-fracture) - A simple script for fracturing polygons. Also adds nice helper functions for polygons like calculateArea, triangulate, getRandomPointsInPolygon, getBoundingRect)
 - [appsinacup/godot-softbody2d](https://github.com/appsinacup/godot-softbody2d) - Godot SoftBody2D - Plugin that adds deformable 2D soft body.
 - [derkork/godot-statecharts](https://github.com/derkork/godot-statecharts) - A state charts extension for Godot 4
 - [Zylann/voxelgame](https://github.com/Zylann/voxelgame) - Voxel world prototype made with Godot Engine
@@ -1789,7 +1790,7 @@
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
 - [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。
 - [amishmm/pacman-systemd-inhibit](https://github.com/amishmm/pacman-systemd-inhibit) - Inhibit system shutdown, reboot etc. when pacman is upgrading the system
-- [cxOrz/dotfiles-hyprland](https://github.com/cxOrz/dotfiles-hyprland) - Hyprland on ArchLinux customization, waybar & lofi & kitty & swaylock
+- [cxOrz/dotfiles-hyprland](https://github.com/cxOrz/dotfiles-hyprland) - Hyprland dotfiles based on Arch Linux, with waybar & lofi & kitty & swaylock
 - [jqtmviyu/Hyprland-v2.1](https://github.com/jqtmviyu/Hyprland-v2.1) - little changes  from Hyprland-v2.1
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) - 
