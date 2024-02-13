@@ -771,7 +771,6 @@
 
 ## Jupyter Notebook 
 
-- [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [microsoft/autogen](https://github.com/microsoft/autogen) - Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ
 - [lyhue1991/eat_pytorch_in_20_days](https://github.com/lyhue1991/eat_pytorch_in_20_days) - Pytorch🍊🍉   is delicious, just eat it! 😋😋
 - [ryan4yin/knowledge](https://github.com/ryan4yin/knowledge) - (Chinese Only)Everything I know: DevOps & CloudNative, Linux, Embedded, Homelab, Music, Blockchain, AI, etc...
@@ -1028,6 +1027,7 @@
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [ConnectAI-E/connectai](https://github.com/ConnectAI-E/connectai) - 开发工具
 - [ConnectAI-E/GitMaya](https://github.com/ConnectAI-E/GitMaya) - 🌊 One repo = one chat, make git flow in chat, next generation gitops for boosting developer-teams productivity, supports feishu, discord and slack
+- [vanna-ai/vanna](https://github.com/vanna-ai/vanna) - 🤖 Chat with your SQL database 📊. Accurate Text-to-SQL Generation via LLMs using RAG 🔄.
 - [pallets-eco/flask-orjson](https://github.com/pallets-eco/flask-orjson) - A Flask/Quart JSON provider using the fast orjson library.
 - [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
 - [KevinWang676/ChatGLM2-Voice-Cloning](https://github.com/KevinWang676/ChatGLM2-Voice-Cloning) - Chat with any character you like: ChatGLM2+SadTalker+Voice Cloning | 和喜欢的角色沉浸式对话吧：ChatGLM2+声音克隆+视频对话
@@ -1802,7 +1802,7 @@
 - [sdarwin/Ansible-VNC](https://github.com/sdarwin/Ansible-VNC) - 
 - [cknadler/vim-anywhere](https://github.com/cknadler/vim-anywhere) - Use Vim everywhere you've always wanted to
 - [Magisk-Modules-Repo/movecert](https://github.com/Magisk-Modules-Repo/movecert) - movecert
-- [NVISOsecurity/MagiskTrustUserCerts](https://github.com/NVISOsecurity/MagiskTrustUserCerts) - A Magisk module that automatically adds user certificates to the system root CA store
+- [NVISOsecurity/MagiskTrustUserCerts](https://github.com/NVISOsecurity/MagiskTrustUserCerts) - A Magisk/KernelSU module that automatically adds user certificates to the system root CA store
 - [msys2/MINGW-packages](https://github.com/msys2/MINGW-packages) - Package scripts for MinGW-w64 targets to build under MSYS2.
 - [2moe/tmoe](https://github.com/2moe/tmoe) - TMOE, More Optional Environments.
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
