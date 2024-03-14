@@ -190,7 +190,7 @@
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 - [li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp) - C++ implementation of ChatGLM-6B & ChatGLM2-6B & ChatGLM3 & more LLMs
-- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
+- [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。 A free WAF that is sufficiently simple, effective, and powerful. Utilizing industry-leading semantic engine detection technology, it opera
 - [sddm/sddm](https://github.com/sddm/sddm) - QML based X11 and Wayland display manager
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is a highly customizable dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [microsoft/STL](https://github.com/microsoft/STL) - MSVC's implementation of the C++ Standard Library.
@@ -1537,7 +1537,7 @@
 - [snylonue/b2m](https://github.com/snylonue/b2m) - play bilibili video with mpv
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
 - [felixmaker/ddtank-rs](https://github.com/felixmaker/ddtank-rs) - Cross-platform ddtank login tool
-- [torokati44/ruffle-android](https://github.com/torokati44/ruffle-android) - An Android application for ruffle.rs
+- [ruffle-rs/ruffle-android](https://github.com/ruffle-rs/ruffle-android) - An Android application for ruffle.rs
 - [not-fl3/macroquad](https://github.com/not-fl3/macroquad) - Cross-platform game engine in Rust.
 - [dragonflyoss/nydus](https://github.com/dragonflyoss/nydus) - Nydus - the Dragonfly image service, providing fast, secure and easy access to container images.
 - [mcthesw/game-save-manager](https://github.com/mcthesw/game-save-manager) - 一个简单的游戏存档管理器
