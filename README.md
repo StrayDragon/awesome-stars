@@ -1780,7 +1780,7 @@
 
 - [SmiteshP/nvim-gps](https://github.com/SmiteshP/nvim-gps) - Simple statusline component that shows what scope you are working inside
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
-- [huangz1990/SICP-answers](https://github.com/huangz1990/SICP-answers) - 我的 SICP 解题集
+- [huangzworks/SICP-answers](https://github.com/huangzworks/SICP-answers) - 我的 SICP 解题集
 
 ## Shell 
 
