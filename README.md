@@ -179,6 +179,7 @@
 
 ## C++ 
 
+- [hyprwm/hyprcursor](https://github.com/hyprwm/hyprcursor) - The hyprland cursor format, library and utilities.
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [albertz/openlierox](https://github.com/albertz/openlierox) - OpenLieroX - Liero clone / Worms realtime / 2D shooter
 - [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili) - 第三方跨平台B站客户端，目前可以运行在PC全平台、PSVita、PS4 、Xbox 和 Nintendo Switch上
@@ -1024,6 +1025,8 @@
 
 ## Python 
 
+- [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫
+- [Hello-SimpleAI/chatgpt-comparison-detection](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection) - Human ChatGPT Comparison Corpus (HC3), Detectors, and more! 🔥
 - [nwg-piotr/nwg-panel](https://github.com/nwg-piotr/nwg-panel) - GTK3-based panel for sway and Hyprland Wayland compositors
 - [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
 - [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving
@@ -1110,7 +1113,7 @@
 - [IDEA-CCNL/Fengshenbang-LM](https://github.com/IDEA-CCNL/Fengshenbang-LM) - Fengshenbang-LM(封神榜大模型)是IDEA研究院认知计算与自然语言研究中心主导的大模型开源体系，成为中文AIGC和认知智能的基础设施。
 - [zixiiu/Digital_Life_Server](https://github.com/zixiiu/Digital_Life_Server) - Yet another voice assistant, but alive.
 - [larksuite/oapi-sdk-python](https://github.com/larksuite/oapi-sdk-python) - Larksuite development interface SDK
-- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸 Web apps in pure Python 🐍
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - Web apps in pure Python.
 - [Sinaptik-AI/pandas-ai](https://github.com/Sinaptik-AI/pandas-ai) - Chat with your database (SQL, CSV, pandas, polars, mongodb, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
 - [ninehills/chatglm-openai-api](https://github.com/ninehills/chatglm-openai-api) - Provide OpenAI style API for  ChatGLM-6B and Chinese Embeddings Model
