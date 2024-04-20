@@ -1543,7 +1543,7 @@
 - [notify-rs/notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.
 - [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) - A Rust based DNS client, server, and resolver
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
-- [uros-5/jinja-lsp](https://github.com/uros-5/jinja-lsp) - Language Server for minijinja
+- [uros-5/jinja-lsp](https://github.com/uros-5/jinja-lsp) - Language Server for jinja
 - [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs)
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
