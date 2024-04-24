@@ -634,7 +634,7 @@
 - [chat2db/Chat2DB](https://github.com/chat2db/Chat2DB) - AI-driven data management platform Over 1 million developers are using Chat2DB
 - [cryptomator/cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud
 - [yanfeizhang/deep_linux_network_tests](https://github.com/yanfeizhang/deep_linux_network_tests) - 《深入理解Linux网络》一书的配套源码
-- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程，支持 Python, C++, Java, C#, Go, Swift, JS, TS, Dart, Rust, C, Zig 等语言。English edition ongoing
+- [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
 - [NationalSecurityAgency/ghidra](https://github.com/NationalSecurityAgency/ghidra) - Ghidra is a software reverse engineering (SRE) framework
 - [qintianchen/GAutomatorView](https://github.com/qintianchen/GAutomatorView) - GAutomatorView的个人开发版本
 - [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
@@ -946,7 +946,7 @@
 - [modernizing/awesome-modernization](https://github.com/modernizing/awesome-modernization) - awesome legacy system modernization tools. 大型系统分析和改造工具集。
 - [bobo-xiaoming/zufang](https://github.com/bobo-xiaoming/zufang) - 租房黑名单
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
-- [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery) - Instant AI code reviews to speed up your pull requests
+- [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery) - Instant AI code reviews
 - [WaterfoxCo/Waterfox](https://github.com/WaterfoxCo/Waterfox) - The official Waterfox 💧 source code repository
 - [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
 - [typeddjango/awesome-python-typing](https://github.com/typeddjango/awesome-python-typing) - Collection of awesome Python types, stubs, plugins, and tools to work with them.
@@ -1539,6 +1539,7 @@
 
 ## Rust 
 
+- [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux AMDGPU Controller
 - [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast static code analyzer & language server for Python
 - [notify-rs/notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.
 - [hickory-dns/hickory-dns](https://github.com/hickory-dns/hickory-dns) - A Rust based DNS client, server, and resolver
