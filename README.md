@@ -267,6 +267,7 @@
 
 ## CSS 
 
+- [paulloz/godot-csharp-api](https://github.com/paulloz/godot-csharp-api) - 
 - [rustx-labs/effective-rust-cn](https://github.com/rustx-labs/effective-rust-cn) - Effective Rust 中文版
 - [Quorafind/Obsidian-Card-Library](https://github.com/Quorafind/Obsidian-Card-Library) - 
 - [purton-tech/rust-on-nails](https://github.com/purton-tech/rust-on-nails) - Full stack web architecture for Rust
@@ -446,7 +447,7 @@
 - [Andrew-M-C/go.jsonvalue](https://github.com/Andrew-M-C/go.jsonvalue) - Quick Solution with Unstructured JSON data
 - [go-xorm/xorm](https://github.com/go-xorm/xorm) - Simple and Powerful ORM for Go, support mysql,postgres,tidb,sqlite3,mssql,oracle, Moved to https://gitea.com/xorm/xorm
 - [go-python/gopy](https://github.com/go-python/gopy) - gopy generates a CPython extension module from a go package.
-- [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。
+- [moonD4rk/HackBrowserData](https://github.com/moonD4rk/HackBrowserData) - Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).
 - [xiachufang/actions-feishu](https://github.com/xiachufang/actions-feishu) - GitHub Actions for Feishu
 - [nkanaev/yarr](https://github.com/nkanaev/yarr) - yet another rss reader
 - [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
@@ -1034,6 +1035,7 @@
 
 ## Python 
 
+- [nicholas-maltbie/gddoc2yml](https://github.com/nicholas-maltbie/gddoc2yml) - Convert godot xml docs to docfx yml
 - [LawRefBook/Laws](https://github.com/LawRefBook/Laws) - 
 - [FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) - Retrieval and Retrieval-augmented LLMs
 - [pyodide/pyodide](https://github.com/pyodide/pyodide) - Pyodide is a Python distribution for the browser and Node.js based on WebAssembly
