@@ -1669,7 +1669,7 @@
 - [kitao/pyxel](https://github.com/kitao/pyxel) - A retro game engine for Python
 - [facebookincubator/superconsole](https://github.com/facebookincubator/superconsole) - The superconsole crate provides a handler and building blocks for powerful, yet minimally intrusive TUIs.  It is cross platform, supporting Windows 7+, Linux, and MacOS.  Rustaceans who want to create
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
-- [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - Cross-platform, safe, pure-rust graphics api.
+- [gfx-rs/wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
 - [slint-ui/slint](https://github.com/slint-ui/slint) - Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.
 - [apertus-open-source-cinema/narui](https://github.com/apertus-open-source-cinema/narui) - A react-inspired UI library for building multimedia desktop apps with rust and vulkan.
 - [rust-lang/docs.rs](https://github.com/rust-lang/docs.rs) - crates.io documentation generator
