@@ -362,6 +362,7 @@
 
 ## GDScript 
 
+- [folt-a/godot-idea-board](https://github.com/folt-a/godot-idea-board) - Design all Godot editor items. Godot4 addon.
 - [SoloByte/godot-polygon2d-fracture](https://github.com/SoloByte/godot-polygon2d-fracture) - A simple script for fracturing polygons. Also adds nice helper functions for polygons like calculateArea, triangulate, getRandomPointsInPolygon, getBoundingRect)
 - [appsinacup/godot-softbody2d](https://github.com/appsinacup/godot-softbody2d) - Godot SoftBody2D - Plugin that adds deformable 2D soft body.
 - [derkork/godot-statecharts](https://github.com/derkork/godot-statecharts) - A state charts extension for Godot 4
@@ -1035,6 +1036,7 @@
 
 ## Python 
 
+- [kiriri/gd2cs.py](https://github.com/kiriri/gd2cs.py) - Regex based Python script that converts arbitrary gdscript code to C#
 - [nicholas-maltbie/gddoc2yml](https://github.com/nicholas-maltbie/gddoc2yml) - Convert godot xml docs to docfx yml
 - [LawRefBook/Laws](https://github.com/LawRefBook/Laws) - 
 - [FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) - Retrieval and Retrieval-augmented LLMs
