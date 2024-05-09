@@ -2178,7 +2178,7 @@
 - [wakatime/vim-wakatime](https://github.com/wakatime/vim-wakatime) - Vim plugin for automatic time tracking and metrics generated from your programming activity.
 - [vim-jp/vital.vim](https://github.com/vim-jp/vital.vim) - A comprehensive Vim utility functions for Vim plugins
 - [thinca/vim-themis](https://github.com/thinca/vim-themis) - A testing framework for Vim script.
-- [lambdalisue/gina.vim](https://github.com/lambdalisue/gina.vim) - 👣  Asynchronously control git repositories in Neovim/Vim 8
+- [lambdalisue/vim-gina](https://github.com/lambdalisue/vim-gina) - 👣  Asynchronously control git repositories in Neovim/Vim 8
 - [camspiers/lens.vim](https://github.com/camspiers/lens.vim) - A Vim Automatic Window Resizing Plugin
 - [skywind3000/vim-terminal-help](https://github.com/skywind3000/vim-terminal-help) - Small changes make vim/nvim's internal terminal great again !!
 - [sainnhe/everforest](https://github.com/sainnhe/everforest) - 🌲 Comfortable & Pleasant Color Scheme for Vim
