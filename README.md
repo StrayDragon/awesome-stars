@@ -1551,6 +1551,7 @@
 
 ## Rust 
 
+- [quarylabs/quary](https://github.com/quarylabs/quary) - Open-source BI for engineers
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux AMDGPU Controller
 - [mtshiba/pylyzer](https://github.com/mtshiba/pylyzer) - A fast static code analyzer & language server for Python
 - [notify-rs/notify](https://github.com/notify-rs/notify) - 🔭 Cross-platform filesystem notification library for Rust.
