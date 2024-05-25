@@ -86,6 +86,7 @@
 
 ## C 
 
+- [zen-kernel/zen-kernel](https://github.com/zen-kernel/zen-kernel) - Zen Patched Kernel Sources
 - [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用
 - [v1cont/yad](https://github.com/v1cont/yad) - Yet Another Dialog
 - [mbt/alltray](https://github.com/mbt/alltray) - AllTray is an application which docks other application software into the system tray (“notification area”) of a desktop environment such as GNOME, KDE, or XFCE. It aims to be independent of both desk
