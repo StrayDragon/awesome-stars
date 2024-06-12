@@ -651,7 +651,7 @@
 - [BowlerHatLLC/vscode-as3mxml](https://github.com/BowlerHatLLC/vscode-as3mxml) - ActionScript & MXML language extension for Visual Studio Code. Develop apps for Adobe AIR, Adobe Flash Player, or Apache Royale.
 - [Haleydu/Cimoc](https://github.com/Haleydu/Cimoc) - 漫画阅读器
 - [OpenAPITools/openapi-generator](https://github.com/OpenAPITools/openapi-generator) - OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)
-- [redisson/redisson](https://github.com/redisson/redisson) - Redisson - Easy Valkey/Redis Java client and Real-Time Data Platform. Sync/Async/RxJava/Reactive API. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, 
+- [redisson/redisson](https://github.com/redisson/redisson) - Redisson - Easy Redis Java client and Real-Time Data Platform. Valkey compatible. Sync/Async/RxJava/Reactive API. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Qu
 - [lukas-krecan/ShedLock](https://github.com/lukas-krecan/ShedLock) - Distributed lock for your scheduled tasks
 - [alturkovic/distributed-lock](https://github.com/alturkovic/distributed-lock) - Distributed locking with Spring
 - [apache/shardingsphere](https://github.com/apache/shardingsphere) - Distributed SQL transaction & query engine for data sharding, scaling, encryption, and more - on any database.
