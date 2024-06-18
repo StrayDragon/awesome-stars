@@ -1834,7 +1834,7 @@
 - [scop/bash-completion](https://github.com/scop/bash-completion) - Programmable completion functions for bash
 - [gissf1/zram-hibernate](https://github.com/gissf1/zram-hibernate) - Allows dynamic swap changes to activate disk-based storage as swap for hibernation support when a system typically uses only zram swap during normal operation.
 - [binpash/try](https://github.com/binpash/try) - Inspect a command's effects before modifying your live system
-- [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。
+- [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
 - [amishmm/pacman-systemd-inhibit](https://github.com/amishmm/pacman-systemd-inhibit) - Inhibit system shutdown, reboot etc. when pacman is upgrading the system
 - [cxOrz/dotfiles-hyprland](https://github.com/cxOrz/dotfiles-hyprland) - Hyprland dotfiles based on Arch Linux, with waybar & lofi & kitty & swaylock
 - [jqtmviyu/Hyprland-v2.1](https://github.com/jqtmviyu/Hyprland-v2.1) - little changes  from Hyprland-v2.1
