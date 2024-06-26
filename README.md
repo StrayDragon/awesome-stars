@@ -306,7 +306,7 @@
 - [miguelpruivo/flutter_file_picker](https://github.com/miguelpruivo/flutter_file_picker) - File picker plugin for Flutter, compatible with mobile (iOS & Android), Web, Desktop (Mac, Linux, Windows) platforms with Flutter Go support.
 - [syncfusion/flutter-widgets](https://github.com/syncfusion/flutter-widgets) - Syncfusion Flutter widgets libraries include high quality UI widgets and file-format packages to help you create rich, high-quality applications for iOS, Android, and web from a single code base.
 - [entronad/graphic](https://github.com/entronad/graphic) - A grammar of data visualization and Flutter charting library.
-- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is an AI collaborative workspace where you achieve more without losing control of your data. The best open source alternative to Notion.
 - [flame-engine/flame](https://github.com/flame-engine/flame) - A Flutter based game engine.
 - [pinchbv/floor](https://github.com/pinchbv/floor) - The typesafe, reactive, and lightweight SQLite abstraction for your Flutter applications
 - [dartclub/ical](https://github.com/dartclub/ical) - iCal library for Dart and Flutter
@@ -1004,7 +1004,6 @@
 - [sindresorhus/awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs) - :zap: Delightful Node.js packages and resources
 - [ffffffff0x/Dork-Admin](https://github.com/ffffffff0x/Dork-Admin) - 盘点近年来的数据泄露、供应链污染事件
 - [carlosperate/awesome-pyproject](https://github.com/carlosperate/awesome-pyproject) - An Awesome List of projects using the pyproject.toml Python configuration file.
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
 - [wsdjeg/vim-galore-zh_cn](https://github.com/wsdjeg/vim-galore-zh_cn) - Vim 从入门到精通
 - [rShetty/awesome-podcasts](https://github.com/rShetty/awesome-podcasts) - Collection of awesome podcasts
 - [izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS
@@ -2250,6 +2249,7 @@
 - [mbbill/undotree](https://github.com/mbbill/undotree) - The undo history visualizer for VIM
 - [vim-scripts/netrw.vim](https://github.com/vim-scripts/netrw.vim) - Network oriented reading, writing, and browsing (keywords: netrw ftp scp)
 - [liuchengxu/space-vim](https://github.com/liuchengxu/space-vim) - :four_leaf_clover: Lean & mean spacemacs-ish Vim distribution
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
 - [octol/vim-cpp-enhanced-highlight](https://github.com/octol/vim-cpp-enhanced-highlight) - Additional Vim syntax highlighting for C++ (including C++11/14/17)
 - [takac/vim-hardtime](https://github.com/takac/vim-hardtime) - Plugin to help you stop repeating the basic movement keys
 - [junegunn/limelight.vim](https://github.com/junegunn/limelight.vim) - :flashlight: All the world's indeed a stage and we are merely players
