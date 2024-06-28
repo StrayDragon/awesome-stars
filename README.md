@@ -616,7 +616,6 @@
 - [rustviz/rustviz](https://github.com/rustviz/rustviz) - Interactively Visualizing Ownership and Borrowing for Rust
 - [shrhdk/text-to-svg](https://github.com/shrhdk/text-to-svg) - Convert text to SVG path without native dependence.
 - [fofolee/uTools-Manuals](https://github.com/fofolee/uTools-Manuals) - uTools插件，内置了十多个实用的离线中文手册，包括：Linux、PHP、Python、JS等,以及提供了搜索devdocs、dash/zeal上的文档的功能
-- [gfreezy/mailhook](https://github.com/gfreezy/mailhook) - 自动将邮件转发到飞书
 - [golang101/golang101](https://github.com/golang101/golang101) - Go语言101 : 一个与时俱进的Go编程知识库
 - [asatarin/testing-distributed-systems](https://github.com/asatarin/testing-distributed-systems) - Curated list of resources on testing distributed systems
 - [go-training/training](https://github.com/go-training/training) - Learning Golang one day
@@ -1110,7 +1109,7 @@
 - [ansible/ansible-jupyter-kernel](https://github.com/ansible/ansible-jupyter-kernel) - Jupyter Notebook Kernel for running Ansible Tasks and Playbooks
 - [AntonFriberg/dagster-project-example](https://github.com/AntonFriberg/dagster-project-example) - An example of a Dagster project with a possible folder structure to organize the assets, jobs, repositories, schedules, and ops. Also has examples of unit-tests and docker deployment with a Postgresql
 - [decompiler-explorer/decompiler-explorer](https://github.com/decompiler-explorer/decompiler-explorer) - Decompiler Explorer! Compare tools on the forefront of static analysis, now in your web browser!
-- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration tool empowering developers to build, observe, and react to data pipelines
+- [PrefectHQ/prefect](https://github.com/PrefectHQ/prefect) - Prefect is a workflow orchestration framework for building resilient data pipelines in Python.
 - [danielgafni/dagster-polars](https://github.com/danielgafni/dagster-polars) - [Project moved] Polars integration for Dagster
 - [doublewinter0/xfyun-xinghuo](https://github.com/doublewinter0/xfyun-xinghuo) - 讯飞星火认知大模型 Web API
 - [aiwaves-cn/agents](https://github.com/aiwaves-cn/agents) - An Open-source Framework for Autonomous Language Agents
@@ -1737,6 +1736,7 @@
 - [salvo-rs/salvo](https://github.com/salvo-rs/salvo) - A powerful web framework built with a simplified design.
 - [TheAlgorithms/Rust](https://github.com/TheAlgorithms/Rust) - All Algorithms implemented in Rust
 - [stepancheg/rust-protobuf](https://github.com/stepancheg/rust-protobuf) - Rust implementation of Google protocol buffers
+- [gfreezy/mailhook](https://github.com/gfreezy/mailhook) - 自动将邮件转发到飞书
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [enigo-rs/enigo](https://github.com/enigo-rs/enigo) - Cross platform input simulation in Rust
 - [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
@@ -2251,7 +2251,7 @@
 - [mbbill/undotree](https://github.com/mbbill/undotree) - The undo history visualizer for VIM
 - [vim-scripts/netrw.vim](https://github.com/vim-scripts/netrw.vim) - Network oriented reading, writing, and browsing (keywords: netrw ftp scp)
 - [liuchengxu/space-vim](https://github.com/liuchengxu/space-vim) - :four_leaf_clover: Lean & mean spacemacs-ish Vim distribution
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular Vim/Neovim configuration
 - [octol/vim-cpp-enhanced-highlight](https://github.com/octol/vim-cpp-enhanced-highlight) - Additional Vim syntax highlighting for C++ (including C++11/14/17)
 - [takac/vim-hardtime](https://github.com/takac/vim-hardtime) - Plugin to help you stop repeating the basic movement keys
 - [junegunn/limelight.vim](https://github.com/junegunn/limelight.vim) - :flashlight: All the world's indeed a stage and we are merely players
