@@ -813,6 +813,7 @@
 
 ## Kotlin 
 
+- [theappbusiness/android-proxy-toggle](https://github.com/theappbusiness/android-proxy-toggle) - Small application to help android developers to quickly enable and disable proxy settings
 - [ruffle-rs/ruffle-android](https://github.com/ruffle-rs/ruffle-android) - An Android application for ruffle.rs
 - [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是
 - [unit-mesh/chocolate-factory](https://github.com/unit-mesh/chocolate-factory) - Chocolate Factory is a cutting-edge LLM toolkit designed to empower you in creating your very own AI assistant.Chocolate Factory 是一款开源的 LLM 应用开发框架，旨在帮助您轻松打造强大的软件开发 SDLC + LLM 生成助手。无论您是需要生成前端页面、后端 API、
@@ -2230,7 +2231,7 @@
 - [terryma/vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) - True Sublime Text style multiple selections for Vim
 - [jayli/vim-easydebugger](https://github.com/jayli/vim-easydebugger) - A VIM multi-language debugger plugin
 - [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) - A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
-- [brglng/vim-im-select](https://github.com/brglng/vim-im-select) - Improve Vim/Neovim experience with input methods.
+- [brglng/vim-im-select-1](https://github.com/brglng/vim-im-select-1) - Improve Vim/Neovim experience with input methods.
 - [exvim/main](https://github.com/exvim/main) - This is the main repository for exVim!
 - [brammool/vim9](https://github.com/brammool/vim9) - An experimental fork of Vim, exploring ways to make Vim script faster and better.
 - [mhinz/vim-crates](https://github.com/mhinz/vim-crates) - Handle Cargo dependencies like a Rustavimean.
