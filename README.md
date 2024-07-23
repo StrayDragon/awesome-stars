@@ -807,6 +807,7 @@
 - [1rgs/jsonformer](https://github.com/1rgs/jsonformer) - A Bulletproof Way to Generate Structured JSON from Language Models
 - [guidance-ai/guidance](https://github.com/guidance-ai/guidance) - A guidance language for controlling large language models.
 - [CybercentreCanada/jupyterlab-sql-editor](https://github.com/CybercentreCanada/jupyterlab-sql-editor) - A JupyterLab extension providing, SQL formatter, auto-completion, syntax highlighting, Spark SQL and Trino
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [phodal/understand-prompt](https://github.com/phodal/understand-prompt) - 【🔞🔞🔞 内含不适合未成年人阅读的图片】基于我擅长的编程、绘画、写作展开的 AI 探索和总结：StableDiffusion 是一种强大的图像生成模型，能够通过对一张图片进行演化来生成新的图片。ChatGPT 是一个基于 Transformer 的语言生成模型，它能够自动为输入的主题生成合适的文章。而 Github Copilot 是一个智能编程助手，能够加速日常编程活动。
 - [WongKinYiu/yolov7](https://github.com/WongKinYiu/yolov7) - Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors
 - [ypwhs/captcha_break](https://github.com/ypwhs/captcha_break) - 验证码识别
@@ -1074,7 +1075,6 @@
 - [NanmiCoder/MediaCrawler](https://github.com/NanmiCoder/MediaCrawler) - 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫
 - [Hello-SimpleAI/chatgpt-comparison-detection](https://github.com/Hello-SimpleAI/chatgpt-comparison-detection) - Human ChatGPT Comparison Corpus (HC3), Detectors, and more! 🔥
 - [nwg-piotr/nwg-panel](https://github.com/nwg-piotr/nwg-panel) - GTK3-based panel for sway and Hyprland Wayland compositors
-- [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
 - [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent) - An Autonomous LLM Agent for Complex Task Solving
 - [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Specify what you want it to build, the AI asks for clarification, and then builds it.
 - [ConnectAI-E/connectai](https://github.com/ConnectAI-E/connectai) - 开发工具
@@ -1177,7 +1177,6 @@
 - [macbre/sql-metadata](https://github.com/macbre/sql-metadata) - Uses tokenized query returned by python-sqlparse and generates query metadata
 - [langchain-ai/chat-langchain](https://github.com/langchain-ai/chat-langchain) - 
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is a data framework for your LLM applications
@@ -1576,6 +1575,7 @@
 
 ## Rust 
 
+- [crowdagger/crowbook](https://github.com/crowdagger/crowbook) - Converts books written in Markdown to HTML, LaTeX/PDF and EPUB
 - [fastracelabs/fastrace](https://github.com/fastracelabs/fastrace) - 
 - [EmbarkStudios/puffin](https://github.com/EmbarkStudios/puffin) - 🐦 Friendly little instrumentation profiler for Rust 🦀
 - [mitsuhiko/better-panic](https://github.com/mitsuhiko/better-panic) - A python inspired panic handler for rust
@@ -1592,6 +1592,7 @@
 - [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust.
+- [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [snylonue/b2m](https://github.com/snylonue/b2m) - play bilibili video with mpv
 - [BloopAI/bloop](https://github.com/BloopAI/bloop) - bloop is a fast code search engine written in Rust.
