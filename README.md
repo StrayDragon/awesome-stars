@@ -16,8 +16,10 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [CodeQL](#codeql)
+- [CoffeeScript](#coffeescript)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
+- [EJS](#ejs)
 - [Emacs Lisp](#emacs-lisp)
 - [Fluent](#fluent)
 - [GAP](#gap)
@@ -296,6 +298,10 @@
 
 - [github/codeql](https://github.com/github/codeql) - CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security
 
+## CoffeeScript 
+
+- [suziwen/ZeroOmega](https://github.com/suziwen/ZeroOmega) - Manage and switch between multiple proxies quickly & easily.
+
 ## Dart 
 
 - [openwebf/webf](https://github.com/openwebf/webf) - Build flutter apps with HTML/CSS and JavaScript.
@@ -353,8 +359,13 @@
 
 ## Dockerfile 
 
+- [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
 - [microsoft/iis-docker](https://github.com/microsoft/iis-docker) - Dockerfile for IIS
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
+
+## EJS 
+
+- [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 
 ## Emacs Lisp 
 
@@ -403,6 +414,7 @@
 
 ## Go 
 
+- [xiaobaiTech/golangFamily](https://github.com/xiaobaiTech/golangFamily) - 【超全golang面试题合集+golang学习指南+golang知识图谱+入门成长路线】 一份涵盖大部分golang程序员所需要掌握的核心知识。常用第三方库(mysql,mq,es,redis等)+机器学习库+算法库+游戏库+开源框架+自然语言处理nlp库+网络库+视频库+微服务框架+视频教程+音频音乐库+图形图片库+物联网库+地理位置信息+嵌入式脚本库+编译器库+数据库+金融库+电子邮件库+电子
 - [deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) - 代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。
 - [j178/leetgo](https://github.com/j178/leetgo) - Best LeetCode friend for geek. :snowboarder:
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
@@ -648,6 +660,7 @@
 
 ## Java 
 
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [codefuse-ai/CodeFuse-Query](https://github.com/codefuse-ai/CodeFuse-Query) - Query-Based Code Analysis Engine
 - [apache/fury](https://github.com/apache/fury) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
 - [apitable/apitable-sdks](https://github.com/apitable/apitable-sdks) - APITable officially provides various API, which allow users to get data by HTTPS requests, or push data to APITable.
@@ -1060,6 +1073,7 @@
 
 ## Python 
 
+- [cpython666/Thousand-Image-Generator](https://github.com/cpython666/Thousand-Image-Generator) - 千图成像器是基于 PyQt6 的应用程序，允许您使用所选图像和包含成千上万张图像的文件夹创建一个拼图图像。
 - [OliverCi/freeplane2md](https://github.com/OliverCi/freeplane2md) - Convert Freeplane mind maps into Markdown format
 - [chroming/pdfdir](https://github.com/chroming/pdfdir) - PDF导航（大纲/目录）添加工具
 - [ariebovenberg/whenever](https://github.com/ariebovenberg/whenever) - ⏰ Modern datetime library for Python, available in Rust or pure Python
@@ -1828,6 +1842,7 @@
 
 ## SCSS 
 
+- [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [ppeetteerrs/obsidian-zola](https://github.com/ppeetteerrs/obsidian-zola) - A no-brainer solution to turning your Obsidian PKM into a Zola site.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 
