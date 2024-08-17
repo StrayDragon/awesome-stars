@@ -61,6 +61,7 @@
 - [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
+- [Typst](#typst)
 - [V](#v)
 - [VBScript](#vbscript)
 - [Vala](#vala)
@@ -702,6 +703,7 @@
 
 ## JavaScript 
 
+- [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [jifengg/ffmpeg-script](https://github.com/jifengg/ffmpeg-script) - A script set that uses ffmpeg to implement various functions
 - [txperl/airAnime](https://github.com/txperl/airAnime) - 轻量的聚合番剧搜索工具
 - [dragonir/zelda-map](https://github.com/dragonir/zelda-map) - zelda-map 塞尔达：旷野之息地图 🗺
@@ -1023,7 +1025,7 @@
 - [qyuhen/book](https://github.com/qyuhen/book) - 学习笔记
 - [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet) - A list of cool features of Git and GitHub.
 - [cat-milk/Anime-Girls-Holding-Programming-Books](https://github.com/cat-milk/Anime-Girls-Holding-Programming-Books) - Anime Girls Holding Programming Books
-- [yifeikong/reverse-interview-zh](https://github.com/yifeikong/reverse-interview-zh) - 技术面试最后反问面试官的话
+- [iffybug/reverse-interview-zh](https://github.com/iffybug/reverse-interview-zh) - 技术面试最后反问面试官的话
 - [haiiiiiyun/awesome-django-cn](https://github.com/haiiiiiyun/awesome-django-cn) - Django 优秀资源大全。
 - [na018/vue_basics_tut](https://github.com/na018/vue_basics_tut) - 
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
@@ -1081,6 +1083,8 @@
 
 ## Python 
 
+- [BMPixel/moffee](https://github.com/BMPixel/moffee) - moffee: Make Markdown Ready to Present
+- [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [cpython666/Thousand-Image-Generator](https://github.com/cpython666/Thousand-Image-Generator) - 千图成像器是基于 PyQt6 的应用程序，允许您使用所选图像和包含成千上万张图像的文件夹创建一个拼图图像。
 - [OliverCi/freeplane2md](https://github.com/OliverCi/freeplane2md) - Convert Freeplane mind maps into Markdown format
 - [chroming/pdfdir](https://github.com/chroming/pdfdir) - PDF导航（大纲/目录）添加工具
@@ -1600,6 +1604,8 @@
 
 ## Rust 
 
+- [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
+- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [crowdagger/crowbook](https://github.com/crowdagger/crowbook) - Converts books written in Markdown to HTML, LaTeX/PDF and EPUB
 - [fast/fastrace](https://github.com/fast/fastrace) - A tracing library 10~100x faster than others
 - [EmbarkStudios/puffin](https://github.com/EmbarkStudios/puffin) - 🐦 Friendly little instrumentation profiler for Rust 🦀
@@ -1965,6 +1971,8 @@
 
 ## TypeScript 
 
+- [imsyy/DailyHotApi](https://github.com/imsyy/DailyHotApi) - 🔥 今日热榜 API，一个聚合热门数据的 API 接口，支持 RSS 模式 及 Vercel 部署 | 前端页面：https://github.com/imsyy/DailyHot
+- [pompurin404/mihomo-party](https://github.com/pompurin404/mihomo-party) - :electron: Another Mihomo GUI.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser
 - [chickensoft-games/chickensoft_site](https://github.com/chickensoft-games/chickensoft_site) - Official Chickensoft website, blogs, and documentation.
@@ -2173,6 +2181,10 @@
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [vuejs/devtools](https://github.com/vuejs/devtools) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
+
+## Typst 
+
+- [OrangeX4/Chinese-Resume-in-Typst](https://github.com/OrangeX4/Chinese-Resume-in-Typst) - 使用 Typst 编写的中文简历, 语法简洁, 样式美观, 开箱即用, 可选是否显示照片
 
 ## V 
 
