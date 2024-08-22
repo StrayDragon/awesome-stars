@@ -184,6 +184,7 @@
 
 ## C++ 
 
+- [outfoxxed/hy3](https://github.com/outfoxxed/hy3) - Hyprland plugin for an i3 / sway like manual tiling layout
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
 - [facebookincubator/oomd](https://github.com/facebookincubator/oomd) - A userspace out-of-memory killer
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
@@ -198,7 +199,7 @@
 - [epoupon/lms](https://github.com/epoupon/lms) - Lightweight Music Server. Access your self-hosted music using a web interface.
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
-- [li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp) - C++ implementation of ChatGLM-6B & ChatGLM2-6B & ChatGLM3 & GLM4
+- [li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp) - C++ implementation of ChatGLM-6B & ChatGLM2-6B & ChatGLM3 & GLM4(V)
 - [sddm/sddm](https://github.com/sddm/sddm) - QML based X11 and Wayland display manager
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [microsoft/STL](https://github.com/microsoft/STL) - MSVC's implementation of the C++ Standard Library.
@@ -1621,7 +1622,7 @@
 - [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you
 - [uros-5/jinja-lsp](https://github.com/uros-5/jinja-lsp) - Language Server for jinja
 - [TaKO8Ki/gobang](https://github.com/TaKO8Ki/gobang) - A cross-platform TUI database management tool written in Rust
-- [ratatui-org/ratatui](https://github.com/ratatui-org/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
+- [ratatui/ratatui](https://github.com/ratatui/ratatui) - Rust library that's all about cooking up terminal user interfaces (TUIs) 👨‍🍳🐀
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [google/magika](https://github.com/google/magika) - Detect file content types with deep learning
