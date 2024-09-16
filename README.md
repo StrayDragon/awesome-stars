@@ -25,7 +25,6 @@
 - [Fluent](#fluent)
 - [GAP](#gap)
 - [GDScript](#gdscript)
-- [GLSL](#glsl)
 - [Go](#go)
 - [HLSL](#hlsl)
 - [HTML](#html)
@@ -411,6 +410,7 @@
 - [ramaureirac/godot-tactical-rpg](https://github.com/ramaureirac/godot-tactical-rpg) - A tactical role-playing game demo for the Godot Engine
 - [gdquest-demos/godot-visual-effects](https://github.com/gdquest-demos/godot-visual-effects) - Open-source visual effects designed in Godot, from our VFX Secrets course.
 - [gdquest-demos/godot-demos-2022](https://github.com/gdquest-demos/godot-demos-2022) - Free and open-source Godot demos for learning, with guides and tutorials: 2022 edition.
+- [gdquest-demos/godot-shaders](https://github.com/gdquest-demos/godot-shaders) - A large library of free and open-source shaders for the Godot game engine. Here, you'll get 2D and 3D shaders with playable demos.
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of p
 - [godotengine/godot-demo-projects](https://github.com/godotengine/godot-demo-projects) - Demonstration and Template Projects
 - [MitchMakesThings/Spell-Splosion](https://github.com/MitchMakesThings/Spell-Splosion) - A Godot Engine 3 project to replicate the terrain destruction from Worms
@@ -421,12 +421,9 @@
 - [lihop/godot-xterm](https://github.com/lihop/godot-xterm) - Terminal emulator for the Godot game engine.
 - [RKiemGames/godot-terminal-addons](https://github.com/RKiemGames/godot-terminal-addons) - A terminal for Godot Engine
 
-## GLSL 
-
-- [gdquest-demos/godot-shaders](https://github.com/gdquest-demos/godot-shaders) - A large library of free and open-source shaders for the Godot game engine. Here, you'll get 2D and 3D shaders with playable demos.
-
 ## Go 
 
+- [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [guregu/null](https://github.com/guregu/null) - reasonable handling of nullable values
 - [mmcgrana/gobyexample](https://github.com/mmcgrana/gobyexample) - Go by Example
 - [luckygopher/go-interview](https://github.com/luckygopher/go-interview) - go的一些知识总结&go学习笔记
@@ -724,6 +721,7 @@
 
 ## JavaScript 
 
+- [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database design tool and SQL generator.
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [jifengg/ffmpeg-script](https://github.com/jifengg/ffmpeg-script) - A script set that uses ffmpeg to implement various functions
 - [txperl/airAnime](https://github.com/txperl/airAnime) - 轻量的聚合番剧搜索工具
@@ -1105,6 +1103,7 @@
 
 ## Python 
 
+- [RosettaTechnologies/AnkiBrain](https://github.com/RosettaTechnologies/AnkiBrain) - 
 - [iswbm/golang-interview](https://github.com/iswbm/golang-interview) - Go语言面试题集
 - [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 - [BMPixel/moffee](https://github.com/BMPixel/moffee) - moffee: Make Markdown Ready to Present
