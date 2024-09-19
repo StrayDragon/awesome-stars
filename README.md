@@ -423,6 +423,7 @@
 
 ## Go 
 
+- [golang/exp](https://github.com/golang/exp) - [mirror] Experimental and deprecated packages
 - [Slumhee/Web003Gin-01_gingormtutorials](https://github.com/Slumhee/Web003Gin-01_gingormtutorials) - Code and text version of the tutorial on Gin, Gorm, Golang, Vue, Redis, MySQL, InkkaPlumChannel. | InkkaPlum频道的Gin, Gorm, Vue, Redis, MySQL教程的代码和文字版教程。
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [guregu/null](https://github.com/guregu/null) - reasonable handling of nullable values
@@ -2000,6 +2001,7 @@
 
 ## TypeScript 
 
+- [Yaozhuwa/AttachFlow](https://github.com/Yaozhuwa/AttachFlow) - This nifty plugin enables seamless management of attachments and referenced links directly from your documents. Taking advantage of an intuitive right-click menu, you can efficiently handle resources 
 - [nodejs/corepack](https://github.com/nodejs/corepack) - Zero-runtime-dependency package acting as bridge between Node projects and their package managers
 - [SilentVoid13/Templater](https://github.com/SilentVoid13/Templater) - A template plugin for obsidian
 - [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki) - :star2: Wiki of OI / ICPC for everyone. （某大型游戏线上攻略，内含炫酷算术魔法）
