@@ -423,6 +423,7 @@
 
 ## Go 
 
+- [atselvan/ankiconnect](https://github.com/atselvan/ankiconnect) - A lightweight Golang interface for ankiconnect
 - [golang/exp](https://github.com/golang/exp) - [mirror] Experimental and deprecated packages
 - [Slumhee/Web003Gin-01_gingormtutorials](https://github.com/Slumhee/Web003Gin-01_gingormtutorials) - Code and text version of the tutorial on Gin, Gorm, Golang, Vue, Redis, MySQL, InkkaPlumChannel. | InkkaPlum频道的Gin, Gorm, Vue, Redis, MySQL教程的代码和文字版教程。
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
@@ -446,7 +447,6 @@
 - [cloudwego/hertz](https://github.com/cloudwego/hertz) - Go HTTP framework with high-performance and strong-extensibility for building micro-services.
 - [cloudwego/netpoll](https://github.com/cloudwego/netpoll) - A high-performance non-blocking I/O networking framework focusing on RPC scenarios.
 - [cloudwego/kitex](https://github.com/cloudwego/kitex) - Go RPC framework with high-performance and strong-extensibility for building micro-services.
-- [xiaobaiTech/golangFamily](https://github.com/xiaobaiTech/golangFamily) - 【超全golang面试题合集+golang学习指南+golang知识图谱+入门成长路线】 一份涵盖大部分golang程序员所需要掌握的核心知识。常用第三方库(mysql,mq,es,redis等)+机器学习库+算法库+游戏库+开源框架+自然语言处理nlp库+网络库+视频库+微服务框架+视频教程+音频音乐库+图形图片库+物联网库+地理位置信息+嵌入式脚本库+编译器库+数据库+金融库+电子邮件库+电子
 - [deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy) - 代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。
 - [j178/leetgo](https://github.com/j178/leetgo) - Best LeetCode friend for geek. :snowboarder:
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
@@ -1106,6 +1106,9 @@
 
 ## Python 
 
+- [ObsidianToAnki/Obsidian_to_Anki](https://github.com/ObsidianToAnki/Obsidian_to_Anki) - Script to add flashcards from text/markdown files to Anki
+- [kerrickstaley/genanki](https://github.com/kerrickstaley/genanki) - A Python 3 library for generating Anki decks
+- [Clouder0/AnkiLink](https://github.com/Clouder0/AnkiLink) - 语法自然的 markdown 文件导入 Anki 工具。A handy tool to import your markdown files into Anki.
 - [RosettaTechnologies/AnkiBrain](https://github.com/RosettaTechnologies/AnkiBrain) - 
 - [iswbm/golang-interview](https://github.com/iswbm/golang-interview) - Go语言面试题集
 - [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
@@ -1632,6 +1635,7 @@
 
 ## Rust 
 
+- [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [hoodie/toastify](https://github.com/hoodie/toastify) - 🍞A commandline tool that shows desktop notifications using notify-rust
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
