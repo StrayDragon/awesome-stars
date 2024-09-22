@@ -161,7 +161,7 @@
 
 ## C# # 
 
-- [transbot/EssentialCSharp](https://github.com/transbot/EssentialCSharp) - This project contains the source code for the Chinese edition of book Essential C# by Mark Michaelis (Addison-Wesley).
+- [transbot/EssentialCSharp](https://github.com/transbot/EssentialCSharp) - 这个项目包含《C#12.0本质论》的配套资源；This project contains the source code for the Chinese edition of book Essential C# by Mark Michaelis (Addison-Wesley).
 - [RonaldCarter/PHPManager](https://github.com/RonaldCarter/PHPManager) - PHP Manager for IIS
 - [microsoft/dev-proxy](https://github.com/microsoft/dev-proxy) - Dev Proxy is an API simulator that helps you effortlessly test your app beyond the happy path.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
@@ -1106,6 +1106,7 @@
 
 ## Python 
 
+- [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [rq/rq](https://github.com/rq/rq) - Simple job queues for Python
 - [scrapy/parsel](https://github.com/scrapy/parsel) - Parsel lets you extract data from XML/HTML documents using XPath or CSS selectors
 - [ObsidianToAnki/Obsidian_to_Anki](https://github.com/ObsidianToAnki/Obsidian_to_Anki) - Script to add flashcards from text/markdown files to Anki
@@ -2008,6 +2009,7 @@
 
 ## TypeScript 
 
+- [st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian.md
 - [Yaozhuwa/AttachFlow](https://github.com/Yaozhuwa/AttachFlow) - This nifty plugin enables seamless management of attachments and referenced links directly from your documents. Taking advantage of an intuitive right-click menu, you can efficiently handle resources 
 - [nodejs/corepack](https://github.com/nodejs/corepack) - Zero-runtime-dependency package acting as bridge between Node projects and their package managers
 - [SilentVoid13/Templater](https://github.com/SilentVoid13/Templater) - A template plugin for obsidian
