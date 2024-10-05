@@ -826,7 +826,7 @@
 - [eNkru/electron-xiami](https://github.com/eNkru/electron-xiami) - 虾米音乐 & 虾米电台 - Linux & Mac | Xiami Player & Xiami Radio desktop for Linux & Mac supported by Electron
 - [kchen0x/hexo-reference](https://github.com/kchen0x/hexo-reference) - A plugin to support markdown footnotes and Wiki-Style tooltip reference in your Hexo blog posts.
 - [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
-- [greyli/bluelog](https://github.com/greyli/bluelog) - The 2024 version: https://github.com/greyli/greybook
+- [greyli/bluelog](https://github.com/greyli/bluelog) - Check out the newer version (2024) of this project: https://github.com/greyli/greybook
 - [jgraph/drawio](https://github.com/jgraph/drawio) - draw.io is a JavaScript, client-side editor for general diagramming.
 - [yoxjs/yox](https://github.com/yoxjs/yox) - A lightweight mvvm framework
 - [Mottie/GitHub-userscripts](https://github.com/Mottie/GitHub-userscripts) - Userscripts to add functionality to GitHub
@@ -1115,7 +1115,7 @@
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [MadcowD/ell](https://github.com/MadcowD/ell) - A language model programming library.
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
-- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
+- [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [zdsjjtTLG/TrackIt](https://github.com/zdsjjtTLG/TrackIt) - Map Matching Python Package Based on Hidden Markov Model(HMM)
 - [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 - [rq/rq](https://github.com/rq/rq) - Simple job queues for Python
@@ -2028,7 +2028,6 @@
 - [haystackeditor/haystack-editor](https://github.com/haystackeditor/haystack-editor) - 
 - [0011000000110010/obsidian-i18n](https://github.com/0011000000110010/obsidian-i18n) - 
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
-- [trypear/pearai-app](https://github.com/trypear/pearai-app) - The Open Source AI-Powered Code Editor. A fork of VSCode and Continue.
 - [st3v3nmw/obsidian-spaced-repetition](https://github.com/st3v3nmw/obsidian-spaced-repetition) - Fight the forgetting curve by reviewing flashcards & entire notes on Obsidian.md
 - [Yaozhuwa/AttachFlow](https://github.com/Yaozhuwa/AttachFlow) - This nifty plugin enables seamless management of attachments and referenced links directly from your documents. Taking advantage of an intuitive right-click menu, you can efficiently handle resources 
 - [nodejs/corepack](https://github.com/nodejs/corepack) - Zero-runtime-dependency package acting as bridge between Node projects and their package managers
