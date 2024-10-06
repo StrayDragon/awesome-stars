@@ -421,6 +421,7 @@
 
 ## Go 
 
+- [jinzhu/copier](https://github.com/jinzhu/copier) - Copier for golang, copy value from struct to struct and more
 - [atselvan/ankiconnect](https://github.com/atselvan/ankiconnect) - A lightweight Golang interface for ankiconnect
 - [golang/exp](https://github.com/golang/exp) - [mirror] Experimental and deprecated packages
 - [Slumhee/Web003Gin-01_gingormtutorials](https://github.com/Slumhee/Web003Gin-01_gingormtutorials) - Code and text version of the tutorial on Gin, Gorm, Golang, Vue, Redis, MySQL, InkkaPlumChannel. | InkkaPlum频道的Gin, Gorm, Vue, Redis, MySQL教程的代码和文字版教程。
