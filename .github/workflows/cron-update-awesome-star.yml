@@ -1,4 +1,4 @@
-1name: update awesome-stars
+name: update awesome-stars
 on:
   push:
     branches:
