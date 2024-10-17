@@ -287,6 +287,7 @@
 - [BingyanStudio/LapisCV](https://github.com/BingyanStudio/LapisCV) - 📃 开箱即用的 Markdown 简历，支持 VSCode / Obsidian / Typora
 - [Akifyss/obsidian-border](https://github.com/Akifyss/obsidian-border) - A theme for obsidian.md
 - [hehonghui/awesome-english-ebooks](https://github.com/hehonghui/awesome-english-ebooks) - 经济学人(含音频)、纽约客、卫报、连线、大西洋月刊等英语杂志免费下载,支持epub、mobi、pdf格式, 每周更新
+- [rustx-labs/effective-rust-cn](https://github.com/rustx-labs/effective-rust-cn) - Effective Rust 中文版
 - [Quorafind/Obsidian-Card-Library](https://github.com/Quorafind/Obsidian-Card-Library) - 
 - [purton-tech/rust-on-nails](https://github.com/purton-tech/rust-on-nails) - Full stack web architecture for Rust
 - [cxOrz/dotfiles-hyprland](https://github.com/cxOrz/dotfiles-hyprland) - Hyprland dotfiles on Arch Linux.
@@ -734,7 +735,6 @@
 - [txperl/airAnime](https://github.com/txperl/airAnime) - 轻量的聚合番剧搜索工具
 - [dragonir/zelda-map](https://github.com/dragonir/zelda-map) - zelda-map 塞尔达：旷野之息地图 🗺
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - i hate minimalism so...
-- [rustx-labs/effective-rust-cn](https://github.com/rustx-labs/effective-rust-cn) - Effective Rust 中文版
 - [zotero/zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
 - [ArchGPT/insomnium](https://github.com/ArchGPT/insomnium) - Insomnium is a fast local API testing tool that is privacy-focused and 100% local. For testing GraphQL, REST, WebSockets and gRPC. This is a fork of Kong/insomnia
 - [obsidianmd/jsoncanvas](https://github.com/obsidianmd/jsoncanvas) - An open file format for infinite canvas data.
@@ -2030,6 +2030,8 @@
 
 ## TypeScript 
 
+- [wechatferry/wechatferry](https://github.com/wechatferry/wechatferry) - 基于 WechatFerry 的微信机器人底层框架
+- [xushengfeng/eSearch](https://github.com/xushengfeng/eSearch) - 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译   Screenshot  Offline OCR   Search   Translate   Search for picture   Paste the picture on the screen   Screen recorder   Omnidirectional scrolling screenshot   Sc
 - [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export) - Export html from single files, canvas pages, or whole vaults. Direct access to the exported HTML files allows you to publish your digital garden anywhere. Focuses on flexibility, features, and style p
 - [Enveloppe/obsidian-enveloppe](https://github.com/Enveloppe/obsidian-enveloppe) - Enveloppe helps you to publish your notes on a GitHub repository from your Obsidian Vault, for free!
 - [haystackeditor/haystack-editor](https://github.com/haystackeditor/haystack-editor) - 
