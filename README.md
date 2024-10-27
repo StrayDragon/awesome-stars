@@ -395,6 +395,7 @@
 
 ## GDScript 
 
+- [P1X-in/tanks-of-freedom-ii](https://github.com/P1X-in/tanks-of-freedom-ii) - Indie Turn Based Strategy in Isometric Voxel Art http://tof.p1x.in
 - [arkology/ShaderV](https://github.com/arkology/ShaderV) - Godot Visual Shader Plugin
 - [SirRamEsq/SmartShape2D](https://github.com/SirRamEsq/SmartShape2D) - A 2D Terrain Tool for Godot
 - [Ericdowney/SignalVisualizer](https://github.com/Ericdowney/SignalVisualizer) - A plugin for Godot 4.x. SignalVisualizer displays the current scene's signals and connections in a easy to read graph and tree dock.
@@ -729,6 +730,7 @@
 
 ## JavaScript 
 
+- [windingblack/obsidian-global-proxy](https://github.com/windingblack/obsidian-global-proxy) - 🚀 Obsidian Global Proxy is an Obsidian plugin that makes it easy to configure web proxies and use proxies throughout Obsidian.
 - [wanadev/obsidian-http-request](https://github.com/wanadev/obsidian-http-request) - Helper library to download assets (ajax) directly or through a proxy
 - [rioj7/my-code-actions](https://github.com/rioj7/my-code-actions) - Visual Studio Code extension to define Code Actions grouped by LanguageID
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
