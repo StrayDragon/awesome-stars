@@ -674,6 +674,7 @@
 
 ## HTML 
 
+- [cyclotruc/gitdigest](https://github.com/cyclotruc/gitdigest) - Web interface to turn codebases into prompt-friendly text
 - [cpython666/LearnSpider](https://github.com/cpython666/LearnSpider) - 爬虫百战成神刷题网站
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Crawl Smarter, Faster, Freely. For AI.
 - [Harry-zklcdc/go-proxy-bingai](https://github.com/Harry-zklcdc/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，支持 API 调用，国内可用。
@@ -1139,11 +1140,12 @@
 
 ## Python 
 
+- [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - PDF to Markdown with vision models
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。
 - [hiroi-sora/Umi-OCR_runtime_linux](https://github.com/hiroi-sora/Umi-OCR_runtime_linux) - Umi-OCR Linux 运行环境
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - "LightRAG: Simple and Fast Retrieval-Augmented Generation"
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
-- [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy
+- [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown + JSON quickly with high accuracy
 - [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent](https://github.com/AIHawk-FOSS/Auto_Jobs_Applier_AI_Agent) - Auto_Jobs_Applier_AI_Agent by AIHawk is an AI Agent that automates  the jobs application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in an automated and per
 - [yandex/gixy](https://github.com/yandex/gixy) - Nginx configuration static analyzer
@@ -2065,6 +2067,7 @@
 
 ## TypeScript 
 
+- [mdfriday/obsidian-friday-plugin](https://github.com/mdfriday/obsidian-friday-plugin) - Turn notes to website, in minutes. MDFriday plugin for Obsidian.
 - [terrastruct/d2-obsidian](https://github.com/terrastruct/d2-obsidian) - The official D2 plugin for Obsidian. D2 is a modern diagram scripting language thats turns text to diagrams.
 - [any-block/obsidian-any-block](https://github.com/any-block/obsidian-any-block) - A Obsidian Plugin. You can flexibility to create a 'Block' by some means. It also provides some useful features, like `list to table`.
 - [raidendotai/cofounder](https://github.com/raidendotai/cofounder) - ai-generated apps , full stack + generative UI
