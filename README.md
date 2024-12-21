@@ -994,7 +994,7 @@
 ## Objective-J 
 
 - [SMUnlimited/AMAI](https://github.com/SMUnlimited/AMAI) - Advanced Melee Artificial Intelligence Mod For Warcraft 3
-- [jzy-chitong56/AMAI-CN](https://github.com/jzy-chitong56/AMAI-CN) - 魔兽3高级智能AI模组特别汉化版 ,中文安装教程见下方链接(Chinese Installation tutorial see below link)，如遇任何问题请改用官方版本
+- [jzy-chitong56/AMAI-CN](https://github.com/jzy-chitong56/AMAI-CN) - 魔兽3高级智能AI模组特别汉化版（与官方版本有巨大分歧，建议转用官方版本） ,中文通用安装教程见下方链接(Chinese Installation tutorial see below link)
 
 ## Others 
 
@@ -1345,7 +1345,7 @@
 - [yanyongyu/githubkit](https://github.com/yanyongyu/githubkit) - The modern, all-batteries-included GitHub SDK for Python, including rest api, graphql, webhooks, like octokit!
 - [python-jsonschema/hypothesis-jsonschema](https://github.com/python-jsonschema/hypothesis-jsonschema) - Tools to generate test data from JSON schemata with Hypothesis
 - [PyO3/setuptools-rust](https://github.com/PyO3/setuptools-rust) - Setuptools plugin for Rust support
-- [kiorky/croniter](https://github.com/kiorky/croniter) - 
+- [kiorky/croniter](https://github.com/kiorky/croniter) - UNMAINTAINED/ABANDONED CODE / DO NOT USE
 - [seddonym/import-linter](https://github.com/seddonym/import-linter) - Import Linter allows you to define and enforce rules for the internal and external imports within your Python project.
 - [Pylogmon/earth_wallpaper](https://github.com/Pylogmon/earth_wallpaper) - 🌏Simple and easy to use multifunctional wallpaper software
 - [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) - A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
