@@ -515,6 +515,7 @@
 - [janpfeifer/gonb](https://github.com/janpfeifer/gonb) - GoNB, a Go Notebook Kernel for Jupyter
 - [cosmos72/gomacro](https://github.com/cosmos72/gomacro) - Interactive Go interpreter and debugger with REPL, Eval, generics and Lisp-like macros
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
+- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 - [bytemate/larkgpt](https://github.com/bytemate/larkgpt) - Lark chatgpt bot
 - [ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai) - 🎒 飞书  ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
@@ -824,7 +825,7 @@
 - [gucong3000/mirror-config-china](https://github.com/gucong3000/mirror-config-china) - Mirrors in China about node.js
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 - [matchai/waka-box](https://github.com/matchai/waka-box) - 📊 Update a pinned gist to contain your weekly WakaTime stats
-- [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar) - A yabai status bar widget for Übersicht
+- [Jean-Tinland/simple-bar](https://github.com/Jean-Tinland/simple-bar) - A yabai and AeroSpace status bar widget for Übersicht
 - [kkga/nibar](https://github.com/kkga/nibar) - Simple Übersicht status bar with yabai support.
 - [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui) - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.
 - [planttheidea/fast-copy](https://github.com/planttheidea/fast-copy) - A blazing fast deep object copier
@@ -990,7 +991,7 @@
 - [dteoh/SlowQuitApps](https://github.com/dteoh/SlowQuitApps) - Add a global delay to Command-Q to stop accidental app quits.
 - [julienXX/terminal-notifier](https://github.com/julienXX/terminal-notifier) - Send User Notifications on macOS from the command-line.
 - [AppPolice/AppPolice](https://github.com/AppPolice/AppPolice) - MacOS app for quickly limiting CPU usage by running applications
-- [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall
+- [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free open-source macOS firewall
 - [felixhageloh/uebersicht](https://github.com/felixhageloh/uebersicht) - ˈyːbɐˌzɪçt
 
 ## Objective-J 
@@ -2012,7 +2013,6 @@
 - [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) - 
 - [gshang2017/docker](https://github.com/gshang2017/docker) - Synology nas docker
 - [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck) - Emulator configurator for Steam Deck
-- [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [cisagov/ansible-role-vnc-server](https://github.com/cisagov/ansible-role-vnc-server) - An Ansible role for installing a VNC server
 - [sdarwin/Ansible-VNC](https://github.com/sdarwin/Ansible-VNC) - 
 - [cknadler/vim-anywhere](https://github.com/cknadler/vim-anywhere) - Use Vim everywhere you've always wanted to
@@ -2029,7 +2029,7 @@
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [elastic/elastic-github-actions](https://github.com/elastic/elastic-github-actions) - This action spins up an Elasticsearch instance that can be accessed and used in your subsequent steps.
 - [chinanf-boy/ripgrep-zh](https://github.com/chinanf-boy/ripgrep-zh) - 中文翻译:&lt;BurntSushi/ripgrep&gt; 一个面向行的搜索工具 :heart: 校对 ✅
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 325 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Over 370 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTermin
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [tmux-plugins/tmux-prefix-highlight](https://github.com/tmux-plugins/tmux-prefix-highlight) - Plugin that highlights when you press tmux prefix key
 - [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
