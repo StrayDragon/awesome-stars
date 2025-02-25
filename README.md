@@ -162,6 +162,7 @@
 
 - [Cat-Lips/GodotSharp.SourceGenerators](https://github.com/Cat-Lips/GodotSharp.SourceGenerators) - C# source generators for the Godot Game Engine
 - [transbot/EssentialCSharp](https://github.com/transbot/EssentialCSharp) - 这个项目包含《C#12.0本质论》的配套资源；This project contains the source code for the Chinese edition of book Essential C# 12.0 by Mark Michaelis (Addison-Wesley).
+- [chickensoft-games/GodotGame](https://github.com/chickensoft-games/GodotGame) - C# game template for Godot 4 with debug launch configurations, testing (locally and on CI/CD), code coverage, dependency update checks, and spell check working out-of-the-box!
 - [RonaldCarter/PHPManager](https://github.com/RonaldCarter/PHPManager) - PHP Manager for IIS
 - [dotnet/dev-proxy](https://github.com/dotnet/dev-proxy) - Dev Proxy is an API simulator that helps you effortlessly test your app beyond the happy path.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
@@ -428,6 +429,7 @@
 
 ## Go 
 
+- [cloudwego/eino](https://github.com/cloudwego/eino) - The ultimate LLM application development framework in Golang.
 - [slimtoolkit/slim](https://github.com/slimtoolkit/slim) - Slim(toolkit): Don't change anything in your container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [Calcium-Ion/new-api](https://github.com/Calcium-Ion/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple langua
@@ -728,6 +730,7 @@
 
 ## Java 
 
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [codefuse-ai/CodeFuse-Query](https://github.com/codefuse-ai/CodeFuse-Query) - Query-Based Code Analysis Engine
 - [apache/fury](https://github.com/apache/fury) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
@@ -1167,6 +1170,7 @@
 
 ## Python 
 
+- [openapi-generators/openapi-python-client](https://github.com/openapi-generators/openapi-python-client) - Generate modern Python clients from OpenAPI
 - [akfamily/akshare](https://github.com/akfamily/akshare) - AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs.
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 3.3, DeepSeek-R1 & Reasoning LLMs 2x faster with 70% less memory! 🦥
@@ -1954,7 +1958,7 @@
 - [Nukesor/pueue](https://github.com/Nukesor/pueue) - :stars: Manage your shell commands.
 - [vadimcn/codelldb](https://github.com/vadimcn/codelldb) - A native debugger extension for VSCode based on LLDB
 - [x1ah/fds](https://github.com/x1ah/fds) - 命令行基金小助手
-- [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
+- [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [pythonspeed/filprofiler](https://github.com/pythonspeed/filprofiler) - A Python memory profiler for data processing and scientific computing applications
 - [teloxide/teloxide](https://github.com/teloxide/teloxide) - 🤖 An elegant Telegram bots framework for Rust
@@ -2029,7 +2033,6 @@
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master) - 《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀
 - [termux-user-repository/tur](https://github.com/termux-user-repository/tur) - A place for all types of Termux packages.
-- [chickensoft-games/GodotGame](https://github.com/chickensoft-games/GodotGame) - C# game template for Godot 4 with debug launch configurations, testing (locally and on CI/CD), code coverage, dependency update checks, and spell check working out-of-the-box!
 - [JaKooLit/Debian-Hyprland](https://github.com/JaKooLit/Debian-Hyprland) - For automated installation of Hyprland on Debian 13 Trixie (Testing) and Debian SiD (Unstable)
 - [hwdsl2/docker-ipsec-vpn-server](https://github.com/hwdsl2/docker-ipsec-vpn-server) - Docker image to run an IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 - [prasanthrangan/hyprdots](https://github.com/prasanthrangan/hyprdots) - // Aesthetic, dynamic and minimal dots for Arch hyprland
@@ -2125,6 +2128,7 @@
 
 ## TypeScript 
 
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Replace 'hub' with 'diagram' in any GitHub url to instantly visualize the codebase as an interactive diagram
 - [glowingjade/obsidian-smart-composer](https://github.com/glowingjade/obsidian-smart-composer) - AI chat assistant for Obsidian with contextual awareness, smart writing assistance, and one-click edits. Features vault-aware conversations, semantic search, and local model support.
 - [refly-ai/refly](https://github.com/refly-ai/refly) - 🎨 Refly is an open-source AI-native creation engine. Its intuitive free-form canvas interface combines multi-threaded dialogues, AI knowledge base integration, chrome extension clip & save,  contextua
 - [Canner/WrenAI](https://github.com/Canner/WrenAI) - 🤖 Open-source GenBI AI Agent that empowers data-driven teams to chat with their data to generate Text-to-SQL, charts, spreadsheets, reports, and BI. 📈📊📋🧑‍💻
@@ -2133,7 +2137,7 @@
 - [benchmark-action/github-action-benchmark](https://github.com/benchmark-action/github-action-benchmark) - GitHub Action for continuous benchmarking to keep performance
 - [RooVetGit/Roo-Code](https://github.com/RooVetGit/Roo-Code) - Roo Code (prev. Roo Cline) is an AI-powered autonomous coding agent that lives in your editor.
 - [adiom-data/lance-mcp](https://github.com/adiom-data/lance-mcp) - 
-- [cyberagiinc/DevDocs](https://github.com/cyberagiinc/DevDocs) - Your Documentation Discovery Engine
+- [cyberagiinc/DevDocs](https://github.com/cyberagiinc/DevDocs) - Completely free, private, intuitive UI based Web Scraping MCP server. Designed for coders and software developers in mind. Easily integrate into Cursor, Windsurf, Cline, Roo Code, Claude Desktop App
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
 - [Arman19941113/dnd-resume](https://github.com/Arman19941113/dnd-resume) - 🚀 Resume Builder 在线简历生成工具
 - [exa-labs/company-researcher](https://github.com/exa-labs/company-researcher) - Company Researcher tool helps you instantly understand any company inside out.
