@@ -302,6 +302,7 @@
 - [cxOrz/dotfiles-hyprland](https://github.com/cxOrz/dotfiles-hyprland) - Hyprland dotfiles on Arch Linux.
 - [PKM-er/Obsidian-Plug-and-Play](https://github.com/PKM-er/Obsidian-Plug-and-Play) - 一个简单的Obsidian 即开即用库，希望它能节省你调试的时间，更多关注笔记和知识本身。A simple Obsidian plug and play vault.Hopefully it will save you time debugging and pay more attention to the notes and knowledge itself.
 - [deeplearning-ai/machine-learning-yearning-cn](https://github.com/deeplearning-ai/machine-learning-yearning-cn) - Machine Learning Yearning 中文版 - 《机器学习训练秘籍》 - Andrew Ng 著
+- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
 - [marginnoteapp/MarkDown](https://github.com/marginnoteapp/MarkDown) - This project will not be updated. Try to use Milkdown.
 - [rime/home](https://github.com/rime/home) - Rime::Home is home to Rime users and developers
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
@@ -707,6 +708,7 @@
 
 ## HTML 
 
+- [KCORES/kcores-llm-arena](https://github.com/KCORES/kcores-llm-arena) - LLM Arena by KCORES team
 - [Harry-zklcdc/go-proxy-bingai](https://github.com/Harry-zklcdc/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，支持 API 调用，国内可用。
 - [sudoskys/StableDiffusionBook](https://github.com/sudoskys/StableDiffusionBook) - How do we integrate AI generation tools into actual work? | 关于 Ai 绘画的Wiki | Wiki about Ai painting | Prompts Engineering| 指南 Guide | Seeking Maintainer&Translator🙌
 - [sqlsec/PVE](https://github.com/sqlsec/PVE) - 国光的 PVE 生产力环境搭建教程
@@ -794,7 +796,7 @@
 - [shaxiu/XianyuAutoAgent](https://github.com/shaxiu/XianyuAutoAgent) - 智能闲鱼客服机器人系统：专为闲鱼平台打造的AI值守解决方案，实现闲鱼平台7×24小时自动化值守，支持多专家协同决策、智能议价和上下文感知对话。
 - [pieces-app/obsidian-pieces](https://github.com/pieces-app/obsidian-pieces) - Pieces' powerful extension for Obsidian-MD that allows users to access their code snippets directly within the Obsidian workspace
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
-- [xiaohajiayou/Leetcode-Mastery-Scheduler](https://github.com/xiaohajiayou/Leetcode-Mastery-Scheduler) - 通过Anki Fsrs算法速成力扣：自动推荐题目，每日复习（支持导入外部题目：手撕、洛谷、一题多解）。Master LeetCode via Anki Fsrs：auto-recommend problems, review daily.
+- [xiaohajiayou/Leetcode-Mastery-Scheduler](https://github.com/xiaohajiayou/Leetcode-Mastery-Scheduler) - 通过Anki Fsrs算法速成力扣：自动推荐题目，每日复习（支持导入外部题目：手撕、洛谷、codeforce、牛客、一题多解）。Master LeetCode via Anki Fsrs：auto-recommend problems, review daily.
 - [fatwang2/dify2openai](https://github.com/fatwang2/dify2openai) - Turn Dify into OpenAI
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
@@ -1216,6 +1218,8 @@
 
 ## Python 
 
+- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。
+- [xming521/WeClone](https://github.com/xming521/WeClone) - 欢迎star⭐。🚀从聊天记录创造数字分身的一站式解决方案💡 使用微信聊天记录微调大语言模型，使用微信语音消息➕0.5B大模型实现高质量声音克隆，并绑定到聊天机器人，实现自己的数字分身。  数字克隆/数字分身/数字永生/声音克隆/LLM/大语言模型/微信聊天机器人/LoRA
 - [open-webui/mcpo](https://github.com/open-webui/mcpo) - A simple, secure MCP-to-OpenAPI proxy server
 - [adamsussman/flask-pydantic-api](https://github.com/adamsussman/flask-pydantic-api) - 
 - [Trae1ounG/DyPRAG](https://github.com/Trae1ounG/DyPRAG) - Official code for Dynamic Parametric RAG.
@@ -1236,7 +1240,6 @@
 - [3dify-project/dify-mcp-client](https://github.com/3dify-project/dify-mcp-client) - MCP Client as an Agent Strategy Plugin. Dify is not MCP Server but MCP Host.
 - [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
 - [casualsnek/waydroid_script](https://github.com/casualsnek/waydroid_script) - Python Script to  add OpenGapps, Magisk, libhoudini translation library and libndk translation library to waydroid !
-- [KCORES/kcores-llm-arena](https://github.com/KCORES/kcores-llm-arena) - LLM Arena by KCORES team
 - [gni/offvsix](https://github.com/gni/offvsix) - Visual Studio Code Extension Downloader for offline install
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [mangiucugna/json_repair](https://github.com/mangiucugna/json_repair) - A python module to repair invalid JSON from LLMs
@@ -1250,6 +1253,7 @@
 - [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations
 - [e2b-dev/open-computer-use](https://github.com/e2b-dev/open-computer-use) - AI computer use powered by open source LLMs and E2B Desktop Sandbox
 - [Protosec-Research/BinaryChat](https://github.com/Protosec-Research/BinaryChat) - ChatWithBinary: Advanced AI-powered binary analysis tool leveraging OpenAI's LangChain technology, revolutionizing CTF Pwners' experience in binary file interpretation and vulnerability detection.
+- [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [ploomber/jupysql](https://github.com/ploomber/jupysql) - Better SQL in Jupyter. 📊
 - [modelscope/FunClip](https://github.com/modelscope/FunClip) - Open-source, accurate and easy-to-use video speech recognition & clipping tool, LLM based AI clipping intergrated.
@@ -1477,7 +1481,6 @@
 - [litestar-org/polyfactory](https://github.com/litestar-org/polyfactory) - Simple and powerful factories for mock data generation
 - [Scony/godot-gdscript-toolkit](https://github.com/Scony/godot-gdscript-toolkit) - Independent set of GDScript tools - parser, linter, formatter, and more
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
-- [Vonng/ddia](https://github.com/Vonng/ddia) - 《Designing Data-Intensive Application》DDIA中文翻译
 - [dropbox/PyHive](https://github.com/dropbox/PyHive) - Python interface to Hive and Presto. 🐝
 - [faster-cpython/cpython](https://github.com/faster-cpython/cpython) - The Python programming language
 - [sqlmapproject/sqlmap](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
@@ -1823,7 +1826,6 @@
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models
 - [Jondolf/avian](https://github.com/Jondolf/avian) - ECS-driven 2D and 3D physics engine for the Bevy game engine.
-- [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.
 - [dagrs-dev/dagrs](https://github.com/dagrs-dev/dagrs) - A DAG engine build by Rust
 - [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a project to build the modern evolution of SQLite.
 - [cessen/ropey](https://github.com/cessen/ropey) - A utf8 text rope for manipulating and editing large texts.
@@ -2206,6 +2208,7 @@
 
 ## TypeScript 
 
+- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [KelvinQiu802/llm-mcp-rag](https://github.com/KelvinQiu802/llm-mcp-rag) - LLM + MCP + RAG = Magic
 - [dontriskit/awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) - 🧠 Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new, wi
 - [thedaviddias/llms-txt-hub](https://github.com/thedaviddias/llms-txt-hub) - 🤖 The largest directory for AI-ready documentation and tools implementing the proposed llms.txt standard
