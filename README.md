@@ -755,7 +755,7 @@
 - [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a stateless Kafka on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
 - [loks666/get_jobs](https://github.com/loks666/get_jobs) - 💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、拉勾、智联招聘)
 - [ZmingZinnia/get_jobs](https://github.com/ZmingZinnia/get_jobs) - 💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、拉勾、智联招聘)
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, VMware vRealize Automation, Rundeck...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [codefuse-ai/CodeFuse-Query](https://github.com/codefuse-ai/CodeFuse-Query) - Query-Based Code Analysis Engine
 - [apache/fury](https://github.com/apache/fury) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
@@ -788,6 +788,7 @@
 
 ## JavaScript 
 
+- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date documentation for LLMs and AI code editors
 - [rapi-doc/RapiDoc](https://github.com/rapi-doc/RapiDoc) - RapiDoc -WebComponent for OpenAPI Spec
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
 - [hannesj/mcp-openapi-schema](https://github.com/hannesj/mcp-openapi-schema) - OpenAPI Schema Model Context Protocol Server
@@ -977,7 +978,7 @@
 
 ## Lua 
 
-- [amzxyz/rime_wanxiang_pro](https://github.com/amzxyz/rime_wanxiang_pro) - Rime万象拼音输入方案增强版,词库基于AI筛选和语料辅助筛选精干高效，配合全新语言模型，输入不再纠结。支持全拼，7种双拼，8种辅助码，并且可以扩展更多，支持中英混输，内置超级注释lua，带调全拼输入码显示lua，快符与重复上屏lua等功能扩展，大大增强使用体验。　　Q群：11033572
+- [amzxyz/rime_wanxiang_pro](https://github.com/amzxyz/rime_wanxiang_pro) - Rime万象拼音输入方案增强版,词库基于AI筛选和语料辅助筛选精干高效，配合全新语法模型，输入不再纠结。支持8种双拼，8种辅助码，并且可以扩展更多，支持中英混输，内置超级注释lua，带调全拼输入码显示lua，快符与重复上屏lua，手动排序，tips等功能扩展，大大增强使用体验。　　Q群：11033572
 - [koreader/koreader-sync-server](https://github.com/koreader/koreader-sync-server) - self hostable synchronization service for koreader devices
 - [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 - [Dronakurl/injectme.nvim](https://github.com/Dronakurl/injectme.nvim) - Neovim plugin to help setup language injections with treesitter
@@ -1221,12 +1222,13 @@
 
 ## Python 
 
+- [pawamoy/mkdocs-llmstxt](https://github.com/pawamoy/mkdocs-llmstxt) - MkDocs plugin to generate an /llms.txt file (https://llmstxt.org/).
 - [Darwin-lfl/langmanus](https://github.com/Darwin-lfl/langmanus) - A community-driven AI automation framework that builds upon the incredible work of the open source community. Our goal is to combine language models with specialized tools for tasks like web search, c
 - [mitmproxy/pdoc](https://github.com/mitmproxy/pdoc) - API Documentation for Python Projects
 - [koaning/smartfunc](https://github.com/koaning/smartfunc) - Turn docstrings into LLM-functions
 - [langchain-ai/mcpdoc](https://github.com/langchain-ai/mcpdoc) - Expose llms-txt to IDEs for development
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。
-- [xming521/WeClone](https://github.com/xming521/WeClone) - 欢迎star⭐。🚀从聊天记录创造数字分身的一站式解决方案💡 使用微信聊天记录微调大语言模型，使用微信语音消息➕0.5B大模型实现高质量声音克隆，并绑定到聊天机器人，实现自己的数字分身。  数字克隆/数字分身/数字永生/声音克隆/LLM/大语言模型/微信聊天机器人/LoRA
+- [xming521/WeClone](https://github.com/xming521/WeClone) - 欢迎star⭐。🚀从聊天记录创造数字分身的一站式解决方案💡 使用微信聊天记录微调大语言模型，让大模型有“那味儿”。使用微信语音消息➕0.5B大模型实现高质量声音克隆，并绑定到聊天机器人，实现自己的数字分身。  数字克隆/数字分身/数字永生/声音克隆/LLM/大语言模型/微信聊天机器人/LoRA
 - [open-webui/mcpo](https://github.com/open-webui/mcpo) - A simple, secure MCP-to-OpenAPI proxy server
 - [adamsussman/flask-pydantic-api](https://github.com/adamsussman/flask-pydantic-api) - 
 - [Trae1ounG/DyPRAG](https://github.com/Trae1ounG/DyPRAG) - Official code for Dynamic Parametric RAG.
@@ -1254,7 +1256,7 @@
 - [openapi-generators/openapi-python-client](https://github.com/openapi-generators/openapi-python-client) - Generate modern Python clients from OpenAPI
 - [akfamily/akshare](https://github.com/akfamily/akshare) - AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 4, DeepSeek-R1, Gemma 3 & Reasoning LLMs 2x faster with 70% less memory! 🦥
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 4, Qwen3, TTS, DeepSeek-R1, Gemma 3 & Reasoning LLMs 2x faster with 70% less memory! 🦥
 - [turbopuffer/turbopuffer-python](https://github.com/turbopuffer/turbopuffer-python) - Python client for accessing the turbopuffer API.
 - [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
 - [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations
@@ -2220,7 +2222,7 @@
 
 ## TypeScript 
 
-- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - BongoCat 是一个可爱地互动桌面宠物应用，让你的桌面充满乐趣！
+- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - BongoCat 是一个可爱的互动桌面宠物应用，让你的桌面充满乐趣！
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [KelvinQiu802/llm-mcp-rag](https://github.com/KelvinQiu802/llm-mcp-rag) - LLM + MCP + RAG = Magic
 - [dontriskit/awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) - 🧠 Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new, wi
