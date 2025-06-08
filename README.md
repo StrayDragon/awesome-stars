@@ -224,7 +224,6 @@
 - [sddm/sddm](https://github.com/sddm/sddm) - QML based X11 and Wayland display manager
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
 - [microsoft/STL](https://github.com/microsoft/STL) - MSVC's implementation of the C++ Standard Library.
-- [jlesage/docker-baseimage-gui](https://github.com/jlesage/docker-baseimage-gui) - A minimal docker baseimage to ease creation of X graphical application containers
 - [rizinorg/cutter](https://github.com/rizinorg/cutter) - Free and Open Source Reverse Engineering Platform powered by rizin
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Run Local LLMs on Any Device. Open-source and available for commercial use.
 - [nefarius/ViGEmBus](https://github.com/nefarius/ViGEmBus) - Windows kernel-mode driver emulating well-known USB game controllers.
@@ -242,7 +241,7 @@
 - [funexpected/godot-flash-module](https://github.com/funexpected/godot-flash-module) - 
 - [lightspark/lightspark](https://github.com/lightspark/lightspark) - An open source flash player implementation
 - [sysown/proxysql](https://github.com/sysown/proxysql) - High-performance MySQL proxy with a GPL license.
-- [rui314/mold](https://github.com/rui314/mold) - Mold: A Modern Linker 🦠
+- [rui314/mold](https://github.com/rui314/mold) - mold: A Modern Linker 🦠
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [LANDrop/LANDrop](https://github.com/LANDrop/LANDrop) - Drop any files to any devices on your LAN.
 - [paolo-projects/auto-unlocker](https://github.com/paolo-projects/auto-unlocker) - Unlocker for VMWare macOS
@@ -437,6 +436,8 @@
 
 ## Go 
 
+- [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
+- [stripe/stripe-mock](https://github.com/stripe/stripe-mock) - stripe-mock is a mock HTTP server that responds like the real Stripe API. It can be used instead of Stripe's testmode to make test suites integrating with Stripe faster and less brittle.
 - [mark3labs/mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server) - Go server implementing Model Context Protocol (MCP) for filesystem operations.
 - [segmentio/kafka-go](https://github.com/segmentio/kafka-go) - Kafka library in Go
 - [bytedance/gg](https://github.com/bytedance/gg) - 🔥gg is a basic library of generics for Go language developed by ByteDance. It is based on the Go 1.18+ generic features and provides efficient, type-safe and rich generic data structures and tool func
@@ -770,7 +771,7 @@
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [codefuse-ai/CodeFuse-Query](https://github.com/codefuse-ai/CodeFuse-Query) - Query-Based Code Analysis Engine
-- [apache/fury](https://github.com/apache/fury) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
+- [apache/fory](https://github.com/apache/fory) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
 - [apitable/apitable-sdks](https://github.com/apitable/apitable-sdks) - APITable officially provides various API, which allow users to get data by HTTPS requests, or push data to APITable.
 - [dunwu/db-tutorial](https://github.com/dunwu/db-tutorial) - 📚 后端程序员应该掌握的主流数据库知识
 - [CodePhiliaX/Chat2DB](https://github.com/CodePhiliaX/Chat2DB) - 🔥🔥🔥AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.
@@ -792,6 +793,7 @@
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
 - [azkaban/azkaban](https://github.com/azkaban/azkaban) - Azkaban workflow manager.
 - [springdoc/springdoc-openapi](https://github.com/springdoc/springdoc-openapi) - Library for OpenAPI 3 with spring-boot
+- [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 - [xkcoding/spring-boot-demo](https://github.com/xkcoding/spring-boot-demo) - 🚀一个用来深入学习并实战 Spring Boot 的项目。
 - [stathissideris/ditaa](https://github.com/stathissideris/ditaa) - ditaa is a small command-line utility that can convert diagrams drawn using ascii art ('drawings' that contain characters that resemble lines like | / - ), into proper bitmap graphics.
 - [phodal/migration](https://github.com/phodal/migration) - 《系统重构与迁移指南》手把手教你分析、评估现有系统、制定重构策略、探索可行重构方案、搭建测试防护网、进行系统架构重构、服务架构重构、模块重构、代码重构、数据库重构、重构后的架构守护
@@ -813,7 +815,6 @@
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 - [xiaohajiayou/Leetcode-Mastery-Scheduler](https://github.com/xiaohajiayou/Leetcode-Mastery-Scheduler) - 通过Anki Fsrs算法速成力扣：自动推荐题目，每日复习（支持导入外部题目：手撕、洛谷、codeforce、牛客、一题多解）。Master LeetCode via Anki Fsrs：auto-recommend problems, review daily.
 - [fatwang2/dify2openai](https://github.com/fatwang2/dify2openai) - Turn Dify into OpenAI
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [pjeby/monkey-around](https://github.com/pjeby/monkey-around) - Co-operatively, removably, monkeypatch around JS methods, or serialize their execution
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [windingblack/obsidian-global-proxy](https://github.com/windingblack/obsidian-global-proxy) - 🚀 Obsidian Global Proxy is an Obsidian plugin that makes it easy to configure web proxies and use proxies throughout Obsidian.
@@ -855,7 +856,7 @@
 - [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
 - [aliyun/darabonba](https://github.com/aliyun/darabonba) - Darabonba 是一种用于 OpenAPI 的 DSL 语言，可以用来生成多语言的 SDK、Code Sample、Test Case 等代码
 - [automerge/automerge](https://github.com/automerge/automerge) - A JSON-like data structure (a CRDT) that can be modified concurrently by different users, and merged again automatically.
-- [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
+- [ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [nodejs/undici](https://github.com/nodejs/undici) - An HTTP/1.1 client, written from scratch for Node.js
 - [koodo-reader/koodo-reader](https://github.com/koodo-reader/koodo-reader) - A modern ebook manager and reader with sync and backup capacities for Windows, macOS, Linux, Android, iOS and Web
 - [anc95/ChatGPT-CodeReview](https://github.com/anc95/ChatGPT-CodeReview) - 🐥 A code review bot powered by ChatGPT
@@ -992,7 +993,7 @@
 ## Lua 
 
 - [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
-- [amzxyz/rime_wanxiang_pro](https://github.com/amzxyz/rime_wanxiang_pro) - Rime万象拼音输入方案增强版,词库基于AI筛选和语料辅助筛选精干高效，配合全新语法模型，输入不再纠结。支持8种双拼，8种辅助码，并且可以扩展更多，支持中英混输，内置超级注释lua，带调全拼输入码显示lua，快符与重复上屏lua，手动排序，tips等功能扩展，大大增强使用体验。　　Q群：11033572
+- [amzxyz/rime_wanxiang_pro](https://github.com/amzxyz/rime_wanxiang_pro) - Rime万象拼音输入方案辅助码增强版,词库基于AI筛选和语料辅助筛选精干高效，配合全新语法模型，输入不再纠结。支持8种双拼，8种辅助码，并且可以扩展更多，支持中英混输，内置超级注释lua，带调全拼输入码显示lua，快符与重复上屏lua，手动排序，tips等功能扩展，大大增强使用体验。　　Q群：11033572
 - [koreader/koreader-sync-server](https://github.com/koreader/koreader-sync-server) - self hostable synchronization service for koreader devices
 - [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 - [Dronakurl/injectme.nvim](https://github.com/Dronakurl/injectme.nvim) - Neovim plugin to help setup language injections with treesitter
@@ -1044,7 +1045,7 @@
 
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
-- [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2024 edition 施工中）
+- [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2024 edition 施工完毕）
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
@@ -1081,6 +1082,7 @@
 
 ## Others 
 
+- [AlexanderZhou01/China-software-copyright](https://github.com/AlexanderZhou01/China-software-copyright) - Chinese software copyright application template document
 - [LakshmanTurlapati/Review-Gate](https://github.com/LakshmanTurlapati/Review-Gate) - 
 - [weijunext/indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools) - 收录独立开发者出海技术栈和工具
 - [any-block/obsidian-any-block-min](https://github.com/any-block/obsidian-any-block-min) - obsidian-any-block mini version. Remove some features and dependencies to reduce size and improve performance.
@@ -1239,8 +1241,11 @@
 
 ## Python 
 
+- [florimondmanca/httpx-sse](https://github.com/florimondmanca/httpx-sse) - Consume Server-Sent Event (SSE) messages with HTTPX
+- [Olow304/memvid](https://github.com/Olow304/memvid) - Video-based AI memory library. Store millions of text chunks in MP4 files with lightning-fast semantic search. No database needed.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory; Announcing OpenMemory MCP - local and secure memory management.
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📄 🧠 PageIndex: Document Index System for Reasoning-based RAG
-- [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to
+- [microsoft/qlib](https://github.com/microsoft/qlib) - Qlib is an AI-oriented Quant investment platform that aims to use AI tech to empower Quant Research, from exploring ideas to implementing productions. Qlib supports diverse ML modeling paradigms, incl
 - [noopstudios/interactive-feedback-mcp](https://github.com/noopstudios/interactive-feedback-mcp) - Interactive User Feedback MCP
 - [codeflash-ai/codeflash](https://github.com/codeflash-ai/codeflash) - Optimize your code automatically with AI
 - [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer) - A debugging and profiling tool that can trace and visualize python code execution
@@ -1262,8 +1267,8 @@
 - [mitmproxy/pdoc](https://github.com/mitmproxy/pdoc) - API Documentation for Python Projects
 - [koaning/smartfunc](https://github.com/koaning/smartfunc) - Turn docstrings into LLM-functions
 - [langchain-ai/mcpdoc](https://github.com/langchain-ai/mcpdoc) - Expose llms-txt to IDEs for development
-- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书 | MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。附带 WebUI。
-- [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your digital avatar from chat logs 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊天记录
+- [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 平台支持 QQ、QQ频道、Telegram、微信、企微、飞书、钉钉 | 知识库、MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify 等。 WebUI。
+- [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your digital avatar from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊
 - [open-webui/mcpo](https://github.com/open-webui/mcpo) - A simple, secure MCP-to-OpenAPI proxy server
 - [adamsussman/flask-pydantic-api](https://github.com/adamsussman/flask-pydantic-api) - 
 - [Trae1ounG/DyPRAG](https://github.com/Trae1ounG/DyPRAG) - Official code for Dynamic Parametric RAG.
@@ -1282,7 +1287,7 @@
 - [shaxiu/XianyuAutoAgent](https://github.com/shaxiu/XianyuAutoAgent) - 智能闲鱼客服机器人系统：专为闲鱼平台打造的AI值守解决方案，实现闲鱼平台7×24小时自动化值守，支持多专家协同决策、智能议价和上下文感知对话。
 - [cle-b/httpdbg](https://github.com/cle-b/httpdbg) - A tool for Python developers to easily debug the HTTP(S) client and server requests in a Python program.
 - [sparfenyuk/mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) - A bridge between Streamable HTTP and stdio MCP transports
-- [3dify-project/dify-mcp-client](https://github.com/3dify-project/dify-mcp-client) - MCP Client as an Agent Strategy Plugin. Dify is not MCP Server but MCP Host.
+- [3dify-project/dify-mcp-client](https://github.com/3dify-project/dify-mcp-client) - MCP Client as an Agent Strategy Plugin. Support GUI operation via UI-TARS-SDK.
 - [confident-ai/deepeval](https://github.com/confident-ai/deepeval) - The LLM Evaluation Framework
 - [casualsnek/waydroid_script](https://github.com/casualsnek/waydroid_script) - Python Script to  add OpenGapps, Magisk, libhoudini translation library and libndk translation library to waydroid !
 - [gni/offvsix](https://github.com/gni/offvsix) - Visual Studio Code Extension Downloader for offline install
@@ -1298,6 +1303,7 @@
 - [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations
 - [e2b-dev/open-computer-use](https://github.com/e2b-dev/open-computer-use) - AI computer use powered by open source LLMs and E2B Desktop Sandbox
 - [Protosec-Research/BinaryChat](https://github.com/Protosec-Research/BinaryChat) - ChatWithBinary: Advanced AI-powered binary analysis tool leveraging OpenAI's LangChain technology, revolutionizing CTF Pwners' experience in binary file interpretation and vulnerability detection.
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [ploomber/jupysql](https://github.com/ploomber/jupysql) - Better SQL in Jupyter. 📊
 - [modelscope/FunClip](https://github.com/modelscope/FunClip) - Open-source, accurate and easy-to-use video speech recognition & clipping tool, LLM based AI clipping intergrated.
@@ -1316,7 +1322,8 @@
 - [hiroi-sora/Umi-OCR_runtime_linux](https://github.com/hiroi-sora/Umi-OCR_runtime_linux) - Umi-OCR Linux 运行环境
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - "LightRAG: Simple and Fast Retrieval-Augmented Generation"
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
-- [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown + JSON quickly with high accuracy
+- [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [feder-cr/Jobs_Applier_AI_Agent_AIHawk](https://github.com/feder-cr/Jobs_Applier_AI_Agent_AIHawk) - AIHawk aims to easy job hunt process by automating the job application process. Utilizing artificial intelligence, it enables users to apply for multiple jobs in a tailored way.
 - [yandex/gixy](https://github.com/yandex/gixy) - Nginx configuration static analyzer
 - [Jing-yilin/E2M](https://github.com/Jing-yilin/E2M) - E2M API, converting everything to markdown (LLM-friendly Format).
@@ -1546,7 +1553,7 @@
 - [slackapi/python-slack-sdk](https://github.com/slackapi/python-slack-sdk) - Slack Developer Kit for Python
 - [cyclone-robotics/feishu-python-sdk](https://github.com/cyclone-robotics/feishu-python-sdk) - 一个用于和飞书开放平台交互的python库
 - [chaquo/chaquopy](https://github.com/chaquo/chaquopy) - Chaquopy: the Python SDK for Android
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and de
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Awesome multilingual OCR and Document Parsing toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, su
 - [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) - Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！
 - [apiflask/apiflask](https://github.com/apiflask/apiflask) - A lightweight Python web API framework.
 - [hgfkeep/rust-jupyter](https://github.com/hgfkeep/rust-jupyter) - A containerized version of the Evcxr, an evaluation context/REPL for Rust as a Jupyter kernel.
@@ -1847,10 +1854,13 @@
 
 ## Roff 
 
+- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
 ## Ruby 
 
+- [stripe-ruby-mock/stripe-ruby-mock](https://github.com/stripe-ruby-mock/stripe-ruby-mock) - A mocking library for testing stripe ruby
+- [square/shift](https://github.com/square/shift) - shift is an application that helps you run schema migrations on MySQL databases
 - [Gcenx/homebrew-wine](https://github.com/Gcenx/homebrew-wine) - 
 - [feedbin/feedbin](https://github.com/feedbin/feedbin) - A nice place to read on the web.
 - [beeftornado/homebrew-rmtree](https://github.com/beeftornado/homebrew-rmtree) - Remove a formula and its unused dependencies
@@ -1881,7 +1891,7 @@
 - [Jondolf/avian](https://github.com/Jondolf/avian) - ECS-driven 2D and 3D physics engine for the Bevy game engine.
 - [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.
 - [dagrs-dev/dagrs](https://github.com/dagrs-dev/dagrs) - A DAG engine build by Rust
-- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a project to build the modern evolution of SQLite.
+- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a project to build the next evolution of SQLite.
 - [cessen/ropey](https://github.com/cessen/ropey) - A utf8 text rope for manipulating and editing large texts.
 - [amethyst/legion](https://github.com/amethyst/legion) - High performance Rust ECS library
 - [google/zerocopy](https://github.com/google/zerocopy) - Zerocopy makes zero-cost memory manipulation effortless. We write `unsafe` so you don’t have to.
@@ -2187,6 +2197,7 @@
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) - 
 - [gshang2017/docker](https://github.com/gshang2017/docker) - Synology nas docker
+- [jlesage/docker-baseimage-gui](https://github.com/jlesage/docker-baseimage-gui) - A minimal docker baseimage to ease creation of X graphical application containers
 - [dragoonDorise/EmuDeck](https://github.com/dragoonDorise/EmuDeck) - Emulator configurator for Steam Deck
 - [cisagov/ansible-role-vnc-server](https://github.com/cisagov/ansible-role-vnc-server) - An Ansible role for installing a VNC server
 - [sdarwin/Ansible-VNC](https://github.com/sdarwin/Ansible-VNC) - 
@@ -2271,6 +2282,10 @@
 
 ## TypeScript 
 
+- [iszhouhua/social-media-copilot](https://github.com/iszhouhua/social-media-copilot) - 社媒助手开源版 - 小红书、抖音、快手等平台数据采集的浏览器插件，可通过API调用，支持Docker部署。
+- [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
+- [slqy123/BongoCat](https://github.com/slqy123/BongoCat) - 🐱 跨平台桌宠 BongoCat，为桌面增添乐趣！
+- [regenrek/deepwiki-mcp](https://github.com/regenrek/deepwiki-mcp) - 📖 MCP server for fetch deepwiki.com and get latest knowledge in Cursor and other Code Editors
 - [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - What if Cursor, Github Copilot and Windsurf could actually interact with your browser?  💬 Comment on any DOM element 🧠 We send the real context to Windsurf ⚡ Save time manually selecting files  Setup 
 - [executeautomation/mcp-database-server](https://github.com/executeautomation/mcp-database-server) - MCP Database Server is a new MCP Server which helps connect with Sqlite, SqlServer and Posgresql Databases
 - [bcakmakoglu/vue-flow](https://github.com/bcakmakoglu/vue-flow) - A highly customizable Flowchart component for Vue 3. Features seamless zoom & pan 🔎, additional components like a Minimap 🗺 and utilities to interact with state and graph.
@@ -2278,7 +2293,7 @@
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - DeerFlow is a community-driven Deep Research framework, combining language models with tools like web search, crawling, and Python execution, while contributing back to the open-source community.
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is a node-based flow building engine that helps developers quickly create workflows in either fixed layout or free connection layout modes
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful docs framework with Next.js.
-- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 跨平台桌宠 BongoCat，为桌面增添乐趣！
+- [ayangweb/BongoCat](https://github.com/ayangweb/BongoCat) - 🐱 跨平台桌宠 BongoCat，为桌面增添乐趣！
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 - [KelvinQiu802/llm-mcp-rag](https://github.com/KelvinQiu802/llm-mcp-rag) - LLM + MCP + RAG = Magic
 - [dontriskit/awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) - 🧠 Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new, wi
@@ -2296,7 +2311,7 @@
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [glowingjade/obsidian-smart-composer](https://github.com/glowingjade/obsidian-smart-composer) - AI chat assistant for Obsidian with contextual awareness, smart writing assistance, and one-click edits. Features vault-aware conversations, semantic search, and local model support.
 - [refly-ai/refly](https://github.com/refly-ai/refly) - 🎨 Refly is an open-source AI-native creation engine. Its intuitive free-form canvas interface combines multi-threaded dialogues, artifacts,  AI knowledge base integration, chrome extension clip & save
-- [Canner/WrenAI](https://github.com/Canner/WrenAI) - 🤖 Open-source GenBI AI Agent that empowers data-driven teams to chat with their databases to generate Text-to-SQL, BI and embedded AI. 📈📊📋🧑‍💻
+- [Canner/WrenAI](https://github.com/Canner/WrenAI) - ⚡️Wren AI is your GenBI Agent, that you can query any database with natural language → get accurate SQL(Text-to-SQL), charts(Text-to-Charts) & AI-generated insights in seconds.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 - [Fevol/obsidian-typings](https://github.com/Fevol/obsidian-typings) - Typescript typings for undocumented parts of the Obsidian API
 - [benchmark-action/github-action-benchmark](https://github.com/benchmark-action/github-action-benchmark) - GitHub Action for continuous benchmarking to keep performance
@@ -2316,11 +2331,10 @@
 - [any-block/any-block](https://github.com/any-block/any-block) - You can flexibility to create a 'Block' by many means. It also provides many useful features, like `list to table`. (obsidian/markdown-it/vuepress plugin/app)
 - [raidendotai/cofounder](https://github.com/raidendotai/cofounder) - ai-generated apps , full stack + generative UI
 - [coaidev/coai](https://github.com/coaidev/coai) - 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [chartdb/chartdb](https://github.com/chartdb/chartdb) - Database diagrams editor that allows you to visualize and design your DB with a single query.
 - [alovajs/alova](https://github.com/alovajs/alova) - Workflow-Streamlined next-generation request tools. Extremely streamline API integration workflow, just one step
 - [denosaurs/deno_python](https://github.com/denosaurs/deno_python) - 🐍 Python interpreter bindings for Deno and Bun.
-- [wechatferry/wechatferry](https://github.com/wechatferry/wechatferry) - 基于 WechatFerry 的微信机器人底层框架
+- [wechatferry/wechatferry](https://github.com/wechatferry/wechatferry) - -
 - [xushengfeng/eSearch](https://github.com/xushengfeng/eSearch) - 截屏 离线OCR 搜索翻译 以图搜图 贴图 录屏 万向滚动截屏 屏幕翻译   Screenshot  Offline OCR   Search   Translate   Search for picture   Paste the picture on the screen   Screen recorder   Omnidirectional scrolling screenshot   Sc
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - AI app store powered by 24/7 desktop history.  open source | 100% local | dev friendly | 24/7 screen, mic recording
 - [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export) - Export html from single files, canvas pages, or whole vaults. Direct access to the exported HTML files allows you to publish your digital garden anywhere. Focuses on flexibility, features, and style p
@@ -2695,7 +2709,8 @@
 
 ## Vue 
 
-- [kevin2li/PDF-Guru](https://github.com/kevin2li/PDF-Guru) - PDF Guru Anki是一款以PDF为中心的多功能办公学习工具箱软件，包含四大板块功能：PDF实用工具箱、Anki制卡神器、Anki最强辅助、视频笔记神器，软件功能众多且强大，熟练运用可以大幅提高办公和学习效率，绝对是您不可多得的效率神器。人生苦短，我用Guru!
+- [vue-stripe/vue-stripe](https://github.com/vue-stripe/vue-stripe) - Stripe Checkout & Elements for Vue.js
+- [kevin2li/PDF-Guru](https://github.com/kevin2li/PDF-Guru) - PDF Guru Anki是你整个知识世界的“中枢转换器”，与 Anki 的强大记忆引擎无缝融合，能将来自任何地方、任何格式的知识精华，高效、系统、可持续地转化为牢固的长期记忆资产，打造专属自己的个性化Anki知识库，助你高效学习、轻松记忆。
 - [shiyutim/tickets](https://github.com/shiyutim/tickets) - 大麦、大麦网 演唱会抢票软件，一个基于 tauri + rust + vue 调用接口的抢票软件。
 - [mcthesw/game-save-manager](https://github.com/mcthesw/game-save-manager) - 一个简单的游戏存档管理器
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
