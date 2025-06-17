@@ -807,6 +807,7 @@
 
 ## JavaScript 
 
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - A responsive monitoring application for Proxmox VE that displays real-time metrics across multiple nodes
 - [cv-cat/Spider_XHS](https://github.com/cv-cat/Spider_XHS) - 小红书爬虫数据采集，小红书全域运营解决方案
 - [LakshmanTurlapati/Review-Gate](https://github.com/LakshmanTurlapati/Review-Gate) - Review-Gate V2 is a powerful rule for the Cursor IDE that helps you get up to 5x more value from your monthly requests. It creates an interactive loop where the AI waits for your follow-up commands—vi
 - [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
@@ -823,6 +824,7 @@
 - [xiaohajiayou/Leetcode-Mastery-Scheduler](https://github.com/xiaohajiayou/Leetcode-Mastery-Scheduler) - 通过Anki Fsrs算法速成力扣：自动推荐题目，每日复习（支持导入外部题目：手撕、洛谷、codeforce、牛客、一题多解）。Master LeetCode via Anki Fsrs：auto-recommend problems, review daily.
 - [fatwang2/dify2openai](https://github.com/fatwang2/dify2openai) - Turn Dify into OpenAI
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [pjeby/monkey-around](https://github.com/pjeby/monkey-around) - Co-operatively, removably, monkeypatch around JS methods, or serialize their execution
 - [leaningtech/webvm](https://github.com/leaningtech/webvm) - Virtual Machine for the Web
 - [windingblack/obsidian-global-proxy](https://github.com/windingblack/obsidian-global-proxy) - 🚀 Obsidian Global Proxy is an Obsidian plugin that makes it easy to configure web proxies and use proxies throughout Obsidian.
@@ -1248,6 +1250,7 @@
 
 ## Python 
 
+- [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [PLAYG0N/mkdocs-panzoom](https://github.com/PLAYG0N/mkdocs-panzoom) - MkDocs Plugin to enable pan & zoom on images and mermaid/d2 diagrams
 - [amzxyz/RIME-LMDG](https://github.com/amzxyz/RIME-LMDG) - Rime输入法语法模型全流程构建教程，全局带声调词库，最全声调标注工具链：LMDG - Language, Model, Dictionary, Grammar。Q群：11033572
 - [pallets/quart](https://github.com/pallets/quart) - An async Python micro framework for building web applications.
@@ -1316,7 +1319,6 @@
 - [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations
 - [e2b-dev/open-computer-use](https://github.com/e2b-dev/open-computer-use) - AI computer use powered by open source LLMs and E2B Desktop Sandbox
 - [Protosec-Research/BinaryChat](https://github.com/Protosec-Research/BinaryChat) - ChatWithBinary: Advanced AI-powered binary analysis tool leveraging OpenAI's LangChain technology, revolutionizing CTF Pwners' experience in binary file interpretation and vulnerability detection.
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [ploomber/jupysql](https://github.com/ploomber/jupysql) - Better SQL in Jupyter. 📊
 - [modelscope/FunClip](https://github.com/modelscope/FunClip) - Open-source, accurate and easy-to-use video speech recognition & clipping tool, LLM based AI clipping intergrated.
@@ -2409,7 +2411,7 @@
 - [xcatliu/typescript-tutorial](https://github.com/xcatliu/typescript-tutorial) - TypeScript 入门教程
 - [joe-re/sql-language-server](https://github.com/joe-re/sql-language-server) - SQL Language Server
 - [larksuite/node-sdk](https://github.com/larksuite/node-sdk) - larksuite open sdk for nodejs
-- [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
+- [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
 - [microsoft/vscode-languageserver-node](https://github.com/microsoft/vscode-languageserver-node) - Language server protocol implementation for VSCode. This allows implementing language services in JS/TS running on node.js
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
