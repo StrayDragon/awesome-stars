@@ -438,7 +438,7 @@
 
 - [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
 - [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
-- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
+- [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
 - [myzhan/boomer](https://github.com/myzhan/boomer) - A better load generator for locust, written in golang.
 - [OpenListTeam/alist](https://github.com/OpenListTeam/alist) - 请前往 https://github.com/OpenListTeam/OpenList
 - [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases
@@ -2330,7 +2330,7 @@
 - [bump-sh/cli](https://github.com/bump-sh/cli) - Bump.sh CLI - Deploy your OpenAPI & AsyncAPI documentations from your CI
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [glowingjade/obsidian-smart-composer](https://github.com/glowingjade/obsidian-smart-composer) - AI chat assistant for Obsidian with contextual awareness, smart writing assistance, and one-click edits. Features vault-aware conversations, semantic search, and local model support.
-- [refly-ai/refly](https://github.com/refly-ai/refly) - 🎨 Refly is an open-source AI-native creation engine. Its intuitive free-form canvas interface combines multi-threaded dialogues, artifacts,  AI knowledge base integration, chrome extension clip & save
+- [refly-ai/refly](https://github.com/refly-ai/refly) - The world's first open-source "Vibe Workflow" for complex tasks.
 - [Canner/WrenAI](https://github.com/Canner/WrenAI) - ⚡️Wren AI is your GenBI Agent, that you can query any database with natural language → get accurate SQL(Text-to-SQL), charts(Text-to-Charts) & AI-generated insights in seconds.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 - [Fevol/obsidian-typings](https://github.com/Fevol/obsidian-typings) - Typescript typings for undocumented parts of the Obsidian API
@@ -2388,7 +2388,7 @@
 - [lcomplete/huntly](https://github.com/lcomplete/huntly) - Huntly, information management tool, rss reader, automatic saving browsed contents include tweets, github stars management tool. 信息管理工具、RSS 阅读器、GitHub stars 管理、推文管理、自动记录浏览过的文章。
 - [msgbyte/tailchat](https://github.com/msgbyte/tailchat) - Next generation noIM application in your own workspace, not only another Slack/Discord/Rocket.chat
 - [lobehub/lobe-cli-toolbox](https://github.com/lobehub/lobe-cli-toolbox) - 🪀 Lobe CLI Toolbox - AI CLI Toolbox, enhancing git commit and i18n workflow efficiency
-- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 4 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management /
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multi AI providers( OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / knowledge management /
 - [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that makes deployment simple and efficient. Instantly set up development environments for any programming language or framework, deploy high-availa
 - [MichaelYuhe/ai-group-tabs](https://github.com/MichaelYuhe/ai-group-tabs) - Organize and group your Chrome tabs with AI
 - [jaywcjlove/google](https://github.com/jaywcjlove/google) - This is the Google Mirror Index.
