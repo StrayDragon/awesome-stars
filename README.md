@@ -1004,7 +1004,7 @@
 ## Lua 
 
 - [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
-- [amzxyz/rime_wanxiang](https://github.com/amzxyz/rime_wanxiang) - Rime万象拼音输入方案：标准版与增强版可选，词库基于AI筛选和语料辅助筛选精干高效，配合全新语法模型，输入不再纠结。支持8种双拼，7种辅助码，并且可以扩展更多，支持中英混输，内置超级注释、带调全拼输入码显示、快符与重复上屏、手动排序、tips等功能扩展，大大增强使用体验。　　Q群：11033572
+- [amzxyz/rime_wanxiang](https://github.com/amzxyz/rime_wanxiang) - Rime万象拼音输入方案：标准版与增强版可选，词库基于AI筛选和语料辅助筛选精干高效，配合全新语法模型，输入不再纠结。PRO版本支持8种双拼，7种辅助码，并且可以扩展更多，支持中英混输，内置超级注释、带调全拼输入码显示、快符与重复上屏、手动排序、tips等功能扩展，大大增强使用体验。　　Q群：11033572
 - [koreader/koreader-sync-server](https://github.com/koreader/koreader-sync-server) - self hostable synchronization service for koreader devices
 - [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 - [Dronakurl/injectme.nvim](https://github.com/Dronakurl/injectme.nvim) - Neovim plugin to help setup language injections with treesitter
@@ -1252,6 +1252,8 @@
 
 ## Python 
 
+- [Minidoracat/mcp-feedback-enhanced](https://github.com/Minidoracat/mcp-feedback-enhanced) - Enhanced MCP server for interactive user feedback and command execution in AI-assisted development, featuring dual interface support (Web UI and Desktop Application) with intelligent environment detec
+- [LMCache/LMCache](https://github.com/LMCache/LMCache) - Redis for LLMs
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [PLAYG0N/mkdocs-panzoom](https://github.com/PLAYG0N/mkdocs-panzoom) - MkDocs Plugin to enable pan & zoom on images and mermaid/d2 diagrams
 - [amzxyz/RIME-LMDG](https://github.com/amzxyz/RIME-LMDG) - Rime输入法语法模型全流程构建教程，全局带声调词库，最全声调标注工具链：LMDG - Language, Model, Dictionary, Grammar。Q群：11033572
@@ -2300,6 +2302,7 @@
 
 ## TypeScript 
 
+- [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) - 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database.
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [supermemoryai/supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) - Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One command to set it up.
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
