@@ -437,10 +437,10 @@
 - [gdquest-demos/godot-4-new-features](https://github.com/gdquest-demos/godot-4-new-features) - Free and open-source Godot 4 demo scenes to see the new features in action
 - [ramaureirac/godot-tactical-rpg](https://github.com/ramaureirac/godot-tactical-rpg) - A tactical role-playing game demo for the Godot Engine
 - [gdquest-demos/godot-visual-effects](https://github.com/gdquest-demos/godot-visual-effects) - Open-source visual effects designed in Godot, from our VFX Secrets course.
-- [gdquest-demos/godot-demos-2022](https://github.com/gdquest-demos/godot-demos-2022) - Free and open-source Godot demos for learning, with guides and tutorials: 2022 edition.
+- [gdquest-demos/godot-3-demos-2022](https://github.com/gdquest-demos/godot-3-demos-2022) - Free and open-source Godot demos for learning, with guides and tutorials: 2022 edition.
 - [Orama-Interactive/Pixelorama](https://github.com/Orama-Interactive/Pixelorama) - Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of p
 - [godotengine/godot-demo-projects](https://github.com/godotengine/godot-demo-projects) - Demonstration and Template Projects
-- [AngelsJinx/Spell-Splosion](https://github.com/AngelsJinx/Spell-Splosion) - A Godot Engine 3 project to replicate the terrain destruction from Worms
+- [MitchMakesThings/Spell-Splosion](https://github.com/MitchMakesThings/Spell-Splosion) - A Godot Engine 3 project to replicate the terrain destruction from Worms
 - [MikeSchulze/gdUnit3](https://github.com/MikeSchulze/gdUnit3) - A Godot Unit Test Framework. Support for gdScript and c# unit testing
 - [didier-v/GodotNotificationCenter](https://github.com/didier-v/GodotNotificationCenter) - A notification center for Godot Engine
 - [tavurth/godot-radial-menu](https://github.com/tavurth/godot-radial-menu) - A radial menu for Godot, supports Mobile & Desktop
@@ -467,6 +467,7 @@
 - [hashicorp/golang-lru](https://github.com/hashicorp/golang-lru) - Golang LRU cache
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
 - [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
+- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - A responsive monitoring platform for Proxmox VE, PBS, and Docker with real-time metrics across nodes and containers
 - [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
 - [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
 - [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript
@@ -479,7 +480,7 @@
 - [bytedance/gg](https://github.com/bytedance/gg) - 🔥gg is a basic library of generics for Go language developed by ByteDance. It is based on the Go 1.18+ generic features and provides efficient, type-safe and rich generic data structures and tool func
 - [ariga/atlas](https://github.com/ariga/atlas) - Manage your database schema as code
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
-- [flohoss/gocron](https://github.com/flohoss/gocron) - A go based task scheduler with GUI
+- [flohoss/gocron](https://github.com/flohoss/gocron) - A task scheduler built with Go and Vue.js that allows users to specify recurring jobs via a simple YAML configuration file. The scheduler reads job definitions, executes commands at specified times us
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [jmattheis/goverter](https://github.com/jmattheis/goverter) - Generate type-safe Go converters by defining function signatures.
 - [tilt-dev/tilt](https://github.com/tilt-dev/tilt) - Define your dev environment as code. For microservice apps on Kubernetes.
@@ -1129,8 +1130,10 @@
 
 ## Others 
 
+- [BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) - A curated list of Claude Skills.
 - [Kludex/fastapi-tips](https://github.com/Kludex/fastapi-tips) - FastAPI Tips by The FastAPI Expert!
 - [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) - Kimi K2 is the large language model series developed by Moonshot AI team
+- [xaoyaoo/PyWxDump](https://github.com/xaoyaoo/PyWxDump) - 删库
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
 - [AlexanderZhou01/China-software-copyright](https://github.com/AlexanderZhou01/China-software-copyright) - Chinese software copyright application template document
@@ -1289,6 +1292,9 @@
 
 ## Python 
 
+- [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - 🎯 告别信息过载，AI 助你看懂热点 - 多平台热点聚合+AI智能分析工具。监控35个平台（抖音、知乎、B站、微博等），智能筛选+自动推送+AI对话分析（用自然语言深度挖掘新闻：趋势追踪、情感分析、相似检索等13种工具）。支持企业微信/飞书/钉钉/Telegram/邮件/ntfy推送，30秒网页部署，1分钟手机通知，无需编程。支持Docker部署⭐ 让算法为你服务，用AI理解热点
+- [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Skills
+- [taskiq-python/taskiq](https://github.com/taskiq-python/taskiq) - Distributed task queue with full async support
 - [aio-libs/aiocache](https://github.com/aio-libs/aiocache) - Asyncio cache manager for redis, memcached and memory
 - [wseaton/sqloxide](https://github.com/wseaton/sqloxide) - Python bindings for sqlparser-rs
 - [tobymao/sqlglot](https://github.com/tobymao/sqlglot) - Python SQL Parser and Transpiler
@@ -1304,11 +1310,10 @@
 - [damnever/pigar](https://github.com/damnever/pigar) - :coffee: A tool to generate requirements.txt for Python project, and more than that. (IT IS NOT A PACKAGE MANAGEMENT TOOL)
 - [mirrorange/clove](https://github.com/mirrorange/clove) - A Claude.ai reverse proxy
 - [NineSunsInc/mighty-security](https://github.com/NineSunsInc/mighty-security) - Don't Simply Trust MCP Server Code, Validate and Scan
-- [langchain-ai/lgp-eval-cicd-example](https://github.com/langchain-ai/lgp-eval-cicd-example) - 🤖🚀 CI/CD pipeline for LangGraph deployments and evals 🦜
+- [langchain-ai/cicd-pipeline-example](https://github.com/langchain-ai/cicd-pipeline-example) - 🤖🚀 CI/CD pipeline for LangSmith deployments and evals 🦜
 - [python-trio/unasync](https://github.com/python-trio/unasync) - The async transformation code.
 - [rednote-hilab/dots.ocr](https://github.com/rednote-hilab/dots.ocr) - Multilingual Document Layout Parsing in a Single Vision-Language Model
 - [long2ice/asyncmy](https://github.com/long2ice/asyncmy) - A fast asyncio MySQL/MariaDB driver with replication protocol support
-- [xaoyaoo/PyWxDump](https://github.com/xaoyaoo/PyWxDump) - 获取微信信息；读取数据库，本地查看聊天记录并导出为csv、html等格式用于AI训练，自动回复等。支持多账户信息获取，支持所有微信版本。
 - [luolingchun/flask-openapi3](https://github.com/luolingchun/flask-openapi3) - Generate REST API and OpenAPI documentation for your Flask project.
 - [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research) - 
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - MemOS (Preview) | Intelligence Begins with Memory
@@ -1368,7 +1373,7 @@
 - [SecretiveShell/MCP-Bridge](https://github.com/SecretiveShell/MCP-Bridge) - A middleware to provide an openAI compatible endpoint that can call MCP tools
 - [MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) - MCP server that interacts with Obsidian via the Obsidian rest API community plugin
 - [ezyang/codemcp](https://github.com/ezyang/codemcp) - Coding assistant MCP for Claude Desktop
-- [mr-fatalyst/fastopenapi](https://github.com/mr-fatalyst/fastopenapi) - FastOpenAPI is a library for generating and integrating OpenAPI schemas using Pydantic v2 and various frameworks (AioHttp, Falcon, Flask, Quart, Sanic, Starlette, Tornado).
+- [mr-fatalyst/fastopenapi](https://github.com/mr-fatalyst/fastopenapi) - FastOpenAPI is a library for generating and integrating OpenAPI schemas using Pydantic v2 and various frameworks (AioHttp, Django, Falcon, Flask, Quart, Sanic, Starlette, Tornado).
 - [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) - Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
 - [fastapi/asyncer](https://github.com/fastapi/asyncer) - Asyncer, async and await, focused on developer experience.
 - [agronholm/anyio](https://github.com/agronholm/anyio) - High level asynchronous concurrency and networking framework that works on top of either Trio or asyncio
@@ -1418,7 +1423,7 @@
 - [Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) - Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms
 - [astral-sh/python-build-standalone](https://github.com/astral-sh/python-build-standalone) - Produce redistributable builds of Python
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - Transform data, train models, and run SQL with marimo — feels like a next-gen reactive notebook, stored as Git-friendly reproducible Python. Deploy as scripts, pipelines, endpoints, and apps. All from
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [MadcowD/ell](https://github.com/MadcowD/ell) - A language model programming library.
 - [EstrellaXD/Auto_Bangumi](https://github.com/EstrellaXD/Auto_Bangumi) - AutoBangumi - 全自动追番工具
@@ -1489,7 +1494,7 @@
 - [laike9m/Python-Type-Challenges](https://github.com/laike9m/Python-Type-Challenges) - Master Python typing (type hints) with interactive online exercises!
 - [g1879/DrissionPage](https://github.com/g1879/DrissionPage) - Python based web automation tool. Powerful and elegant.
 - [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR) - OCR software, free and offline. 开源、免费的离线OCR软件。支持截屏/批量导入图片，PDF文档识别，排除水印/页眉页脚，扫描/生成二维码。内置多国语言库。
-- [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.         将视频从一种语言翻译为另一种语言，同时支持语音识别转录、语音合成、字幕翻译。
+- [jianchang512/pyvideotrans](https://github.com/jianchang512/pyvideotrans) - Translate the video from one language to another and add dubbing.
 - [zai-org/ChatGLM3](https://github.com/zai-org/ChatGLM3) - ChatGLM3 series: Open Bilingual Chat LLMs | 开源双语对话语言模型
 - [waydroid/waydroid](https://github.com/waydroid/waydroid) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
 - [laixintao/flameshow](https://github.com/laixintao/flameshow) - A terminal Flamegraph viewer.
@@ -1642,7 +1647,7 @@
 - [slackapi/python-slack-sdk](https://github.com/slackapi/python-slack-sdk) - Slack Developer Kit for Python
 - [cyclone-robotics/feishu-python-sdk](https://github.com/cyclone-robotics/feishu-python-sdk) - 一个用于和飞书开放平台交互的python库
 - [chaquo/chaquopy](https://github.com/chaquo/chaquopy) - Chaquopy: the Python SDK for Android
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 80+ languages.
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark) - Blind&Invisible Watermark ，图片盲水印，提取水印无须原图！
 - [apiflask/apiflask](https://github.com/apiflask/apiflask) - A lightweight Python web API framework.
 - [hgfkeep/rust-jupyter](https://github.com/hgfkeep/rust-jupyter) - A containerized version of the Evcxr, an evaluation context/REPL for Rust as a Jupyter kernel.
@@ -1707,7 +1712,7 @@
 - [pywebio/PyWebIO](https://github.com/pywebio/PyWebIO) - Write interactive web app in script way.
 - [python-jsonschema/jsonschema](https://github.com/python-jsonschema/jsonschema) - An implementation of the JSON Schema specification for Python
 - [mtth/azkaban](https://github.com/mtth/azkaban) - Lightweight Azkaban client
-- [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time hybrid runtime-static type-checking in pure Python.
+- [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time pure-Python runtime-static type-checker.
 - [koxudaxi/fastapi-code-generator](https://github.com/koxudaxi/fastapi-code-generator) - This code generator creates FastAPI app from an openapi file.
 - [pyutils/line_profiler](https://github.com/pyutils/line_profiler) - Line-by-line profiling for Python
 - [alex-damian/pulse](https://github.com/alex-damian/pulse) - PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
@@ -1807,7 +1812,7 @@
 - [sqlalchemy/sqlalchemy](https://github.com/sqlalchemy/sqlalchemy) - The Database Toolkit for Python
 - [sqlalchemy/mako](https://github.com/sqlalchemy/mako) - Mako Templates for Python
 - [pexpect/pexpect](https://github.com/pexpect/pexpect) - A Python module for controlling interactive programs in a pseudo-terminal
-- [0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2023年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
+- [0voice/interview_internal_reference](https://github.com/0voice/interview_internal_reference) - 2025年最新总结，阿里，腾讯，百度，美团，头条等技术面试题目，以及答案，专家出题人分析汇总。
 - [DropsDevopsOrg/ECommerceCrawlers](https://github.com/DropsDevopsOrg/ECommerceCrawlers) - 实战🐍多种网站、电商数据爬虫🕷。包含🕸：淘宝商品、微信公众号、大众点评、企查查、招聘网站、闲鱼、阿里任务、博客园、微博、百度贴吧、豆瓣电影、包图网、全景网、豆瓣音乐、某省药监局、搜狐新闻、机器学习文本采集、fofa资产采集、汽车之家、国家统计局、百度关键词收录数、蜘蛛泛目录、今日头条、豆瓣影评、携程、小米应用商店、安居客、途家民宿❤️❤️❤️。微信爬虫展示项目:
 - [wsvincent/awesome-django](https://github.com/wsvincent/awesome-django) - A curated list of awesome things related to Django
 - [pytest-dev/pytest-django](https://github.com/pytest-dev/pytest-django) - A Django plugin for pytest.
@@ -1963,6 +1968,7 @@
 
 ## Rust 
 
+- [ksdme/ut](https://github.com/ksdme/ut) - A Rust based utilty toolbox for developers. Inspired from https://it-tools.tech
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [gluon-lang/lsp-types](https://github.com/gluon-lang/lsp-types) - Types for communicating with a language server
@@ -1992,7 +1998,7 @@
 - [EricLBuehler/candle-vllm](https://github.com/EricLBuehler/candle-vllm) - Efficent platform for inference and serving local LLMs including an OpenAI compatible API server.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) - A blazing fast inference solution for text embeddings models
-- [Jondolf/avian](https://github.com/Jondolf/avian) - ECS-driven 2D and 3D physics engine for the Bevy game engine.
+- [avianphysics/avian](https://github.com/avianphysics/avian) - ECS-driven 2D and 3D physics engine for the Bevy game engine.
 - [lancedb/lancedb](https://github.com/lancedb/lancedb) - Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.
 - [dagrs-dev/dagrs](https://github.com/dagrs-dev/dagrs) - A DAG engine build by Rust
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
@@ -2121,7 +2127,7 @@
 - [StrayDragon/cro3n](https://github.com/StrayDragon/cro3n) - Cron expression utils python package
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
-- [pr2502/ra-multiplex](https://github.com/pr2502/ra-multiplex) - share one rust-analyzer server instance between multiple LSP clients to save resources
+- [pr2502/ra-multiplex](https://github.com/pr2502/ra-multiplex) - moved to https://codeberg.org/p2502/lspmux
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [JakWai01/lurk](https://github.com/JakWai01/lurk) - A pretty (simple) alternative to strace
 - [noib3/nvim-oxi](https://github.com/noib3/nvim-oxi) - :link: Rust bindings to all things Neovim
@@ -2260,7 +2266,7 @@
 
 ## SCSS 
 
-- [subframe7536/obsidian-theme-maple](https://github.com/subframe7536/obsidian-theme-maple) - [1.0 Beta] Obsidian theme for desktop with graceful animation and awesome components
+- [subframe7536/obsidian-theme-maple](https://github.com/subframe7536/obsidian-theme-maple) - A sleek and modern Obsidian theme for desktop and mobile.
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - Cheatsheets for web development - devhints.io
 - [ppeetteerrs/obsidian-zola](https://github.com/ppeetteerrs/obsidian-zola) - A no-brainer solution to turning your Obsidian PKM into a Zola site.
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
@@ -2393,6 +2399,9 @@
 
 ## TypeScript 
 
+- [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
+- [Haleclipse/Cometix-Tab](https://github.com/Haleclipse/Cometix-Tab) - Copilot++ ~ Cometix Projects
+- [TibixDev/winboat](https://github.com/TibixDev/winboat) - Run Windows apps on 🐧 Linux with ✨ seamless integration
 - [Wiensss/vscode-region-highlighter](https://github.com/Wiensss/vscode-region-highlighter) - a VSCode extension of highlight region
 - [maptz/maptz.vscode.extensions.customfolding](https://github.com/maptz/maptz.vscode.extensions.customfolding) - 
 - [runem/lit-analyzer](https://github.com/runem/lit-analyzer) - Monorepository for tools that analyze lit-html templates
@@ -2404,7 +2413,7 @@
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [senkenn/sqlsurge](https://github.com/senkenn/sqlsurge) - Visual Studio Code extension for extended SQL language server
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
-- [shareAI-lab/Kode](https://github.com/shareAI-lab/Kode) - Like Claude Code, but Koding with DeepSeek V3.1, Kimi2, GLM4.5, Qwen Coder etc.（welcome to use Kode to summit PR)
+- [shareAI-lab/Kode](https://github.com/shareAI-lab/Kode) - Open Agent Coding CLI, Koding with GLM, Qwen, Kimi, DeepSeek etc.（welcome to use Kode to summit PR)
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 - [langwatch/langwatch](https://github.com/langwatch/langwatch) - The open LLM Ops platform - Traces, Analytics, Evaluations, Datasets and Prompt Optimization ✨
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
@@ -2415,7 +2424,6 @@
 - [tagspaces/tagspaces](https://github.com/tagspaces/tagspaces) - TagSpaces is an offline, open source, document manager with tagging support
 - [nrwl/nx](https://github.com/nrwl/nx) - Get to green PRs in half the time. Nx optimizes your builds, scales your CI, and fixes failed PRs. Built for developers and AI agents.
 - [Snouzy/workout-cool](https://github.com/Snouzy/workout-cool) - 🏋 Modern open-source fitness coaching platform. Create workout plans, track progress, and access a comprehensive exercise database.
-- [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - A responsive monitoring platform for Proxmox VE, PBS, and Docker with real-time metrics across nodes and containers
 - [electric-sql/pglite](https://github.com/electric-sql/pglite) - Embeddable Postgres with real-time, reactive bindings.
 - [supermemoryai/supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) - Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One command to set it up.
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
@@ -2448,7 +2456,7 @@
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [glowingjade/obsidian-smart-composer](https://github.com/glowingjade/obsidian-smart-composer) - AI chat assistant for Obsidian with contextual awareness, smart writing assistance, and one-click edits. Features vault-aware conversations, semantic search, and local model support.
 - [refly-ai/refly](https://github.com/refly-ai/refly) - The Open-Source Agentic Workspace for Human-AI Collaboration.
-- [Canner/WrenAI](https://github.com/Canner/WrenAI) - ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered insights in seconds.
+- [Canner/WrenAI](https://github.com/Canner/WrenAI) - ⚡️ GenBI (Generative BI) queries any database in natural language, generates accurate SQL (Text-to-SQL), charts (Text-to-Chart), and AI-powered business intelligence in seconds.
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 - [Fevol/obsidian-typings](https://github.com/Fevol/obsidian-typings) - Typescript typings for undocumented parts of the Obsidian API
 - [benchmark-action/github-action-benchmark](https://github.com/benchmark-action/github-action-benchmark) - GitHub Action for continuous benchmarking to keep performance
