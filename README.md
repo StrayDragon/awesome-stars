@@ -635,7 +635,7 @@
 - [ztrue/tracerr](https://github.com/ztrue/tracerr) - Golang errors with stack trace and source fragments.
 - [urfave/cli](https://github.com/urfave/cli) - A declarative, simple, fast, and fun package for building command line tools in Go
 - [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
-- [dolthub/go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go.
+- [dolthub/go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in Go.
 - [graphql-go/graphql](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go / Golang
 - [tsenart/vegeta](https://github.com/tsenart/vegeta) - HTTP load testing tool and library. It's over 9000!
 - [google/go-github](https://github.com/google/go-github) - Go library for accessing the GitHub v3 API
@@ -1334,7 +1334,7 @@
 - [damnever/pigar](https://github.com/damnever/pigar) - :coffee: A tool to generate requirements.txt for Python project, and more than that. (IT IS NOT A PACKAGE MANAGEMENT TOOL)
 - [mirrorange/clove](https://github.com/mirrorange/clove) - A Claude.ai reverse proxy
 - [NineSunsInc/mighty-security](https://github.com/NineSunsInc/mighty-security) - Don't Simply Trust MCP Server Code, Validate and Scan
-- [langchain-ai/cicd-pipeline-example](https://github.com/langchain-ai/cicd-pipeline-example) - 🤖🚀 CI/CD pipeline for LangSmith deployments and evals 🦜
+- [langchain-samples/cicd-pipeline-example](https://github.com/langchain-samples/cicd-pipeline-example) - 🤖🚀 CI/CD pipeline for LangSmith deployments and evals 🦜
 - [python-trio/unasync](https://github.com/python-trio/unasync) - The async transformation code.
 - [rednote-hilab/dots.ocr](https://github.com/rednote-hilab/dots.ocr) - Multilingual Document Layout Parsing in a Single Vision-Language Model
 - [long2ice/asyncmy](https://github.com/long2ice/asyncmy) - A fast asyncio MySQL/MariaDB driver with replication protocol support
@@ -2435,6 +2435,7 @@
 
 ## TypeScript 
 
+- [firecrawl/open-scouts](https://github.com/firecrawl/open-scouts) - AI-powered web monitoring platform. Create automated scouts that search the web and send email alerts when they find what you're looking for.
 - [opendatalab/labelU-Kit](https://github.com/opendatalab/labelU-Kit) - Data annotation component library --provided as NPM packages
 - [debugmcp/mcp-debugger](https://github.com/debugmcp/mcp-debugger) - LLM-driven debugger server – give your AI agents step-through debugging superpowers
 - [agrawal-d/cph](https://github.com/agrawal-d/cph) - Makes judging, compiling, and downloading problems for competitive programming easy.
