@@ -1048,6 +1048,7 @@
 
 ## Lua 
 
+- [folke/sidekick.nvim](https://github.com/folke/sidekick.nvim) - Your Neovim AI sidekick
 - [nanozuki/tabby.nvim](https://github.com/nanozuki/tabby.nvim) - A declarative, highly configurable, and neovim style tabline plugin. Use your nvim tabs as a workspace multiplexer!
 - [folke/which-key.nvim](https://github.com/folke/which-key.nvim) - 💥   Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.
 - [rachartier/tiny-code-action.nvim](https://github.com/rachartier/tiny-code-action.nvim) - A Neovim plugin that provides a simple way to run and visualize code actions with Telescope.
@@ -1143,7 +1144,8 @@
 
 ## Others 
 
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Claude Skills for Obsidian
+- [allmonday/A-Python-web-development-methodology-for-complex-business-scenarios](https://github.com/allmonday/A-Python-web-development-methodology-for-complex-business-scenarios) - A Python web development methodology for complex business scenarios
+- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian
 - [hellowind777/helloagents](https://github.com/hellowind777/helloagents) - 模块化 AI 编程技能系统，将混乱的智能体输出转化为结构化、可追溯、生产就绪的代码  「智能路由 + 工作流 + 知识库 + 命令驱动」  不仅仅是编程！
 - [liangdabiao/Claude-Code-Deep-Research-main](https://github.com/liangdabiao/Claude-Code-Deep-Research-main) - 利用claude code agent框架一步一步实现deep research！很强大很简单的skills。我一步一步介绍实现deep research，因为deep research就是agent框架第一应用，对比一下各个框架实现这个deep research，就知道哪个框架才是真厉害。
 - [Winson-030/dify-kubernetes](https://github.com/Winson-030/dify-kubernetes) - Deploy Dify on Kubernetes
