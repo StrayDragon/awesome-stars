@@ -205,6 +205,7 @@
 
 ## C++ 
 
+- [TechEmpower/FrameworkBenchmarks](https://github.com/TechEmpower/FrameworkBenchmarks) - Source for the TechEmpower Framework Benchmarks project
 - [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 - [dragonflydb/dragonfly](https://github.com/dragonflydb/dragonfly) - A modern replacement for Redis and Memcached
 - [zgww/Sui](https://github.com/zgww/Sui) - a crossplatform gui framework based on OrcLang(Transpile to C with auto memory management "urgc")
@@ -896,6 +897,7 @@
 - [rioj7/my-code-actions](https://github.com/rioj7/my-code-actions) - Visual Studio Code extension to define Code Actions grouped by LanguageID
 - [drawdb-io/drawdb](https://github.com/drawdb-io/drawdb) - Free, simple, and intuitive online database diagram editor and SQL generator.
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
+- [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [jifengg/ffmpeg-script](https://github.com/jifengg/ffmpeg-script) - A script set that uses ffmpeg to implement various functions
 - [txperl/airAnime](https://github.com/txperl/airAnime) - 轻量的聚合番剧搜索工具
 - [dragonir/zelda-map](https://github.com/dragonir/zelda-map) - zelda-map 塞尔达：旷野之息地图 🗺
@@ -1153,6 +1155,7 @@
 
 ## Others 
 
+- [dakesan/marimo-cc](https://github.com/dakesan/marimo-cc) - 
 - [astral-sh/claude-code-plugins](https://github.com/astral-sh/claude-code-plugins) - 
 - [allmonday/A-Python-web-development-methodology-for-complex-business-scenarios](https://github.com/allmonday/A-Python-web-development-methodology-for-complex-business-scenarios) - Clean Architecture Practice with Pydantic-Resolve and FastAPI-Voyager
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian
@@ -1324,6 +1327,7 @@
 
 ## Python 
 
+- [EricWebsmith/pydantic_mermaid](https://github.com/EricWebsmith/pydantic_mermaid) - convert Pydantic models to Mermaid charts
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
 - [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API for Google NotebookLM
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
@@ -1337,7 +1341,7 @@
 - [morphik-org/morphik-core](https://github.com/morphik-org/morphik-core) - The most accurate document search and store for building AI apps
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
-- [hellowind777/helloagents](https://github.com/hellowind777/helloagents) - 模块化 AI 编程技能系统，将混乱的智能体输出转化为结构化、可追溯、生产就绪的代码  「智能路由 + 工作流 + 知识库 + 命令驱动」  不仅仅是编程！
+- [hellowind777/helloagents](https://github.com/hellowind777/helloagents) - 一个自主的高级智能伙伴，不仅分析问题，更持续工作直到完成实现和验证。
 - [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.
 - [libgit2/pygit2](https://github.com/libgit2/pygit2) - Python bindings for libgit2
 - [huifer/skill-security-scan](https://github.com/huifer/skill-security-scan) - skill-security-scan is a command-line tool designed to scan and detect security risks in Claude Skills. Before installing third-party Skills, use this tool for security review to effectively prevent m
@@ -1400,10 +1404,10 @@
 - [long2ice/asyncmy](https://github.com/long2ice/asyncmy) - A fast asyncio MySQL/MariaDB driver with replication protocol support
 - [luolingchun/flask-openapi3](https://github.com/luolingchun/flask-openapi3) - Generate REST API and OpenAPI documentation for your Flask project.
 - [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research) - 
-- [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - Managing long-term, working, and external memory with OS-level scheduling, retrieval, and updates.
+- [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - OS-Level Memory Layer for LLMs, AI Agents & Multi-Agent Systems with long-term, working, and external memory.
 - [langchain-ai/langchain-sandbox](https://github.com/langchain-ai/langchain-sandbox) - Safely run untrusted Python code using Pyodide and Deno
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
-- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - How can we build a true AI agent? Like Claude Code.
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you & agent need - Learn Agent by writing a Claude Code with only 16 line code
 - [ninehills/blog](https://github.com/ninehills/blog) - 
 - [PDFMathTranslate-next/PDFMathTranslate-next](https://github.com/PDFMathTranslate-next/PDFMathTranslate-next) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
 - [bytedance/trae-agent](https://github.com/bytedance/trae-agent) - Trae Agent is an LLM-based agent for general purpose software engineering tasks.
@@ -1523,7 +1527,6 @@
 - [iswbm/golang-interview](https://github.com/iswbm/golang-interview) - Go语言面试题集
 - [Zeyi-Lin/HivisionIDPhotos](https://github.com/Zeyi-Lin/HivisionIDPhotos) - ⚡️HivisionIDPhotos: a lightweight and efficient AI ID photos tools. 一个轻量级的AI证件照制作算法。
 - [wbopan/moffee](https://github.com/wbopan/moffee) - moffee: Make Markdown Ready to Present
-- [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [cpython666/Thousand-Image-Generator](https://github.com/cpython666/Thousand-Image-Generator) - 千图成像器是基于 PyQt6 的应用程序，允许您使用所选图像和包含成千上万张图像的文件夹创建一个拼图图像。
 - [OliverCi/freeplane2md](https://github.com/OliverCi/freeplane2md) - Convert Freeplane mind maps into Markdown format
 - [chroming/pdfdir](https://github.com/chroming/pdfdir) - PDF导航（大纲/目录）添加工具
@@ -2103,7 +2106,7 @@
 - [DioCrafts/OxiCloud](https://github.com/DioCrafts/OxiCloud) - ☁️ OxiCloud server, efficient and secure way to save all your data
 - [probelabs/probe](https://github.com/probelabs/probe) - Probe is an AI-friendly, fully local, semantic code search engine which which works with for large codebases. The final missing building block for next generation of AI coding tools.
 - [chaqchase/lla](https://github.com/chaqchase/lla) - blazing fast `ls` replacement with superpowers
-- [Anush008/fastembed-rs](https://github.com/Anush008/fastembed-rs) - Rust library for vector embeddings and reranking. Inspired by qdrant/fastembed.
+- [Anush008/fastembed-rs](https://github.com/Anush008/fastembed-rs) - Rust library for vector embeddings and reranking.
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [EricLBuehler/candle-vllm](https://github.com/EricLBuehler/candle-vllm) - Efficent platform for inference and serving local LLMs including an OpenAI compatible API server.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
@@ -2512,6 +2515,9 @@
 
 ## TypeScript 
 
+- [workany-ai/workany](https://github.com/workany-ai/workany) - Desktop Agent for Any Task
+- [lasoons/AgentSkillsManager](https://github.com/lasoons/AgentSkillsManager) - AgentSkills multi-IDE management extension: browse and install skill repositories for Antigravity, CodeBuddy, Cursor, Qoder, Trae, Windsurf (and VS Code), and search a cloud catalog (~58K skills) from
+- [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab) - 本地化的聊天记录分析工具，通过 SQL 和 AI Agent 回顾你的社交记忆。A local-first chat analysis tool: Relive and explore your social memories powered by SQL and AI Agents.
 - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🌀 OpenAPI to TypeScript codegen. Production-ready SDKs, Zod schemas, TanStack Query hooks, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
 - [xushengfeng/xtranslator](https://github.com/xushengfeng/xtranslator) - 
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. AI Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with comma
