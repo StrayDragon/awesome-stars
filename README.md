@@ -467,6 +467,7 @@
 
 ## Go 
 
+- [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) - MCP for xiaohongshu.com
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen m
 - [rotisserie/eris](https://github.com/rotisserie/eris) - Error handling library with readable stack traces and flexible formatting support 🎆
@@ -1034,7 +1035,7 @@
 - [codecombat/codecombat](https://github.com/codecombat/codecombat) - Game for learning how to code.
 - [xCss/bing](https://github.com/xCss/bing) - Bing 壁纸 API
 - [egonSchiele/grokking_algorithms](https://github.com/egonSchiele/grokking_algorithms) - Code for the book Grokking Algorithms (https://www.amazon.com/dp/1633438538)
-- [geeeeeeeeek/electronic-wechat](https://github.com/geeeeeeeeek/electronic-wechat) - :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
+- [zhongyi-tong/electronic-wechat](https://github.com/zhongyi-tong/electronic-wechat) - :speech_balloon: A better WeChat on macOS and Linux. Built with Electron by Zhongyi Tong.
 
 ## Jupyter Notebook 
 
@@ -1370,6 +1371,8 @@
 
 ## Python 
 
+- [longzheng268/KeymouseGo](https://github.com/longzheng268/KeymouseGo) - 顺便给arm64的UOS20做适配的分发包|类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入 | automate mouse clicks and keyboard input
+- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 - [unitagain/WenShape](https://github.com/unitagain/WenShape) - WenShape文枢(原NOVIX写作):深度上下文感知的智能体小说创作系统
 - [white0dew/XiaohongshuSkills](https://github.com/white0dew/XiaohongshuSkills) - 支持小红书自动发布、自动评论、自动检索的 Skill。支持 OpenClaw、Codex、CC 等
 - [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis) - All-in-one AI framework & toolkit
@@ -1670,7 +1673,7 @@
 - [OTFCG/Awesome-Game-Analysis](https://github.com/OTFCG/Awesome-Game-Analysis) - a comprehensive collection of video game tech analysis resources
 - [newfyu/Braindoor](https://github.com/newfyu/Braindoor) - Braindoor can easily use local files to build ChatGPT's external knowledge base.
 - [CatAnd-Dog/chatgptplugin](https://github.com/CatAnd-Dog/chatgptplugin) - chatgpt插件集合。目前拥有联网，绘图功能。适配主流站点。gpt插件，插件功能集合
-- [pyscript/pyscript](https://github.com/pyscript/pyscript) - PyScript is an open source platform for Python in the browser. Try PyScript: https://pyscript.com  Examples: https://tinyurl.com/pyscript-examples  Community: https://discord.gg/HxvBtukrg2
+- [pyscript/pyscript](https://github.com/pyscript/pyscript) - An open source platform for Python in the browser. https://pyscript.net Docs: https://docs.pyscript.net/ Try it: https://pyscript.com/ Community: https://discord.gg/HxvBtukrg2
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
 - [shroominic/codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - 👾 Open source implementation of the ChatGPT Code Interpreter
 - [vxgmichel/aiostream](https://github.com/vxgmichel/aiostream) - Generator-based operators for asynchronous iteration
@@ -1721,7 +1724,7 @@
 - [macbre/sql-metadata](https://github.com/macbre/sql-metadata) - Uses tokenized query returned by python-sqlparse and generates query metadata
 - [langchain-ai/chat-langchain](https://github.com/langchain-ai/chat-langchain) - 
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [zai-org/ChatGLM-6B](https://github.com/zai-org/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the leading document agent and OCR platform
@@ -2127,7 +2130,7 @@
 - [agentclientprotocol/rust-sdk](https://github.com/agentclientprotocol/rust-sdk) - Rust SDK for ACP clients and agents.
 - [Xuanwo/xurl](https://github.com/Xuanwo/xurl) - xURL: Client for AI Agents URLs
 - [pydantic/monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI
-- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds models & providers. One command to find what runs on your hardware.
+- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [KCORES/vector-db-bench](https://github.com/KCORES/vector-db-bench) - AI 可以在 50 trun 内实现一个简单的高性能向量数据库吗?
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI assistant infrastructure — deploy anywhere, swap anything 🦀
 - [moltis-org/moltis](https://github.com/moltis-org/moltis) - A Rust-native claw you can trust. One binary — sandboxed, secure, auditable. Voice, memory, MCP tools, and multi-channel access built-in.
@@ -2162,7 +2165,7 @@
 - [est31/cargo-udeps](https://github.com/est31/cargo-udeps) - Find unused dependencies in Cargo.toml
 - [bnjbvr/cargo-machete](https://github.com/bnjbvr/cargo-machete) - Remove unused Rust dependencies with this one weird trick!
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
-- [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy server and data plane for agentic apps - centralizing orchestration, safety, observability, and smart LLM routing so you can ship agents faster.
+- [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, observability, and smart LLM routing so you stay focused on your agents core logic.
 - [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI
 - [yaml-schema/yaml-schema](https://github.com/yaml-schema/yaml-schema) - Validate YAML documents using a YAML schema
 - [apache/opendal-oli](https://github.com/apache/opendal-oli) - `oli` stands for OpenDAL Command Line Interface. It aims to provide a unified and user-friendly way to manipulate data stored in various storage service.
@@ -2606,6 +2609,7 @@
 
 ## TypeScript 
 
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - The Frontend for Agents & Generative UI. React + Angular
 - [Wing900/ManimCat](https://github.com/Wing900/ManimCat) - ManimCat 是一个基于 AI 的数学动画生成平台，用户只需输入自然语言描述，系统便会通过 OpenAI 格式的api请求调用AI自动生成 Manim 代码并渲染出精美的数学可视化视频，支持 LaTeX 公式、模板化生成以及代码错误自动修复，让复杂概念的动态展示变得触手可及。
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
@@ -2633,7 +2637,7 @@
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
 - [gridstack/gridstack.js](https://github.com/gridstack/gridstack.js) - Build interactive dashboards in minutes.
-- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to Clawdbot / OpenClaw that runs in containers for security. Connects to WhatsApp, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK
+- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic'
 - [tobi/qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
 - [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza
