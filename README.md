@@ -469,6 +469,7 @@
 
 ## Go 
 
+- [Biliniko/cpa-control-center](https://github.com/Biliniko/cpa-control-center) - Desktop operations console for CPA-managed Codex auth pools.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) - MCP for xiaohongshu.com
 - [dlvhdr/diffnav](https://github.com/dlvhdr/diffnav) - A git diff pager based on delta but with a file tree, à la GitHub.
@@ -1377,6 +1378,7 @@
 
 ## Python 
 
+- [qcmuu/cpa-codex-cleanup](https://github.com/qcmuu/cpa-codex-cleanup) - CPA codex cleanup
 - [OTAKUWeBer/Wayland-automation](https://github.com/OTAKUWeBer/Wayland-automation) - Python library for mouse & keyboard automation on Wayland — click, swipe, type, hotkeys & cursor tracking. Works on Hyprland, Sway, labwc & all wlroots compositors. The PyAutoGUI alternative for Wayla
 - [someaka/wayland-mcp](https://github.com/someaka/wayland-mcp) - MCP Server for Wayland
 - [QiuChenly/ida-pro-mcp-enhancement](https://github.com/QiuChenly/ida-pro-mcp-enhancement) - 二创爆改，懒得提交给原仓库了
