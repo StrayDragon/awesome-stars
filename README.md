@@ -404,7 +404,7 @@
 - [yangchuansheng/ip_derper](https://github.com/yangchuansheng/ip_derper) - 无需域名的 derper
 - [astral-sh/uv-docker-example](https://github.com/astral-sh/uv-docker-example) - An example of using uv in Docker images
 - [RICwang/docker-wechat](https://github.com/RICwang/docker-wechat) - 在docker里运行wechat，可以通过web或者VNC访问wechat
-- [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 为开发人员分享快速参考备忘清单(速查表)
+- [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。
 - [microsoft/iis-docker](https://github.com/microsoft/iis-docker) - Dockerfile for IIS
 - [Anduin2017/HowToCook](https://github.com/Anduin2017/HowToCook) - 程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).
 
@@ -2401,7 +2401,7 @@
 - [wormtql/yas](https://github.com/wormtql/yas) - Blazingly fast Genshin Impact/Honkai: Starrail artifacts scanner
 - [wormtql/genshin_artifact](https://github.com/wormtql/genshin_artifact) - 莫娜占卜铺 | 原神 | 圣遗物搭配 | 圣遗物潜力。多方向圣遗物自动搭配，多方向圣遗物潜力与评分, Genshin Impact artifacts assessment, artifacts auto combination, artifacts statistics, artifacts potential, and more.
 - [jely2002/youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.
-- [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) - 🦀 How to minimize Rust binary size 📦
+- [johnthagen/min-sized-rust](https://github.com/johnthagen/min-sized-rust) - 🦀 How to minimize Rust binary size 📦 https://github.com/johnthagen/min-sized-rust
 - [mitsuhiko/minijinja](https://github.com/mitsuhiko/minijinja) - MiniJinja is a powerful but minimal dependency template engine for Rust compatible with Jinja/Jinja2
 - [HUST-OS/tornado-os](https://github.com/HUST-OS/tornado-os) - 异步内核就像风一样快！
 - [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
@@ -2632,7 +2632,7 @@
 
 - [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
 - [jqknono/coding-plans-for-copilot](https://github.com/jqknono/coding-plans-for-copilot) - 在Copilot Chat中自由接入OpenAI Chat/Response, Anthropic API兼容供应商
-- [tanweai/pua](https://github.com/tanweai/pua) - 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  You are a P8-level engineer who once had high hopes placed on you. When Anthropic classified you at that level, their expect
+- [tanweai/pua](https://github.com/tanweai/pua) - 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.
 - [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil) - The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pe
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
 - [ItzCrazyKns/Vane](https://github.com/ItzCrazyKns/Vane) - Vane is an AI-powered answering engine.
@@ -2678,7 +2678,7 @@
 - [browserless/browserless](https://github.com/browserless/browserless) - Deploy headless browsers in Docker. Run on our cloud or bring your own. Free for non-commercial uses.
 - [workany-ai/workany](https://github.com/workany-ai/workany) - Desktop Agent for Any Task
 - [lasoons/AgentSkillsManager](https://github.com/lasoons/AgentSkillsManager) - AgentSkills multi-IDE management extension: browse and install skill repositories for Antigravity, CodeBuddy, Cursor, Qoder, Trae, Windsurf (and VS Code), and search a cloud catalog (~58K skills) from
-- [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab) - Rediscover your social memories with private, AI-powered analysis. 本地化的聊天记录分析工具，通过 AI Agent 回顾你的社交记忆。
+- [hellodigua/ChatLab](https://github.com/hellodigua/ChatLab) - Rediscover your social memories with local, AI-powered analysis. 本地化的聊天记录分析工具，通过 AI Agent 回顾你的社交记忆。
 - [hey-api/openapi-ts](https://github.com/hey-api/openapi-ts) - 🌀 OpenAPI to TypeScript codegen. Production-ready SDKs, Zod schemas, TanStack Query hooks, and 20+ plugins. Used by Vercel, OpenCode, and PayPal.
 - [xushengfeng/xtranslator](https://github.com/xushengfeng/xtranslator) - 
 - [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and
