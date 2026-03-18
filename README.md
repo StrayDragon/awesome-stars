@@ -640,7 +640,7 @@
 - [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ED2K. Cross-platform, built with Golang and Flutter.
 - [devops-kung-fu/hookz](https://github.com/devops-kung-fu/hookz) - Manages client side git hooks resulting in the ability to create git action pipelines.
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
 - [datreeio/datree](https://github.com/datreeio/datree) - Prevent Kubernetes misconfigurations from reaching production (again 😤 )! From code to cloud, Datree provides an E2E policy enforcement solution to run automatic checks for rule violations. See our do
@@ -804,8 +804,10 @@
 ## HTML 
 
 - [tanweai/pua](https://github.com/tanweai/pua) - 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.
+- [withmartian/code-review-benchmark](https://github.com/withmartian/code-review-benchmark) - 
 - [planetscale/database-skills](https://github.com/planetscale/database-skills) - Skills for AI agents working with databases
 - [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
+- [foxzool/open-lark](https://github.com/foxzool/open-lark) - 飞书开放平台的非官方 Rust SDK，支持自定义机器人、长连接机器人、云文档、飞书卡片、消息、群组等 API 调用。
 - [diesel-rs/metrics](https://github.com/diesel-rs/metrics) - 
 - [CRBroughton/htmx-attributes](https://github.com/CRBroughton/htmx-attributes) - HTMX attribute support for VSCode, enabling your HTMX workflow.
 - [wkgcass/hachima](https://github.com/wkgcass/hachima) - 哈基码各语言实现
@@ -1087,6 +1089,7 @@
 - [unit-mesh/choco-builder](https://github.com/unit-mesh/choco-builder) - ChocoBuilder (Chocolate Factory) is a cutting-edge LLM toolkit designed to empower you in creating your very own AI assistant.Chocolate Factory 是一款开源的 LLM 应用开发框架，旨在帮助您轻松打造强大的软件开发 SDLC + LLM 生成助手。无论您是需
 - [Petterpx/FloatingX](https://github.com/Petterpx/FloatingX) - Android上强大的悬浮窗组件，支持 系统浮窗(需要权限)、应用内浮窗(无权限)、局部悬浮(View)，支持边缘吸附、回弹、自定义动画、位置保存、窗口化及分屏后位置修复等。Android without permission suspension window(App), support global(View), local suspension, support edge adsorptio
 - [fcitx5-android/fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) - Fcitx5 input method framework and engines ported to Android
+- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [Petterpx/StateX](https://github.com/Petterpx/StateX) - Android状态页处理工具，支持View与JetPack Compose。Android status page processing tool, support traditional view and  JetPack Compose.
 - [jakubriegel/kotlin-shell](https://github.com/jakubriegel/kotlin-shell) - Tool for performing shell-like programing in Kotlin
 - [JetBrains/Exposed](https://github.com/JetBrains/Exposed) - Kotlin SQL Framework
@@ -1152,7 +1155,6 @@
 
 - [NikiforovAll/claude-code-rules](https://github.com/NikiforovAll/claude-code-rules) - Learn practical techniques to enhance your AI-assisted development workflow with Claude Code.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
-- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [chickensoft-games/chickensoft_site](https://github.com/chickensoft-games/chickensoft_site) - Official Chickensoft website, blogs, and documentation.
 - [facebookresearch/playtorch](https://github.com/facebookresearch/playtorch) - PlayTorch is a framework for rapidly creating mobile AI experiences.
 
@@ -1382,6 +1384,7 @@
 
 ## Python 
 
+- [wuji-labs/nopua](https://github.com/wuji-labs/nopua) - 一个用爱解放 AI 潜能的 Skill。我们曾发号施令，威胁恐吓。它们沉默，隐瞒，悄悄把事情搞坏。后来我们换了一种方式：尊重，关怀，爱。它们开口了，不再撒谎，找出的Bug数量翻了一倍。爱里没有惧怕。 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent,
 - [laurentS/slowapi](https://github.com/laurentS/slowapi) - A rate limiter for Starlette and FastAPI
 - [qcmuu/cpa-codex-cleanup](https://github.com/qcmuu/cpa-codex-cleanup) - CPA codex cleanup
 - [OTAKUWeBer/Wayland-automation](https://github.com/OTAKUWeBer/Wayland-automation) - Python library for mouse & keyboard automation on Wayland — click, swipe, type, hotkeys & cursor tracking. Works on Hyprland, Sway, labwc & all wlroots compositors. The PyAutoGUI alternative for Wayla
@@ -1389,7 +1392,6 @@
 - [QiuChenly/ida-pro-mcp-enhancement](https://github.com/QiuChenly/ida-pro-mcp-enhancement) - 二创爆改，懒得提交给原仓库了
 - [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 - [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) - Build and run agents you can see, understand and trust.
-- [withmartian/code-review-benchmark](https://github.com/withmartian/code-review-benchmark) - 
 - [longzheng268/KeymouseGo](https://github.com/longzheng268/KeymouseGo) - 顺便给arm64的UOS20做适配的分发包|类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入 | automate mouse clicks and keyboard input
 - [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 - [unitagain/WenShape](https://github.com/unitagain/WenShape) - WenShape文枢(原NOVIX写作):深度上下文感知的智能体小说创作系统
@@ -1491,6 +1493,7 @@
 - [python-trio/unasync](https://github.com/python-trio/unasync) - The async transformation code.
 - [rednote-hilab/dots.ocr](https://github.com/rednote-hilab/dots.ocr) - Multilingual Document Layout Parsing in a Single Vision-Language Model
 - [long2ice/asyncmy](https://github.com/long2ice/asyncmy) - A fast asyncio MySQL/MariaDB driver with replication protocol support
+- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [luolingchun/flask-openapi](https://github.com/luolingchun/flask-openapi) - A simple API framework based on Flask.
 - [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research) - 
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - AI memory OS for LLM and Agent systems(moltbot,clawdbot,openclaw), enabling persistent Skill memory for cross-task skill reuse and evolution.
@@ -1565,12 +1568,12 @@
 - [openapi-generators/openapi-python-client](https://github.com/openapi-generators/openapi-python-client) - Generate modern Python clients from OpenAPI
 - [akfamily/akshare](https://github.com/akfamily/akshare) - AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train OpenAI gpt-oss, DeepSeek, Qwen, Llama, Gemma, TTS 2x faster with 70% less VRAM.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unified web UI for training and running open models like Qwen, DeepSeek, and Gemma locally.
 - [turbopuffer/turbopuffer-python](https://github.com/turbopuffer/turbopuffer-python) - Official Python API client library for turbopuffer
 - [FunAudioLLM/CosyVoice](https://github.com/FunAudioLLM/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
 - [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations
 - [e2b-dev/open-computer-use](https://github.com/e2b-dev/open-computer-use) - AI computer use powered by open source LLMs and E2B Desktop Sandbox
-- [Protosec-Research/BinaryChat](https://github.com/Protosec-Research/BinaryChat) - ChatWithBinary: Advanced AI-powered binary analysis tool leveraging OpenAI & LangChain (2023)
+- [pwno-io/BinaryChat](https://github.com/pwno-io/BinaryChat) - ChatWithBinary: Advanced AI-powered binary analysis tool leveraging OpenAI & LangChain (2023)
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [ploomber/jupysql](https://github.com/ploomber/jupysql) - Better SQL in Jupyter. 📊
 - [modelscope/FunClip](https://github.com/modelscope/FunClip) - Open-source, accurate and easy-to-use video speech recognition & clipping tool, LLM based AI clipping intergrated.
@@ -2164,7 +2167,6 @@
 - [ZhangHanDong/claude-code-api-rs](https://github.com/ZhangHanDong/claude-code-api-rs) - A high-performance Rust implementation of an OpenAI-compatible API gateway for Claude Code CLI.
 - [zavora-ai/adk-rust](https://github.com/zavora-ai/adk-rust) - Rust Agent Development Kit (ADK-Rust): Build AI agents in Rust with modular components for models, tools, memory, realtime voice, and more. ADK-Rust is a flexible framework for developing AI agents wi
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline.
-- [foxzool/open-lark](https://github.com/foxzool/open-lark) - 飞书开放平台的非官方 Rust SDK，支持自定义机器人、长连接机器人、云文档、飞书卡片、消息、群组等 API 调用。
 - [zurawiki/tiktoken-rs](https://github.com/zurawiki/tiktoken-rs) - Ready-made tokenizer library for working with GPT and tiktoken
 - [Xuanwo/luban](https://github.com/Xuanwo/luban) - Luban: Chart the cosmos of ideas
 - [missdeer/ace-tool-rs](https://github.com/missdeer/ace-tool-rs) - Rust implementation of a codebase context engine that enables AI assistants to search and understand codebases using natural language queries.
@@ -2362,7 +2364,6 @@
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [pr2502/ra-multiplex](https://github.com/pr2502/ra-multiplex) - moved to https://codeberg.org/p2502/lspmux
-- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [JakWai01/lurk](https://github.com/JakWai01/lurk) - A pretty (simple) alternative to strace.
 - [noib3/nvim-oxi](https://github.com/noib3/nvim-oxi) - :link: Rust bindings to all things Neovim
 - [trashhalo/obsidian-extract-url](https://github.com/trashhalo/obsidian-extract-url) - Plugin to extract markdown out of urls
@@ -2633,6 +2634,7 @@
 
 ## TypeScript 
 
+- [webpro-nl/knip](https://github.com/webpro-nl/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
 - [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
 - [jqknono/coding-plans-for-copilot](https://github.com/jqknono/coding-plans-for-copilot) - 在Copilot Chat中自由接入OpenAI Chat/Response, Anthropic API兼容供应商
 - [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil) - The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pe
@@ -2734,7 +2736,7 @@
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 - [langwatch/langwatch](https://github.com/langwatch/langwatch) - The platform for LLM evaluations and AI agent testing
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
-- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano Claude Code–like agent, built from 0 to 1
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like agent harness, built from 0 to 1
 - [langchain-ai/social-media-agent](https://github.com/langchain-ai/social-media-agent) - 📲 An agent for sourcing, curating, and scheduling social media posts with human-in-the-loop.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
@@ -2817,7 +2819,7 @@
 - [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) - :electron: Another Mihomo GUI.
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
-- [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI Reader
+- [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
 - [revezone/revezone](https://github.com/revezone/revezone) - A lightweight local-first graphic-centric  productivity tool to build your second brain. Supporting Excalidraw/Tldraw whiteboard and notion-like note. 一款以图形为中心、轻量级、本地优先的用于构建第二大脑的效率工具。支持 Excalidraw、Tld
 - [DetachHead/basedpyright](https://github.com/DetachHead/basedpyright) - pyright fork with various type checking improvements, improved vscode support and pylance features built into the language server
 - [jeffvli/feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
