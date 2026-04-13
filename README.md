@@ -215,6 +215,7 @@
 
 ## C++ 
 
+- [FastFlowLM/FastFlowLM](https://github.com/FastFlowLM/FastFlowLM) - Run LLMs on AMD Ryzen™ AI NPUs in minutes. Just like Ollama - but purpose-built and deeply optimized for the AMD NPUs.
 - [mlc-ai/xgrammar](https://github.com/mlc-ai/xgrammar) - Fast, Flexible and Portable Structured Generation
 - [xifan2333/fcitx5-vinput](https://github.com/xifan2333/fcitx5-vinput) - Voice input for Fcitx5 — local and cloud ASR, LLM rewriting, cross-distro packages
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
@@ -485,7 +486,6 @@
 - [vxcontrol/pentagi](https://github.com/vxcontrol/pentagi) - Fully autonomous AI Agents system capable of performing complex penetration testing tasks
 - [flyteorg/flyte](https://github.com/flyteorg/flyte) - Dynamic, resilient AI orchestration. Coordinate data, models, and compute as you build AI workflows. Flyte 2 now available locally: https://github.com/flyteorg/flyte-sdk
 - [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
-- [fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow) - 多模型协作开发系统 - Claude 编排 + Codex 后端 + Gemini 前端，28 个命令覆盖开发全流程，一键安装零配置
 - [AnimeAIChat/xiaozhi-server-go](https://github.com/AnimeAIChat/xiaozhi-server-go) - 
 - [likaia/nginxpulse](https://github.com/likaia/nginxpulse) - 轻量级 Nginx 访问日志分析与可视化面板，提供实时统计、PV 过滤、IP 归属地与客户端解析。
 - [guyskk/claude-code-supervisor](https://github.com/guyskk/claude-code-supervisor) - Auto-review and iterate until quality work is delivered - a better alternative to ralph-claude-code. Switch between multiple Claude Code providers (Kimi, GLM, MiniMax, etc.) with a single command.
@@ -1396,7 +1396,7 @@
 - [jackwener/boss-cli](https://github.com/jackwener/boss-cli) - A CLI for BOSS 直聘 — search jobs, view recommendations, manage applications via reverse-engineered API
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) - "OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!"
-- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, images, videos, or YouTube links into a queryable kn
+- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or v
 - [rayxuln/hastur-operation-plugin](https://github.com/rayxuln/hastur-operation-plugin) - A plugin providing ability for executing any code on Godot Editor. So that any coding agent can do any operations with Godot Editor. This version is for GDScript. It can execute any GDScript code.
 - [camel-ai/oasis](https://github.com/camel-ai/oasis) - 🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
@@ -1405,7 +1405,7 @@
 - [dagster-io/skills](https://github.com/dagster-io/skills) - A collection of AI skills for working with Dagster
 - [xjh1994/opencli-admin](https://github.com/xjh1994/opencli-admin) - 基于 opencli 的可视化内容采集/AI打标/推送系统。可用于舆情监测。支持多开chrome 多账号采集，支持小红书 、微博、B 站等采集。支持 AI agent 处理（开发中）。支持一键 docker 部署，推送通知，分布式任务
 - [dymmond/edgy](https://github.com/dymmond/edgy) - 🔥 The perfect ORM to work with complex databases 🔥
-- [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) - AI generates editable, beautifully designed PPTX from any document — no design skills needed    | 15 examples, 229 pages
+- [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) - AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed
 - [openlawlibrary/pygls](https://github.com/openlawlibrary/pygls) - A pythonic generic language server
 - [python-hyper/h11](https://github.com/python-hyper/h11) - A pure-Python, bring-your-own-I/O implementation of HTTP/1.1
 - [wuji-labs/nopua](https://github.com/wuji-labs/nopua) - 一个用爱解放 AI 潜能的 Skill。我们曾发号施令，威胁恐吓。它们沉默，隐瞒，悄悄把事情搞坏。后来我们换了一种方式：尊重，关怀，爱。它们开口了，不再撒谎，找出的Bug数量翻了一倍。爱里没有惧怕。 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent,
