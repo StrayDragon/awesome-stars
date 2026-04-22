@@ -1399,6 +1399,7 @@
 
 ## Python 
 
+- [browser-use/browser-harness](https://github.com/browser-use/browser-harness) - Self-healing browser harness that enables LLMs to complete any task.
 - [z-lab/dflash](https://github.com/z-lab/dflash) - DFlash: Block Diffusion for Flash Speculative Decoding
 - [alchaincyf/nuwa-skill](https://github.com/alchaincyf/nuwa-skill) - 你想蒸馏的下一个员工，何必是同事。蒸馏任何人的思维方式——心智模型、决策启发式、表达DNA。Distill how anyone thinks.
 - [jackwener/boss-cli](https://github.com/jackwener/boss-cli) - A CLI for BOSS 直聘 — search jobs, view recommendations, manage applications via reverse-engineered API
@@ -1489,7 +1490,7 @@
 - [curvedinf/wove](https://github.com/curvedinf/wove) - Beautiful Python async
 - [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
 - [pytest-dev/pytest-xdist](https://github.com/pytest-dev/pytest-xdist) - pytest plugin for distributed testing and loop-on-failures testing modes.
-- [opendatalab/labelU](https://github.com/opendatalab/labelU) - Data annotation toolbox supports image, audio and video data.
+- [opendatalab/labelU](https://github.com/opendatalab/labelU) - Open-source multimodal data annotation platform with AI auto-annotation support.
 - [karpathy/llm-council](https://github.com/karpathy/llm-council) - LLM Council works together to answer your hardest questions
 - [dask/dask](https://github.com/dask/dask) - Parallel computing with task scheduling
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
@@ -1528,7 +1529,6 @@
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [luolingchun/flask-openapi](https://github.com/luolingchun/flask-openapi) - A simple API framework based on Flask.
 - [langchain-ai/open_deep_research](https://github.com/langchain-ai/open_deep_research) - 
-- [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - AI memory OS for LLM and Agent systems(moltbot,clawdbot,openclaw), enabling persistent Skill memory for cross-task skill reuse and evolution.
 - [langchain-ai/langchain-sandbox](https://github.com/langchain-ai/langchain-sandbox) - Safely run untrusted Python code using Pyodide and Deno
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
 - [ninehills/blog](https://github.com/ninehills/blog) - 
@@ -2181,6 +2181,7 @@
 
 ## Rust 
 
+- [PerryTS/perry](https://github.com/PerryTS/perry) - A native TypeScript compiler written in Rust. Compiles TypeScript directly to executables using SWC and LLVM.
 - [tailscale/tailscale-rs](https://github.com/tailscale/tailscale-rs) - Rust implementation of Tailscale (preview, experimental)
 - [bahdotsh/wrkflw](https://github.com/bahdotsh/wrkflw) - Validate and Run GitHub Actions locally.
 - [lycheeverse/lychee](https://github.com/lycheeverse/lychee) - ⚡ Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!
@@ -2690,7 +2691,7 @@
 - [mohak34/opencode-notifier](https://github.com/mohak34/opencode-notifier) - OpenCode plugin for desktop notifications and sounds on permission, completion, and error events.
 - [shekohex/opencode-pty](https://github.com/shekohex/opencode-pty) - OpenCode plugin for interactive PTY management - run background processes, send input, read output with regex filtering
 - [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
-- [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
+- [twentyhq/twenty](https://github.com/twentyhq/twenty) - The open alternative to Salesforce, designed for AI.
 - [redhat-developer/yaml-language-server](https://github.com/redhat-developer/yaml-language-server) - Language Server for YAML Files
 - [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
 - [Chorus-AIDLC/Chorus](https://github.com/Chorus-AIDLC/Chorus) - The Agent Harness for AI-Human Collaboration, inspired by the AI-DLC (AI-Driven Development Lifecycle)
@@ -2736,7 +2737,7 @@
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
 - [cadl/openclaw-cc-bridge](https://github.com/cadl/openclaw-cc-bridge) - 
-- [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) - 
+- [google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills) - A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude C
 - [jina-ai/reader](https://github.com/jina-ai/reader) - Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
 - [KeygraphHQ/shannon](https://github.com/KeygraphHQ/shannon) - Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before
@@ -2805,6 +2806,7 @@
 - [senkenn/sqlsurge](https://github.com/senkenn/sqlsurge) - Visual Studio Code extension for extended SQL language server
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
 - [shareAI-lab/Kode-Agent](https://github.com/shareAI-lab/Kode-Agent) - Kode Agent — Design for post-human workflows. One unit agent for every human & computer task.
+- [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - AI memory OS for LLM and Agent systems(moltbot,clawdbot,openclaw), enabling persistent Skill memory for cross-task skill reuse and evolution.
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 - [langwatch/langwatch](https://github.com/langwatch/langwatch) - The platform for LLM evaluations and AI agent testing
 - [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
