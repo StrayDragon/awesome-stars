@@ -1307,7 +1307,7 @@
 - [toutiaoio/A-Guide-To-Stockpiling](https://github.com/toutiaoio/A-Guide-To-Stockpiling) - 非常时期囤货手册
 - [godotengine/awesome-godot](https://github.com/godotengine/awesome-godot) - A curated list of free/libre plugins, scripts and add-ons for Godot
 - [nonunknown/godot-powerful](https://github.com/nonunknown/godot-powerful) - List of plugins to turn godot into a most powerful engine that already is.
-- [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is an agentic development environment, born out of the terminal.
+- [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了……
 - [skywind3000/preserve-cd](https://github.com/skywind3000/preserve-cd) - Game Preservation Project
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
@@ -1420,7 +1420,7 @@
 - [dagster-io/skills](https://github.com/dagster-io/skills) - A collection of AI skills for working with Dagster
 - [xjh1994/opencli-admin](https://github.com/xjh1994/opencli-admin) - 基于 opencli 的可视化内容采集/AI打标/推送系统。可用于舆情监测。支持多开chrome 多账号采集，支持小红书 、微博、B 站等采集。支持 AI agent 处理（开发中）。支持一键 docker 部署，推送通知，分布式任务
 - [dymmond/edgy](https://github.com/dymmond/edgy) - 🔥 The perfect ORM to work with complex databases 🔥
-- [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) - AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed
+- [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) - AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed · by Hugo He
 - [openlawlibrary/pygls](https://github.com/openlawlibrary/pygls) - A pythonic generic language server
 - [python-hyper/h11](https://github.com/python-hyper/h11) - A pure-Python, bring-your-own-I/O implementation of HTTP/1.1
 - [wuji-labs/nopua](https://github.com/wuji-labs/nopua) - 一个用爱解放 AI 潜能的 Skill。我们曾发号施令，威胁恐吓。它们沉默，隐瞒，悄悄把事情搞坏。后来我们换了一种方式：尊重，关怀，爱。它们开口了，不再撒谎，找出的Bug数量翻了一倍。爱里没有惧怕。 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent,
@@ -1447,7 +1447,7 @@
 - [dp-archive/archive](https://github.com/dp-archive/archive) - Skill Compose is an open-source agent builder and runtime platform for skill-powered agents. No workflow graphs. No CLI.
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 - [volcengine/OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need throu
-- [zilliztech/memsearch](https://github.com/zilliztech/memsearch) - A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw.
+- [zilliztech/memsearch](https://github.com/zilliztech/memsearch) - A persistent, unified memory layer for all your AI agents (e.g. Claude Code, Codex), backed by Markdown and Milvus.
 - [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents.
 - [mage-ai/mage-ai](https://github.com/mage-ai/mage-ai) - 🧙 Build, run, and manage data pipelines for integrating and transforming data.
 - [copier-org/copier](https://github.com/copier-org/copier) - Library and command-line utility for rendering projects templates.
@@ -2292,7 +2292,7 @@
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 - [cessen/ropey](https://github.com/cessen/ropey) - A utf8 text rope for manipulating and editing large texts.
 - [amethyst/legion](https://github.com/amethyst/legion) - High performance Rust ECS library
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work for you based on what you do. AI finally knows what you are doing
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work based on what you do. 24/7 local screen & mic recording for the superintelligence era
 - [google/zerocopy](https://github.com/google/zerocopy) - Zerocopy makes zero-cost memory manipulation effortless. We write `unsafe` so you don’t have to.
 - [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
 - [saivert/pwvucontrol](https://github.com/saivert/pwvucontrol) - Pipewire Volume Control
@@ -2693,6 +2693,8 @@
 
 ## TypeScript 
 
+- [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.
+- [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) - Slimmed, cleaned and fine-tuned oh-my-opencode fork, consumes much less tokens
 - [capricorn86/happy-dom](https://github.com/capricorn86/happy-dom) - A JavaScript implementation of a web browser without its graphical user interface
 - [brownsugar/popkart-client-archive](https://github.com/brownsugar/popkart-client-archive) - 
