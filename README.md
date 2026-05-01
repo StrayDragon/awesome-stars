@@ -1129,7 +1129,7 @@
 - [mrcjkb/rustaceanvim](https://github.com/mrcjkb/rustaceanvim) - 🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [saghen/blink.cmp](https://github.com/saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim
-- [amzxyz/rime_wanxiang](https://github.com/amzxyz/rime_wanxiang) - 万象拼音：基于rime生态打造，全方位对标大厂体验，内置大语料与AI辅助炼制的向量词库和语法模型，全带调编码词库，让输入行云流水，开箱即用。更有PRO版带来辅助码创新体验，支持7种辅助码。集成超级注释、候选反查筛选、快符、手动排序、tips等特色扩展功能，让你保证大厂体验的同时，深度享受 Rime 超强自定义的便利。详见README。Q群：11033572满 / 11631066
+- [amzxyz/rime_wanxiang](https://github.com/amzxyz/rime_wanxiang) - 「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更现代的数据，接管你的候选。Q群：11033572 / 11631066
 - [koreader/koreader-sync-server](https://github.com/koreader/koreader-sync-server) - self hostable synchronization service for koreader devices
 - [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 - [Dronakurl/injectme.nvim](https://github.com/Dronakurl/injectme.nvim) - Neovim plugin to help setup language injections with treesitter
@@ -1273,7 +1273,7 @@
 - [hylarucoder/comfyui-workflow](https://github.com/hylarucoder/comfyui-workflow) - 
 - [linexjlin/GPTs](https://github.com/linexjlin/GPTs) - leaked prompts of GPTs
 - [Mooler0410/LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide) - A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)
-- [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
+- [AiHubCN/Awesome-Chinese-LLM](https://github.com/AiHubCN/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
 - [padeoe/hf-mirror-site](https://github.com/padeoe/hf-mirror-site) - a huggingface mirror site.
 - [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
 - [comwrg/package-manager-proxy-settings](https://github.com/comwrg/package-manager-proxy-settings) - 记录各个包管理器代理设置坑点。
@@ -1422,7 +1422,7 @@
 - [dagster-io/skills](https://github.com/dagster-io/skills) - A collection of AI skills for working with Dagster
 - [xjh1994/opencli-admin](https://github.com/xjh1994/opencli-admin) - 基于 opencli 的可视化内容采集/AI打标/推送系统。可用于舆情监测。支持多开chrome 多账号采集，支持小红书 、微博、B 站等采集。支持 AI agent 处理（开发中）。支持一键 docker 部署，推送通知，分布式任务
 - [dymmond/edgy](https://github.com/dymmond/edgy) - 🔥 The perfect ORM to work with complex databases 🔥
-- [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) - AI generates natively editable PPTX from any document — real PowerPoint shapes, not images — no design skills needed · by Hugo He
+- [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) - AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images · by Hugo He
 - [openlawlibrary/pygls](https://github.com/openlawlibrary/pygls) - A pythonic generic language server
 - [python-hyper/h11](https://github.com/python-hyper/h11) - A pure-Python, bring-your-own-I/O implementation of HTTP/1.1
 - [wuji-labs/nopua](https://github.com/wuji-labs/nopua) - 一个用爱解放 AI 潜能的 Skill。我们曾发号施令，威胁恐吓。它们沉默，隐瞒，悄悄把事情搞坏。后来我们换了一种方式：尊重，关怀，爱。它们开口了，不再撒谎，找出的Bug数量翻了一倍。爱里没有惧怕。 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent,
@@ -1493,7 +1493,7 @@
 - [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font icons for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 - [HerringtonDarkholme/Koka](https://github.com/HerringtonDarkholme/Koka) - Effect.py
 - [05bit/peewee-async](https://github.com/05bit/peewee-async) - Asynchronous interface for peewee ORM powered by asyncio
-- [Graph-COM/CKA-Agent](https://github.com/Graph-COM/CKA-Agent) - Official Implementation of the CKA-Agent, "The Trojan Knowledge: Bypassing Commercial LLM Guardrails via Harmless Prompt Weaving and Adaptive Tree Search".
+- [Graph-COM/CKA-Agent](https://github.com/Graph-COM/CKA-Agent) - [ICML 2026] Official Implementation of the CKA-Agent, "The Trojan Knowledge: Bypassing Commercial LLM Guardrails via Harmless Prompt Weaving and Adaptive Tree Search".
 - [curvedinf/wove](https://github.com/curvedinf/wove) - Beautiful Python async
 - [OpenBMB/VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning
 - [pytest-dev/pytest-xdist](https://github.com/pytest-dev/pytest-xdist) - pytest plugin for distributed testing and loop-on-failures testing modes.
@@ -2697,6 +2697,7 @@
 
 ## TypeScript 
 
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source alternative to Anthropic's Claude Design. ⚡ 19 Skills · ✨ 71 brand-grade Design Systems · 🖼️ sandboxed preview · 📦 HTML/PDF/PPTX export. 🤖 Runs on Claude Code / Codex / Curs
 - [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
 - [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) - Slimmed, cleaned and fine-tuned oh-my-opencode fork, consumes much less tokens
