@@ -107,7 +107,7 @@
 ## C 
 
 - [microsoft/bocpy](https://github.com/microsoft/bocpy) - Behavior-Oriented Concurrency in Python
-- [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash local inference engine for Metal
+- [antirez/ds4](https://github.com/antirez/ds4) - DeepSeek 4 Flash local inference engine for Metal and CUDA
 - [gnif/LookingGlass](https://github.com/gnif/LookingGlass) - An extremely low latency KVMFR (KVM FrameRelay) implementation for guests with VGA PCI Passthrough.
 - [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Low-latency AI engine for mobile devices & wearables
 - [antirez/qwen-asr](https://github.com/antirez/qwen-asr) - C inference for Qwen3-ASR 0.6b and 1.7b transcriptions models
@@ -1403,6 +1403,8 @@
 
 ## Python 
 
+- [liaohch3/claude-tap](https://github.com/liaohch3/claude-tap) - Intercept and inspect API traffic from Claude Code, Codex CLI, OpenCode, and Cursor CLI in a trace viewer.
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [open-compass/opencompass](https://github.com/open-compass/opencompass) - OpenCompass is an LLM evaluation platform, supporting a wide range of models (Llama3, Mistral, InternLM2,GPT-4,LLaMa2, Qwen,GLM, Claude, etc) over 100+ datasets.
 - [EleutherAI/lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
@@ -1586,7 +1588,7 @@
 - [koaning/smartfunc](https://github.com/koaning/smartfunc) - Turn docstrings into LLM-functions
 - [langchain-ai/mcpdoc](https://github.com/langchain-ai/mcpdoc) - Expose llms-txt to IDEs for development
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
-- [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.  从聊天记录创造数字
+- [xming521/WeClone](https://github.com/xming521/WeClone) - 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.
 - [open-webui/mcpo](https://github.com/open-webui/mcpo) - A simple, secure MCP-to-OpenAPI proxy server
 - [adamsussman/flask-pydantic-api](https://github.com/adamsussman/flask-pydantic-api) - 
 - [Trae1ounG/DyPRAG](https://github.com/Trae1ounG/DyPRAG) - [arxiv: 2503.23895] Dynamic Parametric Retrieval Augmented Generation for Test-time Knowledge Enhancement
@@ -1715,7 +1717,6 @@
 - [fishaudio/Bert-VITS2](https://github.com/fishaudio/Bert-VITS2) - vits2 backbone with multilingual-bert
 - [virtio-win/virtio-win-pkg-scripts](https://github.com/virtio-win/virtio-win-pkg-scripts) - Scripts for packaging virtio-win drivers
 - [ymcui/Chinese-LLaMA-Alpaca-2](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2) - 中文LLaMA-2 & Alpaca-2大模型二期项目 + 64K超长上下文模型 (Chinese LLaMA-2 & Alpaca-2 LLMs with 64K long context models)
-- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [laike9m/Python-Type-Challenges](https://github.com/laike9m/Python-Type-Challenges) - Master Python typing (type hints) with interactive online exercises!
 - [g1879/DrissionPage](https://github.com/g1879/DrissionPage) - Python based web automation tool. Powerful and elegant.
@@ -2706,6 +2707,7 @@
 
 ## TypeScript 
 
+- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [playcanvas/supersplat](https://github.com/playcanvas/supersplat) - 3D Gaussian Splat Editor
@@ -2837,7 +2839,7 @@
 - [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging, distributed tracing, and more.
 - [senkenn/sqlsurge](https://github.com/senkenn/sqlsurge) - Visual Studio Code extension for extended SQL language server
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
-- [shareAI-lab/Kode-Agent](https://github.com/shareAI-lab/Kode-Agent) - Kode Agent — Design for post-human workflows. One unit agent for every human & computer task.
+- [shareAI-lab/Kode-CLI](https://github.com/shareAI-lab/Kode-CLI) - Kode CLI — Design for post-human workflows. One unit agent for every human & computer task.
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 - [langwatch/langwatch](https://github.com/langwatch/langwatch) - The platform for LLM evaluations and AI agent testing
@@ -2889,7 +2891,7 @@
 - [adiom-data/lance-mcp](https://github.com/adiom-data/lance-mcp) - 
 - [cyberagiinc/DevDocs](https://github.com/cyberagiinc/DevDocs) - Completely free, private, UI based Tech Documentation MCP server. Designed for coders and software developers in mind. Easily integrate into Cursor, Windsurf, Cline, Roo Code, Claude Desktop App
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
-- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent as an SDK, IDE extension, or CLI assistant.
 - [Arman19941113/dnd-resume](https://github.com/Arman19941113/dnd-resume) - 🚀 Resume Builder 在线简历生成工具
 - [Kong/insomnia](https://github.com/Kong/insomnia) - The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.
 - [exa-labs/company-researcher](https://github.com/exa-labs/company-researcher) - Company Researcher tool helps you instantly understand any company inside out.
