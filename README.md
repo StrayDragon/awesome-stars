@@ -479,6 +479,7 @@
 
 ## Go 
 
+- [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [samueltuyizere/oc-go-cc](https://github.com/samueltuyizere/oc-go-cc) - Use your OpenCode Go subscription with Claude Code.
 - [ankitpokhrel/jira-cli](https://github.com/ankitpokhrel/jira-cli) - 🔥 Feature-rich interactive Jira command line.
 - [jin10086/Buffer7](https://github.com/jin10086/Buffer7) - 
