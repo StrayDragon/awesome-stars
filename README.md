@@ -424,7 +424,6 @@
 ## Elixir 
 
 - [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
-- [i365dev/free4chat](https://github.com/i365dev/free4chat) - free4.chat is a real-time audio chat service.  It is designed by the local first and privacy first principle, and is very easy to use.
 
 ## Emacs Lisp 
 
@@ -816,11 +815,13 @@
 
 ## HTML 
 
+- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [zeljkoavramovic/agentic-design-patterns](https://github.com/zeljkoavramovic/agentic-design-patterns) - 29 essential agentic design patterns for building intelligent AI systems
 - [karpathy/jobs](https://github.com/karpathy/jobs) - A research tool for visually exploring Bureau of Labor Statistics Occupational Outlook Handbook data. This is not a report, a paper, or a serious economic publication — it is a development tool for ex
 - [planetscale/database-skills](https://github.com/planetscale/database-skills) - Skills for AI agents working with databases
 - [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
 - [diesel-rs/metrics](https://github.com/diesel-rs/metrics) - 
+- [NikiforovAll/claude-code-rules](https://github.com/NikiforovAll/claude-code-rules) - Learn practical techniques to enhance your AI-assisted development workflow with Claude Code.
 - [CRBroughton/htmx-attributes](https://github.com/CRBroughton/htmx-attributes) - HTMX attribute support for VSCode, enabling your HTMX workflow.
 - [wkgcass/hachima](https://github.com/wkgcass/hachima) - 哈基码各语言实现
 - [mingzilla/video-resource](https://github.com/mingzilla/video-resource) - Resource for published videos
@@ -1172,7 +1173,6 @@
 
 ## MDX 
 
-- [NikiforovAll/claude-code-rules](https://github.com/NikiforovAll/claude-code-rules) - Learn practical techniques to enhance your AI-assisted development workflow with Claude Code.
 - [deepset-ai/haystack](https://github.com/deepset-ai/haystack) - Open-source AI orchestration framework for building context-engineered, production-ready LLM applications. Design modular pipelines and agent workflows with explicit control over retrieval, routing, m
 - [chickensoft-games/chickensoft_site](https://github.com/chickensoft-games/chickensoft_site) - Official Chickensoft website, blogs, and documentation.
 - [facebookresearch/playtorch](https://github.com/facebookresearch/playtorch) - PlayTorch is a framework for rapidly creating mobile AI experiences.
@@ -1251,7 +1251,6 @@
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
 - [AlexanderZhou01/China-software-copyright](https://github.com/AlexanderZhou01/China-software-copyright) - Chinese software copyright application template document
 - [weijunext/indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools) - 收录独立开发者出海技术栈和工具
-- [any-block/obsidian-any-block-min](https://github.com/any-block/obsidian-any-block-min) - obsidian-any-block mini version. Remove some features and dependencies to reduce size and improve performance.
 - [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular software
 - [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) - Awesome MCP Servers - A curated list of Model Context Protocol servers
 - [CLUEbenchmark/SuperCLUE](https://github.com/CLUEbenchmark/SuperCLUE) - SuperCLUE: 中文通用大模型综合性基准 | A Benchmark for Foundation Models in Chinese
@@ -1424,7 +1423,6 @@
 - [jackwener/boss-cli](https://github.com/jackwener/boss-cli) - A CLI for BOSS 直聘 — search jobs, view recommendations, manage applications via reverse-engineered API
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [HKUDS/OpenHarness](https://github.com/HKUDS/OpenHarness) - "OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!"
-- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [rayxuln/hastur-operation-plugin](https://github.com/rayxuln/hastur-operation-plugin) - A plugin providing ability for executing any code on Godot Editor. So that any coding agent can do any operations with Godot Editor. This version is for GDScript. It can execute any GDScript code.
 - [camel-ai/oasis](https://github.com/camel-ai/oasis) - 🏝️ OASIS: Open Agent Social Interaction Simulations with One Million Agents.
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
@@ -2198,6 +2196,7 @@
 
 ## Rust 
 
+- [xiachufang/sag](https://github.com/xiachufang/sag) - A lightweight Rust AI API gateway — auth, rate limit, budget, cache, retry & fallback for OpenAI / Anthropic.
 - [Hmbown/DeepSeek-TUI](https://github.com/Hmbown/DeepSeek-TUI) - Coding agent for DeepSeek models that runs in your terminal
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 - [Kaden-Schutt/hipfire](https://github.com/Kaden-Schutt/hipfire) - RDNA-native LLM inference engine in Rust.
@@ -2307,7 +2306,7 @@
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 - [cessen/ropey](https://github.com/cessen/ropey) - A utf8 text rope for manipulating and editing large texts.
 - [amethyst/legion](https://github.com/amethyst/legion) - High performance Rust ECS library
-- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Run agents that work based on what you do. 24/7 local screen & mic recording for the superintelligence era
+- [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - Give AI the ability to live your experience. Records everything you do, say, hear 24/7, local, private, secure
 - [google/zerocopy](https://github.com/google/zerocopy) - Zerocopy makes zero-cost memory manipulation effortless. We write `unsafe` so you don’t have to.
 - [EasyTier/EasyTier](https://github.com/EasyTier/EasyTier) - A simple, decentralized mesh VPN with WireGuard support.
 - [saivert/pwvucontrol](https://github.com/saivert/pwvucontrol) - Pipewire Volume Control
@@ -2863,7 +2862,8 @@
 - [microsoft/TypeChat](https://github.com/microsoft/TypeChat) - TypeChat is a library that makes it easy to build natural language interfaces using types.
 - [slqy123/BongoCat](https://github.com/slqy123/BongoCat) - 🐱 跨平台桌宠 BongoCat，为桌面增添乐趣！
 - [regenrek/deepwiki-mcp](https://github.com/regenrek/deepwiki-mcp) - 📖 MCP server for fetch deepwiki.com and get latest knowledge in Cursor and other Code Editors
-- [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - The coding agent built for the web. stagewise is a purpose-built browser for developers with a coding agent built right in.
+- [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - The Open Source Agentic IDE. Create and orchestrate coding agents, show app previews and run git workflows. Use your favorite models across all providers.
+- [i365dev/free4chat](https://github.com/i365dev/free4chat) - free4.chat — open a room, talk, chat & share files. No sign-up. Powered by Cloudflare RealtimeKit.
 - [executeautomation/mcp-database-server](https://github.com/executeautomation/mcp-database-server) - MCP Database Server is a new MCP Server which helps connect with Sqlite, SqlServer and Posgresql Databases
 - [bcakmakoglu/vue-flow](https://github.com/bcakmakoglu/vue-flow) - A highly customizable Flowchart component for Vue 3. Features seamless zoom & pan 🔎, additional components like a Minimap 🗺 and utilities to interact with state and graph.
 - [watercrawl/WaterCrawl](https://github.com/watercrawl/WaterCrawl) - Transform Web Content into LLM-Ready Data
@@ -2872,12 +2872,13 @@
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [starfederation/datastar](https://github.com/starfederation/datastar) - The hypermedia framework.
 - [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
+- [any-block/obsidian-any-block-min](https://github.com/any-block/obsidian-any-block-min) - obsidian-any-block mini version. Remove some features and dependencies to reduce size and improve performance.
 - [KelvinQiu802/llm-mcp-rag](https://github.com/KelvinQiu802/llm-mcp-rag) - LLM + MCP + RAG = Magic
 - [dontriskit/awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) - 🧠 Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new, wi
 - [thedaviddias/llms-txt-hub](https://github.com/thedaviddias/llms-txt-hub) - 🤖 The largest directory for AI-ready documentation and tools implementing the proposed llms.txt standard
 - [hotovo/aider-desk](https://github.com/hotovo/aider-desk) - Platform for AI-powered software engineers
 - [lutzleonhardt/mcpm-aider](https://github.com/lutzleonhardt/mcpm-aider) - A command-line tool for managing MCP servers in Claude App and for the use by aider. Also can run a MCP Server to help you manage all your MCP Servers
-- [coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api) - Unlock your automation needs by interacting with your notes in Obsidian over a secure REST API.
+- [coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api) - A secure REST API and Model Context Protocol (MCP) server for your vault.
 - [thim81/openapi-format-playground](https://github.com/thim81/openapi-format-playground) - Playground to format & filter OpenAPI documents, powered by the openapi-format CLI.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
 - [Zippland/worth-calculator](https://github.com/Zippland/worth-calculator) - Calculating the actual value of your job beyond just salary
