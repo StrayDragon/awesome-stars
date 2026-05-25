@@ -501,7 +501,7 @@
 - [guyskk/claude-code-config-switcher](https://github.com/guyskk/claude-code-config-switcher) - Switch between multiple Claude Code providers (Kimi, GLM, MiniMax, etc.) with a single command.
 - [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) - agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes.
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
-- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Your personal AI trading assistant. Any market. Any model. Pay with USDC, not API keys.
+- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Your AI trading terminal assistant for US stocks, commodities, forex, and crypto.
 - [wquguru/nof0](https://github.com/wquguru/nof0) - NOF0 - 开源的 AI 交易竞技场
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
@@ -1634,7 +1634,7 @@
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused.
 - [ploomber/jupysql](https://github.com/ploomber/jupysql) - Better SQL in Jupyter. 📊
 - [modelscope/FunClip](https://github.com/modelscope/FunClip) - Open-source, accurate and easy-to-use video speech recognition & clipping tool, LLM based AI clipping intergrated.
-- [modelscope/FunASR](https://github.com/modelscope/FunASR) - Industrial-grade speech recognition toolkit. 170x realtime, 50+ languages, speaker diarization, emotion detection — all in 3 lines of Python. Production-ready.
+- [modelscope/FunASR](https://github.com/modelscope/FunASR) - Industrial-grade speech recognition toolkit: 170x realtime, 50+ languages, speaker diarization, emotion detection, streaming, and OpenAI-compatible API.
 - [utilmeta/utilmeta-py](https://github.com/utilmeta/utilmeta-py) - UtilMeta - progressive meta framework for API development in Python
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
 - [lukas-blecher/LaTeX-OCR](https://github.com/lukas-blecher/LaTeX-OCR) - pix2tex: Using a ViT to convert images of equations into LaTeX code.
@@ -2204,10 +2204,11 @@
 
 ## Rust 
 
+- [RivoLink/leaf](https://github.com/RivoLink/leaf) - Terminal Markdown previewer — GUI-like experience.
 - [nextest-rs/nextest](https://github.com/nextest-rs/nextest) - A next-generation test runner for Rust.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [xiachufang/sag](https://github.com/xiachufang/sag) - A lightweight Rust AI API gateway — auth, rate limit, budget, cache, retry & fallback for OpenAI / Anthropic.
-- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Coding agent for DeepSeek models that runs in your terminal
+- [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - Agentic coding terminal. DeepSeek-first, multi-provider, cache-maximal, whale-themed. Five-locale UI, CN-region endpoint, CNB mirror.
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
 - [Kaden-Schutt/hipfire](https://github.com/Kaden-Schutt/hipfire) - RDNA-native LLM inference engine in Rust.
 - [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) - Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
