@@ -818,6 +818,7 @@
 ## HTML 
 
 - [zeljkoavramovic/agentic-design-patterns](https://github.com/zeljkoavramovic/agentic-design-patterns) - 29 essential agentic design patterns for building intelligent AI systems
+- [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) - 43 tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script and Claude Code running itself in a container. Also includes the dx plugin.
 - [karpathy/jobs](https://github.com/karpathy/jobs) - A research tool for visually exploring Bureau of Labor Statistics Occupational Outlook Handbook data. This is not a report, a paper, or a serious economic publication — it is a development tool for ex
 - [planetscale/database-skills](https://github.com/planetscale/database-skills) - Skills for AI agents working with databases
 - [nicobailon/visual-explainer](https://github.com/nicobailon/visual-explainer) - Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps
@@ -915,7 +916,6 @@
 - [pbakaus/impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
 - [AnnaSuSu/TechSpar](https://github.com/AnnaSuSu/TechSpar) - 把专项训练、简历面试、JD 备面、实时 Copilot 与录音复盘，串成一个持续进化的技术面试闭环。在线体验地址：https://techspar.top
 - [Haleclipse/CodexDesktop-Rebuild](https://github.com/Haleclipse/CodexDesktop-Rebuild) - Codex Desktop App - Cross-platform Rebuild
-- [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) - 45 tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
@@ -1414,6 +1414,7 @@
 
 ## Python 
 
+- [tile-ai/TileRT](https://github.com/tile-ai/TileRT) - Tile-Based Runtime for Ultra-Low-Latency LLM Inference
 - [opensquilla/opensquilla](https://github.com/opensquilla/opensquilla) - OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density
 - [microsoft/SkillOpt](https://github.com/microsoft/SkillOpt) - SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts.
 - [Reza2kn/lance-quant](https://github.com/Reza2kn/lance-quant) - 4-bit AWQ INT4 + NVFP4 quantization toolkit for ByteDance Lance multimodal model (image + video)
@@ -1505,7 +1506,7 @@
 - [MagicStack/asyncpg](https://github.com/MagicStack/asyncpg) - A fast PostgreSQL Database Client Library for Python/asyncio.
 - [tomasr8/pyjsx](https://github.com/tomasr8/pyjsx) - Write JSX directly in Python
 - [dynaconf/dynaconf](https://github.com/dynaconf/dynaconf) - Configuration Management for Python ⚙
-- [BrainBlend-AI/atomic-agents](https://github.com/BrainBlend-AI/atomic-agents) - Building AI agents, atomically
+- [Eigenwise/atomic-agents](https://github.com/Eigenwise/atomic-agents) - Building AI agents, atomically
 - [gaoziman/claude-context-manager](https://github.com/gaoziman/claude-context-manager) - claude-context-manager for claude code
 - [bei0/fastapi_remit_service](https://github.com/bei0/fastapi_remit_service) - Spring Boot 风格的 Python 微服务解决方案
 - [jmcnamara/XlsxWriter](https://github.com/jmcnamara/XlsxWriter) - A Python module for creating Excel XLSX files.
@@ -1833,7 +1834,7 @@
 - [pywinauto/pywinauto](https://github.com/pywinauto/pywinauto) - Windows GUI Automation with Python (based on text properties)
 - [shapely/shapely](https://github.com/shapely/shapely) - Manipulation and analysis of geometric objects
 - [moses-palmer/pynput](https://github.com/moses-palmer/pynput) - Sends virtual input commands
-- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - YOLOv5 🚀 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
+- [ultralytics/yolov5](https://github.com/ultralytics/yolov5) - Ultralytics YOLOv5 in PyTorch &gt; ONNX &gt; CoreML &gt; TFLite
 - [HumanSignal/labelImg](https://github.com/HumanSignal/labelImg) - LabelImg is now part of the Label Studio community. The popular image annotation tool created by Tzutalin is no longer actively being developed, but you can check out Label Studio, the open source dat
 - [cnyvfang/labelGo](https://github.com/cnyvfang/labelGo) - Semi-automatic annotation tool for object detection.
 - [Javacr/PyQt5-YOLOv5](https://github.com/Javacr/PyQt5-YOLOv5) - PyQt5 implementation of YOLOv5 GUI
@@ -2212,7 +2213,10 @@
 
 ## Rust 
 
-- [evotai/evot](https://github.com/evotai/evot) - A self-evolving AI coding agent for long-running, complex software engineering.
+- [octos-org/octos](https://github.com/octos-org/octos) - Octos - Agentic Operating Systems
+- [cucumber-rs/cucumber](https://github.com/cucumber-rs/cucumber) - Cucumber testing framework for Rust. Fully native, no external test runners or dependencies.
+- [leynos/rstest-bdd](https://github.com/leynos/rstest-bdd) - Insert favourite gourd-related pun here
+- [evotai/evot](https://github.com/evotai/evot) - Agent engine that does complex, long-running work with minimal tokens — every gain earned under rigorous eval.
 - [NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell) - OpenShell is the safe, private runtime for autonomous AI agents.
 - [run-llama/liteparse](https://github.com/run-llama/liteparse) - A fast, helpful, and open-source document parser
 - [RivoLink/leaf](https://github.com/RivoLink/leaf) - Terminal Markdown previewer — GUI-like experience.
@@ -2799,7 +2803,7 @@
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Less chaos. More flow.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [millionco/react-doctor](https://github.com/millionco/react-doctor) - Your agent writes bad React. This catches it
-- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 - [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) - Compute substrate for AI agents: lightweight enough to live on your laptop, elastic enough to scale into the cloud and unleash unlimited resources.
 - [cadl/openclaw-cc-bridge](https://github.com/cadl/openclaw-cc-bridge) - 
@@ -2874,7 +2878,7 @@
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 - [langwatch/langwatch](https://github.com/langwatch/langwatch) - The platform for LLM evaluations and AI agent testing
-- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source LLM engineering platform: LLM Observability, metrics, evals, prompt management, playground, datasets. Integrates with OpenTelemetry, Langchain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
+- [langfuse/langfuse](https://github.com/langfuse/langfuse) - 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23
 - [langchain-ai/social-media-agent](https://github.com/langchain-ai/social-media-agent) - 📲 An agent for sourcing, curating, and scheduling social media posts with human-in-the-loop.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
