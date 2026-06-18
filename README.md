@@ -910,6 +910,7 @@
 
 ## JavaScript 
 
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [pasky/chrome-cdp-skill](https://github.com/pasky/chrome-cdp-skill) - Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open
 - [badlogic/pi-skills](https://github.com/badlogic/pi-skills) - Skills for pi coding agent (compatible with Claude Code and Codex CLI)
 - [rullerzhou-afk/clawd-on-desk](https://github.com/rullerzhou-afk/clawd-on-desk) - A pixel desktop pet that watches Claude Code, Codex, Cursor & other AI coding agents — so you don't have to.
@@ -934,7 +935,6 @@
 - [hellowind777/helloagents](https://github.com/hellowind777/helloagents) - 一个自主的高级智能伙伴，不仅分析问题，更持续工作直到完成实现和验证。
 - [tmkook/vchat](https://github.com/tmkook/vchat) - vchat is a chat ui automation testing framework.
 - [axetroy/dedust](https://github.com/axetroy/dedust) - An elegant file cleanup tool using a simple, human-readable DSL.
-- [cweijan/vscode-office](https://github.com/cweijan/vscode-office) - Let VSCode support previewing PDF, Excel, Word and other formats, and add markdown WYSIWYG editor.
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [mozilla/nunjucks](https://github.com/mozilla/nunjucks) - A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
 - [CleverMobi/glitchtip-mcp](https://github.com/CleverMobi/glitchtip-mcp) - Glitchtip MCP server
@@ -2864,6 +2864,7 @@
 - [opendatalab/labelU-Kit](https://github.com/opendatalab/labelU-Kit) - Data annotation component library --provided as NPM packages
 - [debugmcp/mcp-debugger](https://github.com/debugmcp/mcp-debugger) - A headless, agentic debugger over MCP — let your AI agents debug running programs in six languages.
 - [agrawal-d/cph](https://github.com/agrawal-d/cph) - Makes judging, compiling, and downloading problems for competitive programming easy.
+- [cweijan/vscode-office](https://github.com/cweijan/vscode-office) - Let VSCode support previewing PDF, Excel, Word and other formats, and add markdown WYSIWYG editor.
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
 - [manaflow-ai/manaflow](https://github.com/manaflow-ai/manaflow) - Open source Claude Code web/Codex Cloud/Devin/Ramp Inspect alternative
 - [sql-formatter-org/sql-formatter](https://github.com/sql-formatter-org/sql-formatter) - A whitespace formatter for different query languages
