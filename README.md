@@ -217,6 +217,7 @@
 
 ## C++ 
 
+- [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 - [ammaarreshi/Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad) - Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad — real engine (EA GPL v3 source, via GeneralsX), DXVK/MoltenVK renderer, RTS touch controls. No game assets included.
 - [charlie12345/ROCmFPX](https://github.com/charlie12345/ROCmFPX) - ROCmFPX Family for AMD Hardware and Processors. More quants and special agent quants
 - [CrispStrobe/CrispASR](https://github.com/CrispStrobe/CrispASR) - C++ ggml runtime hub for multilingual ASR and TTS models: Cohere Transcribe, Parakeet TDT, Voxtral, Canary 1B v2, etc, plus universal forced alignment, and more
@@ -879,7 +880,7 @@
 - [1Panel-dev/CordysCRM](https://github.com/1Panel-dev/CordysCRM) - 🔥 Cordys 是由飞致云匠心打造的新一代的开源 AI CRM 系统，深度融合信息化、数字化与智能化能力，支持私有化部署，全面保障企业数据安全与主权。
 - [signalapp/Signal-Server](https://github.com/signalapp/Signal-Server) - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS
 - [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for
-- [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database.
+- [apache/doris](https://github.com/apache/doris) - Apache Doris is a real-time analytics and hybrid search database for AI agents.
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [AutoMQ/automq](https://github.com/AutoMQ/automq) - Diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
 - [loks666/get_jobs](https://github.com/loks666/get_jobs) - 💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、智联招聘)
@@ -1250,6 +1251,7 @@
 - [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Design Engineers.
 - [mahonzhan/awesome-coding-plan](https://github.com/mahonzhan/awesome-coding-plan) - 各厂家 Coding Plan 实际价值对比
 - [yunlong10/Awesome-LLMs-for-Video-Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) - 🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.
+- [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
 - [phuryn/pm-skills](https://github.com/phuryn/pm-skills) - PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.
 - [xstongxue/best-prompts](https://github.com/xstongxue/best-prompts) - 通用高质量 Prompt 合集🔥
 - [WangRongsheng/awesome-LLM-resources](https://github.com/WangRongsheng/awesome-LLM-resources) - 🧑‍🚀 全世界最好的LLM资料总结（多模态生成、Agent、辅助编程、AI审稿、数据处理、模型训练、模型推理、o1 模型、MCP、小语言模型、视觉语言模型） | Summary of the world's best LLM resources.
@@ -2232,6 +2234,7 @@
 
 ## Rust 
 
+- [Dicklesworthstone/charmed_rust](https://github.com/Dicklesworthstone/charmed_rust) - Rust port of the Charm ecosystem (Bubble Tea, Lip Gloss, Bubbles, Wish): Elm-architecture TUIs, CSS-like terminal styling, and SSH app framework
 - [kivikakk/comrak](https://github.com/kivikakk/comrak) - CommonMark + GFM compatible Markdown parser and renderer
 - [la10736/rstest](https://github.com/la10736/rstest) - Fixture-based test framework for Rust
 - [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
@@ -2815,7 +2818,6 @@
 - [vercel/ai-elements](https://github.com/vercel/ai-elements) - AI Elements is a component library and custom registry built on top of shadcn/ui to help you build AI-native applications faster.
 - [vercel/ai](https://github.com/vercel/ai) - The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents
 - [webpro-nl/knip](https://github.com/webpro-nl/knip) - ✂️  Find unused files, dependencies and exports in your JavaScript and TypeScript projects. Knip it before you ship it!
-- [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
 - [jqknono/coding-plans-for-copilot](https://github.com/jqknono/coding-plans-for-copilot) - 在Copilot Chat中自由接入OpenAI Chat/Response, Anthropic API兼容供应商
 - [tanweai/pua](https://github.com/tanweai/pua) - 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.
 - [ZSeven-W/openpencil](https://github.com/ZSeven-W/openpencil) - The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pe
@@ -3045,7 +3047,7 @@
 - [joe-re/sql-language-server](https://github.com/joe-re/sql-language-server) - SQL Language Server
 - [larksuite/node-sdk](https://github.com/larksuite/node-sdk) - larksuite open sdk for nodejs
 - [NervJS/taro](https://github.com/NervJS/taro) - 开放式跨端跨框架解决方案，支持使用 React/Vue 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5/React Native 等应用。  https://taro.zone/
-- [justjavac/wechat-miniapp-radar](https://github.com/justjavac/wechat-miniapp-radar) - 微信小程序开发资源汇总 :100:
+- [justjavac/wechat-miniapp-radar](https://github.com/justjavac/wechat-miniapp-radar) - 小程序雷达：AI 驱动的小程序技术选型、趋势追踪和迁移诊断工具
 - [microsoft/vscode-languageserver-node](https://github.com/microsoft/vscode-languageserver-node) - Language server protocol implementation for VSCode. This allows implementing language services in JS/TS running on node.js
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
