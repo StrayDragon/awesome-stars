@@ -1638,7 +1638,7 @@
 - [mrexodia/ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) - AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP.
 - [pdm-project/pdm-shear](https://github.com/pdm-project/pdm-shear) - Detect and remove unused dependencies for Python projects
 - [manchenkoff/openapi3-parser](https://github.com/manchenkoff/openapi3-parser) - OpenAPI 3 parser to use a specification inside of the code in your projects
-- [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropi
+- [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
 - [microsoft/semanticworkbench](https://github.com/microsoft/semanticworkbench) - A versatile tool designed to help prototype intelligent assistants, agents and multi-agentic systems
 - [SecretiveShell/MCP-Bridge](https://github.com/SecretiveShell/MCP-Bridge) - A middleware to provide an openAI compatible endpoint that can call MCP tools
 - [MarkusPfundstein/mcp-obsidian](https://github.com/MarkusPfundstein/mcp-obsidian) - MCP server that interacts with Obsidian via the Obsidian rest API community plugin
@@ -2090,6 +2090,7 @@
 - [python-attrs/cattrs](https://github.com/python-attrs/cattrs) - Composable custom class converters for attrs, dataclasses and friends.
 - [python-poetry/tomlkit](https://github.com/python-poetry/tomlkit) - Style-preserving TOML library for Python
 - [getredash/redash](https://github.com/getredash/redash) - Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data.
+- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [mher/flower](https://github.com/mher/flower) - Real-time monitor and web admin for Celery distributed task queue
 - [Kludex/uvicorn](https://github.com/Kludex/uvicorn) - An ASGI web server, for Python. 🦄
@@ -2326,7 +2327,7 @@
 - [est31/cargo-udeps](https://github.com/est31/cargo-udeps) - Find unused dependencies in Cargo.toml
 - [bnjbvr/cargo-machete](https://github.com/bnjbvr/cargo-machete) - Remove unused Rust dependencies with this one weird trick!
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
-- [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy and data plane for agentic apps — with built-in orchestration, safety, observability, and smart LLM routing so you stay focused on your agents core logic.
+- [katanemo/plano](https://github.com/katanemo/plano) - Plano is an AI-native proxy and data plane for agentic apps — with smart LLM routing, agent orchestration, observability, and guardrails so you stay focused on your agents core logic.
 - [jnsahaj/lumen](https://github.com/jnsahaj/lumen) - Beautiful git diff viewer, generate commits with AI, get summary of changes, all from the CLI
 - [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [yaml-schema/yaml-schema](https://github.com/yaml-schema/yaml-schema) - Validate YAML documents using a YAML schema
@@ -3194,7 +3195,6 @@
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [fannheyward/coc-ci](https://github.com/fannheyward/coc-ci) - 支持中文分词的 w/b 移动
 - [microsoft/vscode](https://github.com/microsoft/vscode) - Visual Studio Code
-- [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [fastapi/full-stack-fastapi-template](https://github.com/fastapi/full-stack-fastapi-template) - Full stack, modern web application template. Using FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS and more.
 - [dansomething/coc-java-debug](https://github.com/dansomething/coc-java-debug) - An extension for coc.nvim to enable Java debugging via jdt.ls
 - [jupyterlab/debugger](https://github.com/jupyterlab/debugger) - A visual debugger for Jupyter notebooks, consoles, and source files
