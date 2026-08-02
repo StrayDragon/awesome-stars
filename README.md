@@ -130,7 +130,7 @@
 - [WojciechMula/pyahocorasick](https://github.com/WojciechMula/pyahocorasick) - Python module (C extension and plain python) implementing Aho-Corasick algorithm
 - [FlyGoat/RyzenAdj](https://github.com/FlyGoat/RyzenAdj) - Adjust power management settings for Ryzen APUs
 - [pymumu/smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH, DoQ. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT，DoQ。
-- [alibaba/tengine](https://github.com/alibaba/tengine) - High-performance web server and reverse proxy: HTTP/3, Kubernetes Ingress, zero-downtime dynamic configuration, active upstream health checks, and NTLS (SM2/SM3/SM4). 100% nginx-compatible, battle-tes
+- [alibaba/tengine](https://github.com/alibaba/tengine) - A high-performance web server and reverse proxy, 100% compatible with nginx.
 - [openresty/echo-nginx-module](https://github.com/openresty/echo-nginx-module) - An Nginx module for bringing the power of "echo", "sleep", "time" and more to Nginx's config file
 - [chobits/ngx_http_proxy_connect_module](https://github.com/chobits/ngx_http_proxy_connect_module) - A forward proxy module for CONNECT request handling
 - [openresty/headers-more-nginx-module](https://github.com/openresty/headers-more-nginx-module) - Set, add, and clear arbitrary output headers in NGINX http servers
@@ -529,7 +529,7 @@
 - [elastic/go-freelru](https://github.com/elastic/go-freelru) - 
 - [hashicorp/golang-lru](https://github.com/hashicorp/golang-lru) - Golang LRU cache
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The standard of database governance. Govern changes and access across every major database type - by humans and agents.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - Database governance built for humans and agents — controlling changes and access across every major database.
 - [rcourtman/Pulse](https://github.com/rcourtman/Pulse) - Monitoring for Proxmox, Docker, Kubernetes, TrueNAS, and vSphere that watches your infrastructure for you: smart alerts, AI patrols that catch silent failures, and verified fixes
 - [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
 - [cloudreve/cloudreve](https://github.com/cloudreve/cloudreve) - 🌩 Self-hosted file management and sharing system, supports multiple storage providers
@@ -665,7 +665,7 @@
 - [bytemate/larkgpt](https://github.com/bytemate/larkgpt) - Lark chatgpt bot
 - [ConnectAI-E/feishu-openai](https://github.com/ConnectAI-E/feishu-openai) - 🎒 飞书  ×（GPT-4 + GPT-4V + DALL·E-3 + Whisper）=  飞一般的工作体验  🚀 语音对话、角色扮演、多话题讨论、图片创作、表格分析、文档导出 🚀
 - [go-lark/lark](https://github.com/go-lark/lark) - An easy-to-use SDK for Feishu and Lark Open Platform (Instant Messaging API only)
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
+- [d2lang/d2](https://github.com/d2lang/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, with a focus on running containers
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
@@ -924,6 +924,7 @@
 
 ## JavaScript 
 
+- [QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent) - A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents
 - [santifer/career-ops](https://github.com/santifer/career-ops) - Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, 
 - [AgwaB/pi-workflow](https://github.com/AgwaB/pi-workflow) - Workflow orchestration for Pi
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
@@ -1430,6 +1431,7 @@
 
 ## Python 
 
+- [terryyin/lizard](https://github.com/terryyin/lizard) - A simple code complexity analyser without caring about the C/C++ header files or Java imports, supports most of the popular languages.
 - [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 - [bradautomates/claude-video](https://github.com/bradautomates/claude-video) - Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
 - [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) - 数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more — Claude Code, Codex & 40+ agents
@@ -1515,7 +1517,7 @@
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
 - [EricWebsmith/pydantic_mermaid](https://github.com/EricWebsmith/pydantic_mermaid) - convert Pydantic models to Mermaid charts
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
-- [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Cl
+- [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents li
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [distil-labs/distil-text2sql](https://github.com/distil-labs/distil-text2sql) - Query your data in plain English with a fine-tuned Text2SQL model
 - [pythonprofilers/memory_profiler](https://github.com/pythonprofilers/memory_profiler) - Monitor Memory usage of Python code
@@ -2074,7 +2076,7 @@
 - [tortoise/orm-benchmarks](https://github.com/tortoise/orm-benchmarks) - Simple benchmark suite so we can make tortoise go faster
 - [systemd/pystemd](https://github.com/systemd/pystemd) - A thin Cython-based wrapper on top of libsystemd, focused on exposing the dbus API via sd-bus in an automated and easy to consume way.
 - [linkedin/shiv](https://github.com/linkedin/shiv) - shiv is a command line utility for building fully self contained Python zipapps as outlined in PEP 441, but with all their dependencies included.
-- [dbcli/mycli](https://github.com/dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
+- [dbcli/mycli](https://github.com/dbcli/mycli) - Rich Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [iamjazzar/django-mako](https://github.com/iamjazzar/django-mako) - The first simple, elegant Django Mako library
 - [iki/unidecode](https://github.com/iki/unidecode) - Unicode transliteration in Python (clone of Tomaž Šolc repository at zemanta.com)
 - [un33k/python-slugify](https://github.com/un33k/python-slugify) - Returns unicode slugs
@@ -2243,6 +2245,7 @@
 
 ## Rust 
 
+- [moznion/cccc](https://github.com/moznion/cccc) - A tool/library for measurement of "C"ognitive "C"omplexity and "C"yclomatic "C"omplexity
 - [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV) - AgentENV (AENV) is a distributed platform for running agent environments at scale.
 - [pandorafuture/wx-cli](https://github.com/pandorafuture/wx-cli) - WeChat macOS database decryption and query tool
 - [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
@@ -3013,7 +3016,7 @@
 - [kelszo/obsidian-file-explorer-plus](https://github.com/kelszo/obsidian-file-explorer-plus) - A plugin for https://obsidian.md, which enables the ability to hide and pin specific files and folders in the file explorer by applying custom filters.
 - [mdfriday/obsidian-friday-plugin](https://github.com/mdfriday/obsidian-friday-plugin) - Write anywhere. Publish everywhere. Sync your notes, publish instantly, turn Markdown into websites.
 - [getomni-ai/zerox](https://github.com/getomni-ai/zerox) - OCR & Document Extraction using vision models
-- [terrastruct/d2-obsidian](https://github.com/terrastruct/d2-obsidian) - The official D2 plugin for Obsidian. D2 is a modern diagram scripting language thats turns text to diagrams.
+- [d2lang/d2-obsidian](https://github.com/d2lang/d2-obsidian) - The official D2 plugin for Obsidian. D2 is a modern diagram scripting language thats turns text to diagrams.
 - [any-block/any-block](https://github.com/any-block/any-block) - You can flexibility to create a 'Block' by many means. It also provides many useful features, like `list to table`. (obsidian/markdown-it/vuepress plugin/app)
 - [nraiden/cofounder](https://github.com/nraiden/cofounder) - ai-generated apps , full stack + generative UI
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
