@@ -487,7 +487,7 @@
 - [oxc-project/tsgolint](https://github.com/oxc-project/tsgolint) - Type aware linting for oxlint
 - [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.
 - [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) - 🧑‍🎨 A collection of Golang agentic skills that works
-- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thr
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-
 - [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [tomasz-tomczyk/crit](https://github.com/tomasz-tomczyk/crit) - Your feedback loop with the agent
@@ -2243,6 +2243,7 @@
 
 ## Rust 
 
+- [Liangdi/a2ui](https://github.com/Liangdi/a2ui) - Rust impl of the A2UI protocol (ratatui terminal + Slint / egui / Bevy / Iced / Dioxus desktop)
 - [mozilla/sccache](https://github.com/mozilla/sccache) - Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cl
 - [moznion/cccc](https://github.com/moznion/cccc) - A tool/library for measurement of "C"ognitive "C"omplexity and "C"yclomatic "C"omplexity
 - [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV) - AgentENV (AENV) is a distributed platform for running agent environments at scale.
@@ -2927,7 +2928,7 @@
 - [LiRenTech/file-ref-tags](https://github.com/LiRenTech/file-ref-tags) - VSCode插件，给文件添加标签，实现点击跳转并精准定位，解决浏览大型项目的时代码位置跳来跳去的问题
 - [graphif/project-graph](https://github.com/graphif/project-graph) - A node-based visual tool for organizing thoughts and notes in a non-linear way.
 - [Sunshow/obsidian-ai-workspace](https://github.com/Sunshow/obsidian-ai-workspace) - 
-- [tiann/hapi](https://github.com/tiann/hapi) - App for Claude Code / Codex / Gemini / OpenCode, vibe coding anytime, anywhere
+- [tiann/hapi](https://github.com/tiann/hapi) - App for Claude Code / Codex / Pi / OpenCode / Kimi Code, vibe coding anytime, anywhere
 - [numman-ali/openskills](https://github.com/numman-ali/openskills) - Universal skills loader for AI coding agents - npm i -g openskills
 - [linux-do/credit](https://github.com/linux-do/credit) - LINUX DO Credit
 - [ktnyt/cclsp](https://github.com/ktnyt/cclsp) - Claude Code LSP: enhance your Claude Code experience with non-IDE dependent LSP integration.
@@ -2935,7 +2936,7 @@
 - [davialabs/davia](https://github.com/davialabs/davia) - Interactive, editable docs designed for coding agents
 - [firecrawl/open-scouts](https://github.com/firecrawl/open-scouts) - 🔥 AI-powered web monitoring platform. Create automated scouts that search the web and send email alerts when they find what you're looking for.
 - [opendatalab/labelU-Kit](https://github.com/opendatalab/labelU-Kit) - Data annotation component library --provided as NPM packages
-- [debugmcp/mcp-debugger](https://github.com/debugmcp/mcp-debugger) - A headless, agentic debugger over MCP — let your AI agents debug running programs in six languages.
+- [debugmcp/mcp-debugger](https://github.com/debugmcp/mcp-debugger) - A headless, agentic debugger over MCP — let your AI agents debug running programs in seven languages.
 - [agrawal-d/cph](https://github.com/agrawal-d/cph) - Makes judging, compiling, and downloading problems for competitive programming easy.
 - [cweijan/vscode-office](https://github.com/cweijan/vscode-office) - Let VSCode support previewing PDF, Excel, Word and other formats, and add markdown WYSIWYG editor.
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – compact, human-readable serialization of JSON data for LLM prompts. TypeScript SDK, CLI, benchmarks.
