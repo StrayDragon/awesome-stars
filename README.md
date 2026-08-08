@@ -225,7 +225,7 @@
 - [charlie12345/ROCmFPX](https://github.com/charlie12345/ROCmFPX) - ROCmFPX Family for AMD Hardware and Processors. More quants and special agent quants
 - [CrispStrobe/CrispASR](https://github.com/CrispStrobe/CrispASR) - C++ ggml runtime hub for multilingual ASR and TTS models: Cohere Transcribe, Parakeet TDT, Voxtral, Canary 1B v2, etc, plus universal forced alignment, and more
 - [Luce-Org/lucebox](https://github.com/Luce-Org/lucebox) - LLM speculative inference server for consumer hardware & heterogeneous computing
-- [FastFlowLM/FastFlowLM](https://github.com/FastFlowLM/FastFlowLM) - Run LLMs on AMD Ryzen™ AI NPUs in minutes. Just like Ollama - but purpose-built and deeply optimized for the AMD NPUs.
+- [ROCm/FastFlowLM](https://github.com/ROCm/FastFlowLM) - Run LLMs on AMD Ryzen™ AI NPUs in minutes. Just like Ollama - but purpose-built and deeply optimized for the AMD NPUs.
 - [mlc-ai/xgrammar](https://github.com/mlc-ai/xgrammar) - Fast, Flexible and Portable Structured Generation
 - [xifan2333/fcitx5-vinput](https://github.com/xifan2333/fcitx5-vinput) - Voice input for Fcitx5 — local and cloud ASR, LLM rewriting, cross-distro packages
 - [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Quantization, kernels, runtime and inference engine for mobiles, wearables, smart home and robots.
@@ -394,7 +394,6 @@
 - [mobxjs/mobx.dart](https://github.com/mobxjs/mobx.dart) - MobX for the Dart language. Hassle-free, reactive state-management for your Dart and Flutter apps.
 - [tekartik/sqflite](https://github.com/tekartik/sqflite) - SQLite flutter plugin
 - [simplezhli/flutter_deer](https://github.com/simplezhli/flutter_deer) - 🦌 Flutter 练习项目(包括集成测试、可访问性测试)。内含完整UI设计图，更贴近真实项目的练习。Flutter practice project (including integration testing and accessibility testing). Contains complete UI design drawings for a more realistic practic
-- [aloisdeniel/flutter_device_preview](https://github.com/aloisdeniel/flutter_device_preview) - Approximate how your app looks and performs on another device.
 - [FEMessage/dique](https://github.com/FEMessage/dique) - 🐦移动端语雀，你的掌上知识库
 - [asjqkkkk/flutter-todos](https://github.com/asjqkkkk/flutter-todos) - 📝 one day list app created by flutter!
 - [TechieBlossom/FitnessApp](https://github.com/TechieBlossom/FitnessApp) - Fitness App mock from Dribbble
@@ -446,7 +445,6 @@
 
 ## Fluent 
 
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [an-anime-team/an-anime-game-launcher](https://github.com/an-anime-team/an-anime-game-launcher) - An Anime Game launcher for Linux with telemetry disabling
 
 ## GAP 
@@ -861,6 +859,7 @@
 - [adityatelange/hugo-PaperMod](https://github.com/adityatelange/hugo-PaperMod) - A fast, clean, responsive Hugo theme.
 - [zserge/awfice](https://github.com/zserge/awfice) - The world smallest office suite
 - [falkben/json-to-pydantic](https://github.com/falkben/json-to-pydantic) - json-to-pydantic
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [hiddendevj/Crawler_Illegal_Cases_In_China](https://github.com/hiddendevj/Crawler_Illegal_Cases_In_China) - Collection of China illegal cases about web crawler 本项目用来整理所有中国大陆爬虫开发者涉诉与违规相关的新闻、资料与法律法规。致力于帮助在中国大陆工作的爬虫行业从业者了解我国相关法律，避免触碰数据合规红线。
 - [phodal/toolbox](https://github.com/phodal/toolbox) - Phodal's Toolbox
 - [shrhdk/text-to-svg](https://github.com/shrhdk/text-to-svg) - Convert text to SVG path without native dependence.
@@ -1083,6 +1082,7 @@
 - [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-staged, gluegun, 
 - [eNkru/electron-xiami](https://github.com/eNkru/electron-xiami) - 虾米音乐 & 虾米电台 - Linux & Mac | Xiami Player & Xiami Radio desktop for Linux & Mac supported by Electron
 - [kchen0x/hexo-reference](https://github.com/kchen0x/hexo-reference) - A plugin to support markdown footnotes and Wiki-Style tooltip reference in your Hexo blog posts.
+- [aloisdeniel/flutter_device_preview](https://github.com/aloisdeniel/flutter_device_preview) - Approximate how your app looks and performs on another device.
 - [ryanhanwu/How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way) - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。
 - [greyli/bluelog](https://github.com/greyli/bluelog) - Check out the newer version (2024) of this project: https://github.com/greyli/greybook
 - [yoxjs/yox](https://github.com/yoxjs/yox) - A lightweight mvvm framework
@@ -1434,6 +1434,7 @@
 
 ## Python 
 
+- [sbdchd/celery-types](https://github.com/sbdchd/celery-types) - :seedling: Type stubs for Celery and its related packages
 - [terryyin/lizard](https://github.com/terryyin/lizard) - A simple code complexity analyser without caring about the C/C++ header files or Java imports, supports most of the popular languages.
 - [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 - [bradautomates/claude-video](https://github.com/bradautomates/claude-video) - Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.
@@ -2380,7 +2381,6 @@
 - [modelcontextprotocol/rust-sdk](https://github.com/modelcontextprotocol/rust-sdk) - The official Rust SDK for the Model Context Protocol
 - [mikaelmello/inquire](https://github.com/mikaelmello/inquire) - A Rust library for building interactive prompts
 - [rust-db/refinery](https://github.com/rust-db/refinery) - Powerful SQL migration toolkit for Rust.
-- [alexykn/sps](https://github.com/alexykn/sps) - Rust based package manager for macOS
 - [Andeskjerf/waybar-module-pomodoro](https://github.com/Andeskjerf/waybar-module-pomodoro) - A pomodoro timer intended for Waybar
 - [facebook/pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and language server for Python
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
@@ -2509,7 +2509,7 @@
 - [vladbat00/bevy_egui](https://github.com/vladbat00/bevy_egui) - This crate provides an Egui integration for the Bevy game engine. 🇺🇦 Please support the Ukrainian army: https://savelife.in.ua/en/
 - [jhasse/ears](https://github.com/jhasse/ears) - Easy Api in Rust to play Sounds
 - [HollowMan6/mdbook-pdf](https://github.com/HollowMan6/mdbook-pdf) - A backend for mdBook written in Rust for generating PDF based on headless chrome and Chrome DevTools Protocol. (用 Rust 编写的 mdBook 后端，基于headless chrome和Chrome开发工具协议生成PDF)
-- [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - Learning Rust By Practice,  narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.
+- [sunface/rust-by-practice](https://github.com/sunface/rust-by-practice) - [DEPRECATED] This repo will move into gihub.com/sunface/rust-course
 - [smallnest/concurrency-programming-via-rust](https://github.com/smallnest/concurrency-programming-via-rust) - 
 - [jakobhellermann/bevy_editor_pls](https://github.com/jakobhellermann/bevy_editor_pls) - In-App editor tools for bevy applications
 - [jakobhellermann/bevy-inspector-egui](https://github.com/jakobhellermann/bevy-inspector-egui) - Inspector plugin for the bevy game engine
