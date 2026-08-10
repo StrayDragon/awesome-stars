@@ -1078,7 +1078,6 @@
 - [vuejs/vuex](https://github.com/vuejs/vuex) - 🗃️ Centralized State Management for Vue.js.
 - [kaelzhang/shell-safe-rm](https://github.com/kaelzhang/shell-safe-rm) - 😎 Safe-rm: A drop-in and much safer replacement of bash rm with nearly full functionalities and options of the rm command! Safe-rm will act exactly the same as the original rm command.
 - [iamcco/markdown-preview.nvim](https://github.com/iamcco/markdown-preview.nvim) - markdown preview plugin for (neo)vim
-- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [dstein64/gifcast](https://github.com/dstein64/gifcast) - Converts an asciinema cast to an animated GIF.
 - [enquirer/enquirer](https://github.com/enquirer/enquirer) - Stylish, intuitive and user-friendly prompts. Used by eslint, webpack, yarn, pm2, pnpm, RedwoodJS, FactorJS, salesforce, Cypress, Google Lighthouse, Generate, tencent cloudbase, lint-staged, gluegun, 
 - [eNkru/electron-xiami](https://github.com/eNkru/electron-xiami) - 虾米音乐 & 虾米电台 - Linux & Mac | Xiami Player & Xiami Radio desktop for Linux & Mac supported by Electron
@@ -1214,6 +1213,7 @@
 
 ## Markdown 
 
+- [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Designers and Engineers.
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 - [OAI/OpenAPI-Specification](https://github.com/OAI/OpenAPI-Specification) - The OpenAPI Specification Repository
 - [KaiserY/trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2024 edition 施工完毕）
@@ -1257,7 +1257,6 @@
 - [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
 - [Lakr233/bgclick-rev-skill](https://github.com/Lakr233/bgclick-rev-skill) - 
-- [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Designers and Engineers.
 - [mahonzhan/awesome-coding-plan](https://github.com/mahonzhan/awesome-coding-plan) - 各厂家 Coding Plan 实际价值对比
 - [yunlong10/Awesome-LLMs-for-Video-Understanding](https://github.com/yunlong10/Awesome-LLMs-for-Video-Understanding) - 🔥🔥🔥 [IEEE TCSVT] Latest Papers, Codes and Datasets on Vid-LLMs.
 - [hicccc77/WeFlow](https://github.com/hicccc77/WeFlow) - WeFlow - 一个本地的微信聊天记录导出和年度报告应用
@@ -2935,7 +2934,7 @@
 - [LiRenTech/file-ref-tags](https://github.com/LiRenTech/file-ref-tags) - VSCode插件，给文件添加标签，实现点击跳转并精准定位，解决浏览大型项目的时代码位置跳来跳去的问题
 - [graphif/project-graph](https://github.com/graphif/project-graph) - A node-based visual tool for organizing thoughts and notes in a non-linear way.
 - [Sunshow/obsidian-ai-workspace](https://github.com/Sunshow/obsidian-ai-workspace) - 
-- [tiann/hapi](https://github.com/tiann/hapi) - App for Claude Code / Codex / Pi / OpenCode / Kimi Code, vibe coding anytime, anywhere
+- [tiann/hapi](https://github.com/tiann/hapi) - App for Codex / Claude Code / Pi / OpenCode / Kimi Code / Grok Build, vibe coding anytime, anywhere
 - [numman-ali/openskills](https://github.com/numman-ali/openskills) - Universal skills loader for AI coding agents - npm i -g openskills
 - [linux-do/credit](https://github.com/linux-do/credit) - LINUX DO Credit
 - [ktnyt/cclsp](https://github.com/ktnyt/cclsp) - Claude Code LSP: enhance your Claude Code experience with non-IDE dependent LSP integration.
@@ -3238,6 +3237,7 @@
 - [neoclide/coc-json](https://github.com/neoclide/coc-json) - Json language extension for coc.nvim
 - [voldikss/coc-todolist](https://github.com/voldikss/coc-todolist) - [Deprecated due to an unfixable bug and crappy design]🕐 Todolist/task manager extension for (Neo)Vim
 - [geongeorge/i-hate-regex](https://github.com/geongeorge/i-hate-regex) - The code for iHateregex.io 😈 - The Regex Cheat Sheet
+- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [kizza/actionmenu.nvim](https://github.com/kizza/actionmenu.nvim) - A nice context menu for vim
 - [crimx/ext-saladict](https://github.com/crimx/ext-saladict) - 🥗 All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
 - [fannheyward/create-coc-extension](https://github.com/fannheyward/create-coc-extension) - Create a coc extension from command line
