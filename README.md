@@ -79,6 +79,7 @@
 - [Vala](#vala)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
+- [Zig](#zig)
 - [reStructuredText](#restructuredtext)
 
 ## Assembly 
@@ -273,7 +274,7 @@
 - [leanflutter/screen_capturer](https://github.com/leanflutter/screen_capturer) - This plugin allows Flutter desktop apps to capture screenshots.
 - [daipeihust/im-select](https://github.com/daipeihust/im-select) - 📟 Switch your input method through terminal
 - [Tencent/puerts](https://github.com/Tencent/puerts) - PUER(普洱) Typescript. Let's write your game in UE or Unity with TypeScript.
-- [rapidsai/cudf](https://github.com/rapidsai/cudf) - cuDF - GPU DataFrame Library
+- [NVIDIA/cudf](https://github.com/NVIDIA/cudf) - cuDF - GPU DataFrame Library
 - [2shady4u/godot-sqlite](https://github.com/2shady4u/godot-sqlite) - GDExtension wrapper for SQLite (Godot 4.x+)
 - [goostengine/goost](https://github.com/goostengine/goost) - A general-purpose, extensible and customizable C++ extension for Godot Engine.
 - [aseprite/aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool (Windows, macOS, Linux)
@@ -494,7 +495,7 @@
 - [samber/cc-skills-golang](https://github.com/samber/cc-skills-golang) - 🧑‍🎨 A collection of Golang agentic skills that works
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-
 - [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? CA: BYjCWd4XS7PTnDbou4Swwmj4XkAtreMKew8n2Pagpump
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [tomasz-tomczyk/crit](https://github.com/tomasz-tomczyk/crit) - Your feedback loop with the agent
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
@@ -1667,7 +1668,7 @@
 - [akfamily/akshare](https://github.com/akfamily/akshare) - AKShare is an elegant and simple financial data interface library for Python, built for human beings! 开源财经数据接口库
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
 - [Canner/WrenAI](https://github.com/Canner/WrenAI) - GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data s
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - The local UI to run and train text and diffusion models, including Kimi K3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models, including Kimi K3, MiniMax-H3, Gemma 4, Qwen3.6, DeepSeek-V4, FLUX and more.
 - [turbopuffer/turbopuffer-python](https://github.com/turbopuffer/turbopuffer-python) - Official Python API client library for turbopuffer
 - [QwenAudio/CosyVoice](https://github.com/QwenAudio/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
 - [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations
@@ -2078,7 +2079,7 @@
 - [tortoise/orm-benchmarks](https://github.com/tortoise/orm-benchmarks) - Simple benchmark suite so we can make tortoise go faster
 - [systemd/pystemd](https://github.com/systemd/pystemd) - A thin Cython-based wrapper on top of libsystemd, focused on exposing the dbus API via sd-bus in an automated and easy to consume way.
 - [linkedin/shiv](https://github.com/linkedin/shiv) - shiv is a command line utility for building fully self contained Python zipapps as outlined in PEP 441, but with all their dependencies included.
-- [dbcli/mycli](https://github.com/dbcli/mycli) - Rich Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
+- [dbcli/mycli](https://github.com/dbcli/mycli) - Rich Terminal Client for MySQL with AutoCompletion, Syntax Highlighting, and Dataframes
 - [iamjazzar/django-mako](https://github.com/iamjazzar/django-mako) - The first simple, elegant Django Mako library
 - [iki/unidecode](https://github.com/iki/unidecode) - Unicode transliteration in Python (clone of Tomaž Šolc repository at zemanta.com)
 - [un33k/python-slugify](https://github.com/un33k/python-slugify) - Returns unicode slugs
@@ -3435,6 +3436,10 @@
 - [x2rr/funds](https://github.com/x2rr/funds) - 自选基金助手是一款Chrome扩展，用来快速获取关注基金的实时数据，查看自选基金的实时估值情况
 - [lvxianchao/the-fucking-github](https://github.com/lvxianchao/the-fucking-github) - A Chrome extension for Github. View starred repositories, organizing stars, searching stars and searching repositories online for Github。
 - [Hoogkamer/vue-org-chart](https://github.com/Hoogkamer/vue-org-chart) - Manage and publish your interactive organization chart (orgchart), 100% free and no install required: just copy a folder to any location
+
+## Zig 
+
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 
 ## reStructuredText 
 
