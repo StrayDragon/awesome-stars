@@ -226,7 +226,7 @@
 - [charlie12345/ROCmFPX](https://github.com/charlie12345/ROCmFPX) - ROCmFPX Family for AMD Hardware and Processors. More quants and special agent quants
 - [CrispStrobe/CrispASR](https://github.com/CrispStrobe/CrispASR) - C++ ggml runtime hub for multilingual ASR and TTS models: Cohere Transcribe, Parakeet TDT, Voxtral, Canary 1B v2, etc, plus universal forced alignment, and more
 - [Luce-Org/lucebox](https://github.com/Luce-Org/lucebox) - LLM speculative inference server for heterogeneous hardware & consumer GPUs
-- [ROCm/FastFlowLM](https://github.com/ROCm/FastFlowLM) - Run LLMs on AMD Ryzen™ AI NPUs in minutes. Just like Ollama - but purpose-built and deeply optimized for the AMD NPUs.
+- [ROCm/FastFlowLM](https://github.com/ROCm/FastFlowLM) - Run LLMs on AMD Ryzen™ AI NPUs in minutes; purpose-built and deeply optimized for the AMD NPUs.
 - [mlc-ai/xgrammar](https://github.com/mlc-ai/xgrammar) - Fast, Flexible and Portable Structured Generation
 - [xifan2333/fcitx5-vinput](https://github.com/xifan2333/fcitx5-vinput) - Voice input for Fcitx5 — local and cloud ASR, LLM rewriting, cross-distro packages
 - [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Quantization, kernels, runtime and inference engine for mobiles, wearables, smart home and robots.
@@ -1686,7 +1686,7 @@
 - [zzstoatzz/rspyai](https://github.com/zzstoatzz/rspyai) - explore rust functions in a TUI with an AI
 - [grantjenks/python-sortedcontainers](https://github.com/grantjenks/python-sortedcontainers) - Python Sorted Container Types: Sorted List, Sorted Dict, and Sorted Set
 - [myhhub/stock](https://github.com/myhhub/stock) - stock股票.获取股票数据,计算股票指标,筹码分布,识别股票形态,综合选股,选股策略,股票验证回测,股票自动交易,支持PC及移动设备。
-- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - How Python does AI: agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.
+- [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.
 - [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 - [hiroi-sora/Umi-OCR_runtime_linux](https://github.com/hiroi-sora/Umi-OCR_runtime_linux) - Umi-OCR Linux 运行环境
@@ -2247,6 +2247,7 @@
 
 ## Rust 
 
+- [aacebo/zyn](https://github.com/aacebo/zyn) - A procedural macro development framework designed to simplify and add structure to rust macro development
 - [furkankly/zoetrope](https://github.com/furkankly/zoetrope) - Watch a Claude Code session as a live flow graph, in your terminal or your browser.
 - [sourcefrog/cargo-mutants](https://github.com/sourcefrog/cargo-mutants) - :zombie: Inject bugs and see if your tests catch them!
 - [iAmCorey/Wake](https://github.com/iAmCorey/Wake) - All your AI agent sessions in one place — browse, search, resume. Rust + GPUI.
@@ -2397,7 +2398,7 @@
 - [AtalayaLabs/OxiCloud](https://github.com/AtalayaLabs/OxiCloud) - ☁️ Ultra-fast, secure & lightweight self-hosted cloud storage — your files, photos, calendars & contacts, all in one place. Built in Rust.
 - [probelabs/probe](https://github.com/probelabs/probe) - AI-friendly semantic code search engine for large codebases. Combines ripgrep speed with tree-sitter AST parsing. Powers AI coding assistants with precise, context-aware code understanding.
 - [chaqchase/lla](https://github.com/chaqchase/lla) - blazing fast `ls` replacement with superpowers
-- [Anush008/fastembed-rs](https://github.com/Anush008/fastembed-rs) - Rust library for generating vector embeddings, reranking locally!
+- [Anush008/fastembed-rs](https://github.com/Anush008/fastembed-rs) - Rust library for generating vector embeddings and reranking locally!
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [EricLBuehler/candle-vllm](https://github.com/EricLBuehler/candle-vllm) - Efficent platform for inference and serving local LLMs including an OpenAI compatible API server.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
