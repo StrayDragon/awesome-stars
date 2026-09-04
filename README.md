@@ -977,6 +977,7 @@
 - [pomber/git-history](https://github.com/pomber/git-history) - Quickly browse the history of a file from any git repository
 - [hannesj/mcp-openapi-schema](https://github.com/hannesj/mcp-openapi-schema) - OpenAPI Schema Model Context Protocol Server
 - [ruan11223344/McpDocServer](https://github.com/ruan11223344/McpDocServer) - 一个基于MCP协议的开发文档服务器，专为各类开发框架文档设计
+- [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.
 - [thim81/openapi-format](https://github.com/thim81/openapi-format) - Format an OpenAPI document by ordering, formatting and filtering fields.
 - [RahulSChand/gpu_poor](https://github.com/RahulSChand/gpu_poor) - Calculate token/s & GPU memory requirement for any LLM.  Supports llama.cpp/ggml/bnb/QLoRA quantization
 - [pieces-app/obsidian-pieces](https://github.com/pieces-app/obsidian-pieces) - Pieces' powerful extension for Obsidian-MD that allows users to access their code snippets directly within the Obsidian workspace
@@ -1033,7 +1034,7 @@
 - [inlife/nexrender](https://github.com/inlife/nexrender) - 📹  Data-driven render automation for After Effects
 - [foamzou/melody](https://github.com/foamzou/melody) - 我的音乐精灵
 - [odrick/free-tex-packer](https://github.com/odrick/free-tex-packer) - Free texture packer
-- [byoungd/up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 离谱的人生/人生进阶 离谱的英语学习指南/英语学习教程/英语学习/学英语
+- [byoungd/up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 离谱的英语学习指南/英语学习教程/英语学习/学英语
 - [rust-lang-cn/rust-by-example-cn](https://github.com/rust-lang-cn/rust-by-example-cn) - Rust By Example 中文版(包含在线代码编辑器)
 - [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
 - [akashgoswami/vue-reactflow](https://github.com/akashgoswami/vue-reactflow) - An experiment to render a React component inside a Vue.js application.
@@ -2251,6 +2252,8 @@
 
 ## Rust 
 
+- [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
+- [huggingface/funes](https://github.com/huggingface/funes) - Durable, searchable memory of your past agent sessions.
 - [aacebo/zyn](https://github.com/aacebo/zyn) - A procedural macro development framework designed to simplify and add structure to rust macro development
 - [furkankly/zoetrope](https://github.com/furkankly/zoetrope) - Watch a Claude Code session as a live flow graph, in your terminal or your browser.
 - [sourcefrog/cargo-mutants](https://github.com/sourcefrog/cargo-mutants) - :zombie: Inject bugs and see if your tests catch them!
@@ -2823,6 +2826,7 @@
 
 ## TypeScript 
 
+- [zvec-ai/zvec-grep](https://github.com/zvec-ai/zvec-grep) - Local-first search across your workspace, built for humans and AI agents.
 - [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - OrcaReplay — Time travel for AI agents. Record, replay, fork, and debug any agent run with any model. Built by the OrcaRouter.ai team.
 - [zhigui/DeepRunner](https://github.com/zhigui/DeepRunner) - 
 - [zenbu-labs/terminal-code](https://github.com/zenbu-labs/terminal-code) - VS Code in the terminal
@@ -2928,7 +2932,7 @@
 - [lukilabs/beautiful-mermaid](https://github.com/lukilabs/beautiful-mermaid) - 
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza
 - [neutree-ai/openapi-to-skills](https://github.com/neutree-ai/openapi-to-skills) - OpenAPI to Agent Skill for context-efficient AI agents
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [marp-team/marp-core](https://github.com/marp-team/marp-core) - The core of Marp converter
 - [cso1z/Feishu-MCP](https://github.com/cso1z/Feishu-MCP) - Feishu / Lark 飞书文档与任务管理工具，支持 MCP 服务器和 CLI + Skill 两种使用方式，可无缝集成 Cursor、Claude Code、Cline 等 AI 编码工具
@@ -3019,7 +3023,6 @@
 - [thedaviddias/llms-txt-hub](https://github.com/thedaviddias/llms-txt-hub) - 🤖 The largest directory for AI-ready documentation and tools implementing the proposed llms.txt standard
 - [hotovo/aider-desk](https://github.com/hotovo/aider-desk) - Platform for AI-powered software engineers
 - [lutzleonhardt/mcpm-aider](https://github.com/lutzleonhardt/mcpm-aider) - A command-line tool for managing MCP servers in Claude App and for the use by aider. Also can run a MCP Server to help you manage all your MCP Servers
-- [firecrawl/firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server) - 🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients.
 - [coddingtonbear/obsidian-local-rest-api](https://github.com/coddingtonbear/obsidian-local-rest-api) - A secure REST API and Model Context Protocol (MCP) server for your vault.
 - [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
 - [thim81/openapi-format-playground](https://github.com/thim81/openapi-format-playground) - Playground to format & filter OpenAPI documents, powered by the openapi-format CLI.
