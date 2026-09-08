@@ -937,6 +937,7 @@
 
 ## JavaScript 
 
+- [JDui/GUI-DLSS5](https://github.com/JDui/GUI-DLSS5) - 面向泄露版DLSS5制作的离线可视化界面，使其可以对视频/图片进行画面处理
 - [QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent) - A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents
 - [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
 - [AgwaB/pi-workflow](https://github.com/AgwaB/pi-workflow) - Workflow orchestration for Pi
@@ -1438,6 +1439,7 @@
 
 ## Python 
 
+- [marimo-team/skills](https://github.com/marimo-team/skills) - skills for coding agents related to marimo
 - [sbdchd/celery-types](https://github.com/sbdchd/celery-types) - :seedling: Type stubs for Celery and its related packages
 - [terryyin/lizard](https://github.com/terryyin/lizard) - A simple code complexity analyser without caring about the C/C++ header files or Java imports, supports most of the popular languages.
 - [WEIFENG2333/phistory](https://github.com/WEIFENG2333/phistory) - Phistory automatically archives versioned system prompt snapshots from agent CLIs like Claude Code, Codex, OpenClaw, and Hermes.
@@ -1616,7 +1618,7 @@
 - [pallets/quart](https://github.com/pallets/quart) - An async Python micro framework for building web applications.
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [gaogaotiantian/dowhen](https://github.com/gaogaotiantian/dowhen) - An intuitive and low-overhead instrumentation tool for Python
-- [cv-cat/Spider_XHS](https://github.com/cv-cat/Spider_XHS) - 小红书爬虫数据采集，小红书全域运营解决方案
+- [cv-cat/Spider_XHS](https://github.com/cv-cat/Spider_XHS) - 小红书爬虫数据采集，小红书逆向，私信，直播，小红书全域运营解决方案
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.
 - [florimondmanca/httpx-sse](https://github.com/florimondmanca/httpx-sse) - Consume Server-Sent Event (SSE) messages with HTTPX
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
@@ -2055,7 +2057,7 @@
 - [jceb/vmux](https://github.com/jceb/vmux) - vim/neovim session handler within tmux
 - [laktak/extrakto](https://github.com/laktak/extrakto) - extrakto for tmux - quickly select, copy/insert/complete text without a mouse
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
-- [koxudaxi/datamodel-code-generator](https://github.com/koxudaxi/datamodel-code-generator) - Generate Pydantic v2 models, dataclasses, TypedDict, and msgspec.Struct from OpenAPI, JSON Schema, GraphQL, Avro, Protobuf, and raw JSON/YAML/CSV.
+- [datamodel-code-generator/datamodel-code-generator](https://github.com/datamodel-code-generator/datamodel-code-generator) - Generate Pydantic v2 models, dataclasses, TypedDict, and msgspec.Struct from OpenAPI, JSON Schema, GraphQL, Avro, Protobuf, and raw JSON/YAML/CSV.
 - [rsalmei/clearly](https://github.com/rsalmei/clearly) - Clearly see and debug your celery cluster in real time!
 - [django/asgiref](https://github.com/django/asgiref) - ASGI specification and utilities
 - [fluiddyn/transonic](https://github.com/fluiddyn/transonic) - :rocket: Make your Python code fly at transonic speeds!
@@ -2254,7 +2256,6 @@
 ## Rust 
 
 - [marc2332/freya](https://github.com/marc2332/freya) - Cross-platform and non-web GUI library for 🦀 Rust  powered by 🎨 Skia.
-- [JDui/GUI-DLSS5](https://github.com/JDui/GUI-DLSS5) - 面向泄露版DLSS5制作的离线可视化界面，使其可以对视频/图片进行画面处理
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [huggingface/funes](https://github.com/huggingface/funes) - Durable, searchable memory of your past agent sessions.
 - [aacebo/zyn](https://github.com/aacebo/zyn) - A procedural macro development framework designed to simplify and add structure to rust macro development
@@ -2707,6 +2708,7 @@
 
 ## Shell 
 
+- [marimo-team/marimo-pair](https://github.com/marimo-team/marimo-pair) - Drop agents inside running marimo notebook sessions
 - [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
 - [axetroy/skills](https://github.com/axetroy/skills) - My personal skills
