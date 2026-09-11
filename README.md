@@ -167,6 +167,7 @@
 - [cmacrae/spacebar](https://github.com/cmacrae/spacebar) - A minimal status bar for macOS. Ideal for use with tiling window managers like yabai
 - [asmvik/yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
 - [WebSpiderUtils/verification_code](https://github.com/WebSpiderUtils/verification_code) - 验证码研究破解心得记录。包含网易易盾，阿里云验证码，极验验证码，通用汉字识别，梦幻西游验证等主流验证码破解。包含点按验证码、点选验证、语序点选等等。已更新极验验证码、企业公示网/工商/文书采集系统、极验打码接口。
+- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [asmvik/skhd](https://github.com/asmvik/skhd) - Simple hotkey daemon for macOS
 - [nginx/nginx](https://github.com/nginx/nginx) - The official NGINX Open Source repository.
 - [redis/redis](https://github.com/redis/redis) - For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.
@@ -221,6 +222,7 @@
 
 ## C++ 
 
+- [JDui/GUI-DLSS5](https://github.com/JDui/GUI-DLSS5) - 面向泄露版DLSS5制作的离线可视化界面，使其可以对视频/图片进行画面处理
 - [QingYis/llama-7900xtx-qwen3.8-27b](https://github.com/QingYis/llama-7900xtx-qwen3.8-27b) - 
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [alibaba/zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
@@ -937,7 +939,6 @@
 
 ## JavaScript 
 
-- [JDui/GUI-DLSS5](https://github.com/JDui/GUI-DLSS5) - 面向泄露版DLSS5制作的离线可视化界面，使其可以对视频/图片进行画面处理
 - [QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent) - A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents
 - [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
 - [AgwaB/pi-workflow](https://github.com/AgwaB/pi-workflow) - Workflow orchestration for Pi
@@ -1011,7 +1012,6 @@
 - [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
 - [FilipePS/Traduzir-paginas-web](https://github.com/FilipePS/Traduzir-paginas-web) - Translate your page in real time using Google, Bing or Yandex
 - [utags/utags](https://github.com/utags/utags) - 🏷️ Allow users to add custom tags to links.
-- [zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
 - [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [Jieiku/abridge](https://github.com/Jieiku/abridge) - Fast & Lightweight Zola Theme
 - [wxsms/bilibili-video2mp3](https://github.com/wxsms/bilibili-video2mp3) - A tool to download all videos and convert to mp3 inside a video set of bilibili.
@@ -1038,6 +1038,7 @@
 - [rust-lang-cn/rust-by-example-cn](https://github.com/rust-lang-cn/rust-by-example-cn) - Rust By Example 中文版(包含在线代码编辑器)
 - [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
 - [akashgoswami/vue-reactflow](https://github.com/akashgoswami/vue-reactflow) - An experiment to render a React component inside a Vue.js application.
+- [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
 - [me1ting/trpl-zh-cn-pdf](https://github.com/me1ting/trpl-zh-cn-pdf) - trpl-zh-cn的mdBook风格的pdf，带全书签
 - [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
 - [oevery/ninja](https://github.com/oevery/ninja) - 
@@ -1180,7 +1181,6 @@
 - [KURANADO2/hammerspoon-kuranado](https://github.com/KURANADO2/hammerspoon-kuranado) - Hammerspoon config（Support custom shortcut keys, emoji search, application shortcut switching, real-time network speed, key echo, etc.）
 - [LintaoAmons/VimEverywhere](https://github.com/LintaoAmons/VimEverywhere) - Learn one vim, Use everywhere.
 - [b0o/incline.nvim](https://github.com/b0o/incline.nvim) - 🎈 Floating statuslines for Neovim
-- [rafamadriz/friendly-snippets](https://github.com/rafamadriz/friendly-snippets) - Set of preconfigured snippets for different languages.
 - [kevinhwang91/nvim-bqf](https://github.com/kevinhwang91/nvim-bqf) - Better quickfix window in Neovim, polish old quickfix window.
 - [rcarriga/nvim-notify](https://github.com/rcarriga/nvim-notify) - A fancy, configurable, notification manager for NeoVim
 - [ray-x/go.nvim](https://github.com/ray-x/go.nvim) - G'day Nvimer, Joyful Gopher: Explore the Feature-Packed Go Plugin for Neovim
@@ -1240,7 +1240,6 @@
 
 ## OCaml 
 
-- [semgrep/semgrep](https://github.com/semgrep/semgrep) - Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.
 - [facebook/pyre-check](https://github.com/facebook/pyre-check) - Performant type-checking for python.
 
 ## Objective-C 
@@ -1709,7 +1708,7 @@
 - [Jing-yilin/E2M](https://github.com/Jing-yilin/E2M) - E2M API, converting everything to markdown (LLM-friendly Format).
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
 - [IndieSmiths/nodezator](https://github.com/IndieSmiths/nodezator) - A generalist Python node editor
-- [Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) - Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms
+- [Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber) - Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D avatar running locally across platforms
 - [astral-sh/python-build-standalone](https://github.com/astral-sh/python-build-standalone) - Produce redistributable builds of Python
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
@@ -1809,6 +1808,7 @@
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
 - [shroominic/codeinterpreter-api](https://github.com/shroominic/codeinterpreter-api) - 👾 Open source implementation of the ChatGPT Code Interpreter
 - [vxgmichel/aiostream](https://github.com/vxgmichel/aiostream) - Generator-based operators for asynchronous iteration
+- [zhaoolee/ChineseBQB](https://github.com/zhaoolee/ChineseBQB) - 🇨🇳 Chinese sticker pack,More joy / 表情包的博物馆, Github最有毒的仓库, 中国表情包大集合, 聚欢乐~
 - [zai-org/CodeGeeX](https://github.com/zai-org/CodeGeeX) - CodeGeeX: An Open Multilingual Code Generation Model (KDD 2023)
 - [zai-org/CodeGeeX2](https://github.com/zai-org/CodeGeeX2) - CodeGeeX2: A More Powerful Multilingual Code Generation Model
 - [FrancescElies/image-to-scan](https://github.com/FrancescElies/image-to-scan) - command line tool that transforms a photo of a document to a scanned document
@@ -2255,17 +2255,18 @@
 
 ## Rust 
 
+- [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - Fast Rust-based bundler for the web with a modernized webpack API 🦀
 - [Ephemeral-AI-Lab/layerfs](https://github.com/Ephemeral-AI-Lab/layerfs) - LayerFS gives every agent an isolated, disposable filesystem fork without copying the shared base. Useful states become durable, deduplicated checkpoints with workspace-scoped tool history—ready to br
 - [marc2332/freya](https://github.com/marc2332/freya) - Cross-platform native GUI library for 🦀 Rust
 - [jj-vcs/jj](https://github.com/jj-vcs/jj) - A Git-compatible VCS that is both simple and powerful
 - [huggingface/funes](https://github.com/huggingface/funes) - Durable, searchable memory of your past agent sessions.
 - [aacebo/zyn](https://github.com/aacebo/zyn) - A procedural macro development framework designed to simplify and add structure to rust macro development
-- [furkankly/zoetrope](https://github.com/furkankly/zoetrope) - Watch a Claude Code session as a live flow graph, in your terminal or your browser.
+- [furkankly/zoetrope](https://github.com/furkankly/zoetrope) - Watch a Claude Code or Codex session as a live flow graph, in your terminal or your browser.
 - [sourcefrog/cargo-mutants](https://github.com/sourcefrog/cargo-mutants) - :zombie: Inject bugs and see if your tests catch them!
 - [iAmCorey/Wake](https://github.com/iAmCorey/Wake) - All your AI agent sessions in one place — browse, search, resume. Rust + GPUI.
 - [cognitive-engineering-lab/aquascope](https://github.com/cognitive-engineering-lab/aquascope) - Interactive visualizations of Rust at compile-time and run-time
 - [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
-- [mikwielgus/maplike](https://github.com/mikwielgus/maplike) - Rust traits for abstract containers and operations over them. Basically, every container is treated as a map. You can have the same code work on Vec, HashMap, BTreeMap, Option, Box, Rc, and more.
+- [mikwielgus/maplike](https://github.com/mikwielgus/maplike) - Rust traits for abstract containers and operations over them. Basically, every container is treated as a map. You can have the same code work on Vec, VecDeque, HashMap, BTreeMap, Option, Box, Rc, Arc,
 - [taho-inc/tui-pantry](https://github.com/taho-inc/tui-pantry) - Develop Ratatui widgets in isolation
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 Easy fast local-first microVM runtime and library
 - [criterion-rs/criterion.rs](https://github.com/criterion-rs/criterion.rs) - 
@@ -2922,7 +2923,7 @@
 - [fastapi/fastapi-vscode](https://github.com/fastapi/fastapi-vscode) - VS Code extension for FastAPI and friends ✨
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
 - [siteboon/claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code, OpenCode, Cursor CLI, and Codex on mobile and web with CloudCLI (aka Claude Code UI). CloudCLI is a free open source webui/GUI that helps you manage your Claude Code session and proje
-- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local)
+- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine
 - [chj-web/local-ai-code-completion](https://github.com/chj-web/local-ai-code-completion) - A vscode extension providing AI code completion locally on your computer.
 - [LudovicoYIN/ttab](https://github.com/LudovicoYIN/ttab) - ttab: Minimal VS Code inline completion extension powered by OpenAI‑compatible APIs.
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Less chaos. More flow.
@@ -3085,7 +3086,7 @@
 - [FlorianWoelki/obsidian-iconize](https://github.com/FlorianWoelki/obsidian-iconize) - Simply add icons to anything you want in Obsidian.
 - [imsyy/DailyHotApi](https://github.com/imsyy/DailyHotApi) - 🔥 今日热榜 API，一个聚合热门数据的 API 接口，支持 RSS 模式 及 Vercel 部署 | 前端页面：https://github.com/imsyy/DailyHot
 - [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) - :electron: Another Mihomo GUI.
-- [amruthpillai/reactive-resume](https://github.com/amruthpillai/reactive-resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
+- [reactive-resume/app](https://github.com/reactive-resume/app) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
 - [revezone/revezone](https://github.com/revezone/revezone) - A lightweight local-first graphic-centric  productivity tool to build your second brain. Supporting Excalidraw/Tldraw whiteboard and notion-like note. 一款以图形为中心、轻量级、本地优先的用于构建第二大脑的效率工具。支持 Excalidraw、Tld
 - [DetachHead/basedpyright](https://github.com/DetachHead/basedpyright) - pyright fork with various type checking improvements, improved vscode support and pylance features built into the language server
