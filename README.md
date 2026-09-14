@@ -50,7 +50,6 @@
 - [Nushell](#nushell)
 - [OCaml](#ocaml)
 - [Objective-C](#objective-c)
-- [Objective-J](#objective-j)
 - [Others](#others)
 - [PHP](#php)
 - [PLpgSQL](#plpgsql)
@@ -895,6 +894,7 @@
 
 ## JASS 
 
+- [SMUnlimited/AMAI](https://github.com/SMUnlimited/AMAI) - Advanced Melee Artificial Intelligence Mod For Warcraft 3
 - [jzy-chitong56/BUG-MORE-AI](https://github.com/jzy-chitong56/BUG-MORE-AI) - BMAI(Bug More Artificial Intelligence)魔兽3多BUG人工智能模组汉化特别版（与官方版本有巨大分歧，建议使用官方版） ,中文安装教程见下方链接(Chinese language Installation tutorial on link)
 
 ## Java 
@@ -1254,10 +1254,6 @@
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free open-source macOS firewall
 - [felixhageloh/uebersicht](https://github.com/felixhageloh/uebersicht) - ˈyːbɐˌzɪçt
 
-## Objective-J 
-
-- [SMUnlimited/AMAI](https://github.com/SMUnlimited/AMAI) - Advanced Melee Artificial Intelligence Mod For Warcraft 3
-
 ## Others 
 
 - [shadcn/improve](https://github.com/shadcn/improve) - Use your most capable model to audit your codebase and write plans for cheaper models to execute.
@@ -1440,6 +1436,8 @@
 
 ## Python 
 
+- [bojieli/ai-infra-book](https://github.com/bojieli/ai-infra-book) - 《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验
+- [MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks](https://github.com/MiaAI-Lab/DeepSeek-v4.1-Flash-EXL3-2x-DGX-Sparks) - DeepSeek v4.1 Flash EXL3 2.9 bpw for 2x DGX Sparks
 - [gfhdhytghd/Hypr-Agent-Portal](https://github.com/gfhdhytghd/Hypr-Agent-Portal) - Computer Use MCP for Hyprland
 - [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks](https://github.com/MiaAI-Lab/GLM-5.3-Flash-EXL3-2x-DGX-Sparks) - GLM-5.3 Flash EXL3 for 2x DGX Sparks
@@ -1706,7 +1704,7 @@
 - [hiroi-sora/Umi-OCR_runtime_linux](https://github.com/hiroi-sora/Umi-OCR_runtime_linux) - Umi-OCR Linux 运行环境
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - [EMNLP2025] LightRAG: Simple and Fast Retrieval-Augmented Generation
 - [datalab-to/marker](https://github.com/datalab-to/marker) - Convert PDF to markdown + JSON quickly with high accuracy
-- [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) - Open-source AI browser agent for web automation, undetected by anti-bot systems: a web browsing agent on a stealth Firefox that is not flagged as a bot, not blocked, and does not trigger captchas. Pla
+- [feder-cr/AIHawk](https://github.com/feder-cr/AIHawk) - Anti detect browser and web browsing agent: an open-source MCP server for undetected browsing, AI web scraping and computer use agents. No captchas.
 - [yandex/gixy](https://github.com/yandex/gixy) - Nginx configuration static analyzer
 - [Jing-yilin/E2M](https://github.com/Jing-yilin/E2M) - E2M API, converting everything to markdown (LLM-friendly Format).
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser based workflows with AI
@@ -2441,7 +2439,7 @@
 - [EmbarkStudios/puffin](https://github.com/EmbarkStudios/puffin) - 🐦 Friendly little instrumentation profiler for Rust 🦀
 - [mitsuhiko/better-panic](https://github.com/mitsuhiko/better-panic) - A python inspired panic handler for rust
 - [gfreezy/seeker](https://github.com/gfreezy/seeker) - 通过使用 tun 来实现透明代理。实现了类似 surge 增强模式与网关模式。
-- [shiyutim/tickets](https://github.com/shiyutim/tickets) - 大麦网(大麦）、bilibili(B站)会员购 演唱会抢票软件，一个基于 tauri + rust + vue 调用接口的抢票软件。
+- [shiyutim/tickets](https://github.com/shiyutim/tickets) - 大麦网(大麦）、bilibili(B站)会员购 演唱会调用接口的抢票软件，余票监控，微信通知。
 - [Orange-OpenSource/hurl](https://github.com/Orange-OpenSource/hurl) - Hurl, run and test HTTP requests with plain text.
 - [quarylabs/quary](https://github.com/quarylabs/quary) - Open-source BI for engineers
 - [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool
@@ -2843,6 +2841,7 @@
 
 ## TypeScript 
 
+- [suncityldp/zx-bench](https://github.com/suncityldp/zx-bench) - A reproducible local LLM benchmarking platform with versioned datasets, deterministic scoring, and auditable reports.
 - [excalidraw/excalidraw-mcp](https://github.com/excalidraw/excalidraw-mcp) - Fast and streamable Excalidraw MCP App
 - [zvec-ai/zvec-grep](https://github.com/zvec-ai/zvec-grep) - Local-first search across your workspace, built for humans and AI agents.
 - [Continuum-AI-Corp/OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) - OrcaReplay — Time travel for AI agents. Record, replay, fork, and debug any agent run with any model. Built by the OrcaRouter.ai team.
