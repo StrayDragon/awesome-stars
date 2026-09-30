@@ -222,6 +222,7 @@
 
 ## C++ 
 
+- [gufo-org/gufo](https://github.com/gufo-org/gufo) - Strix Halo inference engine. Qwen Flash Next Q4_K_XL: 1,628.52pp, 59.41tg single user, 157.22 tok/s 8 users; Qwen27B Q4_K_XL: 656.33pp, 70.56tg tok/s single user with DFlash2
 - [JDui/GUI-DLSS5](https://github.com/JDui/GUI-DLSS5) - 面向泄露版DLSS5制作的离线可视化界面，使其可以对视频/图片进行画面处理
 - [QingYis/llama-7900xtx-qwen3.8-27b](https://github.com/QingYis/llama-7900xtx-qwen3.8-27b) - 
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
@@ -941,10 +942,11 @@
 
 ## JavaScript 
 
+- [wasmerio/edgejs](https://github.com/wasmerio/edgejs) - Edge.js is a secure JavaScript runtime, designed for Edge computing and AI workloads
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent) - A realtime voice runtime that keeps Agents talking, working, and present.  Real-time Voice Runtime for AI Agents
 - [terryyin/lizard](https://github.com/terryyin/lizard) - A simple code complexity analyser without caring about the C/C++ header files or Java imports, supports most of the popular languages.
-- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Cod
+- [career-ops-hq/career-ops](https://github.com/career-ops-hq/career-ops) - Open-source AI job search agent: scan job portals, evaluate listings into a structured A-H report with a global 1-5 score, tailor your CV, track applications — runs locally in your AI coding CLI (Clau
 - [AgwaB/pi-workflow](https://github.com/AgwaB/pi-workflow) - Workflow orchestration for Pi
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
@@ -1436,6 +1438,7 @@
 
 ## Python 
 
+- [jayleaton/glm53-tensorfold-spark](https://github.com/jayleaton/glm53-tensorfold-spark) - GLM-5.3-Flash (abliterated EXL3) on 2x NVIDIA DGX Spark with the TensorFold engine: 1.8x faster decode than vLLM, 4x256k concurrent threads, byte-exact speculative decoding. Work in progress.
 - [loopx-project/loopx](https://github.com/loopx-project/loopx) - A control plane with a durable state kernel for long-horizon agents and teams. Keep work moving and improving across sessions, with less human attention.
 - [harbor-framework/harbor](https://github.com/harbor-framework/harbor) - Framework for evaluating and improving agents
 - [MiaAI-Lab/MiMo-V2.6-Flash-2x-DGX-Sparks](https://github.com/MiaAI-Lab/MiMo-V2.6-Flash-2x-DGX-Sparks) - MiMo-V2.6-Flash for 2x DGX Sparks
@@ -2411,7 +2414,7 @@
 - [crate-ci/typos](https://github.com/crate-ci/typos) - Source code spell checker
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage
-- [apache/reqsign](https://github.com/apache/reqsign) - Signing HTTP requests without heavy SDKs.
+- [apache/reqsign](https://github.com/apache/reqsign) - Apache Reqsign: Signing HTTP requests without heavy SDKs.
 - [supabase-community/postgres-language-server](https://github.com/supabase-community/postgres-language-server) - A Language Server for Postgres
 - [j178/prek](https://github.com/j178/prek) - ⚡ A fast Git hook manager written in Rust, designed as a drop-in alternative to pre-commit, reimagined.
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
@@ -3070,7 +3073,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [openapistack/openapicmd](https://github.com/openapistack/openapicmd) - The CLI for all things OpenAPI and Swagger
 - [bump-sh/cli](https://github.com/bump-sh/cli) - Bump.sh CLI - Deploy your OpenAPI & AsyncAPI documentations from your CI
-- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams and videos for any GitHub repository
+- [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Visualize any GitHub codebase: free interactive architecture diagrams and one-minute explainer videos. Replace 'hub' with 'diagram' in any GitHub URL.
 - [glowingjade/obsidian-smart-composer](https://github.com/glowingjade/obsidian-smart-composer) - AI chat assistant for Obsidian with contextual awareness, smart writing assistance, and one-click edits. Features vault-aware conversations, semantic search, and local model support.
 - [refly-ai/refly](https://github.com/refly-ai/refly) - The first open-source agent skills builder. Define skills by vibe workflow, run on Claude Code, Cursor, Codex & more. Build Clawdbot 🦞· APIs for Lovable · Bots for Slack & Lark/Feishu · Skills are inf
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
