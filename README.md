@@ -1934,7 +1934,7 @@
 - [kerlomz/captcha_platform](https://github.com/kerlomz/captcha_platform) - [验证码识别-部署] This project is based on CNN+BLSTM+CTC to realize verificationtion. This projeccode identificat is only for deployment models.
 - [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
 - [jaredks/rumps](https://github.com/jaredks/rumps) - Ridiculously Uncomplicated macOS Python Statusbar apps
-- [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - Fast and well tested serialization library
+- [Fatal1ty/mashumaro](https://github.com/Fatal1ty/mashumaro) - High-performance serialization without replacing your data model
 - [snok/flake8-type-checking](https://github.com/snok/flake8-type-checking) - Flake8 plugin for managing type-checking imports & forward references.
 - [pappasam/jedi-language-server](https://github.com/pappasam/jedi-language-server) - A Python language server exclusively for Jedi. If Jedi supports it well, this language server should too.
 - [python-lsp/python-lsp-server](https://github.com/python-lsp/python-lsp-server) - Fork of the python-language-server project, maintained by the Spyder IDE team and the community
@@ -2270,7 +2270,7 @@
 
 - [hseeberger/tellus](https://github.com/hseeberger/tellus) - A resilient world of actors for Rust: typed messages, supervision trees, death watch.
 - [paritytech/jsonrpsee](https://github.com/paritytech/jsonrpsee) - Rust JSON-RPC library on top of async/await
-- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - agent runtime security - zero trust, zero setup, zero latency.
+- [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - agent runtime security - zero trust, zero setup, zero latency micro sandboxes
 - [wasmi-labs/wasmi](https://github.com/wasmi-labs/wasmi) - WebAssembly (Wasm) Interpreter - An efficient, lightweight, and deterministic WebAssembly interpreter for embedded systems and plug-in runtimes.
 - [agent-sh/computer-use-linux](https://github.com/agent-sh/computer-use-linux) - Linux desktop control over MCP — AT-SPI, GNOME Shell, Wayland portals, ydotool
 - [qingjian-team/qingjian](https://github.com/qingjian-team/qingjian) - 青简 Qingjian：用 Rust 写的拼音输入法，候选词旁多一条正在学的语言的译词
@@ -2858,7 +2858,7 @@
 
 ## TypeScript 
 
-- [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) - DSH 官方公众号收录的 TUI 补位插件：鲸鱼顶栏/实时状态/流式思考/双击 Esc 回滚/上下文进度+TPS。npm 一键装。  DSH official WeChat featured TUI plugin — whale bar, live status, streaming thoughts, double-Esc rollback, context bar + TPS. npm one
+- [ccch1mneyyy/dsh-TUI](https://github.com/ccch1mneyyy/dsh-TUI) - DSH's officially recommended TUI plugin — high performance, low overhead, cute pixel whale, smooth mouse interaction. One-command install via npm. / DSH 官方推荐的 TUI 插件, 高性能低占用, 可爱像素鲸鱼, 流畅鼠标交互, npm一键安装
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [stepfun-ai/Step-Code](https://github.com/stepfun-ai/Step-Code) - 
 - [zai-org/ZCode](https://github.com/zai-org/ZCode) - Z.ai's coding agent harness. Powerful, intelligent, extensible.
