@@ -225,7 +225,7 @@
 ## C++ 
 
 - [godothub/gode](https://github.com/godothub/gode) - Godot with JavaScript / TypeScript & NodeJS🌟
-- [gufo-org/gufo](https://github.com/gufo-org/gufo) - Strix Halo inference engine. Qwen Flash Next Q4_K_XL: 1,702.93pp, 65.25tg single user, 184.74 tok/s 8 users; Qwen27B Q4_K_XL: 656.33pp, 70.56tg tok/s single user with DFlash2
+- [gufo-org/gufo](https://github.com/gufo-org/gufo) - The Open Source Strix Halo AI engine. Qwen Flash Next Q4_K_XL: 1,773.82pp, 65.25tg single user, 184.74 tok/s 8 users; Qwen27B Q4_K_XL: 656.33pp, 70.56tg tok/s single user with DFlash2
 - [JDui/GUI-DLSS5](https://github.com/JDui/GUI-DLSS5) - 面向泄露版DLSS5制作的离线可视化界面，使其可以对视频/图片进行画面处理
 - [QingYis/llama-7900xtx-qwen3.8-27b](https://github.com/QingYis/llama-7900xtx-qwen3.8-27b) - 
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
@@ -295,7 +295,7 @@
 - [canonical/multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
 - [lanyizi/RA3Bar-RA3Launcher](https://github.com/lanyizi/RA3Bar-RA3Launcher) - Reimplementation of RA3.exe (Red Alert 3 game launcher)
 - [AutoHotkey/AutoHotkey](https://github.com/AutoHotkey/AutoHotkey) - AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.
-- [facebook/fbthrift](https://github.com/facebook/fbthrift) - Facebook's branch of Apache Thrift, including a new C++ server.
+- [facebook/fbthrift](https://github.com/facebook/fbthrift) - Meta's Thrift implementation: cross-language serialization and high-performance async RPC
 - [sogou/workflow](https://github.com/sogou/workflow) - C++ Parallel Computing and Asynchronous Networking Framework
 - [pqrs-org/Karabiner-Elements](https://github.com/pqrs-org/Karabiner-Elements) - Karabiner-Elements is a powerful tool for customizing keyboards on macOS
 - [CoatiSoftware/Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail) - Sourcetrail - free and open-source interactive source explorer
@@ -494,10 +494,11 @@
 
 ## Go 
 
+- [yetone/magpie](https://github.com/yetone/magpie) - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
 - [agent-substrate/substrate](https://github.com/agent-substrate/substrate) - Agent Substrate: the core system
 - [google/ax](https://github.com/google/ax) - Google's open agentic orchestration runtime
-- [maximhq/bifrost](https://github.com/maximhq/bifrost) - Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & &lt;100 µs overhead at 5k RPS.
+- [maximhq/bifrost](https://github.com/maximhq/bifrost) - Open-source, high-performance AI gateway that works as your LLM gateway, MCP gateway and agent gateway. One OpenAI-compatible API for 10,000+ models, with failover, load balancing, semantic caching, v
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [NVIDIA/Personal-AI-Router](https://github.com/NVIDIA/Personal-AI-Router) - Router that virtually distributes inference across connected devices in the home.
 - [bojieli/agentreach](https://github.com/bojieli/agentreach) - AgentReach (reach): Point your coding agent at any box you can SSH into. The server never gets your agent.
@@ -533,7 +534,7 @@
 - [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) - agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes  and reinforcement learning (RL).
 - [podman-container-tools/skopeo](https://github.com/podman-container-tools/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Your AI trading terminal assistant for US stocks, commodities, forex, and crypto.
-- [wquguru/nof0](https://github.com/wquguru/nof0) - NOF0 - 开源的 AI 交易竞技场
+- [wquguru/nof0](https://github.com/wquguru/nof0) - Open-source AI trading arena. A full reproduction of NOF1 Alpha Arena for running and comparing LLM agents.
 - [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [go-json-experiment/json](https://github.com/go-json-experiment/json) - Experimental implementation of a proposed v2 encoding/json package
@@ -647,6 +648,7 @@
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [tair-opensource/RedisShake](https://github.com/tair-opensource/RedisShake) - RedisShake is a Valkey/Redis data processing and migration tool.
 - [nginx-proxy/docker-gen](https://github.com/nginx-proxy/docker-gen) - Generate files from docker container meta-data
+- [labring/sealos](https://github.com/labring/sealos) - Deploy real projects from GitHub or your AI coding agent, then keep them running with AI-powered operations.
 - [rnetx/cdns](https://github.com/rnetx/cdns) - 
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
@@ -849,6 +851,7 @@
 
 ## HTML 
 
+- [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) - AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
 - [ForceInjection/AI-fundamentals](https://github.com/ForceInjection/AI-fundamentals) - AI 基础知识 - GPU 架构、CUDA 编程、大模型基础及AI Agent 相关知识。
 - [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) - 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
 - [MiaAI-Lab/Qwen3.8-Flash-Next-Dual-DGX-Sparks](https://github.com/MiaAI-Lab/Qwen3.8-Flash-Next-Dual-DGX-Sparks) - Qwen3.8-Flash-Next-NVFP4-vLLM-Dual-DGX-Spark
@@ -1046,9 +1049,10 @@
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [tencentyun/vod-wx-sdk-v2](https://github.com/tencentyun/vod-wx-sdk-v2) - Tencent cloud vod sdk for wechat mini program
 - [inlife/nexrender](https://github.com/inlife/nexrender) - 📹  Data-driven render automation for After Effects
+- [rust-boom/rust-boom](https://github.com/rust-boom/rust-boom) - Awesome Rust (Rust 资源 | 学习 | 书 ). 💥
 - [foamzou/melody](https://github.com/foamzou/melody) - 我的音乐精灵
 - [odrick/free-tex-packer](https://github.com/odrick/free-tex-packer) - Free texture packer
-- [byoungd/up](https://github.com/byoungd/up) - 韩先凯的人生进阶指南 人生进阶指南 英语学习指南 离谱的人生 AI AI时代终身学习：AI、学习、创业与成长。
+- [byoungd/up](https://github.com/byoungd/up) - 韩先凯的人生进阶指南 人生进阶指南 AI时代生存指南 英语学习指南 离谱的人生 AI AI时代终身学习：AI、学习、创业与成长。
 - [rust-lang-cn/rust-by-example-cn](https://github.com/rust-lang-cn/rust-by-example-cn) - Rust By Example 中文版(包含在线代码编辑器)
 - [elias-sundqvist/obsidian-annotator](https://github.com/elias-sundqvist/obsidian-annotator) - A plugin for reading and annotating PDFs and EPUBs in obsidian.
 - [akashgoswami/vue-reactflow](https://github.com/akashgoswami/vue-reactflow) - An experiment to render a React component inside a Vue.js application.
@@ -1120,7 +1124,7 @@
 ## Jupyter Notebook 
 
 - [CalvinXKY/InfraTech](https://github.com/CalvinXKY/InfraTech) - 分享AI Infra知识&代码练习：PyTorch、vLLM/SGLang、slime/vime框架入门⚡️、性能加速🚀、大模型基础🧠、AI软硬件🔧等
-- [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
+- [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 2.8T LLM inference with single 4GB GPU
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
 - [google-gemini/gemini-fullstack-langgraph-quickstart](https://github.com/google-gemini/gemini-fullstack-langgraph-quickstart) - Get started with building Fullstack Agents using Gemini 2.5 and LangGraph
 - [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始构建大模型
@@ -1552,7 +1556,7 @@
 - [adbar/trafilatura](https://github.com/adbar/trafilatura) - Python & Command-line tool to gather text and metadata on the Web: Crawling, scraping, extraction, output as CSV, JSON, HTML, MD, TXT, XML
 - [EricWebsmith/pydantic_mermaid](https://github.com/EricWebsmith/pydantic_mermaid) - convert Pydantic models to Mermaid charts
 - [ScrapeGraphAI/Scrapegraph-ai](https://github.com/ScrapeGraphAI/Scrapegraph-ai) - Python scraper based on AI
-- [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents li
+- [teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API and agentic skill for Google Gemini Notebook. Full programmatic access to Gemini Notebook's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agen
 - [sherlock-project/sherlock](https://github.com/sherlock-project/sherlock) - Hunt down social media accounts by username across social networks
 - [distil-labs/distil-text2sql](https://github.com/distil-labs/distil-text2sql) - Query your data in plain English with a fine-tuned Text2SQL model
 - [pythonprofilers/memory_profiler](https://github.com/pythonprofilers/memory_profiler) - Monitor Memory usage of Python code
@@ -2096,7 +2100,7 @@
 - [GrahamDumpleton/wrapt](https://github.com/GrahamDumpleton/wrapt) - A Python module for decorators, wrappers and monkey patching.
 - [ymattw/ydiff](https://github.com/ymattw/ydiff) - View colored, incremental diff in workspace or from stdin, side by side and auto paged.
 - [jeffkaufman/icdiff](https://github.com/jeffkaufman/icdiff) - improved colored diff
-- [jazzband/pip-tools](https://github.com/jazzband/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
+- [pypa/pip-tools](https://github.com/pypa/pip-tools) - A set of tools to keep your pinned Python dependencies fresh.
 - [dimaqq/awaitwhat](https://github.com/dimaqq/awaitwhat) - Await, What?
 - [schematics/schematics](https://github.com/schematics/schematics) - Python Data Structures for Humans™.
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
@@ -2276,6 +2280,9 @@
 
 ## Rust 
 
+- [opengeos/RustGIS](https://github.com/opengeos/RustGIS) - A fast, free and open-source GIS in pure Rust.
+- [arcships/rutis](https://github.com/arcships/rutis) - A plugin runtime for software that iterates on itself — the substrate where agents write, swap and hot-reload their own plugins in Rust, TypeScript, Python and Go, across processes and machines.
+- [yologdev/yoagent](https://github.com/yologdev/yoagent) - The agent loop for Rust — stream from 7 LLM protocols, run tools, loop until done.
 - [elliothux/open-compute](https://github.com/elliothux/open-compute) - Self-hosted Cloudflare Workers-compatible platform with Workers、KV、D1、R2、DO、Queues、Workflows、Cron、Cache、Images、Vectorize、AI Search、Artifacts、Static Assets、Service Bindings、Dynamic Workers、LogTail、Gate
 - [fallow-rs/fallow](https://github.com/fallow-rs/fallow) - Codebase intelligence for TypeScript and JavaScript. Health, complexity hotspots, duplication, architecture boundaries, circular dependencies, design-system drift, and unused code, from one graph. CLI
 - [leboiko/markdown-reader](https://github.com/leboiko/markdown-reader) - A TUI markdown file browser and viewer built with Rust and ratatui
@@ -2329,7 +2336,7 @@
 - [la10736/rstest](https://github.com/la10736/rstest) - Fixture-based test framework for Rust
 - [EpicGames/lore](https://github.com/EpicGames/lore) - Lore is a next-generation, open source version control system
 - [quickwit-oss/tantivy](https://github.com/quickwit-oss/tantivy) - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
-- [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - Give agents an operating system as a library. Runs in your existing backend – no sandboxes, VMs, or SaaS. Powered by WebAssembly & V8 isolates.
+- [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - Tiny, fast, Linux-compatible sandboxes. Powered by WebAssembly.
 - [ccbrown/iocraft](https://github.com/ccbrown/iocraft) - A Rust crate for beautiful, artisanally crafted CLIs, TUIs, and text-based IO.
 - [veeso/tui-realm](https://github.com/veeso/tui-realm) - 👑 A ratatui framework to build stateful applications with a React/Elm inspired approach
 - [messense/mupdf-rs](https://github.com/messense/mupdf-rs) - Rust binding to mupdf
@@ -2573,7 +2580,6 @@
 - [smallnest/concurrency-programming-via-rust](https://github.com/smallnest/concurrency-programming-via-rust) - 
 - [jakobhellermann/bevy_editor_pls](https://github.com/jakobhellermann/bevy_editor_pls) - In-App editor tools for bevy applications
 - [jakobhellermann/bevy-inspector-egui](https://github.com/jakobhellermann/bevy-inspector-egui) - Inspector plugin for the bevy game engine
-- [rust-boom/rust-boom](https://github.com/rust-boom/rust-boom) - Awesome Rust (Rust 资源 | 学习 | 书 ). 💥
 - [tokio-rs/prost](https://github.com/tokio-rs/prost) - PROST! a Protocol Buffers implementation for the Rust Language
 - [denisidoro/navi](https://github.com/denisidoro/navi) - An interactive cheatsheet tool for the command-line
 - [pola-rs/polars](https://github.com/pola-rs/polars) - Extremely fast Query Engine for DataFrames, written in Rust
@@ -2869,6 +2875,7 @@
 
 ## TypeScript 
 
+- [satorijs/satori](https://github.com/satorijs/satori) - The Universal Messenger Protocol
 - [dream-num/univer](https://github.com/dream-num/univer) - The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.
 - [Xuanwo/agenvo](https://github.com/Xuanwo/agenvo) - A self-hosted MCP relay for native coding runtimes
 - [kylemcd/obsidian-document-comments](https://github.com/kylemcd/obsidian-document-comments) - Notion / Linear-style margin comments for Obsidian.
@@ -2919,7 +2926,7 @@
 - [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [playcanvas/supersplat](https://github.com/playcanvas/supersplat) - 3D Gaussian Splat Editor
-- [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Best DeepSeek Harness Design Plugin. The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, sli
+- [nexu-io/open-design](https://github.com/nexu-io/open-design) - The 1st Collaborative AI Design Agent Workspace. Local-first and open source. Create prototypes, websites, apps, dashboards, presentations, images, and videos with your team and AI agents. Share work,
 - [getagentseal/codeburn](https://github.com/getagentseal/codeburn) - Free, local tool to track AI coding token usage and cost across 37 tools and agents (Claude Code, Cursor, Codex, Gemini and more), by model, project, and task. npx codeburn
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [alvinunreal/oh-my-opencode-slim](https://github.com/alvinunreal/oh-my-opencode-slim) - Lean, fine tuned Opencode multi agent suite · Mix any models · Auto delegate tasks
@@ -3154,7 +3161,6 @@
 - [msgbyte/tailchat](https://github.com/msgbyte/tailchat) - Next generation noIM application in your own workspace, not only another Slack/Discord/Rocket.chat
 - [lobehub/lobe-cli-toolbox](https://github.com/lobehub/lobe-cli-toolbox) - 🪀 Lobe CLI Toolbox - AI CLI Toolbox, enhancing git commit and i18n workflow efficiency
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
-- [labring/sealos](https://github.com/labring/sealos) - Deploy real projects from GitHub or your AI coding agent, then keep them running with AI-powered operations.
 - [MichaelYuhe/ai-group-tabs](https://github.com/MichaelYuhe/ai-group-tabs) - Organize and group your Chrome tabs with AI
 - [jaywcjlove/google](https://github.com/jaywcjlove/google) - This is the Google Mirror Index.
 - [BuilderIO/gpt-crawler](https://github.com/BuilderIO/gpt-crawler) - Crawl a site to generate knowledge files to create your own custom GPT from a URL
