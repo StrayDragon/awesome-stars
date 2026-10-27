@@ -59,7 +59,6 @@
 - [Python](#python)
 - [QML](#qml)
 - [Rich Text Format](#rich-text-format)
-- [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SCSS](#scss)
@@ -106,7 +105,7 @@
 
 ## C 
 
-- [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) - 
+- [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) - Play your own Tears of the Kingdom and Breath of the Wild natively on Apple silicon Mac, iPhone and iPad. Not an emulator: the game's ARM64 code runs directly, NVN rebuilt on Metal. Bring your own gam
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 - [cadl/ClouDS-Music](https://github.com/cadl/ClouDS-Music) - A native NetEase Cloud Music homebrew client for Nintendo 3DS with dual-screen playback, lyrics, search, and SD card caching.
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - Local code intelligence for developers and AI agents. Connect code, docs and infrastructure in a persistent graph, with CBM Lens, MCP tools, agent integrations and change-aware test selection.
@@ -497,7 +496,8 @@
 
 ## Go 
 
-- [Calcium-Ion/moejs](https://github.com/Calcium-Ion/moejs) - A pure-Go JavaScript runtime built for running many small plugin sandboxes fast.
+- [egoist/kero](https://github.com/egoist/kero) - A cross-platform native terminal app optimized for agents
+- [MoeForge/moejs](https://github.com/MoeForge/moejs) - A pure-Go JavaScript runtime built for running many small plugin sandboxes fast.
 - [egoist/mygo](https://github.com/egoist/mygo) - Develop desktop apps with native UI or web frontend in Go
 - [yetone/magpie](https://github.com/yetone/magpie) - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
@@ -856,6 +856,7 @@
 
 ## HTML 
 
+- [huangjia2019/agent-design-patterns](https://github.com/huangjia2019/agent-design-patterns) - A 7×6 framework for agent architecture. 28 patterns, each placed at a coordinate, runnable Python code with verified engineering slices from Claude Code, Aider, OpenHands, DeerFlow. Companion to Desig
 - [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) - AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
 - [ForceInjection/AI-fundamentals](https://github.com/ForceInjection/AI-fundamentals) - AI 基础知识 - GPU 架构、CUDA 编程、大模型基础及AI Agent 相关知识。
 - [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) - 高性价比人生指南: 长寿防病、急救、省钱理财、法律红线、失业与工伤、医保社保、恋爱婚育、怀孕育儿、创业与做平台合规、出国与技能。每条写明成本、收益、证据等级和原始出处，只引期刊论文与官方文件。
@@ -925,7 +926,7 @@
 - [AutoMQ/automq](https://github.com/AutoMQ/automq) - Diskless Kafka® on S3. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. Multi-AZ Availability.
 - [loks666/get_jobs](https://github.com/loks666/get_jobs) - 💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、智联招聘)
 - [ZmingZinnia/get_jobs](https://github.com/ZmingZinnia/get_jobs) - 💼【AI找工作助手】全平台自动投简历脚本：(boss、前程无忧、猎聘、拉勾、智联招聘)
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Event Driven Orchestration & Scheduling Platform for Mission Critical Applications
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestrate everything, everywhere. The open-source control plane for workflows across data, infrastructure, business processes and AI agents. Declarative YAML, event-driven, any language, Git-version
 - [codefuse-ai/CodeFuse-Query](https://github.com/codefuse-ai/CodeFuse-Query) - Query-Based Code Analysis Engine
 - [apache/fory](https://github.com/apache/fory) - A blazingly fast multi-language serialization framework for idiomatic domain objects, schema IDL, and cross-language data exchange.
 - [apitable/apitable-sdks](https://github.com/apitable/apitable-sdks) - APITable officially provides various API, which allow users to get data by HTTPS requests, or push data to APITable.
@@ -1279,6 +1280,7 @@
 
 ## Others 
 
+- [togg53192-cmd/jailbreaks](https://github.com/togg53192-cmd/jailbreaks) - LIST OF ALL MY JAILBREAKS
 - [lukeTheNeuromancer/system-design-notes-zh](https://github.com/lukeTheNeuromancer/system-design-notes-zh) - System Design Interview 笔记中文翻译版（Chinese translation of liquidslr/system-design-notes）
 - [shadcn/improve](https://github.com/shadcn/improve) - Use your most capable model to audit your codebase and write plans for cheaper models to execute.
 - [ratatui/awesome-ratatui](https://github.com/ratatui/awesome-ratatui) - A curated list of TUI apps and libraries built with Ratatui
@@ -1308,6 +1310,7 @@
 - [git-jiadong/wechatDataBackup](https://github.com/git-jiadong/wechatDataBackup) - 
 - [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) - A collection of MCP servers.
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
+- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
 - [AlexanderZhou01/China-software-copyright](https://github.com/AlexanderZhou01/China-software-copyright) - Chinese software copyright application template document
 - [weijunext/indie-hacker-tools](https://github.com/weijunext/indie-hacker-tools) - 收录独立开发者出海技术栈和工具
 - [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration) - Integrate the DeepSeek API into popular software
@@ -1466,7 +1469,7 @@
 - [eugr/spark-vllm-docker](https://github.com/eugr/spark-vllm-docker) - Docker configuration for running VLLM on dual DGX Sparks
 - [FailSpy/abliterator](https://github.com/FailSpy/abliterator) - Simple Python library/structure to ablate features in LLMs which are supported by TransformerLens
 - [jayleaton/glm53-tensorfold-spark](https://github.com/jayleaton/glm53-tensorfold-spark) - GLM-5.3-Flash (abliterated EXL3) on 2x NVIDIA DGX Spark with the TensorFold engine: 1.8x faster decode than vLLM, 4x256k concurrent threads, byte-exact speculative decoding. Work in progress.
-- [loopx-project/loopx](https://github.com/loopx-project/loopx) - Turn long-horizon goals into verifiable results. A local-first control plane and research workbench for agents and teams, across sessions and runtimes.
+- [loopx-project/loopx](https://github.com/loopx-project/loopx) - Turn long-horizon goals into verifiable results. A local-first semantic control plane and research workbench for long-running agent teams, across sessions and runtimes.
 - [harbor-framework/harbor](https://github.com/harbor-framework/harbor) - Framework for evaluating and improving agents
 - [MiaAI-Lab/MiMo-V2.6-Flash-2x-DGX-Sparks](https://github.com/MiaAI-Lab/MiMo-V2.6-Flash-2x-DGX-Sparks) - MiMo-V2.6-Flash for 2x DGX Sparks
 - [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per reque
@@ -2011,7 +2014,7 @@
 - [ml-tooling/opyrator](https://github.com/ml-tooling/opyrator) - 🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more.
 - [pypa/gh-action-pypi-publish](https://github.com/pypa/gh-action-pypi-publish) - The blessed :octocat: GitHub Action, for publishing your :package: distribution files to PyPI, the tokenless way: https://github.com/marketplace/actions/pypi-publish
 - [abersheeran/cool](https://github.com/abersheeran/cool) - Make Python code cooler. Less is more.
-- [ffalcinelli/pydivert](https://github.com/ffalcinelli/pydivert) - A Python binding for WinDivert driver
+- [ffalcinelli/pydivert](https://github.com/ffalcinelli/pydivert) - An high-performance, cross-platform Python binding for capturing, modifying, and dropping network packets. It supports Windows via WinDivert and Linux via eBPFDivert, an eBPF implementation of the Win
 - [touilleMan/godot-python](https://github.com/touilleMan/godot-python) - Python support for Godot 🐍🐍🐍
 - [SCons/scons](https://github.com/SCons/scons) - SCons - a software construction tool
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
@@ -2276,10 +2279,6 @@
 - [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts) - 
 - [phodal/github](https://github.com/phodal/github) - GitHub 漫游指南- a Chinese ebook on how to build a good project on Github. Explore the users' behavior. Find some thing interest.
 
-## Roff 
-
-- [TapXWorld/ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
-
 ## Ruby 
 
 - [stripe-ruby-mock/stripe-ruby-mock](https://github.com/stripe-ruby-mock/stripe-ruby-mock) - A mocking library for testing stripe ruby
@@ -2294,6 +2293,9 @@
 
 ## Rust 
 
+- [ludovic111/horizon](https://github.com/ludovic111/horizon) - Minecraft: Java Edition 26.3 rewritten from scratch in Rust, checked against vanilla with 281 differential harnesses. Get it with the Horizon launcher.
+- [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
+- [mizorewww/gdirect](https://github.com/mizorewww/gdirect) - Rust Google Drive direct downloader using pinned libaria2
 - [jdx/mr-boxington](https://github.com/jdx/mr-boxington) - 
 - [oxc-project/tsrs](https://github.com/oxc-project/tsrs) - Rust port of the TypeScript 7 type checker
 - [minikin/cargo-crap](https://github.com/minikin/cargo-crap) - Change Risk Anti-Patterns (CRAP) metric for Rust projects
@@ -2424,7 +2426,7 @@
 - [hominsu/deeplx-rs](https://github.com/hominsu/deeplx-rs) - A Rust package for unlimited DeepL translation
 - [adolfousier/langfuse-rust](https://github.com/adolfousier/langfuse-rust) - First Langfuse rust crates.io
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
-- [wild-linker/wild](https://github.com/wild-linker/wild) - A very fast linker for Linux
+- [wild-linker/wild](https://github.com/wild-linker/wild) - A very fast linker for Linux and WebAssembly
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
 - [SeaQL/sea-query](https://github.com/SeaQL/sea-query) - 🔱 A dynamic SQL query builder for MySQL, Postgres and SQLite
 - [SeaQL/sea-orm](https://github.com/SeaQL/sea-orm) - 🐚 A powerful relational ORM for Rust
@@ -2550,7 +2552,7 @@
 - [console-rs/console](https://github.com/console-rs/console) - A rust console and terminal abstraction
 - [phodal/aigc](https://github.com/phodal/aigc) - 《构筑大语言模型应用：应用开发与架构设计》一本关于 LLM 在真实世界应用的开源电子书，介绍了大语言模型的基础知识和应用，以及如何构建自己的模型。其中包括Prompt的编写、开发和管理，探索最好的大语言模型能带来什么，以及LLM应用开发的模式和架构设计。
 - [apache/opendal](https://github.com/apache/opendal) - Apache OpenDAL: One Layer, All Storage.
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal.
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Code-first platform for workflows, apps and AI agents, on the fastest self-hostable orchestrator (benchmarked against Airflow, Prefect and Temporal). Business teams build with AI, engineers control wh
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [kamiyaa/joshuto](https://github.com/kamiyaa/joshuto) - ranger-like terminal file manager written in Rust
@@ -2869,6 +2871,7 @@
 - [JerryZLiu/Dayflow](https://github.com/JerryZLiu/Dayflow) - The automatic work journal/time tracker. Privately turns your screen into a timeline of what you actually accomplished. Open-source and local-first.
 - [iFurySt/open-computer-use](https://github.com/iFurySt/open-computer-use) - 👾 Open Computer Use – Open-Source Alternative to Codex Computer Use
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
+- [slopus/happy](https://github.com/slopus/happy) - Orchestrate Claude, Codex and Grok in one app. Open-source (MIT), reuses the subscriptions you already pay for.
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [buresdv/Cork](https://github.com/buresdv/Cork) - [NO AI] Fast GUI for Homebrew written in SwiftUI
 - [MonitorControl/MonitorControl](https://github.com/MonitorControl/MonitorControl) - 🖥 Control your display's brightness & volume on your Mac as if it was a native Apple Display. Use Apple Keyboard keys or custom shortcuts. Shows the native macOS OSDs.
@@ -2993,7 +2996,7 @@
 - [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [tambo-ai/tambo](https://github.com/tambo-ai/tambo) - Generative UI SDK for React
 - [lifo-sh/lifo](https://github.com/lifo-sh/lifo) - A browser-native operating system. Unix/Linux reimagined where the browser IS the kernel and Web APIs ARE syscalls. 60+ commands, bash-like shell, virtual filesystem, and IndexedDB persistence.
-- [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
+- [ParadevAI/Paradev](https://github.com/ParadevAI/Paradev) - Paradev (formerly Superset) is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.
 - [waooAI/waoowaoo](https://github.com/waooAI/waoowaoo) - 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.
 - [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis) - The best agent harness.
 - [router-for-me/Cli-Proxy-API-Management-Center](https://github.com/router-for-me/Cli-Proxy-API-Management-Center) - This is a WebUI interface based on CLI-Proxy-API, designed to simplify configuration modifications and runtime status monitoring.
@@ -3046,7 +3049,6 @@
 - [XCodingLab/XCoding](https://github.com/XCodingLab/XCoding) - XCoding: a lightweight AI vibe coding IDE that supports parallel multi-agent collaboration (Codex/Claude Code) and parallel multi-project development, featuring a VS Code–like editor and terminal with
 - [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) - An Open Source implementation of Notebook LM with more flexibility and features
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
-- [slopus/happy](https://github.com/slopus/happy) - Orchestrate Claude, Codex and Grok in one app. Open-source (MIT), reuses the subscriptions you already pay for.
 - [J3n5en/EnsoAI](https://github.com/J3n5en/EnsoAI) - Multiple Agents, Parallel Flow
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [LiRenTech/file-ref-tags](https://github.com/LiRenTech/file-ref-tags) - VSCode插件，给文件添加标签，实现点击跳转并精准定位，解决浏览大型项目的时代码位置跳来跳去的问题
@@ -3553,7 +3555,7 @@
 
 ## Zig 
 
-- [ashhart/TensorFold](https://github.com/ashhart/TensorFold) - LLM Inference Engine for Metal and CUDA.
+- [ashhart/TensorFold](https://github.com/ashhart/TensorFold) - LLM Inference Engine for Metal, CUDA and Vulkan.
 - [jayleaton/deepseek-v41-tensorfold-spark](https://github.com/jayleaton/deepseek-v41-tensorfold-spark) - DeepSeek-V4.1-Flash on 2x NVIDIA DGX Spark with the TensorFold engine: 1.8-1.9x code, 2.5x multi-stream, 1.7-1.95x prefill vs the vLLM kit, exact speculative decoding. Work in progress.
 - [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
 
