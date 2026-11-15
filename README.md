@@ -381,6 +381,7 @@
 
 - [ccch1mneyyy/dsh-Go](https://github.com/ccch1mneyyy/dsh-Go) - dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。
 - [scrya-com/xyflow](https://github.com/scrya-com/xyflow) - React Flow | Svelte Flow | Flutter - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev), Svelte (https://svelteflow.dev), or Flutter. Ready out-of-the-box an
+- [denialwm/denial](https://github.com/denialwm/denial) - A smooth, customizable Wayland compositor with glass effects, three window layouts, and settings you can actually click. We got a little carried away.
 - [xiachufang/motif](https://github.com/xiachufang/motif) - 
 - [mylxsw/aidea](https://github.com/mylxsw/aidea) - An APP that integrates mainstream large language models and image generation models, built with Flutter, with fully open-source code.
 - [flet-dev/serious-python](https://github.com/flet-dev/serious-python) - Python runtime for Flutter apps
@@ -1491,7 +1492,7 @@
 - [eugr/spark-vllm-docker](https://github.com/eugr/spark-vllm-docker) - Docker configuration for running VLLM on dual DGX Sparks
 - [FailSpy/abliterator](https://github.com/FailSpy/abliterator) - Simple Python library/structure to ablate features in LLMs which are supported by TransformerLens
 - [jayleaton/glm53-tensorfold-spark](https://github.com/jayleaton/glm53-tensorfold-spark) - GLM-5.3-Flash (abliterated EXL3) on 2x NVIDIA DGX Spark with the TensorFold engine: 1.8x faster decode than vLLM, 4x256k concurrent threads, byte-exact speculative decoding. Work in progress.
-- [loopx-project/loopx](https://github.com/loopx-project/loopx) - Turn long-horizon goals into verifiable results. A local-first semantic control plane and research workbench for long-running agent teams, across sessions and runtimes.
+- [loopx-project/loopx](https://github.com/loopx-project/loopx) - The control plane for 24/7 always-on agents. Turn long-horizon goals into verifiable results across Codex, Claude Code, and custom runtimes—from local SQLite to team scale.
 - [harbor-framework/harbor](https://github.com/harbor-framework/harbor) - Framework for evaluating and improving agents
 - [MiaAI-Lab/MiMo-V2.6-Flash-2x-DGX-Sparks](https://github.com/MiaAI-Lab/MiMo-V2.6-Flash-2x-DGX-Sparks) - MiMo-V2.6-Flash for 2x DGX Sparks
 - [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per reque
@@ -2316,6 +2317,7 @@
 
 ## Rust 
 
+- [DeepanshuMishraa/leaf](https://github.com/DeepanshuMishraa/leaf) - Read PDFs, markdown files and web articles in the terminal.
 - [makepad/relax](https://github.com/makepad/relax) - Relax Rust JIT
 - [arcships/dim](https://github.com/arcships/dim) - An agent paradigm built on an event-driven timeline and a fully plugin-based runtime — it grows and iterates within the environment it runs in.
 - [fullbleed-engine/fullbleed-official](https://github.com/fullbleed-engine/fullbleed-official) - Generate PDFs from HTML/CSS in Python, Rust, JavaScript, and C#. Deterministic engine for reports, invoices, and variable-data documents. MIT licensed.
@@ -2333,7 +2335,6 @@
 - [Goldziher/uncomment](https://github.com/Goldziher/uncomment) - Blazingly fast CLI to remove comments from code using tree-sitter grammers
 - [longbridge/nsh](https://github.com/longbridge/nsh) - Native Shell is a native UI framework for iOS, Android, macOS, Windows, Linux and the web, built in Rust.
 - [professor-lee/CNMPlayer](https://github.com/professor-lee/CNMPlayer) - A TUI Netease Cloud Music Player, with audio visualization and almost complete functions.
-- [denialwm/denial](https://github.com/denialwm/denial) - A smooth, customizable Wayland compositor with glass effects, three window layouts, and settings you can actually click. We got a little carried away.
 - [rustrak/rustrak](https://github.com/rustrak/rustrak) - Self-hosted, open-source Sentry alternative in Rust. Error tracking, performance, logs and AI agent traces in one small container that works with the Sentry SDKs. SQLite or PostgreSQL.
 - [kregonia/babry](https://github.com/kregonia/babry) - 一个在niri上旨在实现区域自动检测的截图工具
 - [opengeos/RustGIS](https://github.com/opengeos/RustGIS) - A fast, free and open-source GIS in pure Rust.
