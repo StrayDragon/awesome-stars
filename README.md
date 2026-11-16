@@ -254,7 +254,6 @@
 - [outfoxxed/hy3](https://github.com/outfoxxed/hy3) - Hyprland plugin for an i3 / sway like manual tiling layout
 - [acaudwell/Gource](https://github.com/acaudwell/Gource) - software version control visualization
 - [facebookincubator/oomd](https://github.com/facebookincubator/oomd) - A userspace out-of-memory killer
-- [openwebf/webf](https://github.com/openwebf/webf) - Bring JavaScript and Web Dev to Flutter
 - [microsoft/wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
 - [hyprwm/hyprcursor](https://github.com/hyprwm/hyprcursor) - The hyprland cursor format, library and utilities.
 - [openlierox/openlierox](https://github.com/openlierox/openlierox) - OpenLieroX - Liero clone / Worms realtime / 2D shooter
@@ -966,6 +965,8 @@
 
 ## JavaScript 
 
+- [zanllp/agent-home](https://github.com/zanllp/agent-home) - 给大肥鱼和你的 Agent 一个可以回去的家。A cozy 3D home harness for AI agents: live, decorate and interact through tools, watch in your browser.
+- [Innei/ryugi](https://github.com/Innei/ryugi) - Ryugi (ryoo-ghee) — artifacts for coding agents: artboards of mockups, design docs, whiteboards, HTML benches and verify reports you comment on, with every comment sent back to the agent. Install arti
 - [frontier-harness-eval/eval](https://github.com/frontier-harness-eval/eval) - Public results and task definitions for FrontierHarness Eval
 - [tonghs/amalthea](https://github.com/tonghs/amalthea) - amalthea static web page
 - [Fei2411/DS-Bot](https://github.com/Fei2411/DS-Bot) - A team of long-lived bots for DeepSeek Harness, with main bots, bot-to-bot messages and group chats.
@@ -1478,7 +1479,7 @@
 ## Python 
 
 - [thetahealth/mirobody](https://github.com/thetahealth/mirobody) - Mirror your body in data. One standard, every source, one complete picture of you: a self-hosted health record built from lab reports, wearables and genetics, with every number traced to its source an
-- [drowzeys/Imagination-Studio-by-keys-Wasserman](https://github.com/drowzeys/Imagination-Studio-by-keys-Wasserman) - Imagination Studio by keys+Wasserman powered by TensorFold: an AI film studio for Mac and NVIDIA DGX Spark. Plan a film like a crew (Slate workflow by Sam Wasserman), render Qwen-Image-2.1 / FLUX3-K p
+- [Keys-Wasserman/Imagination-Studio-by-keys-Wasserman](https://github.com/Keys-Wasserman/Imagination-Studio-by-keys-Wasserman) - Imagination Studio by keys+Wasserman powered by TensorFold: an AI film studio for Mac and NVIDIA DGX Spark. Plan a film like a crew (Slate workflow by Sam Wasserman), render Qwen-Image-2.1 / FLUX3-K p
 - [bubbuild/bub](https://github.com/bubbuild/bub) - Bub it. Build it. A tiny agent runtime, composable with plugins.
 - [JuneYaooo/rea-video](https://github.com/JuneYaooo/rea-video) - Reverse-engineer any video, shot by shot: filmed, AI-generated or coded, and how to remake it. Breakdowns in the open VIDEO.md format. 逆向一切视频，逐个镜头看是拍的、AI 生成的还是代码做的，再告诉你怎么复刻；拆解结果按 VIDEO.md 格式输出。
 - [chenxiachan/textfold](https://github.com/chenxiachan/textfold) - Fold papers, web pages, files, and AI replies into five levels of detail. Zoom from an overview to the original text.
@@ -1922,7 +1923,7 @@
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [zai-org/ChatGLM-6B](https://github.com/zai-org/ChatGLM-6B) - ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
 - [run-llama/llama_index](https://github.com/run-llama/llama_index) - LlamaIndex is the document processing platform for AI
-- [GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai) - 基于向量数据库与GPT3.5的通用本地知识库方案(A universal local knowledge base solution based on vector database and GPT3.5)
+- [GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai) - 可溯源、带时效判断的企业知识库问答：每条结论标明出自哪份文档的哪个版本、哪一处，以及在目标时间是否有效（Traceable, version- and time-aware enterprise RAG）
 - [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt) - Play ChatGPT and other LLM with Xiaomi AI Speaker
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 - [yihong0618/bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker) - Make bilingual epub books Using AI translate
@@ -2066,7 +2067,7 @@
 - [python-jsonschema/jsonschema](https://github.com/python-jsonschema/jsonschema) - An implementation of the JSON Schema specification for Python
 - [mtth/azkaban](https://github.com/mtth/azkaban) - Lightweight Azkaban client
 - [beartype/beartype](https://github.com/beartype/beartype) - Unbearably fast near-real-time pure-Python runtime-static type-checker.
-- [koxudaxi/fastapi-code-generator](https://github.com/koxudaxi/fastapi-code-generator) - This code generator creates FastAPI app from an openapi file.
+- [koxudaxi/fastapi-code-generator](https://github.com/koxudaxi/fastapi-code-generator) - Unmaintained. Use datamodel-code-generator instead. Generates FastAPI apps from OpenAPI files.
 - [pyutils/line_profiler](https://github.com/pyutils/line_profiler) - Line-by-line profiling for Python
 - [alex-damian/pulse](https://github.com/alex-damian/pulse) - PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models
 - [ucloud/ufile-sdk-python](https://github.com/ucloud/ufile-sdk-python) - This is an UFile(OSS) SDK for Python from UCloud
@@ -2124,7 +2125,7 @@
 - [jceb/vmux](https://github.com/jceb/vmux) - vim/neovim session handler within tmux
 - [laktak/extrakto](https://github.com/laktak/extrakto) - extrakto for tmux - quickly select, copy/insert/complete text without a mouse
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
-- [datamodel-code-generator/datamodel-code-generator](https://github.com/datamodel-code-generator/datamodel-code-generator) - Generate Pydantic v2 models, dataclasses, TypedDict, and msgspec.Struct from OpenAPI, JSON Schema, GraphQL, Avro, Protobuf, and raw JSON/YAML/CSV.
+- [datamodel-code-generator/datamodel-code-generator](https://github.com/datamodel-code-generator/datamodel-code-generator) - Generate Pydantic v2 models, dataclasses, TypedDict, and msgspec.Struct from OpenAPI, JSON Schema, GraphQL, Avro, Protobuf, and raw JSON/YAML/CSV, plus FastAPI servers and Python clients from OpenAPI.
 - [rsalmei/clearly](https://github.com/rsalmei/clearly) - Clearly see and debug your celery cluster in real time!
 - [django/asgiref](https://github.com/django/asgiref) - ASGI specification and utilities
 - [fluiddyn/transonic](https://github.com/fluiddyn/transonic) - :rocket: Make your Python code fly at transonic speeds!
@@ -2864,7 +2865,7 @@
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [elastic/elastic-github-actions](https://github.com/elastic/elastic-github-actions) - This action spins up an Elasticsearch instance that can be accessed and used in your subsequent steps.
 - [chinanf-boy/ripgrep-zh](https://github.com/chinanf-boy/ripgrep-zh) - 中文翻译:&lt;BurntSushi/ripgrep&gt; 一个面向行的搜索工具 :heart: 校对 ✅
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 950 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 1000 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [tmux-plugins/tmux-prefix-highlight](https://github.com/tmux-plugins/tmux-prefix-highlight) - Plugin that highlights when you press tmux prefix key
 - [tmux-plugins/tmux-resurrect](https://github.com/tmux-plugins/tmux-resurrect) - Persists tmux environment across system restarts.
